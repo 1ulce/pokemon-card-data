@@ -1,0 +1,47 @@
+---
+schema_version: 1
+slug: misty-s-starmie
+name:
+  ja: カスミのスターミー
+  en: Misty's Starmie
+  prefix: Misty's
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Water
+hp: 100
+retreat_cost: 1
+regulation_mark: I
+meta_tags: []
+evolves_from:
+  ja: カスミのヒトデマン
+  en: Misty's Staryu
+weakness:
+  type: Lightning
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: サドンフラッシュ
+    en: Abrupt Flash
+  cost:
+  - Water
+  damage: 60+
+  effect_text:
+    ja: この番に、このポケモンが「カスミのヒトデマン」から進化していたなら、80ダメージ追加。
+    en: If this Pokémon evolved from Misty's Staryu during this turn, this attack does 80 more damage.
+first_appearance:
+  set_name_ja: 熱風のアリーナ
+  released_at: '2025-03-14'
+  regulation_mark: I
+  collector_number: '024'
+  image_url:

@@ -1,0 +1,61 @@
+---
+schema_version: 1
+slug: galvantula-ex
+name:
+  ja: デンチュラex
+  en: Galvantula ex
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Lightning
+hp: 260
+retreat_cost: 1
+regulation_mark: H
+meta_tags:
+- ex
+evolves_from:
+  ja: バチュル
+  en: Joltik
+weakness:
+  type: Fighting
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja: ポケモンexがきぜつしたとき、相手はサイドを2枚とる。
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: アッパースレッド
+    en: Charged Web
+  cost:
+  - Lightning
+  - Colorless
+  damage: 110+
+  effect_text:
+    ja: 相手のバトルポケモンが「ポケモンex・V」なら、110ダメージ追加。
+    en: If your opponent's Active Pokémon is a Pokémon ex or Pokémon V, this attack does 110 more damage.
+- position: 1
+  name:
+    ja: フルグライト
+    en: Fulgurite
+  cost:
+  - Grass
+  - Lightning
+  - Fighting
+  damage: '180'
+  effect_text:
+    ja: このポケモンについているエネルギーを、すべてトラッシュする。次の相手の番、相手は手札からグッズを出して使えない。
+    en: Discard all Energy from this Pokémon. During your opponent's next turn, they can't play any Item cards from their hand.
+first_appearance:
+  set_name_ja: ステラミラクル
+  released_at: '2024-07-19'
+  regulation_mark: H
+  collector_number: '033'
+  image_url:

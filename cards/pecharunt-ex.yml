@@ -1,0 +1,56 @@
+---
+schema_version: 1
+slug: pecharunt-ex
+name:
+  ja: モモワロウex
+  en: Pecharunt ex
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Darkness
+hp: 190
+retreat_cost: 1
+regulation_mark: H
+meta_tags:
+- ex
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Fighting
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja: ポケモンexがきぜつしたとき、相手はサイドを2枚とる。
+  en:
+abilities:
+- position: 0
+  name:
+    ja: しはいのくさり
+    en: Subjugating Chains
+  effect_text:
+    ja: 自分の番に1回使える。自分のベンチの悪ポケモン（「モモワロウex」をのぞく）を1匹選び、バトルポケモンと入れ替える。その後、新しいバトルポケモンをどくにする。この番、すでに別の「しはいのくさり」を使っていたなら、この特性は使えない。
+    en: Once during your turn, you may switch 1 of your Benched [D] Pokémon, except any Pecharunt ex, with your Active Pokémon. If you do, the new Active Pokémon is now Poisoned. You can't use more than 1 Subjugating Chains Ability each turn.
+attacks:
+- position: 0
+  name:
+    ja: イライラバースト
+    en: Irritated Outburst
+  cost:
+  - Darkness
+  - Darkness
+  damage: 60×
+  effect_text:
+    ja: 相手がすでにとったサイドの枚数×60ダメージ。
+    en: This attack does 60 damage for each Prize card your opponent has taken.
+first_appearance:
+  set_name_ja: ナイトワンダラー
+  released_at: '2024-06-07'
+  regulation_mark: H
+  collector_number: '039'
+  image_url:

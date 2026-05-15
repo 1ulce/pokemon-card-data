@@ -1,0 +1,61 @@
+---
+schema_version: 1
+slug: n-s-reshiram
+name:
+  ja: Nのレシラム
+  en: N's Reshiram
+  prefix: N's
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Dragon
+hp: 130
+retreat_cost: 2
+regulation_mark: I
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type:
+  value:
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: パワーレイジ
+    en: Powerful Rage
+  cost:
+  - Fire
+  - Lightning
+  damage: 20×
+  effect_text:
+    ja: このポケモンにのっているダメカンの数×20ダメージ。
+    en: This attack does 20 damage for each damage counter on this Pokémon.
+- position: 1
+  name:
+    ja: イノセントフレイム
+    en: Virtuous Flame
+  cost:
+  - Fire
+  - Fire
+  - Lightning
+  - Colorless
+  damage: '170'
+  effect_text:
+    ja:
+    en:
+first_appearance:
+  set_name_ja: バトルパートナーズ
+  released_at: '2025-01-24'
+  regulation_mark: I
+  collector_number: '074'
+  image_url:

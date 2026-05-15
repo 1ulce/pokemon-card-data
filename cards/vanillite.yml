@@ -1,0 +1,58 @@
+---
+schema_version: 1
+slug: vanillite
+name:
+  ja: バニプッチ
+  en: Vanillite
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Water
+hp: 60
+retreat_cost: 1
+regulation_mark: I
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Metal
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: たたく
+    en: Chilly
+  cost:
+  - Colorless
+  damage: '10'
+  effect_text:
+    ja:
+    en:
+- position: 1
+  name:
+    ja: アイスエッジ
+    en:
+  cost:
+  - Water
+  - Colorless
+  damage: 20+
+  effect_text:
+    ja: コインを1回投げオモテなら、20ダメージ追加。
+    en:
+first_appearance:
+  set_name_ja: ホワイトフレア
+  released_at: '2025-06-06'
+  regulation_mark: I
+  collector_number: '024'
+  image_url:

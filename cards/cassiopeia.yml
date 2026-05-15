@@ -1,0 +1,44 @@
+---
+schema_version: 1
+slug: cassiopeia
+name:
+  ja: カシオペア
+  en: Cassiopeia
+  prefix:
+card_type: Trainer
+card_subtype: Supporter
+energy_type:
+hp:
+retreat_cost:
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type:
+  value:
+resistance:
+  type:
+  value:
+body_text:
+  ja: |-
+    このカードは、自分の手札がこのカード1枚だけのときにしか使えない。
+
+
+
+    自分の山札から好きなカードを2枚まで選び、手札に加える。そして山札を切る。
+
+    サポートは、自分の番に1枚しか使えない。
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks: []
+first_appearance:
+  set_name_ja: ナイトワンダラー
+  released_at: '2024-06-07'
+  regulation_mark: H
+  collector_number: '061'
+  image_url:

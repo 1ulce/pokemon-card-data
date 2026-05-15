@@ -1,0 +1,57 @@
+---
+schema_version: 1
+slug: poltchageist-2
+name:
+  ja: チャデス
+  en: Poltchageist
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Grass
+hp: 40
+retreat_cost: 1
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Fire
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: おちゃだし 
+    en: Tea Server
+  cost:
+  - Grass
+  damage:
+  effect_text:
+    ja: 自分のトラッシュから「基本草エネルギー」を1枚選び、相手に見せて、手札に加える。
+    en: Put a Basic [G] Energy card from your discard pile into your hand.
+- position: 1
+  name:
+    ja: ふいをつく
+    en: Surprise Attack
+  cost:
+  - Grass
+  damage: '30'
+  effect_text:
+    ja: コインを1回投げウラなら、このワザは失敗。
+    en: Flip a coin. If tails, this attack does nothing.
+first_appearance:
+  set_name_ja: 変幻の仮面
+  released_at: '2024-04-26'
+  regulation_mark: H
+  collector_number: '013'
+  image_url:

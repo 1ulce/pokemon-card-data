@@ -1,0 +1,62 @@
+---
+schema_version: 1
+slug: espeon-ex
+name:
+  ja: エーフィex
+  en: Espeon ex
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Psychic
+hp: 270
+retreat_cost: 1
+regulation_mark: H
+meta_tags:
+- ex
+evolves_from:
+  ja: イーブイ
+  en: Eevee
+weakness:
+  type: Darkness
+  value: "×2"
+resistance:
+  type: Fighting
+  value: "-30"
+body_text:
+  ja:
+  en:
+rules_text:
+  ja: ポケモンexがきぜつしたとき、相手はサイドを2枚とる。
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: サイコアウト
+    en: Psych Out
+  cost:
+  - Psychic
+  - Colorless
+  - Colorless
+  damage: '160'
+  effect_text:
+    ja: 相手の手札からオモテを見ないで1枚選び、トラッシュする。
+    en: Discard a random card from your opponent's hand.
+- position: 1
+  name:
+    ja: アマゼツ 
+    en: Amazez
+  cost:
+  - Grass
+  - Psychic
+  - Darkness
+  damage:
+  effect_text:
+    ja: 相手の進化しているポケモン全員の上から、それぞれ「進化カード」を1枚ずつはがして退化させる。はがしたカードは、相手の山札にもどして切る。
+    en: Devolve each of your opponent's evolved Pokémon by shuffling the highest Stage Evolution card on it into your opponent's deck.
+first_appearance:
+  set_name_ja: テラスタルフェスex
+  released_at: '2024-12-06'
+  regulation_mark: H
+  collector_number: '063'
+  image_url:

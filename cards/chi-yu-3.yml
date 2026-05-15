@@ -1,0 +1,47 @@
+---
+schema_version: 1
+slug: chi-yu-3
+name:
+  ja: イーユイ
+  en: Chi-Yu
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Darkness
+hp: 90
+retreat_cost: 1
+regulation_mark:
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Grass
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: うずまくねたみ
+    en:
+  cost:
+  - Darkness
+  damage: 20+
+  effect_text:
+    ja: このポケモンにダメカンが2個以上のっているなら、90ダメージ追加。このワザのダメージは弱点を計算しない。
+    en:
+first_appearance:
+  set_name_ja: アビスアイ
+  released_at: '2026-05-22'
+  regulation_mark: J
+  collector_number: '057'
+  image_url:

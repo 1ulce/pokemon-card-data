@@ -1,0 +1,48 @@
+---
+schema_version: 1
+slug: simisage
+name:
+  ja: ヤナッキー
+  en: Simisage
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Grass
+hp: 100
+retreat_cost: 1
+regulation_mark: I
+meta_tags: []
+evolves_from:
+  ja: ヤナップ
+  en: Pansage
+weakness:
+  type: Fire
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: ひっぱたく
+    en: Gentle Slap
+  cost:
+  - Colorless
+  - Colorless
+  damage: '70'
+  effect_text:
+    ja:
+    en:
+first_appearance:
+  set_name_ja: ブラックボルト
+  released_at: '2025-06-06'
+  regulation_mark: I
+  collector_number: '005'
+  image_url:

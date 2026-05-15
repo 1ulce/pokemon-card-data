@@ -1,0 +1,59 @@
+---
+schema_version: 1
+slug: togedemaru-ex
+name:
+  ja: トゲデマルex
+  en: Togedemaru ex
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Metal
+hp: 190
+retreat_cost: 1
+regulation_mark: J
+meta_tags:
+- ex
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Fire
+  value: "×2"
+resistance:
+  type: Grass
+  value: "-30"
+body_text:
+  ja:
+  en:
+rules_text:
+  ja: ポケモンexがきぜつしたとき、相手はサイドを2枚とる。
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: しびればり
+    en: Stun Needle
+  cost:
+  - Metal
+  damage: '20'
+  effect_text:
+    ja: コインを1回投げオモテなら、相手のバトルポケモンをマヒにする。
+    en: Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed.
+- position: 1
+  name:
+    ja: トゲトゲローリング
+    en: Spiky Rolling
+  cost:
+  - Metal
+  - Colorless
+  damage: 80+
+  effect_text:
+    ja: 前の自分の番に、このポケモンが「トゲトゲローリング」を使っていたなら、80ダメージ追加。
+    en: If this Pokémon used Spiky Rolling during your last turn, this attack does 80 more damage.
+first_appearance:
+  set_name_ja: スタートデッキ100 バトルコレクション
+  released_at: '2025-12-19'
+  regulation_mark: J
+  collector_number: '514'
+  image_url:

@@ -1,0 +1,47 @@
+---
+schema_version: 1
+slug: stufful-4
+name:
+  ja: ヌイコグマ
+  en: Stufful
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Colorless
+hp: 80
+retreat_cost: 2
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Fighting
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: とっしん
+    en: Take Down
+  cost:
+  - Colorless
+  damage: '30'
+  effect_text:
+    ja: このポケモンにも10ダメージ。
+    en: This Pokémon also does 10 damage to itself.
+first_appearance:
+  set_name_ja: ナイトワンダラー
+  released_at: '2024-06-07'
+  regulation_mark: H
+  collector_number: '052'
+  image_url:

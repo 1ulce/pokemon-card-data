@@ -1,0 +1,46 @@
+---
+schema_version: 1
+slug: team-rocket-s-chingling-2
+name:
+  ja: ロケット団のリーシャン
+  en: Team Rocket's Chingling
+  prefix: Team Rocket's
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Psychic
+hp: 30
+retreat_cost: 0
+regulation_mark: I
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Darkness
+  value: "×2"
+resistance:
+  type: Fighting
+  value: "-30"
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: リンリンさわぐ 
+    en: Chiming Commotion
+  cost: []
+  damage:
+  effect_text:
+    ja: 相手の手札からオモテを見ないで1枚選び、トラッシュする。
+    en: Discard a random card from your opponent's hand.
+first_appearance:
+  set_name_ja: ロケット団の栄光
+  released_at: '2025-04-18'
+  regulation_mark: I
+  collector_number: '041'
+  image_url:

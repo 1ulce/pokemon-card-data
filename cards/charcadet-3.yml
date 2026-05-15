@@ -1,0 +1,57 @@
+---
+schema_version: 1
+slug: charcadet-3
+name:
+  ja: カルボウ
+  en: Charcadet
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Fire
+hp: 70
+retreat_cost: 2
+regulation_mark: I
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Water
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: ちからをあつめる 
+    en: Gather Strength
+  cost:
+  - Fire
+  damage:
+  effect_text:
+    ja: 自分の山札から基本エネルギーを2枚まで選び、相手に見せて、手札に加える。そして山札を切る。
+    en: Search your deck for up to 2 Basic Energy cards, reveal them, and put them into your hand. Then, shuffle your deck.
+- position: 1
+  name:
+    ja: チョップ
+    en: Chop
+  cost:
+  - Fire
+  damage: '10'
+  effect_text:
+    ja:
+    en:
+first_appearance:
+  set_name_ja: インフェルノX
+  released_at: '2025-09-26'
+  regulation_mark: I
+  collector_number: '019'
+  image_url:

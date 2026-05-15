@@ -1,0 +1,60 @@
+---
+schema_version: 1
+slug: toxicroak
+name:
+  ja: ドクロッグ
+  en: Toxicroak
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Fighting
+hp: 130
+retreat_cost: 1
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja: グレッグル
+  en: Croagunk
+weakness:
+  type: Psychic
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: どつく
+    en: Corkscrew Punch
+  cost:
+  - Colorless
+  - Colorless
+  damage: '50'
+  effect_text:
+    ja:
+    en:
+- position: 1
+  name:
+    ja: クリーンヒット
+    en: Clean Hit
+  cost:
+  - Fighting
+  - Colorless
+  - Colorless
+  damage: 90+
+  effect_text:
+    ja: 相手のバトルポケモンが進化ポケモンなら、90ダメージ追加。
+    en: If your opponent's Active Pokémon is an Evolution Pokémon, this attack does 90 more damage.
+first_appearance:
+  set_name_ja: ナイトワンダラー
+  released_at: '2024-06-07'
+  regulation_mark: H
+  collector_number: '024'
+  image_url:

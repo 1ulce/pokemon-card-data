@@ -1,0 +1,55 @@
+---
+schema_version: 1
+slug: fraxure
+name:
+  ja: オノンド
+  en: Fraxure
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Dragon
+hp: 100
+retreat_cost: 2
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja: キバゴ
+  en: Axew
+weakness:
+  type:
+  value:
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities:
+- position: 0
+  name:
+    ja: きんちょうかん
+    en: Unnerve
+  effect_text:
+    ja: このポケモンは、相手が手札からグッズまたはサポートを出して使ったとき、その効果を受けない。
+    en: Whenever your opponent plays an Item or Supporter card from their hand, prevent all effects of that card done to this Pokémon.
+attacks:
+- position: 0
+  name:
+    ja: りゅうのはどう
+    en: Dragon Pulse
+  cost:
+  - Fighting
+  - Metal
+  damage: '80'
+  effect_text:
+    ja: 自分の山札を上から1枚トラッシュする。
+    en: Discard the top card of your deck.
+first_appearance:
+  set_name_ja: ナイトワンダラー
+  released_at: '2024-06-07'
+  regulation_mark: H
+  collector_number: '045'
+  image_url:

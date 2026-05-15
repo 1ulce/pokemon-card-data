@@ -1,0 +1,59 @@
+---
+schema_version: 1
+slug: sigilyph-2
+name:
+  ja: シンボラー
+  en: Sigilyph
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Psychic
+hp: 120
+retreat_cost: 1
+regulation_mark: I
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Lightning
+  value: "×2"
+resistance:
+  type: Fighting
+  value: "-30"
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: リフレクター 
+    en: Reflect
+  cost:
+  - Colorless
+  damage:
+  effect_text:
+    ja: 次の相手の番、このポケモンが受けるワザのダメージは「-40」される。
+    en: During your opponent's next turn, this Pokémon takes 40 less damage from attacks (after applying Weakness and Resistance).
+- position: 1
+  name:
+    ja: テレキネシス 
+    en: Telekinesis
+  cost:
+  - Psychic
+  - Colorless
+  - Colorless
+  damage:
+  effect_text:
+    ja: 相手のポケモン1匹に、70ダメージ。このワザのダメージは弱点・抵抗力を計算しない。
+    en: This attack does 70 damage to 1 of your opponent's Pokémon. This attack's damage isn't affected by Weakness or Resistance.
+first_appearance:
+  set_name_ja: ホワイトフレア
+  released_at: '2025-06-06'
+  regulation_mark: I
+  collector_number: '035'
+  image_url:

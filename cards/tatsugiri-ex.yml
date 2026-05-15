@@ -1,0 +1,61 @@
+---
+schema_version: 1
+slug: tatsugiri-ex
+name:
+  ja: シャリタツex
+  en: Tatsugiri ex
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Dragon
+hp: 160
+retreat_cost: 1
+regulation_mark: H
+meta_tags:
+- ex
+evolves_from:
+  ja:
+  en:
+weakness:
+  type:
+  value:
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja: ポケモンexがきぜつしたとき、相手はサイドを2枚とる。
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: ふいうちポンプ
+    en: Surprise Pump
+  cost:
+  - Fire
+  - Water
+  damage: '100'
+  effect_text:
+    ja: このワザのダメージは、相手のバトルポケモンにかかっている効果を計算しない。
+    en: This attack's damage isn't affected by any effects on your opponent's Active Pokémon.
+- position: 1
+  name:
+    ja: シナバールアー 
+    en: Cinnabar Lure
+  cost:
+  - Fire
+  - Water
+  - Darkness
+  damage:
+  effect_text:
+    ja: 自分の山札を上から10枚見て、その中からポケモンを好きなだけ選び、ベンチに出す。残りのカードは山札にもどして切る。
+    en: Look at the top 10 cards of your deck. You may put any number of Pokémon you find there onto your Bench. Shuffle the other cards back into your deck.
+first_appearance:
+  set_name_ja: 超電ブレイカー
+  released_at: '2024-10-18'
+  regulation_mark: H
+  collector_number: '081'
+  image_url:

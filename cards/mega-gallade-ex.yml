@@ -1,0 +1,61 @@
+---
+schema_version: 1
+slug: mega-gallade-ex
+name:
+  ja: メガエルレイドex
+  en: Mega Gallade ex
+  prefix:
+card_type: Pokémon
+card_subtype: 2進化
+energy_type: Fighting
+hp: 350
+retreat_cost: 2
+regulation_mark:
+meta_tags:
+- ex
+- mega
+evolves_from:
+  ja: キルリア
+  en: Kirlia
+weakness:
+  type: Psychic
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja: メガシンカexがきぜつしたとき、相手はサイドを3枚とる。
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: はやてぎり
+    en:
+  cost:
+  - Fighting
+  damage: 50+
+  effect_text:
+    ja: このポケモンにダメカンがのっていないなら、150ダメージ追加。
+    en:
+- position: 1
+  name:
+    ja: マーベラスエッジ
+    en:
+  cost:
+  - Fighting
+  - Fighting
+  - Colorless
+  damage: '240'
+  effect_text:
+    ja:
+    en:
+first_appearance:
+  set_name_ja: スペシャルカードセット　メガエルレイドex
+  released_at:
+  regulation_mark:
+  collector_number: '49716'
+  image_url:

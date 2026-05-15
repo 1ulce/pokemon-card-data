@@ -1,0 +1,59 @@
+---
+schema_version: 1
+slug: heatran-3
+name:
+  ja: ヒードラン
+  en: Heatran
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Fire
+hp: 140
+retreat_cost: 4
+regulation_mark:
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Water
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: こがす 
+    en:
+  cost:
+  - Fire
+  damage:
+  effect_text:
+    ja: 相手のバトルポケモンをやけどにする。
+    en:
+- position: 1
+  name:
+    ja: ようがんウォール
+    en:
+  cost:
+  - Fire
+  - Fire
+  - Colorless
+  damage: '120'
+  effect_text:
+    ja: 次の相手の番、このポケモンはやけどのポケモンからワザのダメージを受けない。
+    en:
+first_appearance:
+  set_name_ja: アビスアイ
+  released_at: '2026-05-22'
+  regulation_mark: J
+  collector_number: '007'
+  image_url:

@@ -1,0 +1,55 @@
+---
+schema_version: 1
+slug: shuckle
+name:
+  ja: ツボツボ
+  en: Shuckle
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Grass
+hp: 80
+retreat_cost: 1
+regulation_mark: I
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Fire
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities:
+- position: 0
+  name:
+    ja: はっこうジュース
+    en: Fermented Juice
+  effect_text:
+    ja: このポケモンに草エネルギーがついているなら、自分の番に1回使える。自分のポケモン1匹のHPを「30」回復する。
+    en: Once during your turn, if this Pokémon has any [G] Energy attached, you may use this Ability. Heal 30 damage from 1 of your Pokémon.
+attacks:
+- position: 0
+  name:
+    ja: ころがる
+    en: Rollout
+  cost:
+  - Grass
+  - Colorless
+  damage: '30'
+  effect_text:
+    ja:
+    en:
+first_appearance:
+  set_name_ja: メガシンフォニア
+  released_at: '2025-08-01'
+  regulation_mark: I
+  collector_number: '006'
+  image_url:

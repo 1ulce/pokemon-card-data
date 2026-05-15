@@ -1,0 +1,56 @@
+---
+schema_version: 1
+slug: rotom-ex
+name:
+  ja: ロトムex
+  en: Rotom ex
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Lightning
+hp: 190
+retreat_cost: 1
+regulation_mark: I
+meta_tags:
+- ex
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Fighting
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja: ポケモンexがきぜつしたとき、相手はサイドを2枚とる。
+  en:
+abilities:
+- position: 0
+  name:
+    ja: マルチアダプタ
+    en: Multi Adapter
+  effect_text:
+    ja: このポケモンがいるかぎり、名前に「ロトム」とつく自分のポケモン全員は、それぞれ「ポケモンのどうぐ」を2枚までつけられる。（この特性がなくなったとき、多くついている「ポケモンのどうぐ」をトラッシュする。）
+    en: Each of your Pokémon that has "Rotom" in its name may have up to 2 Pokémon Tool cards attached. If this Ability goes away, discard Pokémon Tools from those Pokémon until only 1 remains on each.
+attacks:
+- position: 0
+  name:
+    ja: 10まんボルト
+    en: Thunderbolt
+  cost:
+  - Lightning
+  - Colorless
+  damage: '130'
+  effect_text:
+    ja: このポケモンについているエネルギーを、すべてトラッシュする。
+    en: Discard all Energy from this Pokémon.
+first_appearance:
+  set_name_ja: インフェルノX
+  released_at: '2025-09-26'
+  regulation_mark: I
+  collector_number: '029'
+  image_url:

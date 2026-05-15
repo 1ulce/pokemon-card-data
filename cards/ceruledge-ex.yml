@@ -1,0 +1,60 @@
+---
+schema_version: 1
+slug: ceruledge-ex
+name:
+  ja: ソウブレイズex
+  en: Ceruledge ex
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Fire
+hp: 270
+retreat_cost: 2
+regulation_mark: H
+meta_tags:
+- ex
+evolves_from:
+  ja: カルボウ
+  en: Charcadet
+weakness:
+  type: Water
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja: ポケモンexがきぜつしたとき、相手はサイドを2枚とる。
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: しんえんほむら
+    en: Abyssal Flames
+  cost:
+  - Fire
+  damage: 30+
+  effect_text:
+    ja: 自分のトラッシュにあるエネルギーの枚数×20ダメージ追加。
+    en: This attack does 20 more damage for each Energy card in your discard pile.
+- position: 1
+  name:
+    ja: アメジストレイジ
+    en: Raging Amethyst
+  cost:
+  - Fire
+  - Psychic
+  - Metal
+  damage: '280'
+  effect_text:
+    ja: このポケモンについているエネルギーを、すべてトラッシュする。
+    en: Discard all Energy from this Pokémon.
+first_appearance:
+  set_name_ja: テラスタルフェスex
+  released_at: '2024-12-06'
+  regulation_mark: H
+  collector_number: '203'
+  image_url:

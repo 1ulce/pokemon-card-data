@@ -1,0 +1,56 @@
+---
+schema_version: 1
+slug: lycanroc-2
+name:
+  ja: ルガルガン
+  en: Lycanroc
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Fighting
+hp: 120
+retreat_cost: 2
+regulation_mark: I
+meta_tags: []
+evolves_from:
+  ja: イワンコ
+  en: Rockruff
+weakness:
+  type: Grass
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities:
+- position: 0
+  name:
+    ja: とげをまとう
+    en: Spike-Clad
+  effect_text:
+    ja: 自分の番に、このカードを手札から出して進化させたとき、1回使える。自分のトラッシュから「スパイクエネルギー」を2枚まで選び、このポケモンにつける。
+    en: When you play this Pokémon from your hand to evolve 1 of your Pokémon during your turn, you may attach up to 2 Spiky Energy cards from your discard pile to this Pokémon.
+attacks:
+- position: 0
+  name:
+    ja: クラッチファング
+    en: Clamping Fangs
+  cost:
+  - Colorless
+  - Colorless
+  - Colorless
+  damage: 40+
+  effect_text:
+    ja: 相手のバトルポケモンにのっているダメカンの数×40ダメージ追加。
+    en: This attack does 40 more damage for each damage counter on your opponent's Active Pokémon.
+first_appearance:
+  set_name_ja: バトルパートナーズ
+  released_at: '2025-01-24'
+  regulation_mark: I
+  collector_number: '052'
+  image_url:

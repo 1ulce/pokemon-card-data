@@ -1,0 +1,60 @@
+---
+schema_version: 1
+slug: palpitoad
+name:
+  ja: ガマガル
+  en: Palpitoad
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Water
+hp: 90
+retreat_cost: 2
+regulation_mark: I
+meta_tags: []
+evolves_from:
+  ja: オタマロ
+  en: Tympole
+weakness:
+  type: Lightning
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: りんしょう
+    en: Round
+  cost:
+  - Colorless
+  - Colorless
+  damage: 40×
+  effect_text:
+    ja: 自分の場の、ワザ「りんしょう」を持つポケモンの数×40ダメージ。
+    en: This attack does 40 damage for each of your Pokémon in play that has the Round attack.
+- position: 1
+  name:
+    ja: スプラッシュ
+    en: Wave Splash
+  cost:
+  - Water
+  - Colorless
+  - Colorless
+  damage: '60'
+  effect_text:
+    ja:
+    en:
+first_appearance:
+  set_name_ja: ブラックボルト
+  released_at: '2025-06-06'
+  regulation_mark: I
+  collector_number: '023'
+  image_url:

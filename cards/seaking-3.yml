@@ -1,0 +1,49 @@
+---
+schema_version: 1
+slug: seaking-3
+name:
+  ja: アズマオウ
+  en: Seaking
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Water
+hp: 110
+retreat_cost: 1
+regulation_mark:
+meta_tags: []
+evolves_from:
+  ja: トサキント
+  en: Goldeen
+weakness:
+  type: Lightning
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: ハイドロショット 
+    en:
+  cost:
+  - Colorless
+  - Colorless
+  - Colorless
+  damage:
+  effect_text:
+    ja: 相手のポケモン1匹に、このポケモンについている水エネルギーの数×30ダメージ。［ベンチは弱点・抵抗力を計算しない。］
+    en:
+first_appearance:
+  set_name_ja: アビスアイ
+  released_at: '2026-05-22'
+  regulation_mark: J
+  collector_number: '013'
+  image_url:

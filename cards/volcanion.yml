@@ -1,0 +1,59 @@
+---
+schema_version: 1
+slug: volcanion
+name:
+  ja: ボルケニオン
+  en: Volcanion
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Fire
+hp: 130
+retreat_cost: 2
+regulation_mark: I
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Water
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: こがす 
+    en: Singe
+  cost:
+  - Fire
+  damage:
+  effect_text:
+    ja: 相手のバトルポケモンをやけどにする。
+    en: Your opponent's Active Pokémon is now Burned.
+- position: 1
+  name:
+    ja: バックファイヤー
+    en: Backfire
+  cost:
+  - Fire
+  - Fire
+  - Colorless
+  damage: '130'
+  effect_text:
+    ja: このポケモンについている炎エネルギーを2個選び、手札にもどす。
+    en: Put 2 [R] Energy attached to this Pokémon into your hand.
+first_appearance:
+  set_name_ja: メガブレイブ
+  released_at: '2025-08-01'
+  regulation_mark: I
+  collector_number: '014'
+  image_url:

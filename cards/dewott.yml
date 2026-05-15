@@ -1,0 +1,47 @@
+---
+schema_version: 1
+slug: dewott
+name:
+  ja: フタチマル
+  en: Dewott
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Water
+hp: 100
+retreat_cost: 1
+regulation_mark: I
+meta_tags: []
+evolves_from:
+  ja: ミジュマル
+  en: Oshawott
+weakness:
+  type: Lightning
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: エナジーシェル
+    en: Energized Shell
+  cost:
+  - Water
+  damage: 30×
+  effect_text:
+    ja: このポケモンについているエネルギーの数×30ダメージ。
+    en: This attack does 30 damage for each Energy attached to this Pokémon.
+first_appearance:
+  set_name_ja: ホワイトフレア
+  released_at: '2025-06-06'
+  regulation_mark: I
+  collector_number: '019'
+  image_url:

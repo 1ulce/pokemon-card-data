@@ -1,0 +1,60 @@
+---
+schema_version: 1
+slug: hop-s-sandaconda
+name:
+  ja: ホップのサダイジャ
+  en: Hop's Sandaconda
+  prefix: Hop's
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Fighting
+hp: 140
+retreat_cost: 3
+regulation_mark: I
+meta_tags: []
+evolves_from:
+  ja: ホップのスナヘビ
+  en: Hop's Silicobra
+weakness:
+  type: Grass
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: じひびき
+    en: Rumble
+  cost:
+  - Fighting
+  - Colorless
+  damage: '30'
+  effect_text:
+    ja: 次の相手の番、このワザを受けたポケモンは、にげられない。
+    en: During your opponent's next turn, the Defending Pokémon can't retreat.
+- position: 1
+  name:
+    ja: グラウンドブレイク
+    en: Break Ground
+  cost:
+  - Fighting
+  - Colorless
+  - Colorless
+  damage: '140'
+  effect_text:
+    ja: 自分のベンチポケモン全員にも、それぞれ20ダメージ。［ベンチは弱点・抵抗力を計算しない。］
+    en: This attack also does 20 damage to each of your Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)
+first_appearance:
+  set_name_ja: バトルパートナーズ
+  released_at: '2025-01-24'
+  regulation_mark: I
+  collector_number: '054'
+  image_url:

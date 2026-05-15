@@ -1,0 +1,47 @@
+---
+schema_version: 1
+slug: totodile
+name:
+  ja: ワニノコ
+  en: Totodile
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Water
+hp: 70
+retreat_cost: 1
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Lightning
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: かじりつく
+    en: Big Bite
+  cost:
+  - Water
+  damage: '10'
+  effect_text:
+    ja: 次の相手の番、このワザを受けたポケモンは、にげられない。
+    en: During your opponent's next turn, the Defending Pokémon can't retreat.
+first_appearance:
+  set_name_ja: ワイルドフォース
+  released_at: '2024-01-26'
+  regulation_mark: H
+  collector_number: '013'
+  image_url:

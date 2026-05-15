@@ -1,0 +1,58 @@
+---
+schema_version: 1
+slug: sandy-shocks
+name:
+  ja: スナノケガワ
+  en: Sandy Shocks
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Fighting
+hp: 120
+retreat_cost: 2
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Grass
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: じばさくれつ
+    en: Magnetic Burst
+  cost:
+  - Fighting
+  damage: 20+
+  effect_text:
+    ja: 自分の場にエネルギーが3個以上あるなら、70ダメージ追加。このワザのダメージは弱点を計算しない。
+    en: If you have 3 or more Energy in play, this attack does 70 more damage. This attack's damage isn't affected by Weakness.
+- position: 1
+  name:
+    ja: パワージェム
+    en: Power Gem
+  cost:
+  - Fighting
+  - Colorless
+  damage: '60'
+  effect_text:
+    ja:
+    en:
+first_appearance:
+  set_name_ja: 古代のコライドンex
+  released_at: '2024-01-26'
+  regulation_mark: H
+  collector_number: '011'
+  image_url:

@@ -1,0 +1,59 @@
+---
+schema_version: 1
+slug: glalie
+name:
+  ja: オニゴーリ
+  en: Glalie
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Water
+hp: 120
+retreat_cost: 2
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja: ユキワラシ
+  en: Snorunt
+weakness:
+  type: Metal
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: ダメージビート
+    en: Damage Beat
+  cost:
+  - Water
+  damage: 20×
+  effect_text:
+    ja: 相手のバトルポケモンにのっているダメカンの数×20ダメージ。
+    en: This attack does 20 damage for each damage counter on your opponent's Active Pokémon.
+- position: 1
+  name:
+    ja: クレイジーヘッズ
+    en: Crazy Headbutt
+  cost:
+  - Water
+  - Colorless
+  - Colorless
+  damage: '140'
+  effect_text:
+    ja: このポケモンについているエネルギーを1個選び、トラッシュする。
+    en: Discard an Energy from this Pokémon.
+first_appearance:
+  set_name_ja: 変幻の仮面
+  released_at: '2024-04-26'
+  regulation_mark: H
+  collector_number: '032'
+  image_url:

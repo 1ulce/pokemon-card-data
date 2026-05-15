@@ -1,0 +1,40 @@
+---
+schema_version: 1
+slug: mystery-garden
+name:
+  ja: ミステリーガーデン
+  en: Mystery Garden
+  prefix:
+card_type: Trainer
+card_subtype: Stadium
+energy_type:
+hp:
+retreat_cost:
+regulation_mark: I
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type:
+  value:
+resistance:
+  type:
+  value:
+body_text:
+  ja: |-
+    おたがいのプレイヤーは、自分の番ごとに1回、手札からエネルギーを1枚トラッシュするなら、自分の手札の枚数が、自分の場の超ポケモンの数と同じ枚数になるように、山札を引いてよい。
+
+    スタジアムは、自分の番に1枚、バトル場の横に出せる。別のスタジアムが場に出たなら、このカードをトラッシュする。同じ名前のスタジアムは場に出せない。
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks: []
+first_appearance:
+  set_name_ja: メガシンフォニア
+  released_at: '2025-08-01'
+  regulation_mark: I
+  collector_number: '063'
+  image_url:

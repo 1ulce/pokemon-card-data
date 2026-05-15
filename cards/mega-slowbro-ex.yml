@@ -1,0 +1,51 @@
+---
+schema_version: 1
+slug: mega-slowbro-ex
+name:
+  ja: メガヤドランex
+  en: Mega Slowbro ex
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Psychic
+hp: 330
+retreat_cost: 3
+regulation_mark:
+meta_tags:
+- ex
+- mega
+evolves_from:
+  ja: ヤドン
+  en: Slowpoke
+weakness:
+  type: Darkness
+  value: "×2"
+resistance:
+  type: Fighting
+  value: "-30"
+body_text:
+  ja:
+  en:
+rules_text:
+  ja: メガシンカexがきぜつしたとき、相手はサイドを3枚とる。
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: シェルネードスピン
+    en:
+  cost:
+  - Psychic
+  - Psychic
+  - Psychic
+  damage: '180'
+  effect_text:
+    ja: 次の相手の番、このポケモンがワザのダメージを受けたとき、ワザを使ったポケモンにダメカンを12個のせる。
+    en:
+first_appearance:
+  set_name_ja: ポケモンカードゲーム MEGA　プロモカードパック第3弾
+  released_at:
+  regulation_mark:
+  collector_number: '50036'
+  image_url:

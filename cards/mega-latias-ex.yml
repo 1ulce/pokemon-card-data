@@ -1,0 +1,61 @@
+---
+schema_version: 1
+slug: mega-latias-ex
+name:
+  ja: メガラティアスex
+  en: Mega Latias ex
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Dragon
+hp: 280
+retreat_cost: 1
+regulation_mark: I
+meta_tags:
+- ex
+- mega
+evolves_from:
+  ja:
+  en:
+weakness:
+  type:
+  value:
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja: メガシンカexがきぜつしたとき、相手はサイドを3枚とる。
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: ひるがえす
+    en: Strafe
+  cost:
+  - Colorless
+  damage: '40'
+  effect_text:
+    ja: のぞむなら、このポケモンをベンチポケモンと入れ替える。
+    en: You may switch this Pokémon with 1 of your Benched Pokémon.
+- position: 1
+  name:
+    ja: ミラージュインパルス
+    en: Illusory Impulse
+  cost:
+  - Fire
+  - Psychic
+  - Colorless
+  damage: '300'
+  effect_text:
+    ja: このポケモンについているエネルギーを、すべてトラッシュする。
+    en: Discard all Energy from this Pokémon.
+first_appearance:
+  set_name_ja: メガシンフォニア
+  released_at: '2025-08-01'
+  regulation_mark: I
+  collector_number: '049'
+  image_url:

@@ -1,0 +1,54 @@
+---
+schema_version: 1
+slug: morpeko
+name:
+  ja: モルペコ
+  en: Morpeko
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Lightning
+hp: 70
+retreat_cost: 1
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Fighting
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities:
+- position: 0
+  name:
+    ja: おやつさがし
+    en: In a Hungry Hurry
+  effect_text:
+    ja: 自分の番に1回使える。自分の山札を上から1枚見て、もとにもどす。のぞむなら、そのカードをトラッシュする。
+    en: If this Pokémon has no Energy attached, it has no Retreat Cost.
+attacks:
+- position: 0
+  name:
+    ja: ひろってつける 
+    en: Energizer Wheel
+  cost:
+  - Lightning
+  damage:
+  effect_text:
+    ja: 自分のトラッシュから基本エネルギーを2枚まで選び、自分のポケモンに好きなようにつける。
+    en: Move 2 [D] Energy from this Pokémon to 1 of your Benched Pokémon.
+first_appearance:
+  set_name_ja: クリムゾンヘイズ
+  released_at: '2024-03-22'
+  regulation_mark: H
+  collector_number: '030'
+  image_url:

@@ -1,0 +1,55 @@
+---
+schema_version: 1
+slug: goldeen
+name:
+  ja: トサキント
+  en: Goldeen
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Water
+hp: 50
+retreat_cost: 1
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Lightning
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities:
+- position: 0
+  name:
+    ja: おまつりおんど
+    en: Festival Lead
+  effect_text:
+    ja: 場に「お祭り会場」が出ているなら、このポケモンは、持っているワザを2回連続で使える。（1回目のワザで相手のバトルポケモンがきぜつしたなら、次のバトルポケモンが出たあと、2回目のワザを使う。）
+    en: If Festival Grounds is in play, this Pokémon may use an attack it has twice. If the first attack Knocks Out your opponent's Active Pokémon, you may attack again after your opponent chooses a new Active Pokémon.
+attacks:
+- position: 0
+  name:
+    ja: うずしお
+    en: Whirlpool
+  cost:
+  - Colorless
+  - Colorless
+  damage: '10'
+  effect_text:
+    ja: コインを1回投げオモテなら、相手のバトルポケモンについているエネルギーを1個選び、トラッシュする。
+    en: Flip a coin. If heads, discard an Energy from your opponent's Active Pokémon.
+first_appearance:
+  set_name_ja: 変幻の仮面
+  released_at: '2024-04-26'
+  regulation_mark: H
+  collector_number: '026'
+  image_url:

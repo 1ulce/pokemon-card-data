@@ -1,0 +1,58 @@
+---
+schema_version: 1
+slug: dedenne-2
+name:
+  ja: デデンネ
+  en: Dedenne
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Lightning
+hp: 70
+retreat_cost: 1
+regulation_mark: J
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Fighting
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: しっぽはつでん 
+    en: Tail Generator
+  cost:
+  - Lightning
+  damage:
+  effect_text:
+    ja: 相手のポケモン全員についているエネルギーの数ぶんまで、自分のトラッシュから「基本雷エネルギー」を選び、自分の雷ポケモンに好きなようにつける。
+    en: Choose Basic [L] Energy cards from your discard pile up to the amount of Energy attached to all of your opponent's Pokémon and attach them to your [L] Pokémon in any way you like.
+- position: 1
+  name:
+    ja: でんきショック
+    en: Thunder Shock
+  cost:
+  - Lightning
+  - Colorless
+  damage: '30'
+  effect_text:
+    ja: コインを1回投げオモテなら、相手のバトルポケモンをマヒにする。
+    en: Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed.
+first_appearance:
+  set_name_ja: ムニキスゼロ
+  released_at: '2026-01-23'
+  regulation_mark: J
+  collector_number: '028'
+  image_url:

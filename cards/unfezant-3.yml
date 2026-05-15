@@ -1,0 +1,58 @@
+---
+schema_version: 1
+slug: unfezant-3
+name:
+  ja: ケンホロウ
+  en: Unfezant
+  prefix:
+card_type: Pokémon
+card_subtype: 2進化
+energy_type: Colorless
+hp: 150
+retreat_cost: 0
+regulation_mark: I
+meta_tags: []
+evolves_from:
+  ja: ハトーボー
+  en: Tranquill
+weakness:
+  type: Lightning
+  value: "×2"
+resistance:
+  type: Fighting
+  value: "-30"
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: くわえる 
+    en: Add On
+  cost:
+  - Colorless
+  damage:
+  effect_text:
+    ja: 自分の山札を4枚引く。
+    en: Draw 4 cards.
+- position: 1
+  name:
+    ja: こうそくフライト
+    en: Swift Flight
+  cost:
+  - Colorless
+  - Colorless
+  damage: '120'
+  effect_text:
+    ja: コインを1回投げオモテなら、次の相手の番、このポケモンはワザのダメージや効果を受けない。
+    en: Flip a coin. If heads, during your opponent's next turn, prevent all damage from and effects of attacks done to this Pokémon.
+first_appearance:
+  set_name_ja: ブラックボルト
+  released_at: '2025-06-06'
+  regulation_mark: I
+  collector_number: '075'
+  image_url:

@@ -1,0 +1,48 @@
+---
+schema_version: 1
+slug: lombre
+name:
+  ja: ハスブレロ
+  en: Lombre
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Water
+hp: 90
+retreat_cost: 1
+regulation_mark: I
+meta_tags: []
+evolves_from:
+  ja: ハスボー
+  en: Lotad
+weakness:
+  type: Lightning
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: アクアスラッシュ
+    en: Aqua Slash
+  cost:
+  - Water
+  - Water
+  damage: '70'
+  effect_text:
+    ja: 次の自分の番、このポケモンはワザが使えない。
+    en: During your next turn, this Pokémon can't attack.
+first_appearance:
+  set_name_ja: バトルパートナーズ
+  released_at: '2025-01-24'
+  regulation_mark: I
+  collector_number: '022'
+  image_url:

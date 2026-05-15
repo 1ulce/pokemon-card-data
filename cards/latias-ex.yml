@@ -1,0 +1,57 @@
+---
+schema_version: 1
+slug: latias-ex
+name:
+  ja: ラティアスex
+  en: Latias ex
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Psychic
+hp: 210
+retreat_cost: 2
+regulation_mark: H
+meta_tags:
+- ex
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Darkness
+  value: "×2"
+resistance:
+  type: Fighting
+  value: "-30"
+body_text:
+  ja:
+  en:
+rules_text:
+  ja: ポケモンexがきぜつしたとき、相手はサイドを2枚とる。
+  en:
+abilities:
+- position: 0
+  name:
+    ja: スカイライン
+    en: Skyliner
+  effect_text:
+    ja: このポケモンがいるかぎり、自分のたねポケモン全員のにげるためのエネルギーは、すべてなくなる。
+    en: Your Basic Pokémon in play have no Retreat Cost.
+attacks:
+- position: 0
+  name:
+    ja: むげんのやいば
+    en: Eon Blade
+  cost:
+  - Psychic
+  - Psychic
+  - Colorless
+  damage: '200'
+  effect_text:
+    ja: 次の自分の番、このポケモンはワザが使えない。
+    en: During your next turn, this Pokémon can't attack.
+first_appearance:
+  set_name_ja: 楽園ドラゴーナ
+  released_at: '2024-09-13'
+  regulation_mark: H
+  collector_number: '019'
+  image_url:

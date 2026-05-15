@@ -1,0 +1,57 @@
+---
+schema_version: 1
+slug: copperajah
+name:
+  ja: ダイオウドウ
+  en: Copperajah
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Metal
+hp: 200
+retreat_cost: 4
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja: ゾウドウ
+  en: Cufant
+weakness:
+  type: Fire
+  value: "×2"
+resistance:
+  type: Grass
+  value: "-30"
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities:
+- position: 0
+  name:
+    ja: どでかいからだ
+    en: Massive Body
+  effect_text:
+    ja: このポケモンがバトル場にいるかぎり、相手は手札からスタジアムを出せない。
+    en: As long as this Pokémon is in the Active Spot, your opponent can't play any Stadium cards from their hand.
+attacks:
+- position: 0
+  name:
+    ja: ノーズラリアット
+    en: Nasal Lariat
+  cost:
+  - Metal
+  - Metal
+  - Metal
+  - Colorless
+  damage: 130+
+  effect_text:
+    ja: のぞむなら、100ダメージ追加。その場合、次の自分の番、このポケモンはワザが使えない。
+    en: You may do 100 more damage. If you do, during your next turn, this Pokémon can't attack.
+first_appearance:
+  set_name_ja: ナイトワンダラー
+  released_at: '2024-06-07'
+  regulation_mark: H
+  collector_number: '042'
+  image_url:

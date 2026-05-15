@@ -1,0 +1,42 @@
+---
+schema_version: 1
+slug: spiky-energy
+name:
+  ja: スパイクエネルギー
+  en: Spiky Energy
+  prefix:
+card_type: Energy
+card_subtype: Special Energy
+energy_type:
+hp:
+retreat_cost:
+regulation_mark: I
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type:
+  value:
+resistance:
+  type:
+  value:
+body_text:
+  ja: |-
+    このカードは、ポケモンについているかぎり、エネルギー1個ぶんとしてはたらく。
+
+
+
+    このカードをつけているポケモンが、バトル場で相手のポケモンからワザのダメージを受けたとき、ワザを使ったポケモンにダメカンを2個のせる。
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks: []
+first_appearance:
+  set_name_ja: バトルパートナーズ
+  released_at: '2025-01-24'
+  regulation_mark: I
+  collector_number: '100'
+  image_url:

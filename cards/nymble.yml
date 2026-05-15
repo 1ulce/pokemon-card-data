@@ -1,0 +1,47 @@
+---
+schema_version: 1
+slug: nymble
+name:
+  ja: マメバッタ
+  en: Nymble
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Grass
+hp: 50
+retreat_cost: 1
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Fire
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: たいあたり
+    en: Tackle
+  cost:
+  - Colorless
+  damage: '10'
+  effect_text:
+    ja:
+    en:
+first_appearance:
+  set_name_ja: いつでもどこでも バトルアカデミー
+  released_at:
+  regulation_mark:
+  collector_number: '003'
+  image_url:

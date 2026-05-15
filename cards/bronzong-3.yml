@@ -1,0 +1,60 @@
+---
+schema_version: 1
+slug: bronzong-3
+name:
+  ja: ドータクン
+  en: Bronzong
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Metal
+hp: 130
+retreat_cost: 3
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja: ドーミラー
+  en: Bronzor
+weakness:
+  type: Fire
+  value: "×2"
+resistance:
+  type: Grass
+  value: "-30"
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: かいてんアタック
+    en: Spinning Attack
+  cost:
+  - Metal
+  - Colorless
+  damage: '50'
+  effect_text:
+    ja:
+    en:
+- position: 1
+  name:
+    ja: ダブルインパクト
+    en: Double Impact
+  cost:
+  - Metal
+  - Colorless
+  - Colorless
+  damage: 100×
+  effect_text:
+    ja: コインを2回投げ、オモテの数×100ダメージ。
+    en: Flip 2 coins. This attack does 100 damage for each heads.
+first_appearance:
+  set_name_ja: 超電ブレイカー
+  released_at: '2024-10-18'
+  regulation_mark: H
+  collector_number: '079'
+  image_url:

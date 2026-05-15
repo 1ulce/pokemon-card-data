@@ -1,0 +1,44 @@
+---
+schema_version: 1
+slug: book-of-transformation
+name:
+  ja: 変化の書
+  en: Book of Transformation
+  prefix:
+card_type: Trainer
+card_subtype: Item
+energy_type:
+hp:
+retreat_cost:
+regulation_mark:
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type:
+  value:
+resistance:
+  type:
+  value:
+body_text:
+  ja: |-
+    「変化の書」は、2枚同時にしか使えない。（効果は、2枚で1回はたらく。）
+
+
+
+    自分のトラッシュからたねポケモンを1枚選び、自分の場のたねポケモン1匹と入れ替える（ついているカード・ダメカン・特殊状態・効果などは、すべて引きつぐ）。入れ替えたポケモンはトラッシュする。
+
+    グッズは、自分の番に何枚でも使える。
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks: []
+first_appearance:
+  set_name_ja: ニンジャスピナー
+  released_at: '2026-03-13'
+  regulation_mark: J
+  collector_number: '074'
+  image_url:

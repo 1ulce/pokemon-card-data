@@ -1,0 +1,59 @@
+---
+schema_version: 1
+slug: donphan
+name:
+  ja: ドンファン
+  en: Donphan
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Fighting
+hp: 150
+retreat_cost: 4
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja: ゴマゾウ
+  en: Phanpy
+weakness:
+  type: Grass
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: うちのめす
+    en: Knock Flat
+  cost:
+  - Fighting
+  damage: '40'
+  effect_text:
+    ja: このワザのダメージは、相手のバトルポケモンにかかっている効果を計算しない。
+    en: This attack's damage isn't affected by any effects on your opponent's Active Pokémon.
+- position: 1
+  name:
+    ja: ガードローリング
+    en: Guarded Rolling
+  cost:
+  - Fighting
+  - Colorless
+  - Colorless
+  damage: '120'
+  effect_text:
+    ja: このポケモンについているエネルギーを2個選び、トラッシュする。次の相手の番、このポケモンが受けるワザのダメージは「-100」される。
+    en: Discard 2 Energy from this Pokémon. During your opponent's next turn, this Pokémon takes 100 less damage from attacks (after applying Weakness and Resistance).
+first_appearance:
+  set_name_ja: 超電ブレイカー
+  released_at: '2024-10-18'
+  regulation_mark: H
+  collector_number: '065'
+  image_url:

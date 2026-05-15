@@ -1,0 +1,58 @@
+---
+schema_version: 1
+slug: diancie
+name:
+  ja: ディアンシー
+  en: Diancie
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Fighting
+hp: 110
+retreat_cost: 1
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Grass
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: らんはんしゃ
+    en: Diffuse Reflection
+  cost:
+  - Colorless
+  damage: 40×
+  effect_text:
+    ja: 相手のポケモン全員についている特殊エネルギーの枚数×40ダメージ。
+    en: This attack does 40 damage for each Special Energy attached to all of your opponent's Pokémon.
+- position: 1
+  name:
+    ja: パワージェム
+    en: Power Gem
+  cost:
+  - Fighting
+  - Colorless
+  damage: '60'
+  effect_text:
+    ja:
+    en:
+first_appearance:
+  set_name_ja: ステラミラクル
+  released_at: '2024-07-19'
+  regulation_mark: H
+  collector_number: '058'
+  image_url:

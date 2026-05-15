@@ -1,0 +1,56 @@
+---
+schema_version: 1
+slug: steven-s-carbink
+name:
+  ja: ダイゴのメレシー
+  en: Steven's Carbink
+  prefix: Steven's
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Psychic
+hp: 80
+retreat_cost: 2
+regulation_mark: I
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Metal
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities:
+- position: 0
+  name:
+    ja: ストーンパレス
+    en: Stone Palace
+  effect_text:
+    ja: このポケモンがベンチにいるかぎり、自分の「ダイゴのポケモン」全員が、相手のポケモンから受けるワザのダメージは「-30」される。この効果は、この特性を持つポケモンが何匹いても、重ならない。
+    en: As long as this Pokémon is on your Bench, all of your Steven's Pokémon take 30 less damage from attacks from your opponent's Pokémon (after applying Weakness and Resistance). The effect of Stone Palace doesn't stack.
+attacks:
+- position: 0
+  name:
+    ja: マジカルショット
+    en: Magical Shot
+  cost:
+  - Psychic
+  - Colorless
+  - Colorless
+  damage: '80'
+  effect_text:
+    ja:
+    en:
+first_appearance:
+  set_name_ja: スターターセットex ダイゴのダンバル＆メタグロスex
+  released_at:
+  regulation_mark:
+  collector_number: '003'
+  image_url:

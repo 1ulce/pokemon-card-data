@@ -1,0 +1,58 @@
+---
+schema_version: 1
+slug: pachirisu
+name:
+  ja: パチリス
+  en: Pachirisu
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Lightning
+hp: 70
+retreat_cost: 1
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Fighting
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: ぱちぱちチャージ 
+    en: Crackling Charge
+  cost:
+  - Colorless
+  damage:
+  effect_text:
+    ja: コインを3回投げ、オモテの数ぶんまで、自分のトラッシュから「基本雷エネルギー」を選び、ベンチポケモンに好きなようにつける。
+    en: Flip 3 coins. Attach a number of Basic [L] Energy cards up to the number of heads from your discard pile to your Benched Pokémon in any way you like.
+- position: 1
+  name:
+    ja: プチボルト
+    en: Tiny Bolt
+  cost:
+  - Lightning
+  - Colorless
+  damage: '30'
+  effect_text:
+    ja:
+    en:
+first_appearance:
+  set_name_ja: コロコロイチバン！ 2024年3月発売号
+  released_at:
+  regulation_mark:
+  collector_number: '45406'
+  image_url:

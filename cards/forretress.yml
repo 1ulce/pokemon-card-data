@@ -1,0 +1,59 @@
+---
+schema_version: 1
+slug: forretress
+name:
+  ja: フォレトス
+  en: Forretress
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Metal
+hp: 130
+retreat_cost: 3
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja: クヌギダマ
+  en: Pineco
+weakness:
+  type: Fire
+  value: "×2"
+resistance:
+  type: Grass
+  value: "-30"
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: とげキャノン
+    en: Spike Cannon
+  cost:
+  - Metal
+  damage: 30×
+  effect_text:
+    ja: コインを3回投げ、オモテの数×30ダメージ。
+    en: Flip 3 coins. This attack does 30 damage for each heads.
+- position: 1
+  name:
+    ja: こうてつタックル
+    en: Steel Tackle
+  cost:
+  - Colorless
+  - Colorless
+  - Colorless
+  damage: '130'
+  effect_text:
+    ja: このポケモンにも40ダメージ。
+    en: This Pokémon also does 40 damage to itself.
+first_appearance:
+  set_name_ja: サイバージャッジ
+  released_at: '2024-01-26'
+  regulation_mark: H
+  collector_number: '043'
+  image_url:

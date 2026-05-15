@@ -1,0 +1,40 @@
+---
+schema_version: 1
+slug: emcee-s-hype
+name:
+  ja: MCの盛り上げ
+  en: Emcee's Hype
+  prefix: Emcee's
+card_type: Trainer
+card_subtype: Supporter
+energy_type:
+hp:
+retreat_cost:
+regulation_mark: I
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type:
+  value:
+resistance:
+  type:
+  value:
+body_text:
+  ja: |-
+    自分の山札を2枚引く。相手のサイドの残り枚数が3枚以下なら、さらに2枚引く。
+
+    サポートは、自分の番に1枚しか使えない。
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks: []
+first_appearance:
+  set_name_ja: 熱風のアリーナ
+  released_at: '2025-03-14'
+  regulation_mark: I
+  collector_number: '061'
+  image_url:

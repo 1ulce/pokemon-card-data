@@ -1,0 +1,48 @@
+---
+schema_version: 1
+slug: hawlucha
+name:
+  ja: ルチャブル
+  en: Hawlucha
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Fighting
+hp: 70
+retreat_cost: 1
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Psychic
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: サイドカウンター
+    en: Prize Count
+  cost:
+  - Fighting
+  - Fighting
+  damage: 50+
+  effect_text:
+    ja: 自分のサイドの残り枚数が、相手のサイドの残り枚数より多いなら、90ダメージ追加。
+    en: If you have more Prize cards remaining than your opponent, this attack does 90 more damage.
+first_appearance:
+  set_name_ja: クリムゾンヘイズ
+  released_at: '2024-03-22'
+  regulation_mark: H
+  collector_number: '046'
+  image_url:

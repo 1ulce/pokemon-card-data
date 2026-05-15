@@ -1,0 +1,57 @@
+---
+schema_version: 1
+slug: reuniclus-2
+name:
+  ja: ランクルス
+  en: Reuniclus
+  prefix:
+card_type: Pokémon
+card_subtype: 2進化
+energy_type: Psychic
+hp: 140
+retreat_cost: 1
+regulation_mark: I
+meta_tags: []
+evolves_from:
+  ja: ダブラン
+  en: Duosion
+weakness:
+  type: Darkness
+  value: "×2"
+resistance:
+  type: Fighting
+  value: "-30"
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: さいぼうかくせい 
+    en: Cellular Ascension
+  cost:
+  - Colorless
+  damage:
+  effect_text:
+    ja: 自分のベンチポケモン全員からそれぞれ進化するカードを、自分の山札から1枚ずつ選び、それぞれにのせて進化させる。そして山札を切る。
+    en: For each of your Benched Pokémon, search your deck for a card that evolves from that Pokémon and put it onto that Pokémon to evolve it. Then, shuffle your deck.
+- position: 1
+  name:
+    ja: エボルラリアット
+    en: Evo-Lariat
+  cost:
+  - Colorless
+  damage: 40+
+  effect_text:
+    ja: 自分の場の進化ポケモンの数×40ダメージ追加。
+    en: This attack does 40 more damage for each of your Evolution Pokémon in play.
+first_appearance:
+  set_name_ja: ブラックボルト
+  released_at: '2025-06-06'
+  regulation_mark: I
+  collector_number: '042'
+  image_url:

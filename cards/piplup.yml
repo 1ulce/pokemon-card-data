@@ -1,0 +1,58 @@
+---
+schema_version: 1
+slug: piplup
+name:
+  ja: ポッチャマ
+  en: Piplup
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Water
+hp: 70
+retreat_cost: 1
+regulation_mark: I
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Lightning
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: フレンドコール 
+    en: Call for Support
+  cost:
+  - Colorless
+  damage:
+  effect_text:
+    ja: 自分の山札からサポートを1枚選び、相手に見せて、手札に加える。そして山札を切る。
+    en: Search your deck for a Supporter card, reveal it, and put it into your hand. Then, shuffle your deck.
+- position: 1
+  name:
+    ja: たいあたり
+    en: Tackle
+  cost:
+  - Colorless
+  - Colorless
+  damage: '20'
+  effect_text:
+    ja:
+    en:
+first_appearance:
+  set_name_ja: インフェルノX
+  released_at: '2025-09-26'
+  regulation_mark: I
+  collector_number: '027'
+  image_url:

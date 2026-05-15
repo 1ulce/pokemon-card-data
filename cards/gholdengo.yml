@@ -1,0 +1,59 @@
+---
+schema_version: 1
+slug: gholdengo
+name:
+  ja: サーフゴー
+  en: Gholdengo
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Metal
+hp: 130
+retreat_cost: 2
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja: コレクレー
+  en: Gimmighoul
+weakness:
+  type: Fire
+  value: "×2"
+resistance:
+  type: Grass
+  value: "-30"
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: リッチストライク
+    en: Strike It Rich
+  cost:
+  - Metal
+  damage: 30+
+  effect_text:
+    ja: この番、このポケモンが「コレクレー」から進化していたなら、90ダメージ追加。
+    en: If this Pokémon evolved from Gimmighoul during this turn, this attack does 90 more damage.
+- position: 1
+  name:
+    ja: サーフリターン
+    en: Surf Back
+  cost:
+  - Colorless
+  - Colorless
+  - Colorless
+  damage: '100'
+  effect_text:
+    ja: のぞむなら、このポケモンと、ついているすべてのカードを、自分の山札にもどして切る。
+    en: You may shuffle this Pokémon and all attached cards into your deck.
+first_appearance:
+  set_name_ja: 楽園ドラゴーナ
+  released_at: '2024-09-13'
+  regulation_mark: H
+  collector_number: '038'
+  image_url:

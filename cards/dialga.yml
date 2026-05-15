@@ -1,0 +1,59 @@
+---
+schema_version: 1
+slug: dialga
+name:
+  ja: ディアルガ
+  en: Dialga
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Dragon
+hp: 130
+retreat_cost: 2
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type:
+  value:
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: タイムコントロール 
+    en: Time Manipulation
+  cost:
+  - Colorless
+  damage:
+  effect_text:
+    ja: 自分の山札から好きなカードを2枚選ぶ。残りの山札を切り、選んだカードを好きな順番に入れ替えて、山札の上にもどす。
+    en: Search your deck for 2 cards, shuffle your deck, then put those cards on top of it in any order.
+- position: 1
+  name:
+    ja: バスターテール
+    en: Buster Tail
+  cost:
+  - Psychic
+  - Metal
+  - Colorless
+  damage: '160'
+  effect_text:
+    ja:
+    en:
+first_appearance:
+  set_name_ja: 楽園ドラゴーナ
+  released_at: '2024-09-13'
+  regulation_mark: H
+  collector_number: '042'
+  image_url:

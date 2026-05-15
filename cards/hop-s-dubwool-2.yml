@@ -1,0 +1,56 @@
+---
+schema_version: 1
+slug: hop-s-dubwool-2
+name:
+  ja: ホップのバイウールー
+  en: Hop's Dubwool
+  prefix: Hop's
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Colorless
+hp: 120
+retreat_cost: 2
+regulation_mark: I
+meta_tags: []
+evolves_from:
+  ja: ホップのウールー
+  en: Hop's Wooloo
+weakness:
+  type: Fighting
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities:
+- position: 0
+  name:
+    ja: チャレンジホーン
+    en: Defiant Horn
+  effect_text:
+    ja: 自分の番に、このカードを手札から出して進化させたとき、1回使える。相手のベンチポケモンを1匹選び、バトルポケモンと入れ替える。
+    en: When you play this Pokémon from your hand to evolve 1 of your Pokémon during your turn, you may switch in 1 of your opponent's Benched Pokémon to the Active Spot.
+attacks:
+- position: 0
+  name:
+    ja: ずつき
+    en: Headbutt
+  cost:
+  - Colorless
+  - Colorless
+  - Colorless
+  damage: '80'
+  effect_text:
+    ja:
+    en:
+first_appearance:
+  set_name_ja: バトルパートナーズ
+  released_at: '2025-01-24'
+  regulation_mark: I
+  collector_number: '086'
+  image_url:

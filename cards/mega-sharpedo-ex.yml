@@ -1,0 +1,60 @@
+---
+schema_version: 1
+slug: mega-sharpedo-ex
+name:
+  ja: メガサメハダーex
+  en: Mega Sharpedo ex
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Darkness
+hp: 330
+retreat_cost: 0
+regulation_mark: I
+meta_tags:
+- ex
+- mega
+evolves_from:
+  ja: キバニア
+  en: Carvanha
+weakness:
+  type: Grass
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja: メガシンカexがきぜつしたとき、相手はサイドを3枚とる。
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: よくばるキバ
+    en: Greedy Fang
+  cost:
+  - Darkness
+  damage: '70'
+  effect_text:
+    ja: 自分の山札を2枚引く。
+    en: Draw 2 cards.
+- position: 1
+  name:
+    ja: ハングリージョー
+    en: Hungry Jaws
+  cost:
+  - Darkness
+  - Darkness
+  damage: 120+
+  effect_text:
+    ja: このポケモンにダメカンがのっているなら、150ダメージ追加。
+    en: If this Pokémon has any damage counters on it, this attack does 150 more damage.
+first_appearance:
+  set_name_ja: インフェルノX
+  released_at: '2025-09-26'
+  regulation_mark: I
+  collector_number: '051'
+  image_url:

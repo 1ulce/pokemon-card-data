@@ -1,0 +1,50 @@
+---
+schema_version: 1
+slug: pikachu-ex
+name:
+  ja: ピカチュウex
+  en: Pikachu ex
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Lightning
+hp: 200
+retreat_cost: 1
+regulation_mark: H
+meta_tags:
+- ex
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Fighting
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja: ポケモンexがきぜつしたとき、相手はサイドを2枚とる。
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: 10まんボルト
+    en: Thunderbolt
+  cost:
+  - Lightning
+  - Lightning
+  - Colorless
+  damage: '120'
+  effect_text:
+    ja:
+    en:
+first_appearance:
+  set_name_ja: バトルアカデミー
+  released_at: '2024-03-08'
+  regulation_mark: H
+  collector_number: '018'
+  image_url:

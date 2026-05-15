@@ -1,0 +1,55 @@
+---
+schema_version: 1
+slug: froslass
+name:
+  ja: ユキメノコ
+  en: Froslass
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Water
+hp: 90
+retreat_cost: 1
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja: ユキワラシ
+  en: Snorunt
+weakness:
+  type: Metal
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities:
+- position: 0
+  name:
+    ja: いてつくとばり
+    en: Freezing Shroud
+  effect_text:
+    ja: このポケモンがいるかぎり、ポケモンチェックのたび、おたがいの特性を持つポケモン（「ユキメノコ」をのぞく）全員に、それぞれダメカンを1個のせる。
+    en: During Pokémon Checkup, put 1 damage counter on each Pokémon that has an Ability (both yours and your opponent's), except any Froslass.
+attacks:
+- position: 0
+  name:
+    ja: フロストスマッシュ
+    en: Frost Smash
+  cost:
+  - Water
+  - Colorless
+  damage: '60'
+  effect_text:
+    ja:
+    en:
+first_appearance:
+  set_name_ja: 変幻の仮面
+  released_at: '2024-04-26'
+  regulation_mark: H
+  collector_number: '033'
+  image_url:

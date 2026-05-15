@@ -1,0 +1,47 @@
+---
+schema_version: 1
+slug: lokix
+name:
+  ja: エクスレッグ
+  en: Lokix
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Grass
+hp: 110
+retreat_cost: 1
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja: マメバッタ
+  en: Nymble
+weakness:
+  type: Fire
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: かいてんげり
+    en: Spiral Kick
+  cost:
+  - Colorless
+  damage: '50'
+  effect_text:
+    ja:
+    en:
+first_appearance:
+  set_name_ja: いつでもどこでも バトルアカデミー
+  released_at:
+  regulation_mark:
+  collector_number: '004'
+  image_url:

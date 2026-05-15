@@ -1,0 +1,56 @@
+---
+schema_version: 1
+slug: turtonator-3
+name:
+  ja: バクガメス
+  en: Turtonator
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Fire
+hp: 120
+retreat_cost: 2
+regulation_mark: J
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Water
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities:
+- position: 0
+  name:
+    ja: こうらのトゲ
+    en: Shell Spikes
+  effect_text:
+    ja: このポケモンが、バトル場で相手のポケモンからワザのダメージを受けたとき、ワザを使ったポケモンについているエネルギーを1個選び、トラッシュする。
+    en: If this Pokémon is in the Active Spot and is damaged by an attack from your opponent's Pokémon (even if this Pokémon is Knocked Out), discard an Energy from the Attacking Pokémon.
+attacks:
+- position: 0
+  name:
+    ja: ヒートブレス
+    en: Heat Breath
+  cost:
+  - Fire
+  - Fire
+  - Colorless
+  damage: 80+
+  effect_text:
+    ja: コインを1回投げオモテなら、80ダメージ追加。
+    en: Flip a coin. If heads, this attack does 80 more damage.
+first_appearance:
+  set_name_ja: ムニキスゼロ
+  released_at: '2026-01-23'
+  regulation_mark: J
+  collector_number: '017'
+  image_url:

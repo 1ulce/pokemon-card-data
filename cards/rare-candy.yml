@@ -1,0 +1,40 @@
+---
+schema_version: 1
+slug: rare-candy
+name:
+  ja: ふしぎなアメ
+  en: Rare Candy
+  prefix:
+card_type: Trainer
+card_subtype: Item
+energy_type:
+hp:
+retreat_cost:
+regulation_mark: I
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type:
+  value:
+resistance:
+  type:
+  value:
+body_text:
+  ja: |-
+    自分の手札にある2進化ポケモンを1枚、そのポケモンへと進化する自分の場のたねポケモンにのせて進化させる。（最初の自分の番と、この番出したばかりのたねポケモンには使えない。）
+
+    グッズは、自分の番に何枚でも使える。
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks: []
+first_appearance:
+  set_name_ja: バイオレットex
+  released_at: '2023-01-20'
+  regulation_mark:
+  collector_number: '072'
+  image_url:

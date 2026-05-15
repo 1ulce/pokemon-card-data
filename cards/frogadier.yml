@@ -1,0 +1,48 @@
+---
+schema_version: 1
+slug: frogadier
+name:
+  ja: ゲコガシラ
+  en: Frogadier
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Water
+hp: 90
+retreat_cost: 1
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja: ケロマツ
+  en: Froakie
+weakness:
+  type: Lightning
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: スプラッシュ
+    en: Wave Splash
+  cost:
+  - Water
+  - Colorless
+  damage: '40'
+  effect_text:
+    ja:
+    en:
+first_appearance:
+  set_name_ja: バトルアカデミー
+  released_at: '2024-03-08'
+  regulation_mark: H
+  collector_number: '016'
+  image_url:

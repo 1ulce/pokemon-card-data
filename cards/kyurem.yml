@@ -1,0 +1,58 @@
+---
+schema_version: 1
+slug: kyurem
+name:
+  ja: キュレム
+  en: Kyurem
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Dragon
+hp: 130
+retreat_cost: 2
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type:
+  value:
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities:
+- position: 0
+  name:
+    ja: アンチプラズマ
+    en: Plasma Bane
+  effect_text:
+    ja: 相手のトラッシュに、名前に「アクロマ」とつくカードがあるなら、このポケモンが「トライフロスト」を使うためのエネルギーは、エネルギー1個になる。
+    en: If your opponent has any cards in their discard pile that have "Colress" in the name, this Pokémon can use the Trifrost attack for [C].
+attacks:
+- position: 0
+  name:
+    ja: トライフロスト 
+    en: Trifrost
+  cost:
+  - Water
+  - Water
+  - Metal
+  - Metal
+  - Colorless
+  damage:
+  effect_text:
+    ja: このポケモンについているエネルギーをすべてトラッシュし、相手のポケモン3匹に、それぞれ110ダメージ。［ベンチは弱点・抵抗力を計算しない。］
+    en: Discard all Energy from this Pokémon. This attack does 110 damage to 3 of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)
+first_appearance:
+  set_name_ja: ナイトワンダラー
+  released_at: '2024-06-07'
+  regulation_mark: H
+  collector_number: '047'
+  image_url:

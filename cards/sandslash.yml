@@ -1,0 +1,58 @@
+---
+schema_version: 1
+slug: sandslash
+name:
+  ja: サンドパン
+  en: Sandslash
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Fighting
+hp: 120
+retreat_cost: 1
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja: サンド
+  en: Sandshrew
+weakness:
+  type: Grass
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: ツメをたてる
+    en: Dig Claws
+  cost:
+  - Colorless
+  damage: '30'
+  effect_text:
+    ja:
+    en:
+- position: 1
+  name:
+    ja: じしん
+    en: Earthquake
+  cost:
+  - Fighting
+  - Colorless
+  damage: '120'
+  effect_text:
+    ja: 自分のベンチポケモン全員にも、それぞれ10ダメージ。［ベンチは弱点・抵抗力を計算しない。］
+    en: This attack also does 10 damage to each of your Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)
+first_appearance:
+  set_name_ja: 変幻の仮面
+  released_at: '2024-04-26'
+  regulation_mark: H
+  collector_number: '058'
+  image_url:

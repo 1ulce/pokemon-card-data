@@ -1,0 +1,59 @@
+---
+schema_version: 1
+slug: deoxys-2
+name:
+  ja: デオキシス
+  en: Deoxys
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Psychic
+hp: 110
+retreat_cost: 1
+regulation_mark:
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Darkness
+  value: "×2"
+resistance:
+  type: Fighting
+  value: "-30"
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: ゲノムチャージ 
+    en:
+  cost:
+  - Colorless
+  damage:
+  effect_text:
+    ja: 自分の山札から「基本超エネルギー」を2枚まで選び、このポケモンにつける。そして山札を切る。
+    en:
+- position: 1
+  name:
+    ja: サイコキネシス
+    en:
+  cost:
+  - Psychic
+  - Psychic
+  - Colorless
+  damage: 80+
+  effect_text:
+    ja: 相手のバトルポケモンについているエネルギーの数×20ダメージ追加。
+    en:
+first_appearance:
+  set_name_ja: ニンジャスピナー
+  released_at: '2026-03-13'
+  regulation_mark: J
+  collector_number: '031'
+  image_url:

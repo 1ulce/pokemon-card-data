@@ -1,0 +1,163 @@
+---
+schema_version: 1
+generated_at: '2026-05-15T17:35:59Z'
+sets:
+  スカーレットex:
+    released_at: '2023-01-20'
+    regulation_mark:
+  バイオレットex:
+    released_at: '2023-01-20'
+    regulation_mark:
+  プレミアムトレーナーボックスex:
+    released_at: '2023-01-20'
+    regulation_mark:
+  ルカリオ:
+    released_at: '2023-01-20'
+    regulation_mark:
+  トリプレットビート:
+    released_at: '2023-03-10'
+    regulation_mark:
+  ピカチュウ:
+    released_at: '2023-03-24'
+    regulation_mark:
+  クレイバースト:
+    released_at: '2023-04-14'
+    regulation_mark:
+  スノーハザード:
+    released_at: '2023-04-14'
+    regulation_mark:
+  黒炎の支配者:
+    released_at: '2023-07-28'
+    regulation_mark:
+  ミュウツーex:
+    released_at: '2023-09-22'
+    regulation_mark:
+  レイジングサーフ:
+    released_at: '2023-09-22'
+    regulation_mark:
+  古代の咆哮:
+    released_at: '2023-10-27'
+    regulation_mark:
+  未来の一閃:
+    released_at: '2023-10-27'
+    regulation_mark:
+  スペシャルデッキセットex フシギバナ・リザードン・カメックス:
+    released_at: '2023-11-10'
+    regulation_mark:
+  シャイニートレジャーex:
+    released_at: '2023-12-01'
+    regulation_mark:
+  サイバージャッジ:
+    released_at: '2024-01-26'
+    regulation_mark: H
+  ワイルドフォース:
+    released_at: '2024-01-26'
+    regulation_mark: H
+  古代のコライドンex:
+    released_at: '2024-01-26'
+    regulation_mark: H
+  未来のミライドンex:
+    released_at: '2024-01-26'
+    regulation_mark: H
+  バトルアカデミー:
+    released_at: '2024-03-08'
+    regulation_mark: H
+  クリムゾンヘイズ:
+    released_at: '2024-03-22'
+    regulation_mark: H
+  変幻の仮面:
+    released_at: '2024-04-26'
+    regulation_mark: H
+  ナイトワンダラー:
+    released_at: '2024-06-07'
+    regulation_mark: H
+  ステラミラクル:
+    released_at: '2024-07-19'
+    regulation_mark: H
+  楽園ドラゴーナ:
+    released_at: '2024-09-13'
+    regulation_mark: H
+  超電ブレイカー:
+    released_at: '2024-10-18'
+    regulation_mark: H
+  スタートデッキGenerations カイオーガex・バシャーモex:
+    released_at: '2024-11-22'
+    regulation_mark: H
+  スタートデッキGenerations カプ・コケコex・ミミッキュex:
+    released_at: '2024-11-22'
+    regulation_mark: H
+  スタートデッキGenerations コライドンex・パルデアドオーex:
+    released_at: '2024-11-22'
+    regulation_mark: H
+  スタートデッキGenerations ザシアンex・マホイップex:
+    released_at: '2024-11-22'
+    regulation_mark: H
+  スタートデッキGenerations ゼルネアスex・オンバーンex:
+    released_at: '2024-11-22'
+    regulation_mark: H
+  スタートデッキGenerations ディアルガex・ルカリオex:
+    released_at: '2024-11-22'
+    regulation_mark: H
+  スタートデッキGenerations ピカチュウex・カビゴンex:
+    released_at: '2024-11-22'
+    regulation_mark: H
+  スタートデッキGenerations ルギアex・バンギラスex:
+    released_at: '2024-11-22'
+    regulation_mark: H
+  スタートデッキGenerations レシラムex・モロバレルex:
+    released_at: '2024-11-22'
+    regulation_mark: H
+  テラスタルフェスex:
+    released_at: '2024-12-06'
+    regulation_mark: H
+  バトルパートナーズ:
+    released_at: '2025-01-24'
+    regulation_mark: I
+  熱風のアリーナ:
+    released_at: '2025-03-14'
+    regulation_mark: I
+  ロケット団の栄光:
+    released_at: '2025-04-18'
+    regulation_mark: I
+  ブラックボルト:
+    released_at: '2025-06-06'
+    regulation_mark: I
+  ホワイトフレア:
+    released_at: '2025-06-06'
+    regulation_mark: I
+  プレミアムトレーナーボックス:
+    released_at: '2025-08-01'
+    regulation_mark: I
+  メガシンフォニア:
+    released_at: '2025-08-01'
+    regulation_mark: I
+  メガブレイブ:
+    released_at: '2025-08-01'
+    regulation_mark: I
+  スターターセットMEGA メガゲンガーex:
+    released_at: '2025-09-05'
+    regulation_mark: I
+  スターターセットMEGA メガディアンシーex:
+    released_at: '2025-09-05'
+    regulation_mark: I
+  インフェルノX:
+    released_at: '2025-09-26'
+    regulation_mark: I
+  MEGAドリームex:
+    released_at: '2025-11-28'
+    regulation_mark: I
+  スタートデッキ100 バトルコレクション:
+    released_at: '2025-12-19'
+    regulation_mark: J
+  スタートデッキ100 バトルコレクション コロちゃおVer.:
+    released_at: '2025-12-19'
+    regulation_mark: J
+  ムニキスゼロ:
+    released_at: '2026-01-23'
+    regulation_mark: J
+  ニンジャスピナー:
+    released_at: '2026-03-13'
+    regulation_mark: J
+  アビスアイ:
+    released_at: '2026-05-22'
+    regulation_mark: J

@@ -1,0 +1,59 @@
+---
+schema_version: 1
+slug: xerneas-3
+name:
+  ja: ゼルネアス
+  en: Xerneas
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Psychic
+hp: 120
+retreat_cost: 1
+regulation_mark: I
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Metal
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: ジオゲート 
+    en: Geo Gate
+  cost:
+  - Psychic
+  damage:
+  effect_text:
+    ja: 自分の山札から超タイプのたねポケモンを3枚まで選び、ベンチに出す。そして山札を切る。
+    en: Search your deck for up to 3 Basic [P] Pokémon and put them onto your Bench. Then, shuffle your deck.
+- position: 1
+  name:
+    ja: ブライトホーン
+    en: Bright Horns
+  cost:
+  - Psychic
+  - Psychic
+  - Colorless
+  damage: '120'
+  effect_text:
+    ja: 次の自分の番、このポケモンは「ブライトホーン」が使えない。
+    en: During your next turn, this Pokémon can't use Bright Horns.
+first_appearance:
+  set_name_ja: メガシンフォニア
+  released_at: '2025-08-01'
+  regulation_mark: I
+  collector_number: '046'
+  image_url:

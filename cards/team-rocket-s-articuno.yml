@@ -1,0 +1,56 @@
+---
+schema_version: 1
+slug: team-rocket-s-articuno
+name:
+  ja: ロケット団のフリーザー
+  en: Team Rocket's Articuno
+  prefix: Team Rocket's
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Water
+hp: 120
+retreat_cost: 1
+regulation_mark: I
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Lightning
+  value: "×2"
+resistance:
+  type: Fighting
+  value: "-30"
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities:
+- position: 0
+  name:
+    ja: レジストヴェール
+    en: Repelling Veil
+  effect_text:
+    ja: このポケモンがいるかぎり、自分の場のたねポケモンの「ロケット団のポケモン」全員は、相手のポケモンが使うワザの効果を受けない。（すでに受けている効果は、なくならない。）
+    en: Prevent all effects of attacks used by your opponent's Pokémon done to your Basic Team Rocket's Pokémon. (Existing effects are not removed. Damage is not an effect.)
+attacks:
+- position: 0
+  name:
+    ja: ダークフロスト
+    en: Dark Frost
+  cost:
+  - Water
+  - Colorless
+  - Colorless
+  damage: 60+
+  effect_text:
+    ja: このポケモンに「ロケット団エネルギー」がついているなら、60ダメージ追加。
+    en: If this Pokémon has any Team Rocket's Energy attached, this attack does 60 more damage.
+first_appearance:
+  set_name_ja: ロケット団の栄光
+  released_at: '2025-04-18'
+  regulation_mark: I
+  collector_number: '022'
+  image_url:

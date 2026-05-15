@@ -1,0 +1,59 @@
+---
+schema_version: 1
+slug: varoom-3
+name:
+  ja: ブロロン
+  en: Varoom
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Metal
+hp: 70
+retreat_cost: 2
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Fire
+  value: "×2"
+resistance:
+  type: Grass
+  value: "-30"
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: メタルコーティング 
+    en: Metal Coating
+  cost:
+  - Colorless
+  damage:
+  effect_text:
+    ja: 自分のトラッシュから「基本鋼エネルギー」を1枚選び、このポケモンにつける。
+    en: Attach a Basic [M] Energy card from your discard pile to this Pokémon.
+- position: 1
+  name:
+    ja: ぶつかる
+    en: Ram
+  cost:
+  - Metal
+  - Colorless
+  - Colorless
+  damage: '50'
+  effect_text:
+    ja:
+    en:
+first_appearance:
+  set_name_ja: 変幻の仮面
+  released_at: '2024-04-26'
+  regulation_mark: H
+  collector_number: '077'
+  image_url:

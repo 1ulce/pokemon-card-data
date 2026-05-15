@@ -1,0 +1,60 @@
+---
+schema_version: 1
+slug: coalossal
+name:
+  ja: セキタンザン
+  en: Coalossal
+  prefix:
+card_type: Pokémon
+card_subtype: 2進化
+energy_type: Fighting
+hp: 180
+retreat_cost: 4
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja: トロッゴン
+  en: Carkol
+weakness:
+  type: Grass
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: ガトリングタール
+    en: Gatling Tar
+  cost:
+  - Fighting
+  damage: 40+
+  effect_text:
+    ja: このポケモンについている炎エネルギーの数×80ダメージ追加。
+    en: This attack does 80 more damage for each [R] Energy attached to this Pokémon.
+- position: 1
+  name:
+    ja: やまなだれ
+    en: Cragalanche
+  cost:
+  - Fighting
+  - Colorless
+  - Colorless
+  - Colorless
+  damage: '150'
+  effect_text:
+    ja: 相手の山札を上から2枚トラッシュする。
+    en: Discard the top 2 cards of your opponent's deck.
+first_appearance:
+  set_name_ja: ワイルドフォース
+  released_at: '2024-01-26'
+  regulation_mark: H
+  collector_number: '041'
+  image_url:

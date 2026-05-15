@@ -1,0 +1,48 @@
+---
+schema_version: 1
+slug: tirtouga
+name:
+  ja: プロトーガ
+  en: Tirtouga
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Water
+hp: 100
+retreat_cost: 3
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja: 古びたふたの化石
+  en: Antique Cover Fossil
+weakness:
+  type: Lightning
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: スプラッシュターン
+    en: Splashing Turn
+  cost:
+  - Water
+  - Water
+  damage: '70'
+  effect_text:
+    ja: このポケモンをベンチポケモンと入れ替える。
+    en: Switch this Pokémon with 1 of your Benched Pokémon.
+first_appearance:
+  set_name_ja: ステラミラクル
+  released_at: '2024-07-19'
+  regulation_mark: H
+  collector_number: '022'
+  image_url:

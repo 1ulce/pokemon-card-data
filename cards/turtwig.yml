@@ -1,0 +1,56 @@
+---
+schema_version: 1
+slug: turtwig
+name:
+  ja: ナエトル
+  en: Turtwig
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Grass
+hp: 80
+retreat_cost: 3
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Fire
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities:
+- position: 0
+  name:
+    ja: かたいこうら
+    en: Solid Shell
+  effect_text:
+    ja: このポケモンが受けるワザのダメージは「-20」される。
+    en: This Pokémon takes 20 less damage from attacks (after applying Weakness and Resistance).
+attacks:
+- position: 0
+  name:
+    ja: このは
+    en: Leafage
+  cost:
+  - Grass
+  - Colorless
+  - Colorless
+  damage: '30'
+  effect_text:
+    ja:
+    en:
+first_appearance:
+  set_name_ja: ワイルドフォース
+  released_at: '2024-01-26'
+  regulation_mark: H
+  collector_number: '003'
+  image_url:

@@ -1,0 +1,48 @@
+---
+schema_version: 1
+slug: chinchou
+name:
+  ja: チョンチー
+  en: Chinchou
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Lightning
+hp: 70
+retreat_cost: 2
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Fighting
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: ダブルボルト
+    en: Double Voltage
+  cost:
+  - Colorless
+  - Colorless
+  damage: 20×
+  effect_text:
+    ja: コインを2回投げ、オモテの数×20ダメージ。
+    en: Flip 2 coins. This attack does 20 damage for each heads.
+first_appearance:
+  set_name_ja: ステラミラクル
+  released_at: '2024-07-19'
+  regulation_mark: H
+  collector_number: '030'
+  image_url:

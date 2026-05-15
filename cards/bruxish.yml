@@ -1,0 +1,55 @@
+---
+schema_version: 1
+slug: bruxish
+name:
+  ja: ハギギシリ
+  en: Bruxish
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Water
+hp: 110
+retreat_cost: 1
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Lightning
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities:
+- position: 0
+  name:
+    ja: はんげき
+    en: Counterattack
+  effect_text:
+    ja: このポケモンが、バトル場で相手のポケモンからワザのダメージを受けたとき、ワザを使ったポケモンにダメカンを3個のせる。
+    en: If this Pokémon is in the Active Spot and is damaged by an attack from your opponent's Pokémon (even if this Pokémon is Knocked Out), put 3 damage counters on the Attacking Pokémon.
+attacks:
+- position: 0
+  name:
+    ja: かじりつく
+    en: Big Bite
+  cost:
+  - Water
+  - Colorless
+  damage: '50'
+  effect_text:
+    ja: 次の相手の番、このワザを受けたポケモンは、にげられない。
+    en: During your opponent's next turn, the Defending Pokémon can't retreat.
+first_appearance:
+  set_name_ja: 楽園ドラゴーナ
+  released_at: '2024-09-13'
+  regulation_mark: H
+  collector_number: '012'
+  image_url:

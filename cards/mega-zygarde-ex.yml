@@ -1,0 +1,65 @@
+---
+schema_version: 1
+slug: mega-zygarde-ex
+name:
+  ja: メガジガルデex
+  en: Mega Zygarde ex
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Fighting
+hp: 310
+retreat_cost: 2
+regulation_mark: J
+meta_tags:
+- ex
+- mega
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Grass
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja: メガシンカexがきぜつしたとき、相手はサイドを3枚とる。
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: ガイアウェーブ
+    en: Gaia Wave
+  cost:
+  - Fighting
+  - Fighting
+  - Fighting
+  damage: '200'
+  effect_text:
+    ja: 次の相手の番、このポケモンが受けるワザのダメージは「-30」される。
+    en: During your opponent's next turn, this Pokémon takes 30 less damage from attacks (after applying Weakness and Resistance).
+- position: 1
+  name:
+    ja: ムニキスゼロ 
+    en: Nullifying Zero
+  cost:
+  - Fighting
+  - Fighting
+  - Fighting
+  - Fighting
+  - Fighting
+  damage:
+  effect_text:
+    ja: 相手のポケモン全員に対して、それぞれ1回ずつコインを投げ、オモテが出たポケモン全員に、それぞれ150ダメージ。［ベンチは弱点・抵抗力を計算しない。］
+    en: For each of your opponent's Pokémon, flip a coin. If heads, this attack does 150 damage to that Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)
+first_appearance:
+  set_name_ja: ムニキスゼロ
+  released_at: '2026-01-23'
+  regulation_mark: J
+  collector_number: '046'
+  image_url:

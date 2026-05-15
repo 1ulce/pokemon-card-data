@@ -1,0 +1,40 @@
+---
+schema_version: 1
+slug: switch
+name:
+  ja: ポケモンいれかえ
+  en: Switch
+  prefix:
+card_type: Trainer
+card_subtype: Item
+energy_type:
+hp:
+retreat_cost:
+regulation_mark: I
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type:
+  value:
+resistance:
+  type:
+  value:
+body_text:
+  ja: |-
+    自分のバトルポケモンをベンチポケモンと入れ替える。
+
+    グッズは、自分の番に何枚でも使える。
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks: []
+first_appearance:
+  set_name_ja: プレミアムトレーナーボックスex
+  released_at: '2023-01-20'
+  regulation_mark:
+  collector_number: '005'
+  image_url:

@@ -1,0 +1,61 @@
+---
+schema_version: 1
+slug: miraidon-ex
+name:
+  ja: ミライドンex
+  en: Miraidon ex
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Dragon
+hp: 220
+retreat_cost: 1
+regulation_mark: H
+meta_tags:
+- ex
+evolves_from:
+  ja:
+  en:
+weakness:
+  type:
+  value:
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja: ポケモンexがきぜつしたとき、相手はサイドを2枚とる。
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: リジェクトボルト
+    en: Repulsion Bolt
+  cost:
+  - Lightning
+  - Psychic
+  damage: 60+
+  effect_text:
+    ja: 相手のバトルポケモンにダメカンがのっているなら、100ダメージ追加。
+    en: If your opponent's Active Pokémon already has any damage counters on it, this attack does 100 more damage.
+- position: 1
+  name:
+    ja: サイバードライブ
+    en: Cyber Drive
+  cost:
+  - Lightning
+  - Psychic
+  - Colorless
+  damage: '220'
+  effect_text:
+    ja: 次の自分の番、このポケモンは「サイバードライブ」が使えない。
+    en: During your next turn, this Pokémon can't use Cyber Drive.
+first_appearance:
+  set_name_ja: 未来のミライドンex
+  released_at: '2024-01-26'
+  regulation_mark: H
+  collector_number: '011'
+  image_url:

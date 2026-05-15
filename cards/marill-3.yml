@@ -1,0 +1,58 @@
+---
+schema_version: 1
+slug: marill-3
+name:
+  ja: マリル
+  en: Marill
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Psychic
+hp: 70
+retreat_cost: 1
+regulation_mark: J
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Metal
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: かくれる 
+    en: Hide
+  cost:
+  - Colorless
+  damage:
+  effect_text:
+    ja: コインを1回投げオモテなら、次の相手の番、このポケモンはワザのダメージや効果を受けない。
+    en: Flip a coin. If heads, during your opponent's next turn, prevent all damage from and effects of attacks done to this Pokémon.
+- position: 1
+  name:
+    ja: はねまわる
+    en: Flop
+  cost:
+  - Psychic
+  - Colorless
+  damage: '20'
+  effect_text:
+    ja:
+    en:
+first_appearance:
+  set_name_ja: スタートデッキ100 バトルコレクション
+  released_at: '2025-12-19'
+  regulation_mark: J
+  collector_number: '295'
+  image_url:

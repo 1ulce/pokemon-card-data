@@ -1,0 +1,48 @@
+---
+schema_version: 1
+slug: girafarig
+name:
+  ja: キリンリキ
+  en: Girafarig
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Psychic
+hp: 90
+retreat_cost: 1
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Darkness
+  value: "×2"
+resistance:
+  type: Fighting
+  value: "-30"
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: サイコダメージ
+    en: Psychic Assault
+  cost:
+  - Psychic
+  - Colorless
+  damage: 20+
+  effect_text:
+    ja: 相手のバトルポケモンにのっているダメカンの数×10ダメージ追加。
+    en: This attack does 10 more damage for each damage counter on your opponent's Active Pokémon.
+first_appearance:
+  set_name_ja: サイバージャッジ
+  released_at: '2024-01-26'
+  regulation_mark: H
+  collector_number: '032'
+  image_url:

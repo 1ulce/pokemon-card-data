@@ -1,0 +1,58 @@
+---
+schema_version: 1
+slug: vibrava
+name:
+  ja: ビブラーバ
+  en: Vibrava
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Fighting
+hp: 90
+retreat_cost: 1
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja: ナックラー
+  en: Trapinch
+weakness:
+  type: Grass
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: いやなおと 
+    en: Screech
+  cost:
+  - Colorless
+  damage:
+  effect_text:
+    ja: 次の自分の番、このワザを受けたポケモンが受けるワザのダメージは「+50」される。
+    en: During your next turn, the Defending Pokémon takes 50 more damage from attacks (after applying Weakness and Resistance).
+- position: 1
+  name:
+    ja: カッターウインド
+    en: Cutting Wind
+  cost:
+  - Fighting
+  - Colorless
+  damage: '50'
+  effect_text:
+    ja:
+    en:
+first_appearance:
+  set_name_ja: 楽園ドラゴーナ
+  released_at: '2024-09-13'
+  regulation_mark: H
+  collector_number: '026'
+  image_url:

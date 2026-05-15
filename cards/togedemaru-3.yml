@@ -1,0 +1,48 @@
+---
+schema_version: 1
+slug: togedemaru-3
+name:
+  ja: トゲデマル
+  en: Togedemaru
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Lightning
+hp: 80
+retreat_cost: 1
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Fighting
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: とげスパーク
+    en: Toge Spark
+  cost:
+  - Lightning
+  - Colorless
+  damage: '40'
+  effect_text:
+    ja: コインを1回投げオモテなら、次の相手の番、このポケモンはワザのダメージや効果を受けない。
+    en: Flip a coin. If heads, during your opponent's next turn, prevent all damage from and effects of attacks done to this Pokémon.
+first_appearance:
+  set_name_ja: スタートデッキGenerations カプ・コケコex・ミミッキュex
+  released_at: '2024-11-22'
+  regulation_mark: H
+  collector_number: '045'
+  image_url:

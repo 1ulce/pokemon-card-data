@@ -1,0 +1,58 @@
+---
+schema_version: 1
+slug: teal-mask-ogerpon
+name:
+  ja: オーガポン みどりのめん
+  en: Teal Mask Ogerpon
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Grass
+hp: 110
+retreat_cost: 1
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Fire
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: やまあるき 
+    en: Mountain Stroll
+  cost:
+  - Colorless
+  damage:
+  effect_text:
+    ja: 自分の山札から基本エネルギーを2枚まで選び、相手に見せて、手札に加える。そして山札を切る。
+    en: Search your deck for up to 2 Basic Energy cards, reveal them, and put them into your hand. Then, shuffle your deck.
+- position: 1
+  name:
+    ja: おにがえし
+    en: Ogre Comeback
+  cost:
+  - Grass
+  - Colorless
+  damage: 20+
+  effect_text:
+    ja: 相手のベンチポケモンの数×20ダメージ追加。
+    en: This attack does 20 more damage for each of your opponent's Benched Pokémon.
+first_appearance:
+  set_name_ja: 変幻の仮面
+  released_at: '2024-04-26'
+  regulation_mark: H
+  collector_number: '015'
+  image_url:

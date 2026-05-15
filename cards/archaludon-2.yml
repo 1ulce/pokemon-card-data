@@ -1,0 +1,49 @@
+---
+schema_version: 1
+slug: archaludon-2
+name:
+  ja: ブリジュラス
+  en: Archaludon
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Metal
+hp: 180
+retreat_cost: 2
+regulation_mark: I
+meta_tags: []
+evolves_from:
+  ja: ジュラルドン
+  en: Duraludon
+weakness:
+  type: Fire
+  value: "×2"
+resistance:
+  type: Grass
+  value: "-30"
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: コーティングアタック
+    en: Coated Attack
+  cost:
+  - Metal
+  - Metal
+  - Metal
+  damage: '120'
+  effect_text:
+    ja: 次の相手の番、このポケモンはたねポケモンからワザのダメージを受けない。
+    en: During your opponent's next turn, prevent all damage done to this Pokémon by attacks from Basic Pokémon.
+first_appearance:
+  set_name_ja: インフェルノX
+  released_at: '2025-09-26'
+  regulation_mark: I
+  collector_number: '063'
+  image_url:

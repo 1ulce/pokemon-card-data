@@ -1,0 +1,58 @@
+---
+schema_version: 1
+slug: crabominable
+name:
+  ja: ケケンカニ
+  en: Crabominable
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Water
+hp: 160
+retreat_cost: 3
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja: マケンカニ
+  en: Crabrawler
+weakness:
+  type: Metal
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities:
+- position: 0
+  name:
+    ja: したごしらえ
+    en: Food Prep
+  effect_text:
+    ja: 自分のトラッシュにある「ハイダイ」の枚数ぶん、このポケモンがワザを使うためのエネルギーは少なくなる。
+    en: Attacks used by this Pokémon cost [C] less for each Kofu card in your discard pile.
+attacks:
+- position: 0
+  name:
+    ja: おおぶりパンチ
+    en: Haymaker
+  cost:
+  - Water
+  - Colorless
+  - Colorless
+  - Colorless
+  - Colorless
+  damage: '250'
+  effect_text:
+    ja: 次の自分の番、このポケモンは「おおぶりパンチ」が使えない。
+    en: During your next turn, this Pokémon can't use Haymaker.
+first_appearance:
+  set_name_ja: ステラミラクル
+  released_at: '2024-07-19'
+  regulation_mark: H
+  collector_number: '024'
+  image_url:

@@ -1,0 +1,47 @@
+---
+schema_version: 1
+slug: team-rocket-s-rattata-2
+name:
+  ja: ロケット団のコラッタ
+  en: Team Rocket's Rattata
+  prefix: Team Rocket's
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Colorless
+hp: 50
+retreat_cost: 1
+regulation_mark: I
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Fighting
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: あぶないまえば
+    en: Dangerous Incisors
+  cost:
+  - Colorless
+  damage: '10'
+  effect_text:
+    ja: 相手のバトルポケモンをどくにする。
+    en: Your opponent's Active Pokémon is now Poisoned.
+first_appearance:
+  set_name_ja: ロケット団の栄光
+  released_at: '2025-04-18'
+  regulation_mark: I
+  collector_number: '076'
+  image_url:

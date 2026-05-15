@@ -1,0 +1,59 @@
+---
+schema_version: 1
+slug: tirtouga-2
+name:
+  ja: プロトーガ
+  en: Tirtouga
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Water
+hp: 100
+retreat_cost: 3
+regulation_mark: I
+meta_tags: []
+evolves_from:
+  ja: 古びたふたの化石
+  en: Antique Cover Fossil
+weakness:
+  type: Lightning
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: たいこのもくず
+    en: Ancient Seaweed
+  cost:
+  - Water
+  damage: 30×
+  effect_text:
+    ja: 相手のトラッシュにあるグッズの枚数×30ダメージ。
+    en: This attack does 30 damage for each Item card in your opponent's discard pile.
+- position: 1
+  name:
+    ja: なみのり
+    en: Surf
+  cost:
+  - Water
+  - Colorless
+  - Colorless
+  damage: '80'
+  effect_text:
+    ja:
+    en:
+first_appearance:
+  set_name_ja: ブラックボルト
+  released_at: '2025-06-06'
+  regulation_mark: I
+  collector_number: '025'
+  image_url:

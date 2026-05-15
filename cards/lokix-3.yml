@@ -1,0 +1,47 @@
+---
+schema_version: 1
+slug: lokix-3
+name:
+  ja: エクスレッグ
+  en: Lokix
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Darkness
+hp: 120
+retreat_cost: 1
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja: マメバッタ
+  en: Nymble
+weakness:
+  type: Grass
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: ローキック
+    en: Low Sweep
+  cost:
+  - Darkness
+  damage: '60'
+  effect_text:
+    ja:
+    en:
+first_appearance:
+  set_name_ja: スタートデッキGenerations コライドンex・パルデアドオーex
+  released_at: '2024-11-22'
+  regulation_mark: H
+  collector_number: '079'
+  image_url:

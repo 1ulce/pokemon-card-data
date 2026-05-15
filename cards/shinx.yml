@@ -1,0 +1,58 @@
+---
+schema_version: 1
+slug: shinx
+name:
+  ja: コリンク
+  en: Shinx
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Lightning
+hp: 60
+retreat_cost: 1
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Fighting
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: こうきしん 
+    en: Curiosity
+  cost:
+  - Colorless
+  damage:
+  effect_text:
+    ja: 相手の手札を見る。
+    en: Your opponent reveals their hand.
+- position: 1
+  name:
+    ja: バチバチ
+    en: Static Shock
+  cost:
+  - Lightning
+  - Lightning
+  damage: '30'
+  effect_text:
+    ja:
+    en:
+first_appearance:
+  set_name_ja: 変幻の仮面
+  released_at: '2024-04-26'
+  regulation_mark: H
+  collector_number: '039'
+  image_url:

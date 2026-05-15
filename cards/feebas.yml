@@ -1,0 +1,47 @@
+---
+schema_version: 1
+slug: feebas
+name:
+  ja: ヒンバス
+  en: Feebas
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Water
+hp: 30
+retreat_cost: 1
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Lightning
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: じたばた
+    en: Flail
+  cost:
+  - Water
+  damage: 10×
+  effect_text:
+    ja: このポケモンにのっているダメカンの数×10ダメージ。
+    en: This attack does 10 damage for each damage counter on this Pokémon.
+first_appearance:
+  set_name_ja: 変幻の仮面
+  released_at: '2024-04-26'
+  regulation_mark: H
+  collector_number: '029'
+  image_url:

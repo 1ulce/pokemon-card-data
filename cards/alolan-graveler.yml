@@ -1,0 +1,58 @@
+---
+schema_version: 1
+slug: alolan-graveler
+name:
+  ja: アローラ ゴローン
+  en: Alolan Graveler
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Lightning
+hp: 100
+retreat_cost: 3
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja: アローラ イシツブテ
+  en: Alolan Geodude
+weakness:
+  type: Fighting
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: ころがりタックル
+    en: Rolling Tackle
+  cost:
+  - Colorless
+  damage: '30'
+  effect_text:
+    ja:
+    en:
+- position: 1
+  name:
+    ja: ビリリパンチ
+    en: Electric Punch
+  cost:
+  - Lightning
+  - Colorless
+  damage: '50'
+  effect_text:
+    ja:
+    en:
+first_appearance:
+  set_name_ja: スタートデッキGenerations カプ・コケコex・ミミッキュex
+  released_at: '2024-11-22'
+  regulation_mark: H
+  collector_number: '040'
+  image_url:

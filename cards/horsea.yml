@@ -1,0 +1,58 @@
+---
+schema_version: 1
+slug: horsea
+name:
+  ja: タッツー
+  en: Horsea
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Water
+hp: 60
+retreat_cost: 1
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Lightning
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: じっとする 
+    en: Hook
+  cost:
+  - Water
+  damage:
+  effect_text:
+    ja: このポケモンのHPを「30」回復する。
+    en:
+- position: 1
+  name:
+    ja: ひれカッター
+    en:
+  cost:
+  - Colorless
+  - Colorless
+  damage: '20'
+  effect_text:
+    ja:
+    en:
+first_appearance:
+  set_name_ja: ナイトワンダラー
+  released_at: '2024-06-07'
+  regulation_mark: H
+  collector_number: '010'
+  image_url:

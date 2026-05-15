@@ -1,0 +1,60 @@
+---
+schema_version: 1
+slug: iron-crown
+name:
+  ja: テツノカシラ
+  en: Iron Crown
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Metal
+hp: 130
+retreat_cost: 2
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Fire
+  value: "×2"
+resistance:
+  type: Grass
+  value: "-30"
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: デリートスラッシュ
+    en: Deleting Slash
+  cost:
+  - Metal
+  - Colorless
+  damage: 40+
+  effect_text:
+    ja: 相手のベンチポケモンの数が3匹以上なら、80ダメージ追加。
+    en: If your opponent has 3 or more Benched Pokémon, this attack does 80 more damage.
+- position: 1
+  name:
+    ja: スライスブレード
+    en: Slicing Blade
+  cost:
+  - Metal
+  - Colorless
+  - Colorless
+  damage: '100'
+  effect_text:
+    ja:
+    en:
+first_appearance:
+  set_name_ja: 楽園ドラゴーナ
+  released_at: '2024-09-13'
+  regulation_mark: H
+  collector_number: '039'
+  image_url:

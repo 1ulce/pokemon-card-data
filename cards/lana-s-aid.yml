@@ -1,0 +1,40 @@
+---
+schema_version: 1
+slug: lana-s-aid
+name:
+  ja: スイレンのお世話
+  en: Lana's Aid
+  prefix: Lana's
+card_type: Trainer
+card_subtype: Supporter
+energy_type:
+hp:
+retreat_cost:
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type:
+  value:
+resistance:
+  type:
+  value:
+body_text:
+  ja: |-
+    自分のトラッシュからポケモン（「ルールを持つポケモン」をのぞく）と基本エネルギーを合計3枚まで選び、相手に見せて、手札に加える。
+
+    サポートは、自分の番に1枚しか使えない。
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks: []
+first_appearance:
+  set_name_ja: クリムゾンヘイズ
+  released_at: '2024-03-22'
+  regulation_mark: H
+  collector_number: '064'
+  image_url:

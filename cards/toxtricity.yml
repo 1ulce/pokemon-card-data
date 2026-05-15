@@ -1,0 +1,56 @@
+---
+schema_version: 1
+slug: toxtricity
+name:
+  ja: ストリンダー
+  en: Toxtricity
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Darkness
+hp: 140
+retreat_cost: 2
+regulation_mark: I
+meta_tags: []
+evolves_from:
+  ja: エレズン
+  en: Toxel
+weakness:
+  type: Fighting
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities:
+- position: 0
+  name:
+    ja: バッドアッパー
+    en: Sinister Surge
+  effect_text:
+    ja: 自分の番に1回使える。自分の山札から「基本悪エネルギー」を1枚選び、ベンチの悪ポケモンにつける。そして山札を切る。その後、つけたポケモンにダメカンを2個のせる。
+    en: Once during your turn, you may use this Ability. Search your deck for a Basic [D] Energy card and attach it to 1 of your Benched [D] Pokémon. Then, shuffle your deck. If you attached Energy to a Pokémon in this way, place 2 damage counters on that Pokémon.
+attacks:
+- position: 0
+  name:
+    ja: ひっぱたく
+    en: Gentle Slap
+  cost:
+  - Darkness
+  - Darkness
+  - Colorless
+  damage: '100'
+  effect_text:
+    ja:
+    en:
+first_appearance:
+  set_name_ja: インフェルノX
+  released_at: '2025-09-26'
+  regulation_mark: I
+  collector_number: '057'
+  image_url:

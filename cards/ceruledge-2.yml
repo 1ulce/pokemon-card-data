@@ -1,0 +1,47 @@
+---
+schema_version: 1
+slug: ceruledge-2
+name:
+  ja: ソウブレイズ
+  en: Ceruledge
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Fire
+hp: 140
+retreat_cost: 2
+regulation_mark: I
+meta_tags: []
+evolves_from:
+  ja: カルボウ
+  en: Charcadet
+weakness:
+  type: Water
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: れんごくざん
+    en: Infernal Slash
+  cost:
+  - Fire
+  damage: '220'
+  effect_text:
+    ja: 自分の手札から「基本炎エネルギー」を4枚選び、トラッシュする。4枚トラッシュできないなら、このワザは失敗。
+    en: Discard 4 Basic [R] Energy cards from your hand. If you can't discard 4 cards in this way, this attack does nothing.
+first_appearance:
+  set_name_ja: インフェルノX
+  released_at: '2025-09-26'
+  regulation_mark: I
+  collector_number: '020'
+  image_url:

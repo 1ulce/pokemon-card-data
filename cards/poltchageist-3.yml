@@ -1,0 +1,54 @@
+---
+schema_version: 1
+slug: poltchageist-3
+name:
+  ja: チャデス
+  en: Poltchageist
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Grass
+hp: 30
+retreat_cost: 0
+regulation_mark:
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Fire
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities:
+- position: 0
+  name:
+    ja: ばけがくれ
+    en:
+  effect_text:
+    ja: このポケモンは、相手のワザや特性の効果を受けない。
+    en:
+attacks:
+- position: 0
+  name:
+    ja: ひっそりのせる 
+    en:
+  cost:
+  - Colorless
+  damage:
+  effect_text:
+    ja: 相手のバトルポケモンに、ダメカンを1個のせる。
+    en:
+first_appearance:
+  set_name_ja: アビスアイ
+  released_at: '2026-05-22'
+  regulation_mark: J
+  collector_number: '005'
+  image_url:

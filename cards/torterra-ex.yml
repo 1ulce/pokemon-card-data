@@ -1,0 +1,60 @@
+---
+schema_version: 1
+slug: torterra-ex
+name:
+  ja: ドダイトスex
+  en: Torterra ex
+  prefix:
+card_type: Pokémon
+card_subtype: 2進化
+energy_type: Grass
+hp: 340
+retreat_cost: 4
+regulation_mark: H
+meta_tags:
+- ex
+evolves_from:
+  ja: ハヤシガメ
+  en: Grotle
+weakness:
+  type: Fire
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja: ポケモンexがきぜつしたとき、相手はサイドを2枚とる。
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: もりのこうしん
+    en: Forest March
+  cost:
+  - Grass
+  damage: 30×
+  effect_text:
+    ja: 自分の場の草ポケモンの数×30ダメージ。
+    en: This attack does 30 damage for each of your [G] Pokémon in play.
+- position: 1
+  name:
+    ja: ジャングルハンマー
+    en: Jungle Hammer
+  cost:
+  - Grass
+  - Colorless
+  - Colorless
+  damage: '150'
+  effect_text:
+    ja: このポケモンのHPを「50」回復する。
+    en: Heal 50 damage from this Pokémon.
+first_appearance:
+  set_name_ja: ワイルドフォース
+  released_at: '2024-01-26'
+  regulation_mark: H
+  collector_number: '005'
+  image_url:

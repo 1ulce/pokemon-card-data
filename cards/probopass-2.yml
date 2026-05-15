@@ -1,0 +1,61 @@
+---
+schema_version: 1
+slug: probopass-2
+name:
+  ja: ダイノーズ
+  en: Probopass
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Fighting
+hp: 140
+retreat_cost: 3
+regulation_mark: J
+meta_tags: []
+evolves_from:
+  ja: ノズパス
+  en: Nosepass
+weakness:
+  type: Grass
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: いわころがり
+    en: Rolling Rocks
+  cost:
+  - Fighting
+  - Fighting
+  damage: '60'
+  effect_text:
+    ja:
+    en:
+- position: 1
+  name:
+    ja: ノーズボンバー
+    en: Obliterating Nose
+  cost:
+  - Fighting
+  - Fighting
+  - Fighting
+  - Colorless
+  damage: '260'
+  effect_text:
+    ja: このポケモンについているエネルギーを3個選び、トラッシュする。
+    en: Discard 3 Energy from this Pokémon.
+first_appearance:
+  set_name_ja: ムニキスゼロ
+  released_at: '2026-01-23'
+  regulation_mark: J
+  collector_number: '037'
+  image_url:

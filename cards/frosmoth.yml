@@ -1,0 +1,48 @@
+---
+schema_version: 1
+slug: frosmoth
+name:
+  ja: モスノウ
+  en: Frosmoth
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Water
+hp: 110
+retreat_cost: 2
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja: ユキハミ
+  en: Snom
+weakness:
+  type: Metal
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: いてつくれいき
+    en: Freezing Chill
+  cost:
+  - Water
+  - Water
+  damage: '100'
+  effect_text:
+    ja: 次の相手の番、このワザを受けたポケモンは、ワザが使えない。
+    en: During your opponent's next turn, the Defending Pokémon can't attack.
+first_appearance:
+  set_name_ja: ワイルドフォース
+  released_at: '2024-01-26'
+  regulation_mark: H
+  collector_number: '020'
+  image_url:

@@ -1,0 +1,42 @@
+---
+schema_version: 1
+slug: telepathic-psychic-energy
+name:
+  ja: テレパス超エネルギー
+  en: Telepathic Psychic Energy
+  prefix:
+card_type: Energy
+card_subtype: Special Energy
+energy_type:
+hp:
+retreat_cost:
+regulation_mark: J
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type:
+  value:
+resistance:
+  type:
+  value:
+body_text:
+  ja: |-
+    このカードは、ポケモンについているかぎり、超エネルギー1個ぶんとしてはたらく。
+
+
+
+    このカードを手札から超ポケモンにつけたとき、自分の山札から超タイプのたねポケモンを2枚まで選び、ベンチに出す。そして山札を切る。
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks: []
+first_appearance:
+  set_name_ja: ムニキスゼロ
+  released_at: '2026-01-23'
+  regulation_mark: J
+  collector_number: '079'
+  image_url:

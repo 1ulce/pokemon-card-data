@@ -1,0 +1,59 @@
+---
+schema_version: 1
+slug: keldeo
+name:
+  ja: ケルディオ
+  en: Keldeo
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Water
+hp: 110
+retreat_cost: 1
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Lightning
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: クイックドロー
+    en: Rapid Draw
+  cost:
+  - Water
+  damage: '20'
+  effect_text:
+    ja: 自分の山札を2枚引く。
+    en: Draw 2 cards.
+- position: 1
+  name:
+    ja: アクアブレード
+    en: Aqua Blade
+  cost:
+  - Water
+  - Water
+  - Colorless
+  damage: '110'
+  effect_text:
+    ja:
+    en:
+first_appearance:
+  set_name_ja: ワイルドフォース
+  released_at: '2024-01-26'
+  regulation_mark: H
+  collector_number: '018'
+  image_url:

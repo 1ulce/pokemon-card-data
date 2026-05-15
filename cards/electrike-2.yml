@@ -1,0 +1,47 @@
+---
+schema_version: 1
+slug: electrike-2
+name:
+  ja: ラクライ
+  en: Electrike
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Lightning
+hp: 70
+retreat_cost: 1
+regulation_mark: I
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Fighting
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: でんげき
+    en: Thunder Jolt
+  cost:
+  - Lightning
+  damage: '30'
+  effect_text:
+    ja: このポケモンにも10ダメージ。
+    en: This Pokémon also does 10 damage to itself.
+first_appearance:
+  set_name_ja: メガシンフォニア
+  released_at: '2025-08-01'
+  regulation_mark: I
+  collector_number: '031'
+  image_url:

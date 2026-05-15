@@ -1,0 +1,59 @@
+---
+schema_version: 1
+slug: sandygast
+name:
+  ja: スナバァ
+  en: Sandygast
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Psychic
+hp: 90
+retreat_cost: 3
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Darkness
+  value: "×2"
+resistance:
+  type: Fighting
+  value: "-30"
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: すなかけ
+    en: Sand Attack
+  cost:
+  - Psychic
+  damage: '10'
+  effect_text:
+    ja: 次の相手の番、このワザを受けたポケモンがワザを使うとき、相手はコインを1回投げる。ウラならそのワザは失敗。
+    en: During your opponent's next turn, if the Defending Pokémon tries to use an attack, your opponent flips a coin. If tails, that attack doesn't happen.
+- position: 1
+  name:
+    ja: ホロウショット
+    en: Spooky Shot
+  cost:
+  - Psychic
+  - Colorless
+  - Colorless
+  damage: '30'
+  effect_text:
+    ja:
+    en:
+first_appearance:
+  set_name_ja: 変幻の仮面
+  released_at: '2024-04-26'
+  regulation_mark: H
+  collector_number: '053'
+  image_url:

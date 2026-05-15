@@ -1,0 +1,62 @@
+---
+schema_version: 1
+slug: flamigo-ex-2
+name:
+  ja: カラミンゴex
+  en: Flamigo ex
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Colorless
+hp: 200
+retreat_cost: 1
+regulation_mark: H
+meta_tags:
+- ex
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Lightning
+  value: "×2"
+resistance:
+  type: Fighting
+  value: "-30"
+body_text:
+  ja:
+  en:
+rules_text:
+  ja: ポケモンexがきぜつしたとき、相手はサイドを2枚とる。
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: ジャストビーク
+    en: Precise Beak
+  cost:
+  - Colorless
+  - Colorless
+  damage: 30+
+  effect_text:
+    ja: このポケモンと相手のバトルポケモンについているエネルギーの数が同じなら、100ダメージ追加。
+    en: If this Pokémon and your opponent's Active Pokémon have the same amount of Energy attached, this attack does 100 more damage.
+- position: 1
+  name:
+    ja: ブレイブバード
+    en: Brave Bird
+  cost:
+  - Colorless
+  - Colorless
+  - Colorless
+  - Colorless
+  damage: '200'
+  effect_text:
+    ja: このポケモンにも30ダメージ。
+    en: This Pokémon also does 30 damage to itself.
+first_appearance:
+  set_name_ja: スカーレット＆バイオレット プロモカードパック第5弾
+  released_at:
+  regulation_mark:
+  collector_number: '45398'
+  image_url:

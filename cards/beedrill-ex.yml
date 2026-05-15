@@ -1,0 +1,48 @@
+---
+schema_version: 1
+slug: beedrill-ex
+name:
+  ja: スピアーex
+  en: Beedrill ex
+  prefix:
+card_type: Pokémon
+card_subtype: 2進化
+energy_type: Grass
+hp: 310
+retreat_cost: 1
+regulation_mark:
+meta_tags:
+- ex
+evolves_from:
+  ja: コクーン
+  en: Kakuna
+weakness:
+  type: Fire
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja: ポケモンexがきぜつしたとき、相手はサイドを2枚とる。
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: ビーランブル
+    en:
+  cost:
+  - Grass
+  damage: 110×
+  effect_text:
+    ja: 自分の場の「スピアー（『ポケモンex』をふくむ）」の数×110ダメージ。
+    en:
+first_appearance:
+  set_name_ja: ニンジャスピナー
+  released_at: '2026-03-13'
+  regulation_mark: J
+  collector_number: '003'
+  image_url:

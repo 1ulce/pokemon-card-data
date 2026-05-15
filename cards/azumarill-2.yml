@@ -1,0 +1,57 @@
+---
+schema_version: 1
+slug: azumarill-2
+name:
+  ja: マリルリ
+  en: Azumarill
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Psychic
+hp: 120
+retreat_cost: 2
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja: マリル
+  en: Marill
+weakness:
+  type: Metal
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities:
+- position: 0
+  name:
+    ja: きらきらシャボン
+    en: Glistening Bubbles
+  effect_text:
+    ja: 自分の場に「テラスタル」のポケモンがいるなら、このポケモンが「すてみタックル」を使うためのエネルギーは、超エネルギー1個になる。
+    en: If you have any Tera Pokémon in play, this Pokémon can use the Double-Edge attack for [P].
+attacks:
+- position: 0
+  name:
+    ja: すてみタックル
+    en: Double-Edge
+  cost:
+  - Psychic
+  - Psychic
+  - Psychic
+  - Psychic
+  damage: '230'
+  effect_text:
+    ja: このポケモンにも50ダメージ。
+    en: This Pokémon also does 50 damage to itself.
+first_appearance:
+  set_name_ja: スターターセット テラスタイプ：ステラ ニンフィアex
+  released_at:
+  regulation_mark:
+  collector_number: '004'
+  image_url:

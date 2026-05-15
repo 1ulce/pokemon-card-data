@@ -1,0 +1,47 @@
+---
+schema_version: 1
+slug: slakoth-3
+name:
+  ja: ナマケロ
+  en: Slakoth
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Colorless
+hp: 60
+retreat_cost: 2
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Fighting
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: のんびりする 
+    en: Yawn
+  cost:
+  - Colorless
+  damage:
+  effect_text:
+    ja: このポケモンのHPを「60」回復する。次の自分の番、このポケモンはにげられない。
+    en: Your opponent's Active Pokémon is now Asleep.
+first_appearance:
+  set_name_ja: 超電ブレイカー
+  released_at: '2024-10-18'
+  regulation_mark: H
+  collector_number: '082'
+  image_url:

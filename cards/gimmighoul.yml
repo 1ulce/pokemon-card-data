@@ -1,0 +1,59 @@
+---
+schema_version: 1
+slug: gimmighoul
+name:
+  ja: コレクレー
+  en: Gimmighoul
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Psychic
+hp: 70
+retreat_cost: 2
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Darkness
+  value: "×2"
+resistance:
+  type: Fighting
+  value: "-30"
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: ちいさなおつかい 
+    en: Minor Errand-Running
+  cost:
+  - Colorless
+  damage:
+  effect_text:
+    ja: 自分の山札から基本エネルギーを2枚まで選び、相手に見せて、手札に加える。そして山札を切る。
+    en: Search your deck for up to 2 Basic Energy cards, reveal them, and put them into your hand. Then, shuffle your deck.
+- position: 1
+  name:
+    ja: たいあたり
+    en: Tackle
+  cost:
+  - Colorless
+  - Colorless
+  - Colorless
+  damage: '50'
+  effect_text:
+    ja:
+    en:
+first_appearance:
+  set_name_ja: 楽園ドラゴーナ
+  released_at: '2024-09-13'
+  regulation_mark: H
+  collector_number: '024'
+  image_url:

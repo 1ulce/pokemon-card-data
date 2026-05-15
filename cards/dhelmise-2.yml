@@ -1,0 +1,62 @@
+---
+schema_version: 1
+slug: dhelmise-2
+name:
+  ja: ダダリン
+  en: Dhelmise
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Psychic
+hp: 130
+retreat_cost: 3
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Darkness
+  value: "×2"
+resistance:
+  type: Fighting
+  value: "-30"
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: しばりつける
+    en: Bind Down
+  cost:
+  - Psychic
+  - Colorless
+  - Colorless
+  damage: '60'
+  effect_text:
+    ja: 次の相手の番、このワザを受けたポケモンは、にげられない。
+    en: During your opponent's next turn, the Defending Pokémon can't retreat.
+- position: 1
+  name:
+    ja: アンカースマッシュ
+    en: Anchor Smash
+  cost:
+  - Psychic
+  - Psychic
+  - Colorless
+  - Colorless
+  damage: '130'
+  effect_text:
+    ja:
+    en:
+first_appearance:
+  set_name_ja: スタートデッキGenerations カプ・コケコex・ミミッキュex
+  released_at: '2024-11-22'
+  regulation_mark: H
+  collector_number: '055'
+  image_url:

@@ -1,0 +1,58 @@
+---
+schema_version: 1
+slug: tangela
+name:
+  ja: モンジャラ
+  en: Tangela
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Grass
+hp: 80
+retreat_cost: 2
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Fire
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: ひっぱたく
+    en: Gentle Slap
+  cost:
+  - Colorless
+  damage: '10'
+  effect_text:
+    ja:
+    en:
+- position: 1
+  name:
+    ja: つるでうつ
+    en: Vine Slap
+  cost:
+  - Grass
+  - Colorless
+  damage: '30'
+  effect_text:
+    ja:
+    en:
+first_appearance:
+  set_name_ja: クリムゾンヘイズ
+  released_at: '2024-03-22'
+  regulation_mark: H
+  collector_number: '001'
+  image_url:

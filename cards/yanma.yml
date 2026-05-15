@@ -1,0 +1,48 @@
+---
+schema_version: 1
+slug: yanma
+name:
+  ja: ヤンヤンマ
+  en: Yanma
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Grass
+hp: 60
+retreat_cost: 1
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Lightning
+  value: "×2"
+resistance:
+  type: Fighting
+  value: "-30"
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: サイレントウイング
+    en: Silent Wing
+  cost:
+  - Grass
+  - Colorless
+  damage: '20'
+  effect_text:
+    ja: 相手の手札を見る。
+    en: Your opponent reveals their hand.
+first_appearance:
+  set_name_ja: スカーレット＆バイオレット プロモカードパック第7弾
+  released_at:
+  regulation_mark:
+  collector_number: '46124'
+  image_url:

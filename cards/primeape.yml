@@ -1,0 +1,58 @@
+---
+schema_version: 1
+slug: primeape
+name:
+  ja: オコリザル
+  en: Primeape
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Fighting
+hp: 110
+retreat_cost: 2
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja: マンキー
+  en: Mankey
+weakness:
+  type: Psychic
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: あしばらい
+    en: Sweep the Leg
+  cost:
+  - Fighting
+  damage: '30'
+  effect_text:
+    ja: コインを1回投げオモテなら、相手のバトルポケモンについているエネルギーを1個選び、トラッシュする。
+    en: Flip a coin. If heads, discard an Energy from your opponent's Active Pokémon.
+- position: 1
+  name:
+    ja: メガトンパンチ
+    en: Mega Punch
+  cost:
+  - Fighting
+  - Colorless
+  damage: '70'
+  effect_text:
+    ja:
+    en:
+first_appearance:
+  set_name_ja: 超電ブレイカー
+  released_at: '2024-10-18'
+  regulation_mark: H
+  collector_number: '061'
+  image_url:

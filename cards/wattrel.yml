@@ -1,0 +1,47 @@
+---
+schema_version: 1
+slug: wattrel
+name:
+  ja: カイデン
+  en: Wattrel
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Lightning
+hp: 60
+retreat_cost: 1
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Lightning
+  value: "×2"
+resistance:
+  type: Fighting
+  value: "-30"
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: でんきショック
+    en: Thunder Shock
+  cost:
+  - Lightning
+  damage: '10'
+  effect_text:
+    ja: コインを1回投げオモテなら、相手のバトルポケモンをマヒにする。
+    en: Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed.
+first_appearance:
+  set_name_ja: 変幻の仮面
+  released_at: '2024-04-26'
+  regulation_mark: H
+  collector_number: '043'
+  image_url:

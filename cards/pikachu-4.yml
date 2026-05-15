@@ -1,0 +1,49 @@
+---
+schema_version: 1
+slug: pikachu-4
+name:
+  ja: ピカチュウ
+  en: Pikachu
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Lightning
+hp: 70
+retreat_cost: 1
+regulation_mark: G
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Fighting
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: げきとうスパーク
+    en: Scrappy Spark
+  cost:
+  - Lightning
+  - Lightning
+  - Colorless
+  damage: 30+
+  effect_text:
+    ja: ウラが出るまでコインを投げ、オモテの数×30ダメージ追加。
+    en: Flip a coin until you get tails. This attack does 30 more damage for each heads.
+first_appearance:
+  set_name_ja: ピカチュウ
+  released_at: '2023-03-24'
+  regulation_mark:
+  collector_number: '46294'
+  image_url:

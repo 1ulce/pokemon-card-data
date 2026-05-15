@@ -1,0 +1,57 @@
+---
+schema_version: 1
+slug: dedenne
+name:
+  ja: デデンネ
+  en: Dedenne
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Psychic
+hp: 70
+retreat_cost: 1
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Metal
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: でんじソナー 
+    en: Electromagnetic Sonar
+  cost:
+  - Colorless
+  damage:
+  effect_text:
+    ja: 自分のトラッシュからトレーナーズを1枚選び、相手に見せて、手札に加える。
+    en: Put a Trainer card from your discard pile into your hand.
+- position: 1
+  name:
+    ja: かじる
+    en: Gnaw
+  cost:
+  - Psychic
+  damage: '30'
+  effect_text:
+    ja:
+    en:
+first_appearance:
+  set_name_ja: 超電ブレイカー
+  released_at: '2024-10-18'
+  regulation_mark: H
+  collector_number: '055'
+  image_url:

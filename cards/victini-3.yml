@@ -1,0 +1,55 @@
+---
+schema_version: 1
+slug: victini-3
+name:
+  ja: ビクティニ
+  en: Victini
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Fire
+hp: 70
+retreat_cost: 1
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Water
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities:
+- position: 0
+  name:
+    ja: ビクトリーエール
+    en: Victory Cheer
+  effect_text:
+    ja: このポケモンがいるかぎり、自分の炎タイプの進化ポケモンが使うワザの、相手のバトルポケモンへのダメージは「+10」される。
+    en: Attacks used by your Evolution [R] Pokémon do 10 more damage to your opponent's Active Pokémon (before applying Weakness and Resistance).
+attacks:
+- position: 0
+  name:
+    ja: ほのお
+    en: Flare
+  cost:
+  - Fire
+  - Colorless
+  damage: '30'
+  effect_text:
+    ja:
+    en:
+first_appearance:
+  set_name_ja: 超電ブレイカー
+  released_at: '2024-10-18'
+  regulation_mark: H
+  collector_number: '012'
+  image_url:

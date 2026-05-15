@@ -1,0 +1,47 @@
+---
+schema_version: 1
+slug: hippopotas
+name:
+  ja: ヒポポタス
+  en: Hippopotas
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Fighting
+hp: 90
+retreat_cost: 3
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Grass
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: つきとばす
+    en: Push Down
+  cost:
+  - Fighting
+  damage: '10'
+  effect_text:
+    ja: 相手のバトルポケモンをベンチポケモンと入れ替える。［バトル場に出すポケモンは相手が選ぶ。］
+    en: Switch out your opponent's Active Pokémon to the Bench. (Your opponent chooses the new Active Pokémon.)
+first_appearance:
+  set_name_ja: スカーレット＆バイオレット プロモカードパック第8弾
+  released_at:
+  regulation_mark:
+  collector_number: '46449'
+  image_url:

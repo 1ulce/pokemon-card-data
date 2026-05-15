@@ -1,0 +1,55 @@
+---
+schema_version: 1
+slug: annihilape-2
+name:
+  ja: コノヨザル
+  en: Annihilape
+  prefix:
+card_type: Pokémon
+card_subtype: 2進化
+energy_type: Fighting
+hp: 150
+retreat_cost: 2
+regulation_mark: I
+meta_tags: []
+evolves_from:
+  ja: オコリザル
+  en: Primeape
+weakness:
+  type: Psychic
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities:
+- position: 0
+  name:
+    ja: ふんどのつぼ
+    en: Lose Cool
+  effect_text:
+    ja: このポケモンにダメカンが2個以上のっているなら、このポケモンが使うワザの、相手のバトルポケモンへのダメージは「+120」される。
+    en: If this Pokémon has 2 or more damage counters on it, attacks used by this Pokémon do 120 more damage to your opponent's Active Pokémon (before applying Weakness and Resistance).
+attacks:
+- position: 0
+  name:
+    ja: インパクトブロー
+    en: Impact Blow
+  cost:
+  - Fighting
+  - Fighting
+  damage: '160'
+  effect_text:
+    ja: 次の自分の番、このポケモンは「インパクトブロー」が使えない。
+    en: During your next turn, this Pokémon can't use Impact Blow.
+first_appearance:
+  set_name_ja: ロケット団の栄光
+  released_at: '2025-04-18'
+  regulation_mark: I
+  collector_number: '047'
+  image_url:

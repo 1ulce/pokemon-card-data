@@ -1,0 +1,56 @@
+---
+schema_version: 1
+slug: archaludon
+name:
+  ja: ブリジュラス
+  en: Archaludon
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Metal
+hp: 180
+retreat_cost: 2
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja: ジュラルドン
+  en: Duraludon
+weakness:
+  type: Fire
+  value: "×2"
+resistance:
+  type: Grass
+  value: "-30"
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities:
+- position: 0
+  name:
+    ja: はがねのかけはし
+    en: Metal Bridge
+  effect_text:
+    ja: このポケモンがいるかぎり、鋼エネルギーがついている自分のポケモン全員のにげるためのエネルギーは、すべてなくなる。
+    en: All of your Pokémon that have [M] Energy attached have no Retreat Cost.
+attacks:
+- position: 0
+  name:
+    ja: アイアンブラスター
+    en: Iron Blaster
+  cost:
+  - Metal
+  - Metal
+  - Colorless
+  damage: '160'
+  effect_text:
+    ja: 次の自分の番、このポケモンはワザが使えない。
+    en: During your next turn, this Pokémon can't attack.
+first_appearance:
+  set_name_ja: ステラミラクル
+  released_at: '2024-07-19'
+  regulation_mark: H
+  collector_number: '073'
+  image_url:

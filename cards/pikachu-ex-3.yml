@@ -1,0 +1,50 @@
+---
+schema_version: 1
+slug: pikachu-ex-3
+name:
+  ja: ピカチュウex
+  en: Pikachu ex
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Lightning
+hp: 200
+retreat_cost: 1
+regulation_mark:
+meta_tags:
+- ex
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Fighting
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja: ポケモンexがきぜつしたとき、相手はサイドを2枚とる。
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: ボルテッカー
+    en:
+  cost:
+  - Lightning
+  - Lightning
+  - Colorless
+  damage: '210'
+  effect_text:
+    ja: このポケモンにも30ダメージ。
+    en:
+first_appearance:
+  set_name_ja: スタートデッキ100 バトルコレクション コロちゃおVer.
+  released_at: '2025-12-19'
+  regulation_mark: J
+  collector_number: '006'
+  image_url:

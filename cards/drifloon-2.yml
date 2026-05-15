@@ -1,0 +1,47 @@
+---
+schema_version: 1
+slug: drifloon-2
+name:
+  ja: フワンテ
+  en: Drifloon
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Psychic
+hp: 70
+retreat_cost: 1
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Darkness
+  value: "×2"
+resistance:
+  type: Fighting
+  value: "-30"
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: ふくらむ
+    en: Expand
+  cost:
+  - Psychic
+  damage: '10'
+  effect_text:
+    ja: 次の相手の番、このポケモンが受けるワザのダメージは「-10」される。
+    en: During your opponent's next turn, this Pokémon takes 10 less damage from attacks (after applying Weakness and Resistance).
+first_appearance:
+  set_name_ja: ステラミラクル
+  released_at: '2024-07-19'
+  regulation_mark: H
+  collector_number: '040'
+  image_url:

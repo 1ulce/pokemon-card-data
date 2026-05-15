@@ -1,0 +1,59 @@
+---
+schema_version: 1
+slug: cobalion
+name:
+  ja: コバルオン
+  en: Cobalion
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Metal
+hp: 120
+retreat_cost: 2
+regulation_mark: I
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Fire
+  value: "×2"
+resistance:
+  type: Grass
+  value: "-30"
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: ホーリーエッジ
+    en: Righteous Edge
+  cost:
+  - Metal
+  damage: '20'
+  effect_text:
+    ja: 相手のバトルポケモンについている特殊エネルギーを1個選び、トラッシュする。
+    en: Discard a Special Energy from your opponent's Active Pokémon.
+- position: 1
+  name:
+    ja: メタルアームズ
+    en: Metal Arms
+  cost:
+  - Metal
+  - Metal
+  - Colorless
+  damage: 80+
+  effect_text:
+    ja: このポケモンに「ポケモンのどうぐ」がついているなら、40ダメージ追加。
+    en: If this Pokémon has a Pokémon Tool attached, this attack does 40 more damage.
+first_appearance:
+  set_name_ja: ブラックボルト
+  released_at: '2025-06-06'
+  regulation_mark: I
+  collector_number: '068'
+  image_url:

@@ -1,0 +1,58 @@
+---
+schema_version: 1
+slug: tropius-2
+name:
+  ja: トロピウス
+  en: Tropius
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Colorless
+hp: 110
+retreat_cost: 1
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Lightning
+  value: "×2"
+resistance:
+  type: Fighting
+  value: "-30"
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: かじつのみのり 
+    en: Fruit Bearing
+  cost:
+  - Colorless
+  damage:
+  effect_text:
+    ja: 自分の手札を1枚トラッシュする。その後、自分の山札を3枚引く。
+    en: Discard a card from your hand. If you do, draw 3 cards.
+- position: 1
+  name:
+    ja: かぜおこし
+    en: Gust
+  cost:
+  - Colorless
+  - Colorless
+  damage: '50'
+  effect_text:
+    ja:
+    en:
+first_appearance:
+  set_name_ja: スタートデッキGenerations カイオーガex・バシャーモex
+  released_at: '2024-11-22'
+  regulation_mark: H
+  collector_number: '101'
+  image_url:

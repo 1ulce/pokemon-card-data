@@ -1,0 +1,47 @@
+---
+schema_version: 1
+slug: sunkern
+name:
+  ja: ヒマナッツ
+  en: Sunkern
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Grass
+hp: 40
+retreat_cost: 1
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Fire
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: タネマシンガン
+    en: Bullet Seed
+  cost:
+  - Grass
+  damage: 10×
+  effect_text:
+    ja: コインを4回投げ、オモテの数×10ダメージ。
+    en: Flip 4 coins. This attack does 10 damage for each heads.
+first_appearance:
+  set_name_ja: 変幻の仮面
+  released_at: '2024-04-26'
+  regulation_mark: H
+  collector_number: '001'
+  image_url:

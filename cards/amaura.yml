@@ -1,0 +1,48 @@
+---
+schema_version: 1
+slug: amaura
+name:
+  ja: アマルス
+  en: Amaura
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Water
+hp: 100
+retreat_cost: 3
+regulation_mark: J
+meta_tags: []
+evolves_from:
+  ja: 古びたヒレの化石
+  en: Antique Sail Fossil
+weakness:
+  type: Metal
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: こごえるかぜ
+    en: Icy Wind
+  cost:
+  - Water
+  - Colorless
+  damage: '50'
+  effect_text:
+    ja: 相手のバトルポケモンをねむりにする。
+    en: Your opponent's Active Pokémon is now Asleep.
+first_appearance:
+  set_name_ja: ムニキスゼロ
+  released_at: '2026-01-23'
+  regulation_mark: J
+  collector_number: '022'
+  image_url:

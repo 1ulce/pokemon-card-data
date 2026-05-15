@@ -1,0 +1,56 @@
+---
+schema_version: 1
+slug: lillie-s-clefairy-ex
+name:
+  ja: リーリエのピッピex
+  en: Lillie's Clefairy ex
+  prefix: Lillie's
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Psychic
+hp: 190
+retreat_cost: 1
+regulation_mark: I
+meta_tags:
+- ex
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Metal
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja: ポケモンexがきぜつしたとき、相手はサイドを2枚とる。
+  en:
+abilities:
+- position: 0
+  name:
+    ja: フェアリーゾーン
+    en: Fairy Zone
+  effect_text:
+    ja: このポケモンがいるかぎり、相手の場のドラゴンポケモン全員の弱点は、すべて超タイプになる。［弱点は「×2」で計算する。］
+    en: The Weakness of each of your opponent's [N] Pokémon in play is now [P]. (Apply Weakness as ×2.)
+attacks:
+- position: 0
+  name:
+    ja: フルムーンロンド
+    en: Full Moon Rondo
+  cost:
+  - Psychic
+  - Colorless
+  damage: 20+
+  effect_text:
+    ja: おたがいのベンチポケモンの数×20ダメージ追加。
+    en: This attack does 20 more damage for each Benched Pokémon (both yours and your opponent's).
+first_appearance:
+  set_name_ja: バトルパートナーズ
+  released_at: '2025-01-24'
+  regulation_mark: I
+  collector_number: '033'
+  image_url:

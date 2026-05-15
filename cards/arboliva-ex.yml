@@ -1,0 +1,60 @@
+---
+schema_version: 1
+slug: arboliva-ex
+name:
+  ja: オリーヴァex
+  en: Arboliva ex
+  prefix:
+card_type: Pokémon
+card_subtype: 2進化
+energy_type: Grass
+hp: 310
+retreat_cost: 2
+regulation_mark: I
+meta_tags:
+- ex
+evolves_from:
+  ja: オリーニョ
+  en: Dolliv
+weakness:
+  type: Fire
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja: ポケモンexがきぜつしたとき、相手はサイドを2枚とる。
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: オイルマシンガン 
+    en: Oil Salvo
+  cost:
+  - Grass
+  damage:
+  effect_text:
+    ja: 相手のポケモンを6回選び、選んだポケモン全員に、弱点・抵抗力を計算せず、選んだ回数×20ダメージ。（1匹を2回以上選べる。）
+    en: Choose 1 of your opponent's Pokémon 6 times. (You can choose the same Pokémon more than once.) For each time you chose a Pokémon, do 20 damage to it. This damage isn't affected by Weakness or Resistance.
+- position: 1
+  name:
+    ja: アロマシュート
+    en: Aroma Shot
+  cost:
+  - Colorless
+  - Colorless
+  - Colorless
+  damage: '160'
+  effect_text:
+    ja: このポケモンの特殊状態を、すべて回復する。
+    en: This Pokémon recovers from all Special Conditions.
+first_appearance:
+  set_name_ja: ロケット団の栄光
+  released_at: '2025-04-18'
+  regulation_mark: I
+  collector_number: '012'
+  image_url:

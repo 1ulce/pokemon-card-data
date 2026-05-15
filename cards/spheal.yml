@@ -1,0 +1,47 @@
+---
+schema_version: 1
+slug: spheal
+name:
+  ja: タマザラシ
+  en: Spheal
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Water
+hp: 70
+retreat_cost: 2
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Metal
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: こなゆき
+    en: Powder Snow
+  cost:
+  - Water
+  damage: '10'
+  effect_text:
+    ja: 相手のバトルポケモンをねむりにする。
+    en: Your opponent's Active Pokémon is now Asleep.
+first_appearance:
+  set_name_ja: 超電ブレイカー
+  released_at: '2024-10-18'
+  regulation_mark: H
+  collector_number: '027'
+  image_url:

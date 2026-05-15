@@ -1,0 +1,57 @@
+---
+schema_version: 1
+slug: wooper
+name:
+  ja: ウパー
+  en: Wooper
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Water
+hp: 60
+retreat_cost: 1
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Lightning
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: みずくみ 
+    en: Scoop Water
+  cost:
+  - Water
+  damage:
+  effect_text:
+    ja: 自分のトラッシュから「基本水エネルギー」を3枚まで選び、相手に見せて、山札にもどして切る。
+    en: Shuffle up to 3 Basic [W] Energy cards from your discard pile into your deck.
+- position: 1
+  name:
+    ja: ずつき
+    en: Headbutt
+  cost:
+  - Water
+  damage: '10'
+  effect_text:
+    ja:
+    en:
+first_appearance:
+  set_name_ja: スカーレット＆バイオレット プロモカードパック第5弾
+  released_at:
+  regulation_mark:
+  collector_number: '45395'
+  image_url:

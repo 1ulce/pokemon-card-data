@@ -1,0 +1,60 @@
+---
+schema_version: 1
+slug: carkol
+name:
+  ja: トロッゴン
+  en: Carkol
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Fighting
+hp: 110
+retreat_cost: 4
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja: タンドン
+  en: Rolycoly
+weakness:
+  type: Grass
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: はねとばす
+    en: Knock Away
+  cost:
+  - Fighting
+  damage: 20+
+  effect_text:
+    ja: コインを1回投げオモテなら、40ダメージ追加。
+    en: Flip a coin. If heads, this attack does 40 more damage.
+- position: 1
+  name:
+    ja: ロックスマッシュ
+    en: Boulder Crush
+  cost:
+  - Fighting
+  - Colorless
+  - Colorless
+  - Colorless
+  damage: '80'
+  effect_text:
+    ja:
+    en:
+first_appearance:
+  set_name_ja: ワイルドフォース
+  released_at: '2024-01-26'
+  regulation_mark: H
+  collector_number: '040'
+  image_url:

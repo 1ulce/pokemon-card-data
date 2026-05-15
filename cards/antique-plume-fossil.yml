@@ -1,0 +1,47 @@
+---
+schema_version: 1
+slug: antique-plume-fossil
+name:
+  ja: 古びたはねの化石
+  en: Antique Plume Fossil
+  prefix:
+card_type: Trainer
+card_subtype: Item
+energy_type:
+hp:
+retreat_cost:
+regulation_mark: I
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type:
+  value:
+resistance:
+  type:
+  value:
+body_text:
+  ja: |-
+    このカードは、HP60のタイプのたねポケモンとして、場に出せる。このカードは、特殊状態にならず、にげられない。
+
+    自分の番の中でなら、場に出ているこのカードをトラッシュできる。
+  en:
+rules_text:
+  ja:
+  en:
+abilities:
+- position: 0
+  name:
+    ja: はねのまもり
+    en:
+  effect_text:
+    ja: このポケモンは、ベンチにいるかぎり、相手のポケモンからワザのダメージを受けない。
+    en:
+attacks: []
+first_appearance:
+  set_name_ja: ホワイトフレア
+  released_at: '2025-06-06'
+  regulation_mark: I
+  collector_number: '081'
+  image_url:

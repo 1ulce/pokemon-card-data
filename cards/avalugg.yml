@@ -1,0 +1,60 @@
+---
+schema_version: 1
+slug: avalugg
+name:
+  ja: クレベース
+  en: Avalugg
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Water
+hp: 160
+retreat_cost: 4
+regulation_mark:
+meta_tags: []
+evolves_from:
+  ja: カチコール
+  en: Bergmite
+weakness:
+  type: Metal
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: ひょうざんくずし
+    en:
+  cost:
+  - Water
+  damage: 60×
+  effect_text:
+    ja: 自分の山札を上から6枚トラッシュし、その中にある「基本水エネルギー」の枚数×60ダメージ。
+    en:
+- position: 1
+  name:
+    ja: フロストスタンプ
+    en:
+  cost:
+  - Water
+  - Water
+  - Colorless
+  - Colorless
+  damage: '160'
+  effect_text:
+    ja:
+    en:
+first_appearance:
+  set_name_ja: ニンジャスピナー
+  released_at: '2026-03-13'
+  regulation_mark: J
+  collector_number: '024'
+  image_url:

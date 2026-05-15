@@ -1,0 +1,59 @@
+---
+schema_version: 1
+slug: pangoro
+name:
+  ja: ゴロンダ
+  en: Pangoro
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Darkness
+hp: 140
+retreat_cost: 3
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja: ヤンチャム
+  en: Pancham
+weakness:
+  type: Grass
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: ひっぱる 
+    en: Pull
+  cost:
+  - Darkness
+  damage:
+  effect_text:
+    ja: 相手のベンチポケモンを1匹選び、バトルポケモンと入れ替える。
+    en: Switch in 1 of your opponent's Benched Pokémon to the Active Spot.
+- position: 1
+  name:
+    ja: あばれまわる
+    en: Tantrum
+  cost:
+  - Darkness
+  - Darkness
+  - Colorless
+  damage: '160'
+  effect_text:
+    ja: このポケモンをこんらんにする。
+    en: This Pokémon is now Confused.
+first_appearance:
+  set_name_ja: ステラミラクル
+  released_at: '2024-07-19'
+  regulation_mark: H
+  collector_number: '063'
+  image_url:

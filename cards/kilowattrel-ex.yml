@@ -1,0 +1,59 @@
+---
+schema_version: 1
+slug: kilowattrel-ex
+name:
+  ja: タイカイデンex
+  en: Kilowattrel ex
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Lightning
+hp: 260
+retreat_cost: 0
+regulation_mark: H
+meta_tags:
+- ex
+evolves_from:
+  ja: カイデン
+  en: Wattrel
+weakness:
+  type: Lightning
+  value: "×2"
+resistance:
+  type: Fighting
+  value: "-30"
+body_text:
+  ja:
+  en:
+rules_text:
+  ja: ポケモンexがきぜつしたとき、相手はサイドを2枚とる。
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: リターンチャージ 
+    en: Return Charge
+  cost:
+  - Lightning
+  damage:
+  effect_text:
+    ja: このポケモンをベンチポケモンと入れ替える。その後、自分の手札から「基本雷エネルギー」を2枚まで選び、このポケモンにつける。
+    en: Switch this Pokémon with 1 of your Benched Pokémon. If you do, attach up to 2 Basic [L] Energy cards from your hand to this Pokémon.
+- position: 1
+  name:
+    ja: サンダーランス
+    en: Thunder Lance
+  cost:
+  - Colorless
+  - Colorless
+  damage: 40+
+  effect_text:
+    ja: このポケモンについている雷エネルギーの数×40ダメージ追加。
+    en: This attack does 40 more damage for each [L] Energy attached to this Pokémon.
+first_appearance:
+  set_name_ja: スカーレット＆バイオレット プロモカードパック第6弾
+  released_at:
+  regulation_mark:
+  collector_number: '45794'
+  image_url:

@@ -1,0 +1,62 @@
+---
+schema_version: 1
+slug: hearthflame-mask-ogerpon-ex
+name:
+  ja: オーガポン かまどのめんex
+  en: Hearthflame Mask Ogerpon ex
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Fire
+hp: 210
+retreat_cost: 1
+regulation_mark: H
+meta_tags:
+- ex
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Water
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja: ポケモンexがきぜつしたとき、相手はサイドを2枚とる。
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: いかりがま
+    en: Wrathful Hearth
+  cost:
+  - Fire
+  - Colorless
+  - Colorless
+  damage: 20×
+  effect_text:
+    ja: このポケモンにのっているダメカンの数×20ダメージ。
+    en: This attack does 20 damage for each damage counter on this Pokémon.
+- position: 1
+  name:
+    ja: ダイナミックブレイズ
+    en: Dynamic Blaze
+  cost:
+  - Fire
+  - Fire
+  - Fire
+  damage: 140+
+  effect_text:
+    ja: 相手のバトルポケモンが進化ポケモンなら、140ダメージ追加。その場合、このポケモンについているエネルギーを、すべてトラッシュする。
+    en: If your opponent's Active Pokémon is an Evolution Pokémon, this attack does 140 more damage, and discard all Energy from this Pokémon.
+first_appearance:
+  set_name_ja: 変幻の仮面
+  released_at: '2024-04-26'
+  regulation_mark: H
+  collector_number: '022'
+  image_url:

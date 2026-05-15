@@ -1,0 +1,59 @@
+---
+schema_version: 1
+slug: hydreigon-ex-2
+name:
+  ja: サザンドラex
+  en: Hydreigon ex
+  prefix:
+card_type: Pokémon
+card_subtype: 2進化
+energy_type: Darkness
+hp: 330
+retreat_cost: 3
+regulation_mark: I
+meta_tags:
+- ex
+evolves_from:
+  ja: ジヘッド
+  en: Zweilous
+weakness:
+  type: Grass
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja: ポケモンexがきぜつしたとき、相手はサイドを2枚とる。
+  en:
+abilities:
+- position: 0
+  name:
+    ja: グリードイーター
+    en: Greedy Eater
+  effect_text:
+    ja: このポケモンが使うワザのダメージで、相手のたねポケモンがきぜつしたなら、サイドを1枚多くとる。
+    en: If your opponent's Basic Pokémon is Knocked Out by damage from an attack used by this Pokémon, take 1 more Prize card.
+attacks:
+- position: 0
+  name:
+    ja: ダークバイト
+    en: Dark Bite
+  cost:
+  - Darkness
+  - Darkness
+  - Darkness
+  - Colorless
+  - Colorless
+  damage: '200'
+  effect_text:
+    ja: 次の相手の番、このワザを受けたポケモンは、にげられない。
+    en: During your opponent's next turn, the Defending Pokémon can't retreat.
+first_appearance:
+  set_name_ja: ホワイトフレア
+  released_at: '2025-06-06'
+  regulation_mark: I
+  collector_number: '062'
+  image_url:

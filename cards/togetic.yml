@@ -1,0 +1,48 @@
+---
+schema_version: 1
+slug: togetic
+name:
+  ja: トゲチック
+  en: Togetic
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Psychic
+hp: 90
+retreat_cost: 1
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja: トゲピー
+  en: Togepi
+weakness:
+  type: Metal
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: ドレインキッス
+    en: Draining Kiss
+  cost:
+  - Colorless
+  - Colorless
+  damage: '30'
+  effect_text:
+    ja: このポケモンのHPを「30」回復する。
+    en: Heal 30 damage from this Pokémon.
+first_appearance:
+  set_name_ja: 超電ブレイカー
+  released_at: '2024-10-18'
+  regulation_mark: H
+  collector_number: '046'
+  image_url:

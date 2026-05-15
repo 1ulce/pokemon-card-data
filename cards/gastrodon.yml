@@ -1,0 +1,56 @@
+---
+schema_version: 1
+slug: gastrodon
+name:
+  ja: トリトドン
+  en: Gastrodon
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Fighting
+hp: 130
+retreat_cost: 3
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja: カラナクシ
+  en: Shellos
+weakness:
+  type: Grass
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities:
+- position: 0
+  name:
+    ja: ねんちゃくしばり
+    en: Sticky Bind
+  effect_text:
+    ja: このポケモンがベンチにいるかぎり、おたがいのベンチの2進化ポケモンの特性は、すべてなくなる。
+    en: As long as this Pokémon is on your Bench, Benched Stage 2 Pokémon (both yours and your opponent's) have no Abilities.
+attacks:
+- position: 0
+  name:
+    ja: マッドショット
+    en: Mud Shot
+  cost:
+  - Fighting
+  - Colorless
+  - Colorless
+  damage: '80'
+  effect_text:
+    ja:
+    en:
+first_appearance:
+  set_name_ja: 超電ブレイカー
+  released_at: '2024-10-18'
+  regulation_mark: H
+  collector_number: '066'
+  image_url:

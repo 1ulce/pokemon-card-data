@@ -1,0 +1,48 @@
+---
+schema_version: 1
+slug: cetoddle
+name:
+  ja: アルクジラ
+  en: Cetoddle
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Water
+hp: 100
+retreat_cost: 3
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Metal
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: ドレインフィン
+    en: Draining Fin
+  cost:
+  - Water
+  - Colorless
+  damage: '20'
+  effect_text:
+    ja: このポケモンのHPを「20」回復する。
+    en: Heal 20 damage from this Pokémon.
+first_appearance:
+  set_name_ja: 楽園ドラゴーナ
+  released_at: '2024-09-13'
+  regulation_mark: H
+  collector_number: '016'
+  image_url:

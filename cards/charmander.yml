@@ -1,0 +1,54 @@
+---
+schema_version: 1
+slug: charmander
+name:
+  ja: ヒトカゲ
+  en: Charmander
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Fire
+hp: 80
+retreat_cost: 2
+regulation_mark: I
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Water
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities:
+- position: 0
+  name:
+    ja: みがる
+    en: Agile
+  effect_text:
+    ja: このポケモンにエネルギーがついていないなら、このポケモンはにげるためのエネルギーが、すべてなくなる。
+    en: If this Pokémon has no Energy attached, it has no Retreat Cost.
+attacks:
+- position: 0
+  name:
+    ja: ひだね
+    en: Live Coal
+  cost:
+  - Fire
+  damage: '20'
+  effect_text:
+    ja:
+    en:
+first_appearance:
+  set_name_ja: インフェルノX
+  released_at: '2025-09-26'
+  regulation_mark: I
+  collector_number: '011'
+  image_url:

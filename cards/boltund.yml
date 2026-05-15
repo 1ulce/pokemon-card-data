@@ -1,0 +1,47 @@
+---
+schema_version: 1
+slug: boltund
+name:
+  ja: パルスワン
+  en: Boltund
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Lightning
+hp: 120
+retreat_cost: 1
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja: ワンパチ
+  en: Yamper
+weakness:
+  type: Fighting
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: そうでんダッシュ
+    en: Electrifying Dash
+  cost:
+  - Colorless
+  damage: '50'
+  effect_text:
+    ja: 自分の山札から「基本雷エネルギー」を2枚まで選び、ベンチポケモンに好きなようにつける。そして山札を切る。
+    en: Search your deck for up to 2 Basic [L] Energy cards and attach them to your Benched Pokémon in any way you like. Then, shuffle your deck.
+first_appearance:
+  set_name_ja: 未来のミライドンex
+  released_at: '2024-01-26'
+  regulation_mark: H
+  collector_number: '005'
+  image_url:

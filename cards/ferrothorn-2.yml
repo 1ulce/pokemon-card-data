@@ -1,0 +1,55 @@
+---
+schema_version: 1
+slug: ferrothorn-2
+name:
+  ja: ナットレイ
+  en: Ferrothorn
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Metal
+hp: 130
+retreat_cost: 3
+regulation_mark:
+meta_tags: []
+evolves_from:
+  ja: テッシード
+  en: Ferroseed
+weakness:
+  type: Fire
+  value: "×2"
+resistance:
+  type: Grass
+  value: "-30"
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities:
+- position: 0
+  name:
+    ja: どっきりおとし
+    en:
+  effect_text:
+    ja: 相手の番に、このカードが相手のワザ・特性・グッズ・サポートの効果で山札からトラッシュされたとき、相手の山札を上から8枚トラッシュする。
+    en:
+attacks:
+- position: 0
+  name:
+    ja: スペシャルウィップ
+    en:
+  cost:
+  - Metal
+  - Metal
+  damage: 70+
+  effect_text:
+    ja: このポケモンに特殊エネルギーがついているなら、70ダメージ追加。
+    en:
+first_appearance:
+  set_name_ja: ニンジャスピナー
+  released_at: '2026-03-13'
+  regulation_mark: J
+  collector_number: '061'
+  image_url:

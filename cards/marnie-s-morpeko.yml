@@ -1,0 +1,49 @@
+---
+schema_version: 1
+slug: marnie-s-morpeko
+name:
+  ja: マリィのモルペコ
+  en: Marnie's Morpeko
+  prefix: Marnie's
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Darkness
+hp: 70
+retreat_cost: 0
+regulation_mark: I
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Grass
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: スパイクホイール
+    en: Spiky Wheel
+  cost:
+  - Colorless
+  - Colorless
+  - Colorless
+  damage: 20+
+  effect_text:
+    ja: このポケモンについている悪エネルギーの数×40ダメージ追加。
+    en: This attack does 40 more damage for each [D] Energy attached to this Pokémon.
+first_appearance:
+  set_name_ja: スターターセットex マリィのモルペコ＆オーロンゲex
+  released_at:
+  regulation_mark:
+  collector_number: '008'
+  image_url:

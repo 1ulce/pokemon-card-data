@@ -1,0 +1,51 @@
+---
+schema_version: 1
+slug: melmetal-ex
+name:
+  ja: メルメタルex
+  en: Melmetal ex
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Metal
+hp: 280
+retreat_cost: 3
+regulation_mark: H
+meta_tags:
+- ex
+evolves_from:
+  ja: メルタン
+  en: Meltan
+weakness:
+  type: Fire
+  value: "×2"
+resistance:
+  type: Grass
+  value: "-30"
+body_text:
+  ja:
+  en:
+rules_text:
+  ja: ポケモンexがきぜつしたとき、相手はサイドを2枚とる。
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: アイアンスイング
+    en: Iron Swing
+  cost:
+  - Metal
+  - Metal
+  - Colorless
+  - Colorless
+  damage: 100×
+  effect_text:
+    ja: コインを2回投げ、オモテの数×100ダメージ。
+    en: Flip 2 coins. This attack does 100 damage for each heads.
+first_appearance:
+  set_name_ja: バトルアカデミー
+  released_at: '2024-03-08'
+  regulation_mark: H
+  collector_number: '041'
+  image_url:

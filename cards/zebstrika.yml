@@ -1,0 +1,58 @@
+---
+schema_version: 1
+slug: zebstrika
+name:
+  ja: ゼブライカ
+  en: Zebstrika
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Lightning
+hp: 120
+retreat_cost: 1
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja: シママ
+  en: Blitzle
+weakness:
+  type: Fighting
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: ぜんそくりょく 
+    en: Full Speed
+  cost:
+  - Colorless
+  damage:
+  effect_text:
+    ja: 自分の手札をすべてトラッシュし、山札を6枚引く。
+    en: Discard your hand and draw 6 cards.
+- position: 1
+  name:
+    ja: ヘッドボルト
+    en: Head Bolt
+  cost:
+  - Lightning
+  - Colorless
+  damage: '70'
+  effect_text:
+    ja:
+    en:
+first_appearance:
+  set_name_ja: コロコロイチバン! 2025年1月号
+  released_at:
+  regulation_mark:
+  collector_number: '47166'
+  image_url:

@@ -1,0 +1,42 @@
+---
+schema_version: 1
+slug: growing-grass-energy
+name:
+  ja: グロウ草エネルギー
+  en: Growing Grass Energy
+  prefix:
+card_type: Energy
+card_subtype: Special Energy
+energy_type:
+hp:
+retreat_cost:
+regulation_mark: J
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type:
+  value:
+resistance:
+  type:
+  value:
+body_text:
+  ja: |-
+    このカードは、ポケモンについているかぎり、草エネルギー1個ぶんとしてはたらく。
+
+
+
+    このカードをつけている草ポケモンは、最大HPが「＋20」される。
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks: []
+first_appearance:
+  set_name_ja: ムニキスゼロ
+  released_at: '2026-01-23'
+  regulation_mark: J
+  collector_number: '078'
+  image_url:

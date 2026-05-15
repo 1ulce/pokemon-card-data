@@ -1,0 +1,61 @@
+---
+schema_version: 1
+slug: mega-delphox-ex
+name:
+  ja: メガマフォクシーex
+  en: Mega Delphox ex
+  prefix:
+card_type: Pokémon
+card_subtype: 2進化
+energy_type: Fire
+hp: 350
+retreat_cost: 2
+regulation_mark:
+meta_tags:
+- ex
+- mega
+evolves_from:
+  ja: テールナー
+  en: Braixen
+weakness:
+  type: Water
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja: メガシンカexがきぜつしたとき、相手はサイドを3枚とる。
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: トリックポータル 
+    en:
+  cost:
+  - Fire
+  damage:
+  effect_text:
+    ja: 自分の山札を上から9枚見て、その中からポケモンを好きなだけ選び、ベンチに出す。残りのカードは山札にもどして切る。
+    en:
+- position: 1
+  name:
+    ja: あやしいともしび
+    en:
+  cost:
+  - Fire
+  - Colorless
+  - Colorless
+  damage: '200'
+  effect_text:
+    ja: 相手のバトルポケモンをやけどとこんらんにする。
+    en:
+first_appearance:
+  set_name_ja: ポケモンカードゲーム MEGA　プロモカードパック第4弾
+  released_at:
+  regulation_mark:
+  collector_number: '50174'
+  image_url:

@@ -1,0 +1,56 @@
+---
+schema_version: 1
+slug: bouffalant-3
+name:
+  ja: バッフロン
+  en: Bouffalant
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Colorless
+hp: 100
+retreat_cost: 2
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Fighting
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities:
+- position: 0
+  name:
+    ja: カーリーウォール
+    en: Curly Wall
+  effect_text:
+    ja: このポケモンと、自分の別の「バッフロン」がいるかぎり、自分のタイプのたねポケモン全員が、相手のポケモンから受けるワザのダメージは「-60」される。この効果は、この特性を持つポケモンが何匹いても、重ならない。
+    en: As long as you have at least 1 other Bouffalant in play, all of your Basic [C] Pokémon take 60 less damage from attacks from your opponent's Pokémon (after applying Weakness and Resistance). The effect of Curly Wall doesn't stack.
+attacks:
+- position: 0
+  name:
+    ja: そこぢから
+    en: Boundless Power
+  cost:
+  - Colorless
+  - Colorless
+  - Colorless
+  damage: '130'
+  effect_text:
+    ja: 次の自分の番、このポケモンはワザが使えない。
+    en: During your next turn, this Pokémon can't attack.
+first_appearance:
+  set_name_ja: ステラミラクル
+  released_at: '2024-07-19'
+  regulation_mark: H
+  collector_number: '081'
+  image_url:

@@ -1,0 +1,58 @@
+---
+schema_version: 1
+slug: altaria
+name:
+  ja: チルタリス
+  en: Altaria
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Dragon
+hp: 120
+retreat_cost: 1
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja: チルット
+  en: Swablu
+weakness:
+  type:
+  value:
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: ハミングチャージ 
+    en: Humming Charge
+  cost:
+  - Water
+  damage:
+  effect_text:
+    ja: 自分の山札から基本エネルギーを2枚まで選び、自分のポケモンに好きなようにつける。そして山札を切る。
+    en: Search your deck for up to 2 Basic Energy cards and attach them to your Pokémon in any way you like. Then, shuffle your deck.
+- position: 1
+  name:
+    ja: コットンウイング
+    en: Cotton Wings
+  cost:
+  - Water
+  - Metal
+  damage: '100'
+  effect_text:
+    ja: コインを1回投げオモテなら、次の相手の番、このポケモンはワザのダメージを受けない。
+    en: Flip a coin. If heads, during your opponent's next turn, prevent all damage done to this Pokémon by attacks.
+first_appearance:
+  set_name_ja: 楽園ドラゴーナ
+  released_at: '2024-09-13'
+  regulation_mark: H
+  collector_number: '041'
+  image_url:

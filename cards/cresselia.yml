@@ -1,0 +1,59 @@
+---
+schema_version: 1
+slug: cresselia
+name:
+  ja: クレセリア
+  en: Cresselia
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Psychic
+hp: 120
+retreat_cost: 1
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Darkness
+  value: "×2"
+resistance:
+  type: Fighting
+  value: "-30"
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: いやしのまい 
+    en: Healing Pirouette
+  cost:
+  - Psychic
+  damage:
+  effect_text:
+    ja: 自分のポケモン全員のHPを、それぞれ「20」回復する。
+    en: Heal 20 damage from each of your Pokémon.
+- position: 1
+  name:
+    ja: クレセントパージ
+    en: Crescent Purge
+  cost:
+  - Psychic
+  - Psychic
+  - Psychic
+  damage: 80+
+  effect_text:
+    ja: のぞむなら、ウラになっている自分のサイドを1枚選び、オモテにする。その場合、80ダメージ追加。（対戦が終わるまで、そのサイドはオモテのまま。）
+    en: You may turn 1 of your face-down Prize cards face up. If you do, this attack does 80 more damage. (That Prize card remains face up for the rest of the game.)
+first_appearance:
+  set_name_ja: ナイトワンダラー
+  released_at: '2024-06-07'
+  regulation_mark: H
+  collector_number: '021'
+  image_url:

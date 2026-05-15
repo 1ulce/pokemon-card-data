@@ -1,0 +1,58 @@
+---
+schema_version: 1
+slug: combusken-2
+name:
+  ja: ワカシャモ
+  en: Combusken
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Fire
+hp: 100
+retreat_cost: 2
+regulation_mark: I
+meta_tags: []
+evolves_from:
+  ja: アチャモ
+  en: Torchic
+weakness:
+  type: Water
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: かえん
+    en: Combustion
+  cost:
+  - Colorless
+  damage: '20'
+  effect_text:
+    ja:
+    en:
+- position: 1
+  name:
+    ja: にどげり
+    en: Double Kick
+  cost:
+  - Fire
+  - Colorless
+  damage: 40×
+  effect_text:
+    ja: コインを2回投げ、オモテの数×40ダメージ。
+    en: Flip 2 coins. This attack does 40 damage for each heads.
+first_appearance:
+  set_name_ja: ロケット団の栄光
+  released_at: '2025-04-18'
+  regulation_mark: I
+  collector_number: '019'
+  image_url:

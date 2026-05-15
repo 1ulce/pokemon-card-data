@@ -1,0 +1,62 @@
+---
+schema_version: 1
+slug: hippowdon-3
+name:
+  ja: カバルドン
+  en: Hippowdon
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Fighting
+hp: 150
+retreat_cost: 4
+regulation_mark: J
+meta_tags: []
+evolves_from:
+  ja: ヒポポタス
+  en: Hippopotas
+weakness:
+  type: Grass
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: たつまきふんしゃ
+    en: Twister Spewing
+  cost:
+  - Fighting
+  - Fighting
+  - Colorless
+  damage: '80'
+  effect_text:
+    ja: この番に、手札から「タラゴン」を出して使っていたなら、相手の山札を上から3枚トラッシュする。
+    en: If you played Tarragon from your hand during this turn, discard the top 3 cards of your opponent's deck.
+- position: 1
+  name:
+    ja: ヘビーインパクト
+    en: Heavy Impact
+  cost:
+  - Fighting
+  - Fighting
+  - Colorless
+  - Colorless
+  damage: '130'
+  effect_text:
+    ja:
+    en:
+first_appearance:
+  set_name_ja: ムニキスゼロ
+  released_at: '2026-01-23'
+  regulation_mark: J
+  collector_number: '039'
+  image_url:

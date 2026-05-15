@@ -1,0 +1,48 @@
+---
+schema_version: 1
+slug: floragato
+name:
+  ja: ニャローテ
+  en: Floragato
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Grass
+hp: 90
+retreat_cost: 1
+regulation_mark: I
+meta_tags: []
+evolves_from:
+  ja: ニャオハ
+  en: Sprigatito
+weakness:
+  type: Fire
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: マジカルリーフ
+    en: Magical Leaf
+  cost:
+  - Colorless
+  - Colorless
+  damage: 30+
+  effect_text:
+    ja: コインを1回投げオモテなら、30ダメージ追加し、このポケモンのHPを「30」回復する。
+    en: Flip a coin. If heads, this attack does 30 more damage, and heal 30 damage from this Pokémon.
+first_appearance:
+  set_name_ja: バトルパートナーズ
+  released_at: '2025-01-24'
+  regulation_mark: I
+  collector_number: '011'
+  image_url:

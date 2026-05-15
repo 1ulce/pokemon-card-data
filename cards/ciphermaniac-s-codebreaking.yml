@@ -1,0 +1,40 @@
+---
+schema_version: 1
+slug: ciphermaniac-s-codebreaking
+name:
+  ja: 暗号マニアの解読
+  en: Ciphermaniac's Codebreaking
+  prefix: Ciphermaniac's
+card_type: Trainer
+card_subtype: Supporter
+energy_type:
+hp:
+retreat_cost:
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type:
+  value:
+resistance:
+  type:
+  value:
+body_text:
+  ja: |-
+    自分の山札から好きなカードを2枚選ぶ。残りの山札を切り、選んだカードを好きな順番に入れ替えて、山札の上にもどす。
+
+    サポートは、自分の番に1枚しか使えない。
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks: []
+first_appearance:
+  set_name_ja: サイバージャッジ
+  released_at: '2024-01-26'
+  regulation_mark: H
+  collector_number: '067'
+  image_url:

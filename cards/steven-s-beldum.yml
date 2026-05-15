@@ -1,0 +1,48 @@
+---
+schema_version: 1
+slug: steven-s-beldum
+name:
+  ja: ダイゴのダンバル
+  en: Steven's Beldum
+  prefix: Steven's
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Metal
+hp: 70
+retreat_cost: 1
+regulation_mark: I
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Fire
+  value: "×2"
+resistance:
+  type: Grass
+  value: "-30"
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: ぶつかる
+    en: Ram
+  cost:
+  - Metal
+  - Colorless
+  damage: '30'
+  effect_text:
+    ja:
+    en:
+first_appearance:
+  set_name_ja: スターターセットex ダイゴのダンバル＆メタグロスex
+  released_at:
+  regulation_mark:
+  collector_number: '005'
+  image_url:

@@ -1,0 +1,58 @@
+---
+schema_version: 1
+slug: piloswine
+name:
+  ja: イノムー
+  en: Piloswine
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Fighting
+hp: 100
+retreat_cost: 3
+regulation_mark: I
+meta_tags: []
+evolves_from:
+  ja: ウリムー
+  en: Swinub
+weakness:
+  type: Grass
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: かいりき
+    en: Strength
+  cost:
+  - Colorless
+  damage: '20'
+  effect_text:
+    ja:
+    en:
+- position: 1
+  name:
+    ja: キバでつく
+    en: Impaling Tusk
+  cost:
+  - Fighting
+  - Fighting
+  damage: '50'
+  effect_text:
+    ja:
+    en:
+first_appearance:
+  set_name_ja: バトルパートナーズ
+  released_at: '2025-01-24'
+  regulation_mark: I
+  collector_number: '045'
+  image_url:

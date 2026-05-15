@@ -1,0 +1,58 @@
+---
+schema_version: 1
+slug: oricorio-2
+name:
+  ja: オドリドリ
+  en: Oricorio
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Psychic
+hp: 90
+retreat_cost: 1
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Darkness
+  value: "×2"
+resistance:
+  type: Fighting
+  value: "-30"
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: エネアシスト 
+    en: Energy Assist
+  cost:
+  - Psychic
+  damage:
+  effect_text:
+    ja: 自分のトラッシュから基本エネルギーを2枚まで選び、ベンチポケモン1匹につける。
+    en: Attach up to 2 Basic Energy cards from your discard pile to 1 of your Benched Pokémon.
+- position: 1
+  name:
+    ja: げんわくダンス
+    en: Dazzle Dance
+  cost:
+  - Psychic
+  - Colorless
+  damage: '20'
+  effect_text:
+    ja: 相手のバトルポケモンをこんらんにする。
+    en: Your opponent's Active Pokémon is now Confused.
+first_appearance:
+  set_name_ja: スタートデッキ100 バトルコレクション
+  released_at: '2025-12-19'
+  regulation_mark: J
+  collector_number: '336'
+  image_url:

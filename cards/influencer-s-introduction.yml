@@ -1,0 +1,40 @@
+---
+schema_version: 1
+slug: influencer-s-introduction
+name:
+  ja: インフルエンサーの紹介
+  en: Influencer's Introduction
+  prefix: Influencer's
+card_type: Trainer
+card_subtype: Supporter
+energy_type:
+hp:
+retreat_cost:
+regulation_mark:
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type:
+  value:
+resistance:
+  type:
+  value:
+body_text:
+  ja: |-
+    好きなポケモンを相手に紹介しながら、自分の山札を3枚引く。相手は、好きな気持ちが伝わったなら、「いいね！」と言ってもよい。
+
+    サポートは、自分の番に1枚しか使えない。
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks: []
+first_appearance:
+  set_name_ja: スタートデッキ100 バトルコレクション コロちゃおVer.
+  released_at: '2025-12-19'
+  regulation_mark: J
+  collector_number: '019'
+  image_url:

@@ -1,0 +1,41 @@
+---
+schema_version: 1
+slug: prime-catcher
+name:
+  ja: プライムキャッチャー
+  en: Prime Catcher
+  prefix:
+card_type: Trainer
+card_subtype: Item
+energy_type:
+hp:
+retreat_cost:
+regulation_mark: H
+meta_tags:
+- ace_spec
+evolves_from:
+  ja:
+  en:
+weakness:
+  type:
+  value:
+resistance:
+  type:
+  value:
+body_text:
+  ja: |-
+    相手のベンチポケモンを1匹選び、バトルポケモンと入れ替える。その後、自分のバトルポケモンをベンチポケモンと入れ替える。
+
+    グッズは、自分の番に何枚でも使える。
+  en:
+rules_text:
+  ja: ACE SPECのカードは、デッキに1枚しか入れられない。
+  en:
+abilities: []
+attacks: []
+first_appearance:
+  set_name_ja: サイバージャッジ
+  released_at: '2024-01-26'
+  regulation_mark: H
+  collector_number: '062'
+  image_url:

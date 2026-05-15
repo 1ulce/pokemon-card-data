@@ -1,0 +1,59 @@
+---
+schema_version: 1
+slug: ceruledge
+name:
+  ja: ソウブレイズ
+  en: Ceruledge
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Fire
+hp: 140
+retreat_cost: 2
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja: カルボウ
+  en: Charcadet
+weakness:
+  type: Water
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: ブレイズカース 
+    en: Cursed Edge
+  cost:
+  - Colorless
+  damage:
+  effect_text:
+    ja: 相手のポケモン全員についている特殊エネルギーを、すべてトラッシュする。
+    en: Discard all Special Energy from all of your opponent's Pokémon.
+- position: 1
+  name:
+    ja: こくえんぎり
+    en: Black Blaze Slash
+  cost:
+  - Fire
+  - Fire
+  - Colorless
+  damage: '160'
+  effect_text:
+    ja: 次の自分の番、このポケモンはワザが使えない。
+    en: During your next turn, this Pokémon can't attack.
+first_appearance:
+  set_name_ja: 超電ブレイカー
+  released_at: '2024-10-18'
+  regulation_mark: H
+  collector_number: '022'
+  image_url:

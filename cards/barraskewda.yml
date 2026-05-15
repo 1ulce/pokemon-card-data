@@ -1,0 +1,58 @@
+---
+schema_version: 1
+slug: barraskewda
+name:
+  ja: カマスジョー
+  en: Barraskewda
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Water
+hp: 130
+retreat_cost: 1
+regulation_mark: I
+meta_tags: []
+evolves_from:
+  ja: サシカマス
+  en: Arrokuda
+weakness:
+  type: Lightning
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: するどいひれ
+    en: Sharp Fin
+  cost:
+  - Water
+  damage: '40'
+  effect_text:
+    ja:
+    en:
+- position: 1
+  name:
+    ja: ダイビング
+    en: Dive
+  cost:
+  - Water
+  - Water
+  damage: '60'
+  effect_text:
+    ja: コインを1回投げオモテなら、次の相手の番、このポケモンはワザのダメージや効果を受けない。
+    en: Flip a coin. If heads, during your opponent's next turn, prevent all damage from and effects of attacks done to this Pokémon.
+first_appearance:
+  set_name_ja: ロケット団の栄光
+  released_at: '2025-04-18'
+  regulation_mark: I
+  collector_number: '030'
+  image_url:

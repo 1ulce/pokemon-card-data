@@ -1,0 +1,58 @@
+---
+schema_version: 1
+slug: electabuzz-3
+name:
+  ja: エレブー
+  en: Electabuzz
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Lightning
+hp: 90
+retreat_cost: 2
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Fighting
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: もってくる 
+    en: Collect
+  cost:
+  - Lightning
+  damage:
+  effect_text:
+    ja: 自分の山札を1枚引く。
+    en: Draw a card.
+- position: 1
+  name:
+    ja: マグナムパンチ
+    en: Magnum Punch
+  cost:
+  - Lightning
+  - Lightning
+  damage: '40'
+  effect_text:
+    ja:
+    en:
+first_appearance:
+  set_name_ja: ステラミラクル
+  released_at: '2024-07-19'
+  regulation_mark: H
+  collector_number: '028'
+  image_url:

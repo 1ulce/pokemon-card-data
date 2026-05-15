@@ -1,0 +1,57 @@
+---
+schema_version: 1
+slug: dartrix
+name:
+  ja: フクスロー
+  en: Dartrix
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Grass
+hp: 90
+retreat_cost: 1
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja: モクロー
+  en: Rowlet
+weakness:
+  type: Fire
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: だんけつのつばさ
+    en: United Wings
+  cost:
+  - Colorless
+  damage: 20×
+  effect_text:
+    ja: 自分のトラッシュにある、ワザ「だんけつのつばさ」を持つポケモンの枚数×20ダメージ。
+    en: This attack does 20 damage for each Pokémon in your discard pile that has the United Wings attack.
+- position: 1
+  name:
+    ja: カッターウインド
+    en: Cutting Wind
+  cost:
+  - Grass
+  damage: '30'
+  effect_text:
+    ja:
+    en:
+first_appearance:
+  set_name_ja: ナイトワンダラー
+  released_at: '2024-06-07'
+  regulation_mark: H
+  collector_number: '004'
+  image_url:

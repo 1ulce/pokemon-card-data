@@ -1,0 +1,47 @@
+---
+schema_version: 1
+slug: gliscor
+name:
+  ja: グライオン
+  en: Gliscor
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Fighting
+hp: 120
+retreat_cost: 1
+regulation_mark: I
+meta_tags: []
+evolves_from:
+  ja: グライガー
+  en: Gligar
+weakness:
+  type: Grass
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: ポイズンサークル
+    en:
+  cost:
+  - Fighting
+  damage: '50'
+  effect_text:
+    ja: 相手のバトルポケモンをどくにする。次の相手の番、このワザを受けたポケモンは、にげられない。
+    en:
+first_appearance:
+  set_name_ja: インフェルノX
+  released_at: '2025-09-26'
+  regulation_mark: I
+  collector_number: '044'
+  image_url:

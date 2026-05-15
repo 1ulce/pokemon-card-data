@@ -1,0 +1,61 @@
+---
+schema_version: 1
+slug: keldeo-ex
+name:
+  ja: ケルディオex
+  en: Keldeo ex
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Water
+hp: 210
+retreat_cost: 2
+regulation_mark: I
+meta_tags:
+- ex
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Lightning
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja: ポケモンexがきぜつしたとき、相手はサイドを2枚とる。
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: しっぷうづき
+    en: Gale Thrust
+  cost:
+  - Water
+  - Colorless
+  damage: 30+
+  effect_text:
+    ja: この番に、このポケモンがベンチからバトル場に出ていたなら、90ダメージ追加。
+    en: If this Pokémon moved from your Bench to the Active Spot this turn, this attack does 90 more damage.
+- position: 1
+  name:
+    ja: ソニックエッジ
+    en: Sonic Edge
+  cost:
+  - Water
+  - Colorless
+  - Colorless
+  damage: '120'
+  effect_text:
+    ja: このワザのダメージは、相手のバトルポケモンにかかっている効果を計算しない。
+    en: This attack's damage isn't affected by any effects on your opponent's Active Pokémon.
+first_appearance:
+  set_name_ja: ホワイトフレア
+  released_at: '2025-06-06'
+  regulation_mark: I
+  collector_number: '027'
+  image_url:

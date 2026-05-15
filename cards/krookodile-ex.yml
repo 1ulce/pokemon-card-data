@@ -1,0 +1,61 @@
+---
+schema_version: 1
+slug: krookodile-ex
+name:
+  ja: ワルビアルex
+  en: Krookodile ex
+  prefix:
+card_type: Pokémon
+card_subtype: 2進化
+energy_type: Darkness
+hp: 320
+retreat_cost: 3
+regulation_mark:
+meta_tags:
+- ex
+evolves_from:
+  ja: ワルビル
+  en: Krokorok
+weakness:
+  type: Grass
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja: ポケモンexがきぜつしたとき、相手はサイドを2枚とる。
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: おいつめる
+    en:
+  cost:
+  - Darkness
+  - Colorless
+  damage: '80'
+  effect_text:
+    ja: 次の相手の番、このワザを受けたポケモンは、にげられない。
+    en:
+- position: 1
+  name:
+    ja: ストロングバイト
+    en:
+  cost:
+  - Darkness
+  - Darkness
+  - Colorless
+  damage: 140+
+  effect_text:
+    ja: このポケモンに「ポケモンのどうぐ」がついているなら、140ダメージ追加。
+    en:
+first_appearance:
+  set_name_ja: ポケモンカードゲーム MEGA　プロモカードパック第2弾
+  released_at:
+  regulation_mark:
+  collector_number: '48481'
+  image_url:

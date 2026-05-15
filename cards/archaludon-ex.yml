@@ -1,0 +1,57 @@
+---
+schema_version: 1
+slug: archaludon-ex
+name:
+  ja: ブリジュラスex
+  en: Archaludon ex
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Metal
+hp: 300
+retreat_cost: 2
+regulation_mark: H
+meta_tags:
+- ex
+evolves_from:
+  ja: ジュラルドン
+  en: Duraludon
+weakness:
+  type: Fire
+  value: "×2"
+resistance:
+  type: Grass
+  value: "-30"
+body_text:
+  ja:
+  en:
+rules_text:
+  ja: ポケモンexがきぜつしたとき、相手はサイドを2枚とる。
+  en:
+abilities:
+- position: 0
+  name:
+    ja: ごうきんビルド
+    en: Assemble Alloy
+  effect_text:
+    ja: 自分の番に、このカードを手札から出して進化させたとき、1回使える。自分のトラッシュから「基本鋼エネルギー」を2枚まで選び、自分の鋼ポケモンに好きなようにつける。
+    en: When you play this Pokémon from your hand to evolve 1 of your Pokémon during your turn, you may attach up to 2 Basic [M] Energy cards from your discard pile to your [M] Pokémon in any way you like.
+attacks:
+- position: 0
+  name:
+    ja: メタルディフェンダー
+    en: Metal Defender
+  cost:
+  - Metal
+  - Metal
+  - Metal
+  damage: '220'
+  effect_text:
+    ja: 次の相手の番、このポケモンの弱点は、すべてなくなる。
+    en: During your opponent's next turn, this Pokémon has no Weakness.
+first_appearance:
+  set_name_ja: 楽園ドラゴーナ
+  released_at: '2024-09-13'
+  regulation_mark: H
+  collector_number: '037'
+  image_url:

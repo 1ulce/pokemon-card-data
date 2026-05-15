@@ -1,0 +1,60 @@
+---
+schema_version: 1
+slug: deino-2
+name:
+  ja: モノズ
+  en: Deino
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Darkness
+hp: 80
+retreat_cost: 2
+regulation_mark: I
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Grass
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: のしかかり
+    en: Body Slam
+  cost:
+  - Colorless
+  - Colorless
+  damage: '20'
+  effect_text:
+    ja: コインを1回投げオモテなら、相手のバトルポケモンをマヒにする。
+    en: Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed.
+- position: 1
+  name:
+    ja: やみのキバ
+    en: Darkness Fang
+  cost:
+  - Darkness
+  - Colorless
+  - Colorless
+  damage: '50'
+  effect_text:
+    ja:
+    en:
+first_appearance:
+  set_name_ja: ホワイトフレア
+  released_at: '2025-06-06'
+  regulation_mark: I
+  collector_number: '060'
+  image_url:

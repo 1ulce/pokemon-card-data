@@ -1,0 +1,59 @@
+---
+schema_version: 1
+slug: centiskorch-2
+name:
+  ja: マルヤクデ
+  en: Centiskorch
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Fire
+hp: 130
+retreat_cost: 2
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja: ヤクデ
+  en: Sizzlipede
+weakness:
+  type: Water
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: もえるねっぱ
+    en: Billowing Heat Wave
+  cost:
+  - Fire
+  damage: '130'
+  effect_text:
+    ja: 自分のベンチポケモン全員にも、それぞれ30ダメージ。［ベンチは弱点・抵抗力を計算しない。］
+    en: This attack also does 30 damage to each of your Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)
+- position: 1
+  name:
+    ja: ヒートブラスト
+    en: Heat Blast
+  cost:
+  - Colorless
+  - Colorless
+  - Colorless
+  damage: '80'
+  effect_text:
+    ja:
+    en:
+first_appearance:
+  set_name_ja: 超電ブレイカー
+  released_at: '2024-10-18'
+  regulation_mark: H
+  collector_number: '016'
+  image_url:

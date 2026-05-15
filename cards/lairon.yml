@@ -1,0 +1,59 @@
+---
+schema_version: 1
+slug: lairon
+name:
+  ja: コドラ
+  en: Lairon
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Metal
+hp: 110
+retreat_cost: 3
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja: ココドラ
+  en: Aron
+weakness:
+  type: Fire
+  value: "×2"
+resistance:
+  type: Grass
+  value: "-30"
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: こうてつタックル
+    en: Steel Tackle
+  cost:
+  - Metal
+  damage: '40'
+  effect_text:
+    ja: このポケモンにも20ダメージ。
+    en: This Pokémon also does 20 damage to itself.
+- position: 1
+  name:
+    ja: メタルクロー
+    en: Metal Claw
+  cost:
+  - Metal
+  - Colorless
+  - Colorless
+  damage: '60'
+  effect_text:
+    ja:
+    en:
+first_appearance:
+  set_name_ja: 変幻の仮面
+  released_at: '2024-04-26'
+  regulation_mark: H
+  collector_number: '074'
+  image_url:

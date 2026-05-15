@@ -1,0 +1,59 @@
+---
+schema_version: 1
+slug: pangoro-3
+name:
+  ja: ゴロンダ
+  en: Pangoro
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Darkness
+hp: 140
+retreat_cost: 3
+regulation_mark: I
+meta_tags: []
+evolves_from:
+  ja: ヤンチャム
+  en: Pancham
+weakness:
+  type: Grass
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: いちゃもん
+    en: Torment
+  cost:
+  - Darkness
+  damage: '30'
+  effect_text:
+    ja: 相手のバトルポケモンが持つワザを1つ選ぶ。次の相手の番、このワザを受けたポケモンは、選ばれたワザが使えない。
+    en: Choose 1 of your opponent's Active Pokémon's attacks. During your opponent's next turn, that Pokémon can't use that attack.
+- position: 1
+  name:
+    ja: パワータックル
+    en: Power Tackle
+  cost:
+  - Darkness
+  - Darkness
+  - Colorless
+  damage: '160'
+  effect_text:
+    ja: 次の自分の番、このポケモンはワザが使えない。
+    en: During your next turn, this Pokémon can't attack.
+first_appearance:
+  set_name_ja: バトルパートナーズ
+  released_at: '2025-01-24'
+  regulation_mark: I
+  collector_number: '062'
+  image_url:

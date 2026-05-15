@@ -1,0 +1,58 @@
+---
+schema_version: 1
+slug: excadrill-2
+name:
+  ja: ドリュウズ
+  en: Excadrill
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Fighting
+hp: 120
+retreat_cost: 2
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja: モグリュー
+  en: Drilbur
+weakness:
+  type: Grass
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: あなほりクロー
+    en: Digging Claw
+  cost:
+  - Colorless
+  damage: '20'
+  effect_text:
+    ja: 相手の山札を上から1枚トラッシュする。
+    en: Discard the top card of your opponent's deck.
+- position: 1
+  name:
+    ja: ドリルスマッシュ
+    en: Drill Smash
+  cost:
+  - Fighting
+  - Colorless
+  damage: 60+
+  effect_text:
+    ja: 自分のベンチに鋼ポケモンがいるなら、80ダメージ追加。
+    en: If you have any [M] Pokémon on your Bench, this attack does 80 more damage.
+first_appearance:
+  set_name_ja: 楽園ドラゴーナ
+  released_at: '2024-09-13'
+  regulation_mark: H
+  collector_number: '029'
+  image_url:

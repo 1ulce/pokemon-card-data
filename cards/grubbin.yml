@@ -1,0 +1,58 @@
+---
+schema_version: 1
+slug: grubbin
+name:
+  ja: アゴジムシ
+  en: Grubbin
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Grass
+hp: 70
+retreat_cost: 1
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Fire
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: むれる 
+    en: Flock
+  cost:
+  - Colorless
+  damage:
+  effect_text:
+    ja: 自分の山札から「アゴジムシ」を2枚まで選び、ベンチに出す。そして山札を切る。
+    en: Search your deck for up to 2 Grubbin and put them onto your Bench. Then, shuffle your deck.
+- position: 1
+  name:
+    ja: はさむ
+    en: Vise Grip
+  cost:
+  - Colorless
+  - Colorless
+  damage: '10'
+  effect_text:
+    ja:
+    en:
+first_appearance:
+  set_name_ja: サイバージャッジ
+  released_at: '2024-01-26'
+  regulation_mark: H
+  collector_number: '010'
+  image_url:

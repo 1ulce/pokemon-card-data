@@ -1,0 +1,58 @@
+---
+schema_version: 1
+slug: shiftry-2
+name:
+  ja: ダーテング
+  en: Shiftry
+  prefix:
+card_type: Pokémon
+card_subtype: 2進化
+energy_type: Grass
+hp: 160
+retreat_cost: 2
+regulation_mark: I
+meta_tags: []
+evolves_from:
+  ja: コノハナ
+  en: Nuzleaf
+weakness:
+  type: Fire
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: とっぷうがえし 
+    en: Reversing Gust
+  cost:
+  - Grass
+  damage:
+  effect_text:
+    ja: コインを1回投げオモテなら、相手のポケモンを1匹選び、そのポケモンと、ついているすべてのカードを、相手の山札にもどして切る。
+    en: Flip a coin. If heads, choose 1 of your opponent's Pokémon. Shuffle that Pokémon and all attached cards into their deck.
+- position: 1
+  name:
+    ja: まどわす
+    en: Perplex
+  cost:
+  - Grass
+  - Colorless
+  damage: '100'
+  effect_text:
+    ja: 相手のバトルポケモンをこんらんにする。
+    en: Your opponent's Active Pokémon is now Confused.
+first_appearance:
+  set_name_ja: メガブレイブ
+  released_at: '2025-08-01'
+  regulation_mark: I
+  collector_number: '009'
+  image_url:

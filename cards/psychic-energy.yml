@@ -1,0 +1,37 @@
+---
+schema_version: 1
+slug: psychic-energy
+name:
+  ja: 基本超エネルギー
+  en: Psychic Energy
+  prefix:
+card_type: Energy
+card_subtype: Basic Energy
+energy_type:
+hp:
+retreat_cost:
+regulation_mark:
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type:
+  value:
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks: []
+first_appearance:
+  set_name_ja: スタートデッキGenerations ゼルネアスex・オンバーンex
+  released_at: '2024-11-22'
+  regulation_mark: H
+  collector_number: '46120'
+  image_url:

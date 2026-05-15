@@ -1,0 +1,61 @@
+---
+schema_version: 1
+slug: glaceon-ex
+name:
+  ja: グレイシアex
+  en: Glaceon ex
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Water
+hp: 270
+retreat_cost: 1
+regulation_mark: H
+meta_tags:
+- ex
+evolves_from:
+  ja: イーブイ
+  en: Eevee
+weakness:
+  type: Metal
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja: ポケモンexがきぜつしたとき、相手はサイドを2枚とる。
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: フロストバレット
+    en: Frost Bullet
+  cost:
+  - Water
+  - Colorless
+  damage: '110'
+  effect_text:
+    ja: 相手のベンチポケモン1匹にも、30ダメージ。［ベンチは弱点・抵抗力を計算しない。］
+    en: This attack also does 30 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)
+- position: 1
+  name:
+    ja: ユークレース 
+    en: Euclase
+  cost:
+  - Grass
+  - Water
+  - Darkness
+  damage:
+  effect_text:
+    ja: ダメカンが6個のっている相手のポケモンを1匹選び、きぜつさせる。
+    en: Knock Out 1 of your opponent's Pokémon that has exactly 6 damage counters on it.
+first_appearance:
+  set_name_ja: テラスタルフェスex
+  released_at: '2024-12-06'
+  regulation_mark: H
+  collector_number: '041'
+  image_url:

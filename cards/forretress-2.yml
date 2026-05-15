@@ -1,0 +1,60 @@
+---
+schema_version: 1
+slug: forretress-2
+name:
+  ja: フォレトス
+  en: Forretress
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Metal
+hp: 130
+retreat_cost: 2
+regulation_mark: I
+meta_tags: []
+evolves_from:
+  ja: クヌギダマ
+  en: Pineco
+weakness:
+  type: Fire
+  value: "×2"
+resistance:
+  type: Grass
+  value: "-30"
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: アイアンシェイク
+    en: Iron Shake-Up
+  cost:
+  - Colorless
+  damage: '20'
+  effect_text:
+    ja: 自分の場のポケモンについている鋼エネルギーを好きなだけ選び、自分のポケモンに好きなようにつけ替える。
+    en: You may move any amount of [M] Energy from your Pokémon to your other Pokémon in any way you like.
+- position: 1
+  name:
+    ja: ハリケーンニードル
+    en: Hurricane of Needles
+  cost:
+  - Metal
+  - Colorless
+  - Colorless
+  - Colorless
+  damage: 80×
+  effect_text:
+    ja: コインを4回投げ、オモテの数×80ダメージ。
+    en: Flip 4 coins. This attack does 80 damage for each heads.
+first_appearance:
+  set_name_ja: ロケット団の栄光
+  released_at: '2025-04-18'
+  regulation_mark: I
+  collector_number: '073'
+  image_url:

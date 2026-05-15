@@ -1,0 +1,60 @@
+---
+schema_version: 1
+slug: mega-lucario-ex
+name:
+  ja: メガルカリオex
+  en: Mega Lucario ex
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Fighting
+hp: 340
+retreat_cost: 2
+regulation_mark: I
+meta_tags:
+- ex
+- mega
+evolves_from:
+  ja: リオル
+  en: Riolu
+weakness:
+  type: Psychic
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja: メガシンカexがきぜつしたとき、相手はサイドを3枚とる。
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: はどうづき
+    en: Aura Jab
+  cost:
+  - Fighting
+  damage: '130'
+  effect_text:
+    ja: 自分のトラッシュから「基本闘エネルギー」を3枚まで選び、ベンチポケモンに好きなようにつける。
+    en: Attach up to 3 Basic [F] Energy cards from your discard pile to your Benched Pokémon in any way you like.
+- position: 1
+  name:
+    ja: メガブレイブ
+    en: Mega Brave
+  cost:
+  - Fighting
+  - Fighting
+  damage: '270'
+  effect_text:
+    ja: 次の自分の番、このポケモンは「メガブレイブ」が使えない。
+    en: During your next turn, this Pokémon can't use Mega Brave.
+first_appearance:
+  set_name_ja: メガブレイブ
+  released_at: '2025-08-01'
+  regulation_mark: I
+  collector_number: '029'
+  image_url:

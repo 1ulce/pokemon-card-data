@@ -1,0 +1,60 @@
+---
+schema_version: 1
+slug: hippowdon
+name:
+  ja: カバルドン
+  en: Hippowdon
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Fighting
+hp: 160
+retreat_cost: 4
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja: ヒポポタス
+  en: Hippopotas
+weakness:
+  type: Grass
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: ぶつかる
+    en: Ram
+  cost:
+  - Fighting
+  - Fighting
+  damage: '60'
+  effect_text:
+    ja:
+    en:
+- position: 1
+  name:
+    ja: おおすなあらし
+    en: Super Sandstorm
+  cost:
+  - Fighting
+  - Fighting
+  - Colorless
+  damage: '150'
+  effect_text:
+    ja: ダメカンがのっているおたがいのベンチポケモン全員にも、それぞれ40ダメージ。［ベンチは弱点・抵抗力を計算しない。］
+    en: This attack also does 40 damage to each Benched Pokémon that has any damage counters on it (both yours and your opponent's). (Don't apply Weakness and Resistance for Benched Pokémon.)
+first_appearance:
+  set_name_ja: スカーレット＆バイオレット プロモカードパック第8弾
+  released_at:
+  regulation_mark:
+  collector_number: '46450'
+  image_url:

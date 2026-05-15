@@ -1,0 +1,37 @@
+---
+schema_version: 1
+slug: metal-energy
+name:
+  ja: 基本鋼エネルギー
+  en: Metal Energy
+  prefix:
+card_type: Energy
+card_subtype: Basic Energy
+energy_type:
+hp:
+retreat_cost:
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type:
+  value:
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks: []
+first_appearance:
+  set_name_ja: 未来の一閃
+  released_at: '2023-10-27'
+  regulation_mark:
+  collector_number: '095'
+  image_url:

@@ -1,0 +1,63 @@
+---
+schema_version: 1
+slug: kyogre-ex
+name:
+  ja: カイオーガex
+  en: Kyogre ex
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Water
+hp: 230
+retreat_cost: 3
+regulation_mark: H
+meta_tags:
+- ex
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Lightning
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja: ポケモンexがきぜつしたとき、相手はサイドを2枚とる。
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: うねるなみ
+    en: Winding Waves
+  cost:
+  - Water
+  - Colorless
+  - Colorless
+  damage: '80'
+  effect_text:
+    ja: のぞむなら、相手のバトルポケモンをベンチポケモンと入れ替える。［バトル場に出すポケモンは相手が選ぶ。］
+    en: You may switch out your opponent's Active Pokémon to the Bench. (Your opponent chooses the new Active Pokémon.)
+- position: 1
+  name:
+    ja: タイダルサージ
+    en: Tidal Surge
+  cost:
+  - Water
+  - Water
+  - Colorless
+  - Colorless
+  damage: '230'
+  effect_text:
+    ja: このポケモンについているエネルギーを2個選び、トラッシュする。
+    en: Discard 2 Energy from this Pokémon.
+first_appearance:
+  set_name_ja: スタートデッキGenerations カイオーガex・バシャーモex
+  released_at: '2024-11-22'
+  regulation_mark: H
+  collector_number: '037'
+  image_url:

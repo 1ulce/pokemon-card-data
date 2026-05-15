@@ -1,0 +1,47 @@
+---
+schema_version: 1
+slug: metapod
+name:
+  ja: トランセル
+  en: Metapod
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Grass
+hp: 90
+retreat_cost: 3
+regulation_mark: I
+meta_tags: []
+evolves_from:
+  ja: キャタピー
+  en: Caterpie
+weakness:
+  type: Fire
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: かたくなる 
+    en: Harden
+  cost:
+  - Grass
+  damage:
+  effect_text:
+    ja: 次の相手の番、このポケモンは「60」以下のワザのダメージを受けない。
+    en: During your opponent's next turn, prevent all damage done to this Pokémon by attacks if that damage is 60 or less.
+first_appearance:
+  set_name_ja: バトルパートナーズ
+  released_at: '2025-01-24'
+  regulation_mark: I
+  collector_number: '002'
+  image_url:

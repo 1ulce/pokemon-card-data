@@ -1,0 +1,54 @@
+---
+schema_version: 1
+slug: magearna
+name:
+  ja: マギアナ
+  en: Magearna
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Metal
+hp: 90
+retreat_cost: 1
+regulation_mark: I
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Fire
+  value: "×2"
+resistance:
+  type: Grass
+  value: "-30"
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities:
+- position: 0
+  name:
+    ja: オートヒール
+    en: Auto Heal
+  effect_text:
+    ja: このポケモンがバトル場にいるかぎり、自分の手札からエネルギーをポケモンにつけるたび、そのポケモンのHPを「90」回復する。
+    en: As long as this Pokémon is in the Active Spot, whenever you attach an Energy card from your hand to 1 of your Pokémon, heal 90 damage from that Pokémon.
+attacks:
+- position: 0
+  name:
+    ja: スパイクドロー
+    en: Spike Draw
+  cost:
+  - Colorless
+  damage: '20'
+  effect_text:
+    ja: 自分の山札を2枚引く。
+    en: Draw 2 cards.
+first_appearance:
+  set_name_ja: バトルパートナーズ
+  released_at: '2025-01-24'
+  regulation_mark: I
+  collector_number: '067'
+  image_url:

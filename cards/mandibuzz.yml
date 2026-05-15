@@ -1,0 +1,56 @@
+---
+schema_version: 1
+slug: mandibuzz
+name:
+  ja: バルジーナ
+  en: Mandibuzz
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Darkness
+hp: 110
+retreat_cost: 1
+regulation_mark: I
+meta_tags: []
+evolves_from:
+  ja: バルチャイ
+  en: Vullaby
+weakness:
+  type: Lightning
+  value: "×2"
+resistance:
+  type: Fighting
+  value: "-30"
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities:
+- position: 0
+  name:
+    ja: えものをねらう
+    en: Look for Prey
+  effect_text:
+    ja: 自分の番に1回使える。相手の手札を見て、その中から、HPが「70」以下のたねポケモンを1枚選び、相手のベンチに出す。
+    en: Once during your turn, you may use this Ability. Your opponent reveals their hand, and you put a Basic Pokémon with 70 HP or less that you find there onto your opponent's Bench.
+attacks:
+- position: 0
+  name:
+    ja: カッターウインド
+    en: Cutting Wind
+  cost:
+  - Colorless
+  - Colorless
+  - Colorless
+  damage: '90'
+  effect_text:
+    ja:
+    en:
+first_appearance:
+  set_name_ja: ブラックボルト
+  released_at: '2025-06-06'
+  regulation_mark: I
+  collector_number: '064'
+  image_url:

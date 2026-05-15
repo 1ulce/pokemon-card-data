@@ -1,0 +1,59 @@
+---
+schema_version: 1
+slug: aggron
+name:
+  ja: ボスゴドラ
+  en: Aggron
+  prefix:
+card_type: Pokémon
+card_subtype: 2進化
+energy_type: Metal
+hp: 180
+retreat_cost: 3
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja: コドラ
+  en: Lairon
+weakness:
+  type: Fire
+  value: "×2"
+resistance:
+  type: Grass
+  value: "-30"
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: アングリースラム
+    en: Angry Slam
+  cost:
+  - Metal
+  damage: 50×
+  effect_text:
+    ja: 自分の場のダメカンがのっているポケモンの数×50ダメージ。
+    en: This attack does 50 damage for each of your Pokémon that has any damage counters on it.
+- position: 1
+  name:
+    ja: ガードクロー
+    en: Guard Claw
+  cost:
+  - Metal
+  - Colorless
+  - Colorless
+  damage: '120'
+  effect_text:
+    ja: 次の相手の番、このポケモンが受けるワザのダメージは「-50」される。
+    en: During your opponent's next turn, this Pokémon takes 50 less damage from attacks (after applying Weakness and Resistance).
+first_appearance:
+  set_name_ja: 変幻の仮面
+  released_at: '2024-04-26'
+  regulation_mark: H
+  collector_number: '075'
+  image_url:

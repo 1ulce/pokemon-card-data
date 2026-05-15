@@ -1,0 +1,58 @@
+---
+schema_version: 1
+slug: weezing
+name:
+  ja: マタドガス
+  en: Weezing
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Darkness
+hp: 130
+retreat_cost: 2
+regulation_mark: I
+meta_tags: []
+evolves_from:
+  ja: ドガース
+  en: Koffing
+weakness:
+  type: Fighting
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: じゅうまんガス
+    en: Pervasive Gas
+  cost:
+  - Darkness
+  damage: '30'
+  effect_text:
+    ja: 相手のバトルポケモンをこんらんにする。
+    en: Your opponent's Active Pokémon is now Confused.
+- position: 1
+  name:
+    ja: クレイジーボム
+    en: Crazy Blast
+  cost:
+  - Darkness
+  - Colorless
+  damage: 50+
+  effect_text:
+    ja: 前の自分の番に、このポケモンが「じゅうまんガス」を使っていたなら、120ダメージ追加。
+    en: If this Pokémon used Pervasive Gas during your last turn, this attack does 120 more damage.
+first_appearance:
+  set_name_ja: バトルパートナーズ
+  released_at: '2025-01-24'
+  regulation_mark: I
+  collector_number: '057'
+  image_url:

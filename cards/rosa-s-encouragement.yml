@@ -1,0 +1,44 @@
+---
+schema_version: 1
+slug: rosa-s-encouragement
+name:
+  ja: メイのはげまし
+  en: Rosa's Encouragement
+  prefix: Rosa's
+card_type: Trainer
+card_subtype: Supporter
+energy_type:
+hp:
+retreat_cost:
+regulation_mark: J
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type:
+  value:
+resistance:
+  type:
+  value:
+body_text:
+  ja: |-
+    このカードは、自分のサイドの残り枚数が、相手のサイドの残り枚数より多いときにしか使えない。
+
+
+
+    自分のトラッシュから基本エネルギーを2枚まで選び、自分の2進化ポケモン1匹につける。
+
+    サポートは、自分の番に1枚しか使えない。
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks: []
+first_appearance:
+  set_name_ja: ムニキスゼロ
+  released_at: '2026-01-23'
+  regulation_mark: J
+  collector_number: '075'
+  image_url:

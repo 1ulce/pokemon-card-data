@@ -1,0 +1,48 @@
+---
+schema_version: 1
+slug: team-rocket-s-flaaffy
+name:
+  ja: ロケット団のモココ
+  en: Team Rocket's Flaaffy
+  prefix: Team Rocket's
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Lightning
+hp: 90
+retreat_cost: 2
+regulation_mark: I
+meta_tags: []
+evolves_from:
+  ja: ロケット団のメリープ
+  en: Team Rocket's Mareep
+weakness:
+  type: Fighting
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: でんきショック
+    en: Thunder Shock
+  cost:
+  - Lightning
+  - Colorless
+  damage: '50'
+  effect_text:
+    ja: コインを1回投げオモテなら、相手のバトルポケモンをマヒにする。
+    en: Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed.
+first_appearance:
+  set_name_ja: ロケット団の栄光
+  released_at: '2025-04-18'
+  regulation_mark: I
+  collector_number: '035'
+  image_url:

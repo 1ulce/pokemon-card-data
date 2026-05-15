@@ -1,0 +1,59 @@
+---
+schema_version: 1
+slug: gigalith
+name:
+  ja: ギガイアス
+  en: Gigalith
+  prefix:
+card_type: Pokémon
+card_subtype: 2進化
+energy_type: Fighting
+hp: 170
+retreat_cost: 3
+regulation_mark: I
+meta_tags: []
+evolves_from:
+  ja: ガントル
+  en: Boldore
+weakness:
+  type: Grass
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: リベンジキャノン
+    en: Vengeful Cannon
+  cost:
+  - Fighting
+  damage: 20×
+  effect_text:
+    ja: 自分のベンチの闘ポケモン全員にのっているダメカンの数×20ダメージ。
+    en: This attack does 20 damage for each damage counter on all of your Benched [F] Pokémon.
+- position: 1
+  name:
+    ja: ヘビーインパクト
+    en: Heavy Impact
+  cost:
+  - Fighting
+  - Fighting
+  - Fighting
+  damage: '160'
+  effect_text:
+    ja:
+    en:
+first_appearance:
+  set_name_ja: ホワイトフレア
+  released_at: '2025-06-06'
+  regulation_mark: I
+  collector_number: '045'
+  image_url:

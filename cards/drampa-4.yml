@@ -1,0 +1,60 @@
+---
+schema_version: 1
+slug: drampa-4
+name:
+  ja: ジジーロン
+  en: Drampa
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Colorless
+hp: 130
+retreat_cost: 2
+regulation_mark: J
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Fighting
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: ひっぱたく
+    en: Gentle Slap
+  cost:
+  - Colorless
+  - Colorless
+  damage: '50'
+  effect_text:
+    ja:
+    en:
+- position: 1
+  name:
+    ja: ドラゴンストライク
+    en: Dragon Strike
+  cost:
+  - Colorless
+  - Colorless
+  - Colorless
+  damage: '120'
+  effect_text:
+    ja: 次の自分の番、このポケモンは「ドラゴンストライク」が使えない。
+    en: During your next turn, this Pokémon can't use Dragon Strike.
+first_appearance:
+  set_name_ja: スタートデッキ100 バトルコレクション
+  released_at: '2025-12-19'
+  regulation_mark: J
+  collector_number: '621'
+  image_url:

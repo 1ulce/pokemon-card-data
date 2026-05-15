@@ -1,0 +1,47 @@
+---
+schema_version: 1
+slug: erika-s-bellsprout
+name:
+  ja: エリカのマダツボミ
+  en: Erika's Bellsprout
+  prefix: Erika's
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Grass
+hp: 60
+retreat_cost: 1
+regulation_mark: J
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Fire
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: つるでうつ
+    en: Vine Slap
+  cost:
+  - Grass
+  damage: '20'
+  effect_text:
+    ja:
+    en:
+first_appearance:
+  set_name_ja: スタートデッキ100 バトルコレクション
+  released_at: '2025-12-19'
+  regulation_mark: J
+  collector_number: '006'
+  image_url:

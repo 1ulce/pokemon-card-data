@@ -1,0 +1,47 @@
+---
+schema_version: 1
+slug: togedemaru
+name:
+  ja: トゲデマル
+  en: Togedemaru
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Lightning
+hp: 80
+retreat_cost: 1
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Fighting
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: ビリビリチャンス
+    en: Electrifying Chance
+  cost:
+  - Lightning
+  damage: '30'
+  effect_text:
+    ja: 自分のサイドの残り枚数が1枚なら、相手のバトルポケモンをマヒにする。
+    en: If you have exactly 1 Prize card remaining, your opponent's Active Pokémon is now Paralyzed.
+first_appearance:
+  set_name_ja: ステラミラクル
+  released_at: '2024-07-19'
+  regulation_mark: H
+  collector_number: '036'
+  image_url:

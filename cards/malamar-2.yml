@@ -1,0 +1,57 @@
+---
+schema_version: 1
+slug: malamar-2
+name:
+  ja: カラマネロ
+  en: Malamar
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Darkness
+hp: 120
+retreat_cost: 2
+regulation_mark:
+meta_tags: []
+evolves_from:
+  ja: マーイーカ
+  en: Inkay
+weakness:
+  type: Grass
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: まどわす 
+    en:
+  cost:
+  - Darkness
+  damage:
+  effect_text:
+    ja: 相手のバトルポケモンをこんらんにする。
+    en:
+- position: 1
+  name:
+    ja: ブレインクラッシュ
+    en:
+  cost:
+  - Darkness
+  damage: '130'
+  effect_text:
+    ja: 相手のバトルポケモンがこんらんでないなら、このワザは失敗。
+    en:
+first_appearance:
+  set_name_ja: アビスアイ
+  released_at: '2026-05-22'
+  regulation_mark: J
+  collector_number: '050'
+  image_url:

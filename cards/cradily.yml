@@ -1,0 +1,54 @@
+---
+schema_version: 1
+slug: cradily
+name:
+  ja: ユレイドル
+  en: Cradily
+  prefix:
+card_type: Pokémon
+card_subtype: 2進化
+energy_type: Grass
+hp: 150
+retreat_cost: 3
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja: リリーラ
+  en: Lileep
+weakness:
+  type: Fire
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities:
+- position: 0
+  name:
+    ja: よりどりねんえき
+    en: Selective Slime
+  effect_text:
+    ja: 自分の番に1回使える。コインを1回投げオモテなら、どく・やけど・こんらんの中から1つ選び、相手のバトルポケモンをその状態にする。
+    en: Once during your turn, you may flip a coin. If heads, choose Burned, Confused, or Poisoned. Your opponent's Active Pokémon is now affected by that Special Condition.
+attacks:
+- position: 0
+  name:
+    ja: しょうきのかぜ
+    en: Miasma Wind
+  cost:
+  - Grass
+  damage: 100×
+  effect_text:
+    ja: 相手のバトルポケモンが受けている特殊状態の数×100ダメージ。
+    en: This attack does 100 damage for each Special Condition affecting your opponent's Active Pokémon.
+first_appearance:
+  set_name_ja: ステラミラクル
+  released_at: '2024-07-19'
+  regulation_mark: H
+  collector_number: '004'
+  image_url:

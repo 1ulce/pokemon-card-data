@@ -1,0 +1,60 @@
+---
+schema_version: 1
+slug: golurk
+name:
+  ja: ゴルーグ
+  en: Golurk
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Fighting
+hp: 160
+retreat_cost: 4
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja: ゴビット
+  en: Golett
+weakness:
+  type: Grass
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: てっぺき 
+    en: Iron Defense
+  cost:
+  - Fighting
+  damage:
+  effect_text:
+    ja: コインを1回投げオモテなら、次の相手の番、このポケモンはワザのダメージを受けない。
+    en: Flip a coin. If heads, during your opponent's next turn, prevent all damage done to this Pokémon by attacks.
+- position: 1
+  name:
+    ja: とうしのこぶし
+    en: Fighting Fist
+  cost:
+  - Colorless
+  - Colorless
+  - Colorless
+  - Colorless
+  damage: 120+
+  effect_text:
+    ja: 相手のバトルポケモンが「ポケモンex・V」なら、120ダメージ追加。
+    en: If your opponent's Active Pokémon is a Pokémon ex or Pokémon V, this attack does 120 more damage.
+first_appearance:
+  set_name_ja: ワイルドフォース
+  released_at: '2024-01-26'
+  regulation_mark: H
+  collector_number: '036'
+  image_url:

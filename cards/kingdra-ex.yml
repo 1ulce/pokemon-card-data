@@ -1,0 +1,59 @@
+---
+schema_version: 1
+slug: kingdra-ex
+name:
+  ja: キングドラex
+  en: Kingdra ex
+  prefix:
+card_type: Pokémon
+card_subtype: 2進化
+energy_type: Water
+hp: 310
+retreat_cost: 1
+regulation_mark: H
+meta_tags:
+- ex
+evolves_from:
+  ja: シードラ
+  en: Seadra
+weakness:
+  type: Lightning
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja: ポケモンexがきぜつしたとき、相手はサイドを2枚とる。
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: おうのごうれい 
+    en: King's Order
+  cost:
+  - Water
+  damage:
+  effect_text:
+    ja: 自分のトラッシュから水ポケモンを3枚まで選び、ベンチに出す。
+    en: Put up to 3 [W] Pokémon from your discard pile onto your Bench.
+- position: 1
+  name:
+    ja: ハイドロポンプ
+    en: Hydro Pump
+  cost:
+  - Colorless
+  - Colorless
+  damage: 50+
+  effect_text:
+    ja: このポケモンについている水エネルギーの数×50ダメージ追加。
+    en: This attack does 50 more damage for each [W] Energy attached to this Pokémon.
+first_appearance:
+  set_name_ja: ナイトワンダラー
+  released_at: '2024-06-07'
+  regulation_mark: H
+  collector_number: '012'
+  image_url:

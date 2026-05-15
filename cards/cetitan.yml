@@ -1,0 +1,57 @@
+---
+schema_version: 1
+slug: cetitan
+name:
+  ja: ハルクジラ
+  en: Cetitan
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Water
+hp: 180
+retreat_cost: 3
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja: アルクジラ
+  en: Cetoddle
+weakness:
+  type: Metal
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities:
+- position: 0
+  name:
+    ja: がっちりボディ
+    en:
+  effect_text:
+    ja: このポケモンが受けるワザのダメージは「-30」される。
+    en:
+attacks:
+- position: 0
+  name:
+    ja: デンジャーマウス
+    en:
+  cost:
+  - Water
+  - Colorless
+  - Colorless
+  - Colorless
+  damage: '150'
+  effect_text:
+    ja:
+    en:
+first_appearance:
+  set_name_ja: 楽園ドラゴーナ
+  released_at: '2024-09-13'
+  regulation_mark: H
+  collector_number: '017'
+  image_url:

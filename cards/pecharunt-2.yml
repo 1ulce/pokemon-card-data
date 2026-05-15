@@ -1,0 +1,54 @@
+---
+schema_version: 1
+slug: pecharunt-2
+name:
+  ja: モモワロウ
+  en: Pecharunt
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Darkness
+hp: 80
+retreat_cost: 1
+regulation_mark: I
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Fighting
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities:
+- position: 0
+  name:
+    ja: さいごのくさり
+    en: Final Chain
+  effect_text:
+    ja: このポケモンが、相手のポケモンからワザのダメージを受けてきぜつしたとき、自分の山札から好きなカードを1枚選び、手札に加える。そして山札を切る。
+    en: If this Pokémon is Knocked Out by damage from an attack from your opponent's Pokémon, search your deck for a card and put it into your hand. Then, shuffle your deck.
+attacks:
+- position: 0
+  name:
+    ja: もちラッシュ
+    en: Mochi Rush
+  cost:
+  - Darkness
+  damage: '20'
+  effect_text:
+    ja: 次の自分の番、このポケモンの「もちラッシュ」のダメージは「+50」される。
+    en: During your next turn, this Pokémon's Mochi Rush attack does 50 more damage (before applying Weakness and Resistance).
+first_appearance:
+  set_name_ja: MEGAドリームex
+  released_at: '2025-11-28'
+  regulation_mark: I
+  collector_number: '115'
+  image_url:

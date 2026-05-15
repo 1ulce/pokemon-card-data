@@ -1,0 +1,48 @@
+---
+schema_version: 1
+slug: passimian
+name:
+  ja: ナゲツケサル
+  en: Passimian
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Fighting
+hp: 110
+retreat_cost: 1
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Psychic
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: れんけいスロー
+    en: Make the Assist
+  cost:
+  - Fighting
+  - Colorless
+  damage: 20×
+  effect_text:
+    ja: 自分の場のたねポケモンの数×20ダメージ。
+    en: Move an Energy from this Pokémon to 1 of your Benched Pokémon.
+first_appearance:
+  set_name_ja: 楽園ドラゴーナ
+  released_at: '2024-09-13'
+  regulation_mark: H
+  collector_number: '031'
+  image_url:

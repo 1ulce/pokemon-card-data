@@ -1,0 +1,63 @@
+---
+schema_version: 1
+slug: melmetal
+name:
+  ja: メルメタル
+  en: Melmetal
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Metal
+hp: 160
+retreat_cost: 4
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja: メルタン
+  en: Meltan
+weakness:
+  type: Fire
+  value: "×2"
+resistance:
+  type: Grass
+  value: "-30"
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: ぶちかます
+    en: Hammer In
+  cost:
+  - Metal
+  - Metal
+  - Colorless
+  damage: '120'
+  effect_text:
+    ja:
+    en:
+- position: 1
+  name:
+    ja: アイアンバッシュ
+    en: Iron Bash
+  cost:
+  - Metal
+  - Metal
+  - Metal
+  - Metal
+  - Colorless
+  damage: '230'
+  effect_text:
+    ja:
+    en:
+first_appearance:
+  set_name_ja: サイバージャッジ
+  released_at: '2024-01-26'
+  regulation_mark: H
+  collector_number: '050'
+  image_url:

@@ -1,0 +1,58 @@
+---
+schema_version: 1
+slug: inkay-2
+name:
+  ja: マーイーカ
+  en: Inkay
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Darkness
+hp: 60
+retreat_cost: 1
+regulation_mark:
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Grass
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: ちょうたつ 
+    en:
+  cost:
+  - Darkness
+  damage:
+  effect_text:
+    ja: 自分の山札からグッズを1枚選び、相手に見せて、手札に加える。そして山札を切る。
+    en:
+- position: 1
+  name:
+    ja: かいてんアタック
+    en:
+  cost:
+  - Darkness
+  - Darkness
+  damage: '30'
+  effect_text:
+    ja:
+    en:
+first_appearance:
+  set_name_ja: アビスアイ
+  released_at: '2026-05-22'
+  regulation_mark: J
+  collector_number: '049'
+  image_url:

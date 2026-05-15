@@ -1,0 +1,42 @@
+---
+schema_version: 1
+slug: rocky-fighting-energy
+name:
+  ja: ロック闘エネルギー
+  en: Rocky Fighting Energy
+  prefix:
+card_type: Energy
+card_subtype: Special Energy
+energy_type:
+hp:
+retreat_cost:
+regulation_mark: J
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type:
+  value:
+resistance:
+  type:
+  value:
+body_text:
+  ja: |-
+    このカードは、ポケモンについているかぎり、闘エネルギー1個ぶんとしてはたらく。
+
+
+
+    このカードをつけている闘ポケモンは、相手のポケモンが使うワザの効果を受けない。（すでに受けている効果は、なくならない。）
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks: []
+first_appearance:
+  set_name_ja: ムニキスゼロ
+  released_at: '2026-01-23'
+  regulation_mark: J
+  collector_number: '080'
+  image_url:

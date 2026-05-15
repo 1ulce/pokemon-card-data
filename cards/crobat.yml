@@ -1,0 +1,55 @@
+---
+schema_version: 1
+slug: crobat
+name:
+  ja: クロバット
+  en: Crobat
+  prefix:
+card_type: Pokémon
+card_subtype: 2進化
+energy_type: Darkness
+hp: 130
+retreat_cost: 0
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja: ゴルバット
+  en: Golbat
+weakness:
+  type: Lightning
+  value: "×2"
+resistance:
+  type: Fighting
+  value: "-30"
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities:
+- position: 0
+  name:
+    ja: かげのつかい
+    en: Shadowy Envoy
+  effect_text:
+    ja: この番、手札から「アンズの秘技」を出して使っていたなら、自分の番に1回使える。自分の手札が8枚になるように、山札を引く。
+    en: Once during your turn, if you played Janine's Secret Art from your hand this turn, you may draw cards until you have 8 cards in your hand.
+attacks:
+- position: 0
+  name:
+    ja: どくどくのキバ
+    en: Poison Fang
+  cost:
+  - Darkness
+  - Colorless
+  damage: '120'
+  effect_text:
+    ja: 相手のバトルポケモンをどくにする。このどくでのせるダメカンの数は2個になる。
+    en: Your opponent's Active Pokémon is now Poisoned. During Pokémon Checkup, put 2 damage counters on that Pokémon instead of 1.
+first_appearance:
+  set_name_ja: ナイトワンダラー
+  released_at: '2024-06-07'
+  regulation_mark: H
+  collector_number: '029'
+  image_url:

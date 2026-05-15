@@ -1,0 +1,47 @@
+---
+schema_version: 1
+slug: ariados-2
+name:
+  ja: アリアドス
+  en: Ariados
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Grass
+hp: 110
+retreat_cost: 1
+regulation_mark: J
+meta_tags: []
+evolves_from:
+  ja: イトマル
+  en: Spinarak
+weakness:
+  type: Fire
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: ポイズンサークル
+    en: Poison Ring
+  cost:
+  - Grass
+  damage: '50'
+  effect_text:
+    ja: 相手のバトルポケモンをどくにする。次の相手の番、このワザを受けたポケモンは、にげられない。
+    en: Your opponent's Active Pokémon is now Poisoned. During your opponent's next turn, that Pokémon can't retreat.
+first_appearance:
+  set_name_ja: ムニキスゼロ
+  released_at: '2026-01-23'
+  regulation_mark: J
+  collector_number: '002'
+  image_url:

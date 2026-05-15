@@ -1,0 +1,37 @@
+---
+schema_version: 1
+slug: lightning-energy
+name:
+  ja: 基本雷エネルギー
+  en: Lightning Energy
+  prefix:
+card_type: Energy
+card_subtype: Basic Energy
+energy_type:
+hp:
+retreat_cost:
+regulation_mark:
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type:
+  value:
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks: []
+first_appearance:
+  set_name_ja: バイオレットex
+  released_at: '2023-01-20'
+  regulation_mark:
+  collector_number: '108'
+  image_url:

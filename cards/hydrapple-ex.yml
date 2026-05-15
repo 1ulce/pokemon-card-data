@@ -1,0 +1,56 @@
+---
+schema_version: 1
+slug: hydrapple-ex
+name:
+  ja: カミツオロチex
+  en: Hydrapple ex
+  prefix:
+card_type: Pokémon
+card_subtype: 2進化
+energy_type: Grass
+hp: 330
+retreat_cost: 3
+regulation_mark: H
+meta_tags:
+- ex
+evolves_from:
+  ja: カジッチュ
+  en: Applin
+weakness:
+  type: Fire
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja: ポケモンexがきぜつしたとき、相手はサイドを2枚とる。
+  en:
+abilities:
+- position: 0
+  name:
+    ja: じゅくせいチャージ
+    en: Ripening Charge
+  effect_text:
+    ja: 自分の番に1回使える。自分の手札から「基本草エネルギー」を1枚選び、自分のポケモンにつける。その後、つけたポケモンのHPを「30」回復する。
+    en: Once during your turn, you may attach a Basic [G] Energy card from your hand to 1 of your Pokémon. If you attached Energy to a Pokémon in this way, heal 30 damage from that Pokémon.
+attacks:
+- position: 0
+  name:
+    ja: みつあめストーム
+    en: Syrup Storm
+  cost:
+  - Colorless
+  - Colorless
+  damage: 30+
+  effect_text:
+    ja: 自分のポケモン全員についている草エネルギーの数×30ダメージ追加。
+    en: This attack does 30 more damage for each [G] Energy attached to all of your Pokémon.
+first_appearance:
+  set_name_ja: ステラミラクル
+  released_at: '2024-07-19'
+  regulation_mark: H
+  collector_number: '012'
+  image_url:

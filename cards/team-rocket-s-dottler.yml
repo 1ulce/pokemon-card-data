@@ -1,0 +1,58 @@
+---
+schema_version: 1
+slug: team-rocket-s-dottler
+name:
+  ja: ロケット団のレドームシ
+  en: Team Rocket's Dottler
+  prefix: Team Rocket's
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Psychic
+hp: 80
+retreat_cost: 2
+regulation_mark: I
+meta_tags: []
+evolves_from:
+  ja: ロケット団のサッチムシ
+  en: Team Rocket's Blipbug
+weakness:
+  type: Darkness
+  value: "×2"
+resistance:
+  type: Fighting
+  value: "-30"
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: かくらんレーダー 
+    en: Disruptive Radar
+  cost:
+  - Colorless
+  damage:
+  effect_text:
+    ja: 相手の山札を上から5枚見て、好きな順番に入れ替えて、山札の上にもどす。
+    en: Look at the top 5 cards of your opponent's deck and put them back in any order.
+- position: 1
+  name:
+    ja: ちょうねんりき
+    en: Super Psy Bolt
+  cost:
+  - Psychic
+  - Colorless
+  damage: '30'
+  effect_text:
+    ja:
+    en:
+first_appearance:
+  set_name_ja: ロケット団の栄光
+  released_at: '2025-04-18'
+  regulation_mark: I
+  collector_number: '043'
+  image_url:

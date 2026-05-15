@@ -1,0 +1,48 @@
+---
+schema_version: 1
+slug: tyrunt
+name:
+  ja: チゴラス
+  en: Tyrunt
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Fighting
+hp: 100
+retreat_cost: 3
+regulation_mark: J
+meta_tags: []
+evolves_from:
+  ja: 古びたアゴの化石
+  en: Antique Jaw Fossil
+weakness:
+  type: Grass
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: いきりたつ
+    en: Get Angry
+  cost:
+  - Fighting
+  - Colorless
+  damage: 20×
+  effect_text:
+    ja: このポケモンにのっているダメカンの数×20ダメージ。
+    en: This attack does 20 damage for each damage counter on this Pokémon.
+first_appearance:
+  set_name_ja: ムニキスゼロ
+  released_at: '2026-01-23'
+  regulation_mark: J
+  collector_number: '043'
+  image_url:

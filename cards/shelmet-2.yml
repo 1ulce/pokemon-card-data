@@ -1,0 +1,54 @@
+---
+schema_version: 1
+slug: shelmet-2
+name:
+  ja: チョボマキ
+  en: Shelmet
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Grass
+hp: 60
+retreat_cost: 3
+regulation_mark: I
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Fire
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities:
+- position: 0
+  name:
+    ja: しげきしんか
+    en: Stimulated Evolution
+  effect_text:
+    ja: 自分の場に「カブルモ」がいるなら、このポケモンは、最初の自分の番や、出したばかりの番でも進化できる。
+    en: If you have Karrablast in play, this Pokémon can evolve during your first turn or the turn you play it.
+attacks:
+- position: 0
+  name:
+    ja: とびだしヘッド
+    en: Headbutt Bounce
+  cost:
+  - Colorless
+  damage: '10'
+  effect_text:
+    ja:
+    en:
+first_appearance:
+  set_name_ja: ホワイトフレア
+  released_at: '2025-06-06'
+  regulation_mark: I
+  collector_number: '008'
+  image_url:

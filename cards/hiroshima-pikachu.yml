@@ -1,0 +1,60 @@
+---
+schema_version: 1
+slug: hiroshima-pikachu
+name:
+  ja: ヒロシマのピカチュウ
+  en: Hiroshima Pikachu
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Lightning
+hp: 70
+retreat_cost: 1
+regulation_mark:
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Fighting
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: リニューアルオープン！ 
+    en:
+  cost:
+  - Colorless
+  - Colorless
+  damage:
+  effect_text:
+    ja: 自分の山札を2枚引く。
+    en:
+- position: 1
+  name:
+    ja: のりこなす
+    en:
+  cost:
+  - Lightning
+  - Colorless
+  - Colorless
+  damage: 30+
+  effect_text:
+    ja: コインを1回投げオモテなら、30ダメージ追加。
+    en:
+first_appearance:
+  set_name_ja: スペシャルBOX ポケモンセンターヒロシマ
+  released_at:
+  regulation_mark:
+  collector_number: '49618'
+  image_url:

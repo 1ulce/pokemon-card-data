@@ -1,0 +1,47 @@
+---
+schema_version: 1
+slug: larvesta-3
+name:
+  ja: メラルバ
+  en: Larvesta
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Fire
+hp: 60
+retreat_cost: 1
+regulation_mark: I
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Water
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: つつきおとす
+    en: Peck Off
+  cost:
+  - Colorless
+  damage: '10'
+  effect_text:
+    ja: ダメージを与える前に、相手のバトルポケモンについている「ポケモンのどうぐ」をトラッシュする。
+    en: Before doing damage, discard all Pokémon Tools from your opponent's Active Pokémon.
+first_appearance:
+  set_name_ja: ブラックボルト
+  released_at: '2025-06-06'
+  regulation_mark: I
+  collector_number: '018'
+  image_url:

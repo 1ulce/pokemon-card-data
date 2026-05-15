@@ -1,0 +1,61 @@
+---
+schema_version: 1
+slug: great-tusk-2
+name:
+  ja: イダイナキバ
+  en: Great Tusk
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Fighting
+hp: 140
+retreat_cost: 3
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Psychic
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: じばんほうかい 
+    en: Land Collapse
+  cost:
+  - Colorless
+  - Colorless
+  damage:
+  effect_text:
+    ja: 相手の山札を上から1枚トラッシュする。この番、手札から「古代」のサポートを出して使っていたなら、さらに3枚トラッシュする。
+    en: Discard the top card of your opponent's deck. If you played an Ancient Supporter card from your hand during this turn, discard 3 more cards in this way.
+- position: 1
+  name:
+    ja: きょだいなキバ
+    en: Giant Tusk
+  cost:
+  - Fighting
+  - Fighting
+  - Colorless
+  - Colorless
+  damage: '160'
+  effect_text:
+    ja:
+    en:
+first_appearance:
+  set_name_ja: ワイルドフォース
+  released_at: '2024-01-26'
+  regulation_mark: H
+  collector_number: '042'
+  image_url:

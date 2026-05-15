@@ -1,0 +1,56 @@
+---
+schema_version: 1
+slug: huntail
+name:
+  ja: ハンテール
+  en: Huntail
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Water
+hp: 110
+retreat_cost: 1
+regulation_mark: I
+meta_tags: []
+evolves_from:
+  ja: パールル
+  en: Clamperl
+weakness:
+  type: Lightning
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities:
+- position: 0
+  name:
+    ja: ダイバーキャッチ
+    en: Diver's Catch
+  effect_text:
+    ja: 自分の水ポケモンが、相手のポケモンからワザのダメージを受けてきぜつするたび、1回使える。きぜつしたポケモンについている「基本水エネルギー」はトラッシュせず、すべて手札にもどす。
+    en: When 1 of your [W] Pokémon is Knocked Out by damage from an attack from your opponent's Pokémon, you may put all Basic [W] Energy attached to that Pokémon into your hand instead of the discard pile.
+attacks:
+- position: 0
+  name:
+    ja: スプラッシュ
+    en: Wave Splash
+  cost:
+  - Water
+  - Colorless
+  - Colorless
+  damage: '80'
+  effect_text:
+    ja:
+    en:
+first_appearance:
+  set_name_ja: ロケット団の栄光
+  released_at: '2025-04-18'
+  regulation_mark: I
+  collector_number: '024'
+  image_url:

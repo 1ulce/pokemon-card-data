@@ -1,0 +1,57 @@
+---
+schema_version: 1
+slug: azumarill-ex
+name:
+  ja: マリルリex
+  en: Azumarill ex
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Psychic
+hp: 270
+retreat_cost: 2
+regulation_mark: J
+meta_tags:
+- ex
+evolves_from:
+  ja: マリル
+  en: Marill
+weakness:
+  type: Metal
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja: ポケモンexがきぜつしたとき、相手はサイドを2枚とる。
+  en:
+abilities:
+- position: 0
+  name:
+    ja: シャボンあつめ
+    en: Bubble Gathering
+  effect_text:
+    ja: 自分の番に何回でも使える。自分の場のポケモンについているエネルギーを1個選び、このポケモンにつけ替える。
+    en: As often as you like during your turn, you may use this Ability. Move an Energy from 1 of your other Pokémon to this Pokémon.
+attacks:
+- position: 0
+  name:
+    ja: エナジーバルーン
+    en: Energized Balloon
+  cost:
+  - Colorless
+  - Colorless
+  - Colorless
+  damage: 60+
+  effect_text:
+    ja: このポケモンについている超エネルギーの数×40ダメージ追加。
+    en: This attack does 40 more damage for each [P] Energy attached to this Pokémon.
+first_appearance:
+  set_name_ja: スタートデッキ100 バトルコレクション
+  released_at: '2025-12-19'
+  regulation_mark: J
+  collector_number: '297'
+  image_url:

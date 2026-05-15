@@ -1,0 +1,57 @@
+---
+schema_version: 1
+slug: oricorio-ex
+name:
+  ja: オドリドリex
+  en: Oricorio ex
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Fire
+hp: 190
+retreat_cost: 1
+regulation_mark: I
+meta_tags:
+- ex
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Water
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja: ポケモンexがきぜつしたとき、相手はサイドを2枚とる。
+  en:
+abilities:
+- position: 0
+  name:
+    ja: エキサイトターボ
+    en: Excited Turbo
+  effect_text:
+    ja: 自分の場に炎タイプの「メガシンカex」がいるなら、自分の番に何回でも使える。自分の手札から「基本炎エネルギー」を1枚選び、ベンチの炎ポケモンにつける。
+    en: As often as you like during your turn, if you have any [R] Mega Evolution Pokémon ex in play, you may use this Ability. Attach a Basic [R] Energy card from your hand to 1 of your Benched [R] Pokémon.
+attacks:
+- position: 0
+  name:
+    ja: ほのおのつばさ
+    en: Fire Wing
+  cost:
+  - Fire
+  - Fire
+  - Colorless
+  damage: '110'
+  effect_text:
+    ja:
+    en:
+first_appearance:
+  set_name_ja: インフェルノX
+  released_at: '2025-09-26'
+  regulation_mark: I
+  collector_number: '018'
+  image_url:

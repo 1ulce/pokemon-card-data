@@ -1,0 +1,56 @@
+---
+schema_version: 1
+slug: brambleghast
+name:
+  ja: アノホラグサ
+  en: Brambleghast
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Grass
+hp: 100
+retreat_cost: 3
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja: アノクサ
+  en: Bramblin
+weakness:
+  type: Fire
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities:
+- position: 0
+  name:
+    ja: ざっそうだましい
+    en: Resilient Soul
+  effect_text:
+    ja: 相手がすでにとったサイド1枚につき、このポケモンの最大HPは「＋50」される。
+    en: This Pokémon gets +50 HP for each Prize card your opponent has taken.
+attacks:
+- position: 0
+  name:
+    ja: パワフルニードル
+    en: Powerful Needles
+  cost:
+  - Grass
+  - Colorless
+  - Colorless
+  damage: 80×
+  effect_text:
+    ja: このポケモンについているエネルギーの数ぶんコインを投げ、オモテの数×80ダメージ。
+    en: Flip a coin for each Energy attached to this Pokémon. This attack does 80 damage for each heads.
+first_appearance:
+  set_name_ja: サイバージャッジ
+  released_at: '2024-01-26'
+  regulation_mark: H
+  collector_number: '013'
+  image_url:

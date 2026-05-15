@@ -1,0 +1,47 @@
+---
+schema_version: 1
+slug: haunter-3
+name:
+  ja: ゴースト
+  en: Haunter
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Darkness
+hp: 100
+retreat_cost: 1
+regulation_mark: J
+meta_tags: []
+evolves_from:
+  ja: ゴース
+  en: Gastly
+weakness:
+  type: Fighting
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: のろう 
+    en: Haunt
+  cost:
+  - Darkness
+  damage:
+  effect_text:
+    ja: 相手のバトルポケモンに、ダメカンを3個のせる。
+    en: Place 3 damage counters on your opponent's Active Pokémon.
+first_appearance:
+  set_name_ja: ムニキスゼロ
+  released_at: '2026-01-23'
+  regulation_mark: J
+  collector_number: '048'
+  image_url:

@@ -1,0 +1,58 @@
+---
+schema_version: 1
+slug: poliwhirl
+name:
+  ja: ニョロゾ
+  en: Poliwhirl
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Water
+hp: 100
+retreat_cost: 2
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja: ニョロモ
+  en: Poliwag
+weakness:
+  type: Lightning
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: さいみんじゅつ 
+    en: Hypnosis
+  cost:
+  - Water
+  damage:
+  effect_text:
+    ja: 相手のバトルポケモンをねむりにする。
+    en: Your opponent's Active Pokémon is now Asleep.
+- position: 1
+  name:
+    ja: おうふくビンタ
+    en: Double Slap
+  cost:
+  - Colorless
+  - Colorless
+  damage: 30×
+  effect_text:
+    ja: コインを2回投げ、オモテの数×30ダメージ。
+    en: Flip 2 coins. This attack does 30 damage for each heads.
+first_appearance:
+  set_name_ja: 変幻の仮面
+  released_at: '2024-04-26'
+  regulation_mark: H
+  collector_number: '024'
+  image_url:

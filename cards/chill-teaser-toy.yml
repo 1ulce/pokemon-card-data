@@ -1,0 +1,44 @@
+---
+schema_version: 1
+slug: chill-teaser-toy
+name:
+  ja: のんびりじゃらし
+  en: Chill Teaser Toy
+  prefix:
+card_type: Trainer
+card_subtype: Item
+energy_type:
+hp:
+retreat_cost:
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type:
+  value:
+resistance:
+  type:
+  value:
+body_text:
+  ja: |-
+    このカードは、後攻プレイヤーの最初の番しか使えない。
+
+
+
+    相手の場のポケモンについているエネルギーを1個選び、相手の手札にもどす。
+
+    グッズは、自分の番に何枚でも使える。
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks: []
+first_appearance:
+  set_name_ja: 超電ブレイカー
+  released_at: '2024-10-18'
+  regulation_mark: H
+  collector_number: '096'
+  image_url:

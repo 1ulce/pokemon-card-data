@@ -1,0 +1,59 @@
+---
+schema_version: 1
+slug: seaking
+name:
+  ja: アズマオウ
+  en: Seaking
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Water
+hp: 90
+retreat_cost: 1
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja: トサキント
+  en: Goldeen
+weakness:
+  type: Lightning
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: つつきおとす
+    en: Peck Off
+  cost:
+  - Water
+  damage: '50'
+  effect_text:
+    ja: ダメージを与える前に、相手のバトルポケモンについている「ポケモンのどうぐ」をトラッシュする。
+    en: Before doing damage, discard all Pokémon Tools from your opponent's Active Pokémon.
+- position: 1
+  name:
+    ja: つのドリル
+    en: Horn Drill
+  cost:
+  - Colorless
+  - Colorless
+  - Colorless
+  damage: '90'
+  effect_text:
+    ja:
+    en:
+first_appearance:
+  set_name_ja: 変幻の仮面
+  released_at: '2024-04-26'
+  regulation_mark: H
+  collector_number: '027'
+  image_url:

@@ -1,0 +1,38 @@
+---
+schema_version: 1
+slug: enriching-energy
+name:
+  ja: リッチエネルギー
+  en: Enriching Energy
+  prefix:
+card_type: Energy
+card_subtype: Special Energy
+energy_type:
+hp:
+retreat_cost:
+regulation_mark: H
+meta_tags:
+- ace_spec
+evolves_from:
+  ja:
+  en:
+weakness:
+  type:
+  value:
+resistance:
+  type:
+  value:
+body_text:
+  ja: "このカードは、ポケモンについているかぎり、エネルギー1個ぶんとしてはたらく。 \n\n\n\nこのカードを手札からポケモンにつけたとき、自分の山札を4枚引く。"
+  en:
+rules_text:
+  ja: ACE SPECのカードは、デッキに1枚しか入れられない。
+  en:
+abilities: []
+attacks: []
+first_appearance:
+  set_name_ja: 楽園ドラゴーナ
+  released_at: '2024-09-13'
+  regulation_mark: H
+  collector_number: '064'
+  image_url:

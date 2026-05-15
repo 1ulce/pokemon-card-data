@@ -1,0 +1,57 @@
+---
+schema_version: 1
+slug: eevee-ex-2
+name:
+  ja: イーブイex
+  en: Eevee ex
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Colorless
+hp: 200
+retreat_cost: 1
+regulation_mark: H
+meta_tags:
+- ex
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Fighting
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja: ポケモンexがきぜつしたとき、相手はサイドを2枚とる。
+  en:
+abilities:
+- position: 0
+  name:
+    ja: にじいろDNA
+    en: Rainbow DNA
+  effect_text:
+    ja: このポケモンは、「イーブイ」から進化する「ポケモンex」を手札から出して、このポケモンにのせて進化できる。（最初の自分の番や、出したばかりの番には進化できない。）
+    en: This Pokémon can evolve into any Pokémon ex that evolves from Eevee if you play it from your hand onto this Pokémon. (This Pokémon can't evolve during your first turn or the turn you play it.)
+attacks:
+- position: 0
+  name:
+    ja: クォーツシャイン
+    en: Coruscating Quartz
+  cost:
+  - Fire
+  - Water
+  - Lightning
+  damage: '200'
+  effect_text:
+    ja:
+    en:
+first_appearance:
+  set_name_ja: テラスタルフェスex
+  released_at: '2024-12-06'
+  regulation_mark: H
+  collector_number: '126'
+  image_url:

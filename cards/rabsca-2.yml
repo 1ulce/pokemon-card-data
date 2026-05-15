@@ -1,0 +1,57 @@
+---
+schema_version: 1
+slug: rabsca-2
+name:
+  ja: ベラカス
+  en: Rabsca
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Grass
+hp: 70
+retreat_cost: 1
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja: シガロコ
+  en: Rellor
+weakness:
+  type: Fire
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: トリプルドロー 
+    en: Triple Draw
+  cost:
+  - Colorless
+  damage:
+  effect_text:
+    ja: 自分の山札を3枚引く。
+    en: Draw 3 cards.
+- position: 1
+  name:
+    ja: どんでんがえし
+    en: Counterturn
+  cost:
+  - Grass
+  damage: 40+
+  effect_text:
+    ja: 自分の山札の残り枚数が3枚以下なら、200ダメージ追加。
+    en: If there are 3 or fewer cards in your deck, this attack does 200 more damage.
+first_appearance:
+  set_name_ja: 超電ブレイカー
+  released_at: '2024-10-18'
+  regulation_mark: H
+  collector_number: '009'
+  image_url:

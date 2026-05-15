@@ -1,0 +1,56 @@
+---
+schema_version: 1
+slug: team-rocket-s-ampharos
+name:
+  ja: ロケット団のデンリュウ
+  en: Team Rocket's Ampharos
+  prefix: Team Rocket's
+card_type: Pokémon
+card_subtype: 2進化
+energy_type: Lightning
+hp: 140
+retreat_cost: 2
+regulation_mark: I
+meta_tags: []
+evolves_from:
+  ja: ロケット団のモココ
+  en: Team Rocket's Flaaffy
+weakness:
+  type: Fighting
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities:
+- position: 0
+  name:
+    ja: ダークインパルス
+    en: Darkest Impulse
+  effect_text:
+    ja: このポケモンがいるかぎり、相手が手札からポケモンを出して進化させるたび、そのポケモンにダメカンを4個のせる。この効果は、この特性を持つポケモンが何匹いても、重ならない。
+    en: Whenever your opponent plays a Pokémon from their hand to evolve 1 of their Pokémon, put 4 damage counters on that Pokémon. The effect of Darkest Impulse doesn't stack.
+attacks:
+- position: 0
+  name:
+    ja: ヘッドボルト
+    en: Head Bolt
+  cost:
+  - Lightning
+  - Colorless
+  - Colorless
+  damage: '140'
+  effect_text:
+    ja:
+    en:
+first_appearance:
+  set_name_ja: ロケット団の栄光
+  released_at: '2025-04-18'
+  regulation_mark: I
+  collector_number: '036'
+  image_url:

@@ -1,0 +1,58 @@
+---
+schema_version: 1
+slug: sealeo
+name:
+  ja: トドグラー
+  en: Sealeo
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Water
+hp: 100
+retreat_cost: 3
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja: タマザラシ
+  en: Spheal
+weakness:
+  type: Metal
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: つきたおし
+    en: Lunge Out
+  cost:
+  - Water
+  damage: '30'
+  effect_text:
+    ja:
+    en:
+- position: 1
+  name:
+    ja: アイスボール
+    en: Ice Ball
+  cost:
+  - Water
+  - Water
+  damage: '60'
+  effect_text:
+    ja:
+    en:
+first_appearance:
+  set_name_ja: 超電ブレイカー
+  released_at: '2024-10-18'
+  regulation_mark: H
+  collector_number: '028'
+  image_url:

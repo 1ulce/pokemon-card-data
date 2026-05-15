@@ -1,0 +1,59 @@
+---
+schema_version: 1
+slug: lucario-ex-2
+name:
+  ja: ルカリオex
+  en: Lucario ex
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Fighting
+hp: 260
+retreat_cost: 2
+regulation_mark: H
+meta_tags:
+- ex
+evolves_from:
+  ja: リオル
+  en: Riolu
+weakness:
+  type: Psychic
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja: ポケモンexがきぜつしたとき、相手はサイドを2枚とる。
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: はどうアッパー
+    en: Aura Uppercut
+  cost:
+  - Fighting
+  damage: '50'
+  effect_text:
+    ja:
+    en:
+- position: 1
+  name:
+    ja: トルネードラッシュ
+    en: Tornado Rush
+  cost:
+  - Fighting
+  - Colorless
+  damage: '100'
+  effect_text:
+    ja: 次の自分の番、このポケモンの「トルネードラッシュ」のダメージは「+100」される。
+    en: During your next turn, this Pokémon's Tornado Rush attack does 100 more damage (before applying Weakness and Resistance).
+first_appearance:
+  set_name_ja: スタートデッキGenerations ディアルガex・ルカリオex
+  released_at: '2024-11-22'
+  regulation_mark: H
+  collector_number: '065'
+  image_url:

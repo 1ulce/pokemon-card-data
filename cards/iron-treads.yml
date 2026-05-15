@@ -1,0 +1,55 @@
+---
+schema_version: 1
+slug: iron-treads
+name:
+  ja: テツノワダチ
+  en: Iron Treads
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Metal
+hp: 130
+retreat_cost: 2
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Fire
+  value: "×2"
+resistance:
+  type: Grass
+  value: "-30"
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities:
+- position: 0
+  name:
+    ja: デュアルコア
+    en: Dual Core
+  effect_text:
+    ja: このポケモンに「ブーストエナジー 未来」がついているかぎり、このポケモンは闘と鋼の2つのタイプになる。
+    en: As long as this Pokémon has a Future Booster Energy Capsule attached, it is [F] and [M] type.
+attacks:
+- position: 0
+  name:
+    ja: パスホイール
+    en: Wheel Pass
+  cost:
+  - Metal
+  - Colorless
+  damage: '60'
+  effect_text:
+    ja: このポケモンについているエネルギーを1個選び、ベンチポケモンにつけ替える。
+    en: Move an Energy from this Pokémon to 1 of your Benched Pokémon.
+first_appearance:
+  set_name_ja: サイバージャッジ
+  released_at: '2024-01-26'
+  regulation_mark: H
+  collector_number: '051'
+  image_url:

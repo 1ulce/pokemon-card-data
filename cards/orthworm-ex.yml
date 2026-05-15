@@ -1,0 +1,58 @@
+---
+schema_version: 1
+slug: orthworm-ex
+name:
+  ja: ミミズズex
+  en: Orthworm ex
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Metal
+hp: 220
+retreat_cost: 4
+regulation_mark: H
+meta_tags:
+- ex
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Fire
+  value: "×2"
+resistance:
+  type: Grass
+  value: "-30"
+body_text:
+  ja:
+  en:
+rules_text:
+  ja: ポケモンexがきぜつしたとき、相手はサイドを2枚とる。
+  en:
+abilities:
+- position: 0
+  name:
+    ja: ボコスカがえし
+    en: Pummeling Payback
+  effect_text:
+    ja: このポケモンが、相手のポケモンからワザのダメージを受けたとき、このポケモンについている鋼エネルギーの数×2個ぶんのダメカンを、ワザを使ったポケモンにのせる。
+    en: If this Pokémon is damaged by an attack from your opponent's Pokémon (even if this Pokémon is Knocked Out), put 2 damage counters on the Attacking Pokémon for each [M] Energy attached to this Pokémon.
+attacks:
+- position: 0
+  name:
+    ja: がんせきふうじ
+    en: Rock Tomb
+  cost:
+  - Colorless
+  - Colorless
+  - Colorless
+  - Colorless
+  damage: '150'
+  effect_text:
+    ja: 次の相手の番、このワザを受けたポケモンは、にげられない。
+    en: During your opponent's next turn, the Defending Pokémon can't retreat.
+first_appearance:
+  set_name_ja: ステラミラクル
+  released_at: '2024-07-19'
+  regulation_mark: H
+  collector_number: '074'
+  image_url:

@@ -1,0 +1,58 @@
+---
+schema_version: 1
+slug: miltank-5
+name:
+  ja: ミルタンク
+  en: Miltank
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Colorless
+hp: 130
+retreat_cost: 2
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Fighting
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: ころがる
+    en: Rollout
+  cost:
+  - Colorless
+  damage: '20'
+  effect_text:
+    ja:
+    en:
+- position: 1
+  name:
+    ja: モーモーローリング
+    en: Moomoo Rolling
+  cost:
+  - Colorless
+  - Colorless
+  damage: '100'
+  effect_text:
+    ja: このワザは、前の自分の番に、このポケモンが「ころがる」を使っていなければ使えない。
+    en: You can use this attack only if this Pokémon used Rollout during your last turn.
+first_appearance:
+  set_name_ja: スタートデッキGenerations ルギアex・バンギラスex
+  released_at: '2024-11-22'
+  regulation_mark: H
+  collector_number: '096'
+  image_url:

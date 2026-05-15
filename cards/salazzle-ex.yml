@@ -1,0 +1,59 @@
+---
+schema_version: 1
+slug: salazzle-ex
+name:
+  ja: エンニュートex
+  en: Salazzle ex
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Fire
+hp: 260
+retreat_cost: 1
+regulation_mark: J
+meta_tags:
+- ex
+evolves_from:
+  ja: ヤトウモリ
+  en: Salandit
+weakness:
+  type: Water
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja: ポケモンexがきぜつしたとき、相手はサイドを2枚とる。
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: わるだくみ 
+    en: Nasty Plot
+  cost:
+  - Fire
+  damage:
+  effect_text:
+    ja: 自分の山札から好きなカードを2枚まで選び、手札に加える。そして山札を切る。
+    en: Search your deck for up to 2 cards and put them into your hand. Then, shuffle your deck.
+- position: 1
+  name:
+    ja: フェイタルネイル
+    en: Dire Nails
+  cost:
+  - Fire
+  - Fire
+  damage: '100'
+  effect_text:
+    ja: 相手のバトルポケモンをどくとやけどにする。このポケモンをベンチポケモンと入れ替える。
+    en: Your opponent's Active Pokémon is now Burned and Poisoned. Switch this Pokémon with 1 of your Benched Pokémon.
+first_appearance:
+  set_name_ja: ムニキスゼロ
+  released_at: '2026-01-23'
+  regulation_mark: J
+  collector_number: '016'
+  image_url:

@@ -1,0 +1,47 @@
+---
+schema_version: 1
+slug: yamper
+name:
+  ja: ワンパチ
+  en: Yamper
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Lightning
+hp: 70
+retreat_cost: 1
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Fighting
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: きまぐれタックル
+    en: Whimsy Tackle
+  cost:
+  - Colorless
+  damage: '20'
+  effect_text:
+    ja: コインを1回投げウラなら、このワザは失敗。
+    en: Flip a coin. If tails, this attack does nothing.
+first_appearance:
+  set_name_ja: 未来のミライドンex
+  released_at: '2024-01-26'
+  regulation_mark: H
+  collector_number: '004'
+  image_url:

@@ -1,0 +1,49 @@
+---
+schema_version: 1
+slug: pignite-2
+name:
+  ja: チャオブー
+  en: Pignite
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Fire
+hp: 110
+retreat_cost: 3
+regulation_mark: J
+meta_tags: []
+evolves_from:
+  ja: ポカブ
+  en: Tepig
+weakness:
+  type: Water
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: ほのおでこがす
+    en: Super Singe
+  cost:
+  - Fire
+  - Fire
+  - Colorless
+  damage: '70'
+  effect_text:
+    ja: 相手のバトルポケモンをやけどにする。
+    en: Your opponent's Active Pokémon is now Burned.
+first_appearance:
+  set_name_ja: スタートデッキ100 バトルコレクション
+  released_at: '2025-12-19'
+  regulation_mark: J
+  collector_number: '111'
+  image_url:

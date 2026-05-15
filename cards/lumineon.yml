@@ -1,0 +1,58 @@
+---
+schema_version: 1
+slug: lumineon
+name:
+  ja: ネオラント
+  en: Lumineon
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Water
+hp: 110
+retreat_cost: 1
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja: ケイコウオ
+  en: Finneon
+weakness:
+  type: Lightning
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: おんがえし
+    en: Return
+  cost:
+  - Colorless
+  damage: '20'
+  effect_text:
+    ja: のぞむなら、自分の手札が6枚になるように、山札を引く。
+    en: You may draw cards until you have 6 cards in your hand.
+- position: 1
+  name:
+    ja: ひれカッター
+    en: Razor Fin
+  cost:
+  - Water
+  - Colorless
+  damage: '70'
+  effect_text:
+    ja:
+    en:
+first_appearance:
+  set_name_ja: ステラミラクル
+  released_at: '2024-07-19'
+  regulation_mark: H
+  collector_number: '021'
+  image_url:

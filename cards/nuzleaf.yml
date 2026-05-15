@@ -1,0 +1,58 @@
+---
+schema_version: 1
+slug: nuzleaf
+name:
+  ja: コノハナ
+  en: Nuzleaf
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Grass
+hp: 90
+retreat_cost: 1
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja: タネボー
+  en: Seedot
+weakness:
+  type: Fire
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: どつく
+    en: Corkscrew Punch
+  cost:
+  - Grass
+  damage: '20'
+  effect_text:
+    ja:
+    en:
+- position: 1
+  name:
+    ja: れんぞくビンタ
+    en: Comet Slap
+  cost:
+  - Colorless
+  - Colorless
+  damage: 30×
+  effect_text:
+    ja: コインを3回投げ、オモテの数×30ダメージ。
+    en: Flip 3 coins. This attack does 30 damage for each heads.
+first_appearance:
+  set_name_ja: サイバージャッジ
+  released_at: '2024-01-26'
+  regulation_mark: H
+  collector_number: '004'
+  image_url:

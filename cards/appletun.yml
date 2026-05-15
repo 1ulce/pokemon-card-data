@@ -1,0 +1,59 @@
+---
+schema_version: 1
+slug: appletun
+name:
+  ja: タルップル
+  en: Appletun
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Dragon
+hp: 90
+retreat_cost: 3
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja: カジッチュ
+  en: Applin
+weakness:
+  type:
+  value:
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: スイートメルト
+    en: Melting Sweetness
+  cost:
+  - Colorless
+  - Colorless
+  damage: '50'
+  effect_text:
+    ja: 次の相手の番、このワザを受けたポケモンは、ワザが使えない。
+    en: During your opponent's next turn, the Defending Pokémon can't attack.
+- position: 1
+  name:
+    ja: ワイルドタックル
+    en: Wild Tackle
+  cost:
+  - Grass
+  - Fire
+  damage: '130'
+  effect_text:
+    ja: このポケモンにも20ダメージ。
+    en: This Pokémon also does 20 damage to itself.
+first_appearance:
+  set_name_ja: 楽園ドラゴーナ
+  released_at: '2024-09-13'
+  regulation_mark: H
+  collector_number: '047'
+  image_url:

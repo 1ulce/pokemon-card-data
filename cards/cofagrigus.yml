@@ -1,0 +1,59 @@
+---
+schema_version: 1
+slug: cofagrigus
+name:
+  ja: デスカーン
+  en: Cofagrigus
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Psychic
+hp: 120
+retreat_cost: 2
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja: デスマス
+  en: Yamask
+weakness:
+  type: Darkness
+  value: "×2"
+resistance:
+  type: Fighting
+  value: "-30"
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: めいふのおきて 
+    en: Law of the Underworld
+  cost:
+  - Psychic
+  damage:
+  effect_text:
+    ja: おたがいの特性を持つポケモン全員に、それぞれダメカンを6個のせる。
+    en: Put 6 damage counters on each Pokémon that has an Ability (both yours and your opponent's).
+- position: 1
+  name:
+    ja: ホロウショット
+    en: Spooky Shot
+  cost:
+  - Psychic
+  - Colorless
+  - Colorless
+  damage: '100'
+  effect_text:
+    ja:
+    en:
+first_appearance:
+  set_name_ja: 超電ブレイカー
+  released_at: '2024-10-18'
+  regulation_mark: H
+  collector_number: '052'
+  image_url:

@@ -1,0 +1,62 @@
+---
+schema_version: 1
+slug: mega-absol-ex
+name:
+  ja: メガアブソルex
+  en: Mega Absol ex
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Darkness
+hp: 280
+retreat_cost: 2
+regulation_mark: I
+meta_tags:
+- ex
+- mega
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Grass
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja: メガシンカexがきぜつしたとき、相手はサイドを3枚とる。
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: デスピリオド 
+    en: Terminal Period
+  cost:
+  - Darkness
+  - Colorless
+  damage:
+  effect_text:
+    ja: 相手のバトルポケモンにのっているダメカンが6個なら、そのポケモンをきぜつさせる。
+    en: If your opponent's Active Pokémon has exactly 6 damage counters on it, that Pokémon is Knocked Out.
+- position: 1
+  name:
+    ja: あくのかぎづめ
+    en: Claw of Darkness
+  cost:
+  - Darkness
+  - Darkness
+  - Colorless
+  damage: '200'
+  effect_text:
+    ja: 相手の手札を見て、その中からカードを1枚選び、トラッシュする。
+    en: Your opponent reveals their hand, and you discard a card you find there.
+first_appearance:
+  set_name_ja: メガブレイブ
+  released_at: '2025-08-01'
+  regulation_mark: I
+  collector_number: '038'
+  image_url:

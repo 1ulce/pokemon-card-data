@@ -1,0 +1,47 @@
+---
+schema_version: 1
+slug: iono-s-wattrel
+name:
+  ja: ナンジャモのカイデン
+  en: Iono's Wattrel
+  prefix: Iono's
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Lightning
+hp: 60
+retreat_cost: 1
+regulation_mark: I
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Lightning
+  value: "×2"
+resistance:
+  type: Fighting
+  value: "-30"
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: でんこうせっか
+    en: Quick Attack
+  cost:
+  - Lightning
+  damage: 10+
+  effect_text:
+    ja: コインを1回投げオモテなら、20ダメージ追加。
+    en: Flip a coin. If heads, this attack does 20 more damage.
+first_appearance:
+  set_name_ja: バトルパートナーズ
+  released_at: '2025-01-24'
+  regulation_mark: I
+  collector_number: '031'
+  image_url:

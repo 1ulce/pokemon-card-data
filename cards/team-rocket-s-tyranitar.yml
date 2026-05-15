@@ -1,0 +1,57 @@
+---
+schema_version: 1
+slug: team-rocket-s-tyranitar
+name:
+  ja: ロケット団のバンギラス
+  en: Team Rocket's Tyranitar
+  prefix: Team Rocket's
+card_type: Pokémon
+card_subtype: 2進化
+energy_type: Fighting
+hp: 180
+retreat_cost: 3
+regulation_mark: I
+meta_tags: []
+evolves_from:
+  ja: ロケット団のサナギラス
+  en: Team Rocket's Pupitar
+weakness:
+  type: Grass
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities:
+- position: 0
+  name:
+    ja: すなおこし
+    en: Sand Stream
+  effect_text:
+    ja: このポケモンがバトル場にいるかぎり、ポケモンチェックのたび、相手のたねポケモン全員に、それぞれダメカンを2個のせる。
+    en: During Pokémon Checkup, if this Pokémon is in the Active Spot, put 2 damage counters on each of your opponent's Basic Pokémon.
+attacks:
+- position: 0
+  name:
+    ja: ぶちぬきタックル
+    en: Demolition Tackle
+  cost:
+  - Fighting
+  - Colorless
+  - Colorless
+  - Colorless
+  damage: '180'
+  effect_text:
+    ja: 相手のバトルポケモンについているエネルギーを1個選び、トラッシュする。
+    en: Discard an Energy from your opponent's Active Pokémon.
+first_appearance:
+  set_name_ja: ロケット団の栄光
+  released_at: '2025-04-18'
+  regulation_mark: I
+  collector_number: '050'
+  image_url:

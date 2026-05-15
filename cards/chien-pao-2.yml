@@ -1,0 +1,59 @@
+---
+schema_version: 1
+slug: chien-pao-2
+name:
+  ja: パオジアン
+  en: Chien-Pao
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Darkness
+hp: 120
+retreat_cost: 1
+regulation_mark: J
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Grass
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: ひるがえす
+    en: Strafe
+  cost:
+  - Darkness
+  damage: '20'
+  effect_text:
+    ja: のぞむなら、このポケモンをベンチポケモンと入れ替える。
+    en: You may switch this Pokémon with 1 of your Benched Pokémon.
+- position: 1
+  name:
+    ja: ライジングブレード
+    en: Rising Blade
+  cost:
+  - Darkness
+  - Darkness
+  - Colorless
+  damage: 80+
+  effect_text:
+    ja: 相手のバトルポケモンが「ポケモンex」なら、80ダメージ追加。
+    en: If your opponent's Active Pokémon is a Pokémon ex, this attack does 80 more damage.
+first_appearance:
+  set_name_ja: ムニキスゼロ
+  released_at: '2026-01-23'
+  regulation_mark: J
+  collector_number: '053'
+  image_url:

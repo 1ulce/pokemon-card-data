@@ -1,0 +1,58 @@
+---
+schema_version: 1
+slug: sunflora
+name:
+  ja: キマワリ
+  en: Sunflora
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Grass
+hp: 100
+retreat_cost: 1
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja: ヒマナッツ
+  en: Sunkern
+weakness:
+  type: Fire
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: ひざしがえし
+    en: Redirected Sunlight
+  cost:
+  - Grass
+  damage: 60×
+  effect_text:
+    ja: 相手のポケモン全員についている炎エネルギーの数×60ダメージ。
+    en: This attack does 60 damage for each [R] Energy attached to all of your opponent's Pokémon.
+- position: 1
+  name:
+    ja: メガドレイン
+    en: Mega Drain
+  cost:
+  - Grass
+  - Colorless
+  damage: '50'
+  effect_text:
+    ja: このポケモンのHPを「30」回復する。
+    en: Heal 30 damage from this Pokémon.
+first_appearance:
+  set_name_ja: 変幻の仮面
+  released_at: '2024-04-26'
+  regulation_mark: H
+  collector_number: '002'
+  image_url:

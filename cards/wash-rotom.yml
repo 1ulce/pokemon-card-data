@@ -1,0 +1,58 @@
+---
+schema_version: 1
+slug: wash-rotom
+name:
+  ja: ウォッシュロトム
+  en: Wash Rotom
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Water
+hp: 80
+retreat_cost: 2
+regulation_mark: I
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Lightning
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: もみあらう
+    en: Manual Wash
+  cost:
+  - Water
+  damage: '20'
+  effect_text:
+    ja: 自分のポケモン全員のHPを、それぞれ「10」回復する。
+    en: Heal 10 damage from each of your Pokémon.
+- position: 1
+  name:
+    ja: ガジェットショー
+    en: Gadget Show
+  cost:
+  - Colorless
+  - Colorless
+  damage: 30×
+  effect_text:
+    ja: 自分のポケモン全員についている「ポケモンのどうぐ」の数×30ダメージ。
+    en: This attack does 30 damage for each Pokémon Tool attached to all of your Pokémon.
+first_appearance:
+  set_name_ja: ロケット団の栄光
+  released_at: '2025-04-18'
+  regulation_mark: I
+  collector_number: '028'
+  image_url:

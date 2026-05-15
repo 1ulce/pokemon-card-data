@@ -1,0 +1,57 @@
+---
+schema_version: 1
+slug: eldegoss
+name:
+  ja: ワタシラガ
+  en: Eldegoss
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Grass
+hp: 90
+retreat_cost: 1
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja: ヒメンカ
+  en: Gossifleur
+weakness:
+  type: Fire
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: そよかぜギフト 
+    en: Breezy Gift
+  cost:
+  - Colorless
+  damage:
+  effect_text:
+    ja: このポケモンと、ついているすべてのカードを、自分の山札にもどす。その後、山札から好きなカードを3枚まで選び、手札に加える。そして山札を切る。
+    en: Put this Pokémon and all attached cards into your deck. If you do, search your deck for up to 3 cards and put them into your hand. Then, shuffle your deck.
+- position: 1
+  name:
+    ja: このは
+    en: Leafage
+  cost:
+  - Grass
+  damage: '50'
+  effect_text:
+    ja:
+    en:
+first_appearance:
+  set_name_ja: ステラミラクル
+  released_at: '2024-07-19'
+  regulation_mark: H
+  collector_number: '009'
+  image_url:

@@ -1,0 +1,47 @@
+---
+schema_version: 1
+slug: rockruff
+name:
+  ja: イワンコ
+  en: Rockruff
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Fighting
+hp: 70
+retreat_cost: 1
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Grass
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: おてパンチ
+    en: Paw Shake Punch
+  cost:
+  - Colorless
+  damage: '10'
+  effect_text:
+    ja:
+    en:
+first_appearance:
+  set_name_ja: 古代のコライドンex
+  released_at: '2024-01-26'
+  regulation_mark: H
+  collector_number: '008'
+  image_url:

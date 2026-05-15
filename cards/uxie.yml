@@ -1,0 +1,47 @@
+---
+schema_version: 1
+slug: uxie
+name:
+  ja: ユクシー
+  en: Uxie
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Psychic
+hp: 70
+retreat_cost: 1
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Darkness
+  value: "×2"
+resistance:
+  type: Fighting
+  value: "-30"
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: いたみのきおく 
+    en: Painful Memories
+  cost:
+  - Psychic
+  damage:
+  effect_text:
+    ja: 相手のポケモン全員に、それぞれダメカンを2個のせる。
+    en: Put 2 damage counters on each of your opponent's Pokémon.
+first_appearance:
+  set_name_ja: 超電ブレイカー
+  released_at: '2024-10-18'
+  regulation_mark: H
+  collector_number: '048'
+  image_url:

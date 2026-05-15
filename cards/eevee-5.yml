@@ -1,0 +1,55 @@
+---
+schema_version: 1
+slug: eevee-5
+name:
+  ja: イーブイ
+  en: Eevee
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Colorless
+hp: 50
+retreat_cost: 1
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Fighting
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities:
+- position: 0
+  name:
+    ja: ブーストしんか
+    en: Boosted Evolution
+  effect_text:
+    ja: このポケモンは、バトル場にいるかぎり、最初の自分の番や、出したばかりの番でも進化できる。
+    en: As long as this Pokémon is in the Active Spot, it can evolve during your first turn or the turn you play it.
+attacks:
+- position: 0
+  name:
+    ja: とつげき
+    en: Reckless Charge
+  cost:
+  - Colorless
+  - Colorless
+  damage: '30'
+  effect_text:
+    ja: このポケモンにも10ダメージ。
+    en: This Pokémon also does 10 damage to itself.
+first_appearance:
+  set_name_ja: テラスタルフェスex
+  released_at: '2024-12-06'
+  regulation_mark: H
+  collector_number: '125'
+  image_url:

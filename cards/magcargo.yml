@@ -1,0 +1,56 @@
+---
+schema_version: 1
+slug: magcargo
+name:
+  ja: マグカルゴ
+  en: Magcargo
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Fire
+hp: 120
+retreat_cost: 4
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja: マグマッグ
+  en: Slugma
+weakness:
+  type: Water
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities:
+- position: 0
+  name:
+    ja: ようがんちたい
+    en: Lava Zone
+  effect_text:
+    ja: このポケモンがいるかぎり、相手の番に、相手のバトルポケモンがベンチにもどるたび、新しく出てきたポケモンをやけどにする。
+    en: Whenever your opponent's Active Pokémon moves to the Bench during their turn, their new Active Pokémon is now Burned.
+attacks:
+- position: 0
+  name:
+    ja: ヒートブラスト
+    en: Heat Blast
+  cost:
+  - Fire
+  - Colorless
+  - Colorless
+  damage: '100'
+  effect_text:
+    ja:
+    en:
+first_appearance:
+  set_name_ja: サイバージャッジ
+  released_at: '2024-01-26'
+  regulation_mark: H
+  collector_number: '018'
+  image_url:

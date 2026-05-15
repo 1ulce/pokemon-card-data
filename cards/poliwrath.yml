@@ -1,0 +1,58 @@
+---
+schema_version: 1
+slug: poliwrath
+name:
+  ja: ニョロボン
+  en: Poliwrath
+  prefix:
+card_type: Pokémon
+card_subtype: 2進化
+energy_type: Water
+hp: 170
+retreat_cost: 3
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja: ニョロゾ
+  en: Poliwhirl
+weakness:
+  type: Lightning
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: さいみんじゅつ 
+    en: Hypnosis
+  cost:
+  - Water
+  damage:
+  effect_text:
+    ja: 相手のバトルポケモンをねむりにする。
+    en: Your opponent's Active Pokémon is now Asleep.
+- position: 1
+  name:
+    ja: ジャンピングアッパー
+    en: Jumping Uppercut
+  cost:
+  - Colorless
+  - Colorless
+  damage: 120+
+  effect_text:
+    ja: のぞむなら、120ダメージ追加。その場合、このポケモンと、ついているすべてのカードを、自分の山札にもどして切る。
+    en: You may do 120 more damage. If you do, shuffle this Pokémon and all attached cards into your deck.
+first_appearance:
+  set_name_ja: 変幻の仮面
+  released_at: '2024-04-26'
+  regulation_mark: H
+  collector_number: '025'
+  image_url:

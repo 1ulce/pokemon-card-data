@@ -1,0 +1,47 @@
+---
+schema_version: 1
+slug: dhelmise-5
+name:
+  ja: ダダリン
+  en: Dhelmise
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Psychic
+hp: 140
+retreat_cost: 3
+regulation_mark:
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Darkness
+  value: "×2"
+resistance:
+  type: Fighting
+  value: "-30"
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: むねんのイカリ
+    en:
+  cost:
+  - Psychic
+  damage: 30+
+  effect_text:
+    ja: 自分のトラッシュに、特性「ばけがくれ」を持つポケモンが4枚以上あるなら、140ダメージ追加。
+    en:
+first_appearance:
+  set_name_ja: アビスアイ
+  released_at: '2026-05-22'
+  regulation_mark: J
+  collector_number: '037'
+  image_url:

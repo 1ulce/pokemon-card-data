@@ -1,0 +1,60 @@
+---
+schema_version: 1
+slug: armarouge
+name:
+  ja: グレンアルマ
+  en: Armarouge
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Fire
+hp: 140
+retreat_cost: 2
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja: カルボウ
+  en: Charcadet
+weakness:
+  type: Water
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: かえん
+    en: Combustion
+  cost:
+  - Colorless
+  - Colorless
+  damage: '50'
+  effect_text:
+    ja:
+    en:
+- position: 1
+  name:
+    ja: グレンブラスター 
+    en: Crimson Blaster
+  cost:
+  - Fire
+  - Fire
+  - Colorless
+  damage:
+  effect_text:
+    ja: このポケモンについている炎エネルギーをすべてトラッシュし、相手のベンチポケモン1匹に、180ダメージ。［ベンチは弱点・抵抗力を計算しない。］
+    en: Discard all [R] Energy from this Pokémon, and this attack does 180 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)
+first_appearance:
+  set_name_ja: 超電ブレイカー
+  released_at: '2024-10-18'
+  regulation_mark: H
+  collector_number: '021'
+  image_url:

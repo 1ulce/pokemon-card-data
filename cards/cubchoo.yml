@@ -1,0 +1,47 @@
+---
+schema_version: 1
+slug: cubchoo
+name:
+  ja: クマシュン
+  en: Cubchoo
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Water
+hp: 70
+retreat_cost: 2
+regulation_mark: I
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Metal
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: はなみずまみれ
+    en: Snotted Up
+  cost:
+  - Water
+  damage: '10'
+  effect_text:
+    ja: 次の相手の番、このワザを受けたポケモンは、ワザが使えない。
+    en: During your opponent's next turn, the Defending Pokémon can't use attacks.
+first_appearance:
+  set_name_ja: ブラックボルト
+  released_at: '2025-06-06'
+  regulation_mark: I
+  collector_number: '028'
+  image_url:

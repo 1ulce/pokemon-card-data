@@ -1,0 +1,55 @@
+---
+schema_version: 1
+slug: dusclops
+name:
+  ja: サマヨール
+  en: Dusclops
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Psychic
+hp: 90
+retreat_cost: 2
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja: ヨマワル
+  en: Duskull
+weakness:
+  type: Darkness
+  value: "×2"
+resistance:
+  type: Fighting
+  value: "-30"
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities:
+- position: 0
+  name:
+    ja: カースドボム
+    en: Cursed Blast
+  effect_text:
+    ja: 自分の番に1回使えて、使ったなら、このポケモンをきぜつさせる。相手のポケモン1匹に、ダメカンを5個のせる。
+    en: Once during your turn, you may put 5 damage counters on 1 of your opponent's Pokémon. If you use this Ability, this Pokémon is Knocked Out.
+attacks:
+- position: 0
+  name:
+    ja: おにび
+    en: Will-O-Wisp
+  cost:
+  - Psychic
+  - Psychic
+  damage: '50'
+  effect_text:
+    ja:
+    en:
+first_appearance:
+  set_name_ja: ナイトワンダラー
+  released_at: '2024-06-07'
+  regulation_mark: H
+  collector_number: '019'
+  image_url:

@@ -1,0 +1,59 @@
+---
+schema_version: 1
+slug: volcarona
+name:
+  ja: ウルガモス
+  en: Volcarona
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Fire
+hp: 140
+retreat_cost: 2
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja: メラルバ
+  en: Larvesta
+weakness:
+  type: Water
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: きゅうけつ
+    en: Leech Life
+  cost:
+  - Colorless
+  damage: '30'
+  effect_text:
+    ja: 相手のバトルポケモンに与えたダメージぶん、このポケモンのHPを回復する。
+    en: Heal from this Pokémon the same amount of damage you did to your opponent's Active Pokémon.
+- position: 1
+  name:
+    ja: どとうのはばたき
+    en: Turbulent Wings
+  cost:
+  - Fire
+  - Colorless
+  - Colorless
+  damage: '150'
+  effect_text:
+    ja: このポケモンにも50ダメージ。
+    en: This Pokémon also does 50 damage to itself.
+first_appearance:
+  set_name_ja: 超電ブレイカー
+  released_at: '2024-10-18'
+  regulation_mark: H
+  collector_number: '014'
+  image_url:

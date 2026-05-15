@@ -1,0 +1,60 @@
+---
+schema_version: 1
+slug: fukuoka-pikachu
+name:
+  ja: フクオカのピカチュウ
+  en: Fukuoka Pikachu
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Lightning
+hp: 70
+retreat_cost: 1
+regulation_mark:
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Fighting
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: リニューアルオープン！ 
+    en:
+  cost:
+  - Colorless
+  - Colorless
+  damage:
+  effect_text:
+    ja: 自分の山札を2枚引く。
+    en:
+- position: 1
+  name:
+    ja: たべあるく
+    en:
+  cost:
+  - Lightning
+  - Colorless
+  - Colorless
+  damage: '30'
+  effect_text:
+    ja: このポケモンのHPを「30」回復する。
+    en:
+first_appearance:
+  set_name_ja: スペシャルBOX ポケモンセンターフクオカ
+  released_at:
+  regulation_mark:
+  collector_number: '49620'
+  image_url:

@@ -1,0 +1,40 @@
+---
+schema_version: 1
+slug: bianca-s-devotion
+name:
+  ja: ベルのまごころ
+  en: Bianca's Devotion
+  prefix: Bianca's
+card_type: Trainer
+card_subtype: Supporter
+energy_type:
+hp:
+retreat_cost:
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type:
+  value:
+resistance:
+  type:
+  value:
+body_text:
+  ja: |-
+    残りHPが「30」以下の自分のポケモン1匹のHPを、すべて回復する。
+
+    サポートは、自分の番に1枚しか使えない。
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks: []
+first_appearance:
+  set_name_ja: サイバージャッジ
+  released_at: '2024-01-26'
+  regulation_mark: H
+  collector_number: '069'
+  image_url:

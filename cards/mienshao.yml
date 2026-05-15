@@ -1,0 +1,47 @@
+---
+schema_version: 1
+slug: mienshao
+name:
+  ja: コジョンド
+  en: Mienshao
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Fighting
+hp: 90
+retreat_cost: 1
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja: コジョフー
+  en: Mienfoo
+weakness:
+  type: Psychic
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: はやてまわし
+    en: Gale Roundhouse
+  cost:
+  - Fighting
+  damage: 30+
+  effect_text:
+    ja: 相手の手札が5枚以下なら、60ダメージ追加。
+    en: If your opponent has 5 or fewer cards in their hand, this attack does 60 more damage.
+first_appearance:
+  set_name_ja: ステラミラクル
+  released_at: '2024-07-19'
+  regulation_mark: H
+  collector_number: '056'
+  image_url:

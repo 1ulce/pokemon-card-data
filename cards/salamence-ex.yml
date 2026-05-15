@@ -1,0 +1,63 @@
+---
+schema_version: 1
+slug: salamence-ex
+name:
+  ja: ボーマンダex
+  en: Salamence ex
+  prefix:
+card_type: Pokémon
+card_subtype: 2進化
+energy_type: Dragon
+hp: 320
+retreat_cost: 2
+regulation_mark: I
+meta_tags:
+- ex
+evolves_from:
+  ja: コモルー
+  en: Shelgon
+weakness:
+  type:
+  value:
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja: ポケモンexがきぜつしたとき、相手はサイドを2枚とる。
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: ワイドブラスト 
+    en: Wide Blast
+  cost:
+  - Fire
+  - Colorless
+  - Colorless
+  damage:
+  effect_text:
+    ja: 相手のベンチポケモン全員に、それぞれ50ダメージ。［ベンチは弱点・抵抗力を計算しない。］
+    en: This attack does 50 damage to each of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)
+- position: 1
+  name:
+    ja: ドラゴンインパクト
+    en: Dragon Impact
+  cost:
+  - Fire
+  - Water
+  - Colorless
+  - Colorless
+  damage: '300'
+  effect_text:
+    ja: このポケモンについているエネルギーを2個選び、トラッシュする。
+    en: Discard 2 Energy from this Pokémon.
+first_appearance:
+  set_name_ja: バトルパートナーズ
+  released_at: '2025-01-24'
+  regulation_mark: I
+  collector_number: '072'
+  image_url:

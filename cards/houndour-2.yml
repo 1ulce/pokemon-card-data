@@ -1,0 +1,47 @@
+---
+schema_version: 1
+slug: houndour-2
+name:
+  ja: デルビル
+  en: Houndour
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Darkness
+hp: 70
+retreat_cost: 1
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Grass
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: やんちゃげり
+    en: Playful Kick
+  cost:
+  - Darkness
+  damage: '20'
+  effect_text:
+    ja:
+    en:
+first_appearance:
+  set_name_ja: スタートデッキGenerations ルギアex・バンギラスex
+  released_at: '2024-11-22'
+  regulation_mark: H
+  collector_number: '076'
+  image_url:

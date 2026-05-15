@@ -1,0 +1,61 @@
+---
+schema_version: 1
+slug: reshiram-ex-2
+name:
+  ja: レシラムex
+  en: Reshiram ex
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Fire
+hp: 230
+retreat_cost: 2
+regulation_mark: I
+meta_tags:
+- ex
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Water
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja: ポケモンexがきぜつしたとき、相手はサイドを2枚とる。
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: きりさく
+    en: Slash
+  cost:
+  - Colorless
+  - Colorless
+  damage: '50'
+  effect_text:
+    ja:
+    en:
+- position: 1
+  name:
+    ja: ブレイズバースト
+    en: Blazing Burst
+  cost:
+  - Fire
+  - Fire
+  - Colorless
+  damage: 130+
+  effect_text:
+    ja: 相手がすでにとったサイドの枚数×50ダメージ追加。このポケモンについているエネルギーを1個選び、トラッシュする。
+    en: This attack does 50 more damage for each Prize card your opponent has taken. Discard an Energy from this Pokémon.
+first_appearance:
+  set_name_ja: ホワイトフレア
+  released_at: '2025-06-06'
+  regulation_mark: I
+  collector_number: '017'
+  image_url:

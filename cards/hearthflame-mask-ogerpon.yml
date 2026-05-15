@@ -1,0 +1,59 @@
+---
+schema_version: 1
+slug: hearthflame-mask-ogerpon
+name:
+  ja: オーガポン かまどのめん
+  en: Hearthflame Mask Ogerpon
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Fire
+hp: 110
+retreat_cost: 1
+regulation_mark: I
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Water
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: ほのおかぐら 
+    en: Fire Kagura
+  cost:
+  - Colorless
+  damage:
+  effect_text:
+    ja: 自分の山札から「基本炎エネルギー」を1枚選び、自分のポケモンにつける。そして山札を切る。
+    en: Search your deck for a Basic [R] Energy card and attach it to 1 of your Pokémon. Then, shuffle your deck.
+- position: 1
+  name:
+    ja: やきこがす
+    en: Searing Flame
+  cost:
+  - Fire
+  - Fire
+  - Colorless
+  damage: '80'
+  effect_text:
+    ja: 相手のバトルポケモンをやけどにする。
+    en: Your opponent's Active Pokémon is now Burned.
+first_appearance:
+  set_name_ja: 熱風のアリーナ
+  released_at: '2025-03-14'
+  regulation_mark: I
+  collector_number: '021'
+  image_url:

@@ -1,0 +1,47 @@
+---
+schema_version: 1
+slug: team-rocket-s-blipbug
+name:
+  ja: ロケット団のサッチムシ
+  en: Team Rocket's Blipbug
+  prefix: Team Rocket's
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Grass
+hp: 60
+retreat_cost: 1
+regulation_mark: I
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Fire
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: サーチアイ 
+    en: Searching Eyes
+  cost:
+  - Colorless
+  damage:
+  effect_text:
+    ja: ウラになっている相手のサイドを1枚選び、そのカードのオモテを見て、もとにもどす。
+    en: Look at 1 of your opponent's face-down Prize cards.
+first_appearance:
+  set_name_ja: ロケット団の栄光
+  released_at: '2025-04-18'
+  regulation_mark: I
+  collector_number: '007'
+  image_url:

@@ -1,0 +1,60 @@
+---
+schema_version: 1
+slug: mawile
+name:
+  ja: クチート
+  en: Mawile
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Metal
+hp: 90
+retreat_cost: 1
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Fire
+  value: "×2"
+resistance:
+  type: Grass
+  value: "-30"
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: さそっていたぶる 
+    en: Invite and Strike
+  cost:
+  - Colorless
+  - Colorless
+  damage:
+  effect_text:
+    ja: 相手のベンチポケモンを1匹選び、バトルポケモンと入れ替える。その後、新しく出てきたポケモンに30ダメージ。
+    en: Switch in 1 of your opponent's Benched Pokémon to the Active Spot. This attack does 30 damage to the new Active Pokémon.
+- position: 1
+  name:
+    ja: するどいキバ
+    en: Sharp Fang
+  cost:
+  - Metal
+  - Metal
+  - Colorless
+  damage: '100'
+  effect_text:
+    ja:
+    en:
+first_appearance:
+  set_name_ja: サイバージャッジ
+  released_at: '2024-01-26'
+  regulation_mark: H
+  collector_number: '045'
+  image_url:

@@ -1,0 +1,56 @@
+---
+schema_version: 1
+slug: gengar-ex
+name:
+  ja: ゲンガーex
+  en: Gengar ex
+  prefix:
+card_type: Pokémon
+card_subtype: 2進化
+energy_type: Darkness
+hp: 310
+retreat_cost: 2
+regulation_mark: H
+meta_tags:
+- ex
+evolves_from:
+  ja: ゴースト
+  en: Haunter
+weakness:
+  type: Fighting
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja: ポケモンexがきぜつしたとき、相手はサイドを2枚とる。
+  en:
+abilities:
+- position: 0
+  name:
+    ja: むしばむのろい
+    en: Gnawing Curse
+  effect_text:
+    ja: このポケモンがいるかぎり、相手は手札からエネルギーをポケモンにつけるたび、そのポケモンにダメカンを2個のせる。
+    en: Whenever your opponent attaches an Energy card from their hand to 1 of their Pokémon, put 2 damage counters on that Pokémon.
+attacks:
+- position: 0
+  name:
+    ja: トリックステップ
+    en: Tricky Steps
+  cost:
+  - Darkness
+  - Darkness
+  damage: '160'
+  effect_text:
+    ja: のぞむなら、相手のバトルポケモンについているエネルギーを1個選び、相手のベンチポケモンにつけ替える。
+    en: You may move an Energy from your opponent's Active Pokémon to 1 of their Benched Pokémon.
+first_appearance:
+  set_name_ja: ワイルドフォース
+  released_at: '2024-01-26'
+  regulation_mark: H
+  collector_number: '047'
+  image_url:

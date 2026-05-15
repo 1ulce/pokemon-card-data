@@ -1,0 +1,61 @@
+---
+schema_version: 1
+slug: medicham-ex
+name:
+  ja: チャーレムex
+  en: Medicham ex
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Fighting
+hp: 260
+retreat_cost: 1
+regulation_mark: H
+meta_tags:
+- ex
+evolves_from:
+  ja: アサナン
+  en: Meditite
+weakness:
+  type: Psychic
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja: ポケモンexがきぜつしたとき、相手はサイドを2枚とる。
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: きこうあつ 
+    en: Chi-Atsu
+  cost:
+  - Colorless
+  - Colorless
+  damage:
+  effect_text:
+    ja: 相手のバトルポケモンの残りHPが「50」になるように、ダメカンをのせる。
+    en: Put damage counters on your opponent's Active Pokémon until its remaining HP is 50.
+- position: 1
+  name:
+    ja: ヨガキック
+    en: Yoga Kick
+  cost:
+  - Fighting
+  - Colorless
+  - Colorless
+  damage: '190'
+  effect_text:
+    ja: このワザのダメージは弱点・抵抗力を計算しない。
+    en: This attack's damage isn't affected by Weakness or Resistance.
+first_appearance:
+  set_name_ja: ステラミラクル
+  released_at: '2024-07-19'
+  regulation_mark: H
+  collector_number: '054'
+  image_url:

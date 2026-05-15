@@ -1,0 +1,61 @@
+---
+schema_version: 1
+slug: flareon-ex
+name:
+  ja: ブースターex
+  en: Flareon ex
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Fire
+hp: 270
+retreat_cost: 2
+regulation_mark: H
+meta_tags:
+- ex
+evolves_from:
+  ja: イーブイ
+  en: Eevee
+weakness:
+  type: Water
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja: ポケモンexがきぜつしたとき、相手はサイドを2枚とる。
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: バーニングチャージ
+    en: Burning Charge
+  cost:
+  - Fire
+  - Colorless
+  damage: '130'
+  effect_text:
+    ja: 自分の山札から基本エネルギーを2枚まで選び、自分のポケモン1匹につける。そして山札を切る。
+    en: Search your deck for up to 2 Basic Energy cards and attach them to 1 of your Pokémon. Then, shuffle your deck.
+- position: 1
+  name:
+    ja: カーネリアン
+    en: Carnelian
+  cost:
+  - Fire
+  - Water
+  - Lightning
+  damage: '280'
+  effect_text:
+    ja: 次の自分の番、このポケモンはワザが使えない。
+    en: During your next turn, this Pokémon can't attack.
+first_appearance:
+  set_name_ja: テラスタルフェスex
+  released_at: '2024-12-06'
+  regulation_mark: H
+  collector_number: '022'
+  image_url:

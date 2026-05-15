@@ -1,0 +1,54 @@
+---
+schema_version: 1
+slug: crobat-2
+name:
+  ja: クロバット
+  en: Crobat
+  prefix:
+card_type: Pokémon
+card_subtype: 2進化
+energy_type: Darkness
+hp: 130
+retreat_cost: 1
+regulation_mark:
+meta_tags: []
+evolves_from:
+  ja: ゴルバット
+  en: Golbat
+weakness:
+  type: Lightning
+  value: "×2"
+resistance:
+  type: Fighting
+  value: "-30"
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities:
+- position: 0
+  name:
+    ja: よるこうさく
+    en:
+  effect_text:
+    ja: このポケモンがバトル場にいるなら、自分の番に1回使える。自分の山札から好きなカードを1枚選ぶ。残りの山札を切り、選んだカードを山札の上にもどす。
+    en:
+attacks:
+- position: 0
+  name:
+    ja: どくおんぱ
+    en:
+  cost:
+  - Darkness
+  damage: '80'
+  effect_text:
+    ja: 相手のバトルポケモンをどくとこんらんにする。
+    en:
+first_appearance:
+  set_name_ja: ニンジャスピナー
+  released_at: '2026-03-13'
+  regulation_mark: J
+  collector_number: '050'
+  image_url:

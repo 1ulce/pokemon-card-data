@@ -1,0 +1,60 @@
+---
+schema_version: 1
+slug: scream-tail-ex
+name:
+  ja: サケブシッポex
+  en: Scream Tail ex
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Psychic
+hp: 190
+retreat_cost: 1
+regulation_mark: H
+meta_tags:
+- ex
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Darkness
+  value: "×2"
+resistance:
+  type: Fighting
+  value: "-30"
+body_text:
+  ja:
+  en:
+rules_text:
+  ja: ポケモンexがきぜつしたとき、相手はサイドを2枚とる。
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: ぜっきょう 
+    en: Scream
+  cost:
+  - Colorless
+  damage:
+  effect_text:
+    ja: このワザは、後攻プレイヤーの最初の番にだけ使える。次の相手の番、相手は手札からサポートを出して使えない。
+    en: You can use this attack only if you go second, and only during your first turn. Your opponent can't play any Supporter cards from their hand during their next turn.
+- position: 1
+  name:
+    ja: かみくだく
+    en: Crunch
+  cost:
+  - Psychic
+  - Colorless
+  - Colorless
+  damage: '120'
+  effect_text:
+    ja: 相手のバトルポケモンについているエネルギーを1個選び、トラッシュする。
+    en: Discard an Energy from your opponent's Active Pokémon.
+first_appearance:
+  set_name_ja: クリムゾンヘイズ
+  released_at: '2024-03-22'
+  regulation_mark: H
+  collector_number: '040'
+  image_url:

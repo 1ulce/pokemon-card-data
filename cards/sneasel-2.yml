@@ -1,0 +1,58 @@
+---
+schema_version: 1
+slug: sneasel-2
+name:
+  ja: ニューラ
+  en: Sneasel
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Darkness
+hp: 70
+retreat_cost: 1
+regulation_mark: I
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Grass
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: ツメをたてる
+    en: Dig Claws
+  cost:
+  - Darkness
+  damage: '10'
+  effect_text:
+    ja:
+    en:
+- position: 1
+  name:
+    ja: ひっかく
+    en: Scratch
+  cost:
+  - Darkness
+  - Darkness
+  damage: '30'
+  effect_text:
+    ja:
+    en:
+first_appearance:
+  set_name_ja: インフェルノX
+  released_at: '2025-09-26'
+  regulation_mark: I
+  collector_number: '048'
+  image_url:

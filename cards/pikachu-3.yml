@@ -1,0 +1,58 @@
+---
+schema_version: 1
+slug: pikachu-3
+name:
+  ja: ピカチュウ
+  en: Pikachu
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Lightning
+hp: 70
+retreat_cost: 1
+regulation_mark: J
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Fighting
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: しっぽでたたく
+    en: Tail Smack
+  cost:
+  - Lightning
+  damage: '10'
+  effect_text:
+    ja:
+    en:
+- position: 1
+  name:
+    ja: プチボルト
+    en: Tiny Bolt
+  cost:
+  - Lightning
+  - Colorless
+  damage: '30'
+  effect_text:
+    ja:
+    en:
+first_appearance:
+  set_name_ja: スタートデッキ100 バトルコレクション
+  released_at: '2025-12-19'
+  regulation_mark: J
+  collector_number: '225'
+  image_url:

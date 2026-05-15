@@ -1,0 +1,57 @@
+---
+schema_version: 1
+slug: alakazam
+name:
+  ja: フーディン
+  en: Alakazam
+  prefix:
+card_type: Pokémon
+card_subtype: 2進化
+energy_type: Psychic
+hp: 140
+retreat_cost: 1
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja: ユンゲラー
+  en: Kadabra
+weakness:
+  type: Darkness
+  value: "×2"
+resistance:
+  type: Fighting
+  value: "-30"
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: ストレンジハック 
+    en: Strange Hacking
+  cost:
+  - Psychic
+  damage:
+  effect_text:
+    ja: 相手のバトルポケモンをこんらんにする。相手の場のポケモンにのっているダメカンを好きなだけ選び、相手の場のポケモンに好きなようにのせ替える。
+    en: Your opponent's Active Pokémon is now Confused. You may move any number of damage counters from your opponent's Pokémon to their other Pokémon in any way you like.
+- position: 1
+  name:
+    ja: サイコキネシス
+    en: Psychic
+  cost:
+  - Psychic
+  damage: 10+
+  effect_text:
+    ja: 相手のバトルポケモンについているエネルギーの数×50ダメージ追加。
+    en: This attack does 50 more damage for each Energy attached to your opponent's Active Pokémon.
+first_appearance:
+  set_name_ja: 変幻の仮面
+  released_at: '2024-04-26'
+  regulation_mark: H
+  collector_number: '049'
+  image_url:

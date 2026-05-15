@@ -1,0 +1,60 @@
+---
+schema_version: 1
+slug: mightyena
+name:
+  ja: グラエナ
+  en: Mightyena
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Darkness
+hp: 120
+retreat_cost: 2
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja: ポチエナ
+  en: Poochyena
+weakness:
+  type: Grass
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: けりとばす
+    en: Kick Away
+  cost:
+  - Darkness
+  - Colorless
+  damage: '50'
+  effect_text:
+    ja: 相手のバトルポケモンをベンチポケモンと入れ替える。［バトル場に出すポケモンは相手が選ぶ。］
+    en: Switch out your opponent's Active Pokémon to the Bench. (Your opponent chooses the new Active Pokémon.)
+- position: 1
+  name:
+    ja: するどいキバ
+    en: Sharp Fang
+  cost:
+  - Darkness
+  - Darkness
+  - Colorless
+  damage: '130'
+  effect_text:
+    ja:
+    en:
+first_appearance:
+  set_name_ja: ワイルドフォース
+  released_at: '2024-01-26'
+  regulation_mark: H
+  collector_number: '049'
+  image_url:

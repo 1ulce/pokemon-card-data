@@ -1,0 +1,47 @@
+---
+schema_version: 1
+slug: purrloin
+name:
+  ja: チョロネコ
+  en: Purrloin
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Darkness
+hp: 60
+retreat_cost: 1
+regulation_mark: I
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Grass
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: わるいおさそい 
+    en:
+  cost:
+  - Darkness
+  damage:
+  effect_text:
+    ja: 自分の山札から悪ポケモンを3枚まで選び、相手に見せて、手札に加える。そして山札を切る。
+    en:
+first_appearance:
+  set_name_ja: ホワイトフレア
+  released_at: '2025-06-06'
+  regulation_mark: I
+  collector_number: '052'
+  image_url:

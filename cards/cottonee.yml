@@ -1,0 +1,47 @@
+---
+schema_version: 1
+slug: cottonee
+name:
+  ja: モンメン
+  en: Cottonee
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Grass
+hp: 60
+retreat_cost: 1
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Fire
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: トリプルスピン
+    en: Triple Spin
+  cost:
+  - Grass
+  damage: 10×
+  effect_text:
+    ja: コインを3回投げ、オモテの数×10ダメージ。
+    en: Flip 3 coins. This attack does 10 damage for each heads.
+first_appearance:
+  set_name_ja: ワイルドフォース
+  released_at: '2024-01-26'
+  regulation_mark: H
+  collector_number: '007'
+  image_url:

@@ -1,0 +1,47 @@
+---
+schema_version: 1
+slug: ribombee
+name:
+  ja: アブリボン
+  en: Ribombee
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Psychic
+hp: 70
+retreat_cost: 0
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja: アブリー
+  en: Cutiefly
+weakness:
+  type: Metal
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: よけいなかふん
+    en: Plentiful Pollen
+  cost:
+  - Colorless
+  damage: '30'
+  effect_text:
+    ja: 次の自分の番、このワザを受けたポケモンがきぜつしたとき、サイドを2枚多くとる。
+    en: During your next turn, if the Defending Pokémon is Knocked Out, take 2 more Prize cards.
+first_appearance:
+  set_name_ja: サイバージャッジ
+  released_at: '2024-01-26'
+  regulation_mark: H
+  collector_number: '034'
+  image_url:

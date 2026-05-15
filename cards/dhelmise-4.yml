@@ -1,0 +1,59 @@
+---
+schema_version: 1
+slug: dhelmise-4
+name:
+  ja: ダダリン
+  en: Dhelmise
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Grass
+hp: 130
+retreat_cost: 3
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Fire
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: レスキューアンカー 
+    en: Rescue Kedge
+  cost:
+  - Colorless
+  damage:
+  effect_text:
+    ja: 自分のトラッシュからポケモンを2枚まで選び、相手に見せて、手札に加える。
+    en: Put up to 2 Pokémon from your discard pile into your hand.
+- position: 1
+  name:
+    ja: はかいのイカリ
+    en: Annihilating Anchor
+  cost:
+  - Grass
+  - Colorless
+  - Colorless
+  damage: '80'
+  effect_text:
+    ja: ダメージを与える前に、相手のバトルポケモンについている「ポケモンのどうぐ」をトラッシュする。
+    en: Before doing damage, discard all Pokémon Tools from your opponent's Active Pokémon.
+first_appearance:
+  set_name_ja: 楽園ドラゴーナ
+  released_at: '2024-09-13'
+  regulation_mark: H
+  collector_number: '004'
+  image_url:

@@ -1,0 +1,60 @@
+---
+schema_version: 1
+slug: arven-s-mabosstiff-ex
+name:
+  ja: ペパーのマフィティフex
+  en: Arven's Mabosstiff ex
+  prefix: Arven's
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Darkness
+hp: 270
+retreat_cost: 3
+regulation_mark: I
+meta_tags:
+- ex
+evolves_from:
+  ja: ペパーのオラチフ
+  en: Arven's Maschiff
+weakness:
+  type: Grass
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja: ポケモンexがきぜつしたとき、相手はサイドを2枚とる。
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: ハッスルタックル
+    en: Vigorous Tackle
+  cost:
+  - Colorless
+  damage: 30+
+  effect_text:
+    ja: このポケモンにダメカンがのっていないなら、120ダメージ追加。
+    en: If this Pokémon has no damage counters on it, this attack does 120 more damage.
+- position: 1
+  name:
+    ja: おやぶんヘッド
+    en: Boss Headbutt
+  cost:
+  - Colorless
+  - Colorless
+  - Colorless
+  damage: '210'
+  effect_text:
+    ja: 次の自分の番、このポケモンは「おやぶんヘッド」が使えない。
+    en: During your next turn, this Pokémon can't use Boss Headbutt.
+first_appearance:
+  set_name_ja: 熱風のアリーナ
+  released_at: '2025-03-14'
+  regulation_mark: I
+  collector_number: '49615'
+  image_url:

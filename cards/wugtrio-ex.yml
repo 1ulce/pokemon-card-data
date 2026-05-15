@@ -1,0 +1,59 @@
+---
+schema_version: 1
+slug: wugtrio-ex
+name:
+  ja: ウミトリオex
+  en: Wugtrio ex
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Lightning
+hp: 250
+retreat_cost: 1
+regulation_mark: H
+meta_tags:
+- ex
+evolves_from:
+  ja: ウミディグダ
+  en: Wiglett
+weakness:
+  type: Fighting
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja: ポケモンexがきぜつしたとき、相手はサイドを2枚とる。
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: トリコロポンプ 
+    en: Tricolor Pump
+  cost:
+  - Water
+  damage:
+  effect_text:
+    ja: 自分の手札からエネルギーを3枚までトラッシュし、その枚数×60ダメージを、相手のポケモン1匹に与える。［ベンチは弱点・抵抗力を計算しない。］
+    en: Discard up to 3 Energy cards from your hand. This attack does 60 damage to 1 of your opponent's Pokémon for each Energy card you discarded in this way. (Don't apply Weakness and Resistance for Benched Pokémon.)
+- position: 1
+  name:
+    ja: しびれホールド
+    en: Numbing Hold
+  cost:
+  - Water
+  - Water
+  damage: '120'
+  effect_text:
+    ja: 次の相手の番、このワザを受けたポケモンは、にげられない。
+    en: During your opponent's next turn, the Defending Pokémon can't retreat.
+first_appearance:
+  set_name_ja: ワイルドフォース
+  released_at: '2024-01-26'
+  regulation_mark: H
+  collector_number: '025'
+  image_url:

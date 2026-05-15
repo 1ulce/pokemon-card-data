@@ -1,0 +1,27 @@
+Creative Commons Legal Code
+
+CC0 1.0 Universal
+
+The person who associated a work with this deed has dedicated the work
+to the public domain by waiving all of his or her rights to the work
+worldwide under copyright law, including all related and neighboring
+rights, to the extent allowed by law.
+
+You can copy, modify, distribute and perform the work, even for commercial
+purposes, all without asking permission.
+
+This dedication applies ONLY to:
+
+- The structural schema of YAML/JSON files in this repository
+- The slug naming conventions
+- The generated index files (`index/*.json`, `index/*.txt`, `meta.yml`,
+  `sets/manifest.yml`)
+- The README and documentation
+
+It does NOT apply to:
+
+- Card names, effect text, illustrations, or other game-specific content
+  derived from the Pokémon Trading Card Game, which remain the property
+  of their respective trademark holders. See `NOTICE.md` for details.
+
+Full CC0 1.0 text: https://creativecommons.org/publicdomain/zero/1.0/legalcode

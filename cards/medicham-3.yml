@@ -1,0 +1,47 @@
+---
+schema_version: 1
+slug: medicham-3
+name:
+  ja: チャーレム
+  en: Medicham
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Fighting
+hp: 110
+retreat_cost: 1
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja: アサナン
+  en: Meditite
+weakness:
+  type: Psychic
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: ダブルスマッシュ
+    en: Double Smash
+  cost:
+  - Fighting
+  damage: 40×
+  effect_text:
+    ja: コインを2回投げ、オモテの数×40ダメージ。
+    en: Flip 2 coins. This attack does 40 damage for each heads.
+first_appearance:
+  set_name_ja: バトルアカデミー
+  released_at: '2024-03-08'
+  regulation_mark: H
+  collector_number: '030'
+  image_url:

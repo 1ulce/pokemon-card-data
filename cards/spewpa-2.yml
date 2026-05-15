@@ -1,0 +1,47 @@
+---
+schema_version: 1
+slug: spewpa-2
+name:
+  ja: コフーライ
+  en: Spewpa
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Grass
+hp: 80
+retreat_cost: 3
+regulation_mark: J
+meta_tags: []
+evolves_from:
+  ja: コフキムシ
+  en: Scatterbug
+weakness:
+  type: Fire
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: かくれる 
+    en: Hide
+  cost:
+  - Grass
+  damage:
+  effect_text:
+    ja: コインを1回投げオモテなら、次の相手の番、このポケモンはワザのダメージや効果を受けない。
+    en: Flip a coin. If heads, during your opponent's next turn, prevent all damage from and effects of attacks done to this Pokémon.
+first_appearance:
+  set_name_ja: ムニキスゼロ
+  released_at: '2026-01-23'
+  regulation_mark: J
+  collector_number: '008'
+  image_url:

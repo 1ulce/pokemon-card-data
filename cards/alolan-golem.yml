@@ -1,0 +1,58 @@
+---
+schema_version: 1
+slug: alolan-golem
+name:
+  ja: アローラ ゴローニャ
+  en: Alolan Golem
+  prefix:
+card_type: Pokémon
+card_subtype: 2進化
+energy_type: Lightning
+hp: 180
+retreat_cost: 4
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja: アローラ ゴローン
+  en: Alolan Graveler
+weakness:
+  type: Fighting
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: でんじカタパルト
+    en: Electromagnetic Catapult
+  cost:
+  - Lightning
+  damage: 70×
+  effect_text:
+    ja: ウラが出るまでコインを投げ、オモテの数×70ダメージ。
+    en: Flip a coin until you get tails. This attack does 70 damage for each heads.
+- position: 1
+  name:
+    ja: メガトンフォール
+    en: Megaton Fall
+  cost:
+  - Lightning
+  - Colorless
+  damage: '160'
+  effect_text:
+    ja: このポケモンにも40ダメージ。
+    en: This Pokémon also does 40 damage to itself.
+first_appearance:
+  set_name_ja: スタートデッキGenerations カプ・コケコex・ミミッキュex
+  released_at: '2024-11-22'
+  regulation_mark: H
+  collector_number: '041'
+  image_url:

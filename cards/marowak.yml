@@ -1,0 +1,58 @@
+---
+schema_version: 1
+slug: marowak
+name:
+  ja: ガラガラ
+  en: Marowak
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Fighting
+hp: 120
+retreat_cost: 2
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja: カラカラ
+  en: Cubone
+weakness:
+  type: Grass
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: なきごえ 
+    en: Growl
+  cost:
+  - Fighting
+  damage:
+  effect_text:
+    ja: 次の相手の番、このワザを受けたポケモンが使うワザのダメージは「-40」される。
+    en: During your opponent's next turn, attacks used by the Defending Pokémon do 40 less damage (before applying Weakness and Resistance).
+- position: 1
+  name:
+    ja: ほねリベンジ
+    en: Bone Vengeance
+  cost:
+  - Colorless
+  - Colorless
+  damage: 60+
+  effect_text:
+    ja: 自分のベンチの「カラカラ」にダメカンがのっているなら、120ダメージ追加。
+    en: If any of your Benched Cubone have any damage counters on them, this attack does 120 more damage.
+first_appearance:
+  set_name_ja: ステラミラクル
+  released_at: '2024-07-19'
+  regulation_mark: H
+  collector_number: '049'
+  image_url:

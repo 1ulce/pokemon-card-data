@@ -1,0 +1,62 @@
+---
+schema_version: 1
+slug: palossand-ex
+name:
+  ja: シロデスナex
+  en: Palossand ex
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Psychic
+hp: 280
+retreat_cost: 4
+regulation_mark: H
+meta_tags:
+- ex
+evolves_from:
+  ja: スナバァ
+  en: Sandygast
+weakness:
+  type: Darkness
+  value: "×2"
+resistance:
+  type: Fighting
+  value: "-30"
+body_text:
+  ja:
+  en:
+rules_text:
+  ja: ポケモンexがきぜつしたとき、相手はサイドを2枚とる。
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: すなじごく
+    en: Sand Tomb
+  cost:
+  - Colorless
+  - Colorless
+  - Colorless
+  damage: '160'
+  effect_text:
+    ja: 次の相手の番、このワザを受けたポケモンは、にげられない。
+    en: During your opponent's next turn, the Defending Pokémon can't retreat.
+- position: 1
+  name:
+    ja: バライトジェイル 
+    en: Barite Jail
+  cost:
+  - Water
+  - Psychic
+  - Fighting
+  damage:
+  effect_text:
+    ja: 相手のベンチポケモン全員に、それぞれ残りHPが「100」になるように、ダメカンをのせる。
+    en: Put damage counters on each of your opponent's Benched Pokémon until its remaining HP is 100.
+first_appearance:
+  set_name_ja: 超電ブレイカー
+  released_at: '2024-10-18'
+  regulation_mark: H
+  collector_number: '057'
+  image_url:

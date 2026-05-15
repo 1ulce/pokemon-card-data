@@ -1,0 +1,47 @@
+---
+schema_version: 1
+slug: tinkaton
+name:
+  ja: デカヌチャン
+  en: Tinkaton
+  prefix:
+card_type: Pokémon
+card_subtype: 2進化
+energy_type: Metal
+hp: 160
+retreat_cost: 2
+regulation_mark: I
+meta_tags: []
+evolves_from:
+  ja: ナカヌチャン
+  en: Tinkatuff
+weakness:
+  type: Fire
+  value: "×2"
+resistance:
+  type: Grass
+  value: "-30"
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: おおぶりスイング
+    en: Windup Swing
+  cost:
+  - Metal
+  damage: 240-
+  effect_text:
+    ja: 相手のバトルポケモンについているエネルギーの数×60ダメージぶん、このワザのダメージは小さくなる。
+    en: This attack does 60 less damage for each Energy attached to your opponent's Active Pokémon.
+first_appearance:
+  set_name_ja: メガブレイブ
+  released_at: '2025-08-01'
+  regulation_mark: I
+  collector_number: '050'
+  image_url:

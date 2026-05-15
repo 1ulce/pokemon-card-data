@@ -1,0 +1,54 @@
+---
+schema_version: 1
+slug: misty-s-magikarp
+name:
+  ja: カスミのコイキング
+  en: Misty's Magikarp
+  prefix: Misty's
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Water
+hp: 30
+retreat_cost: 1
+regulation_mark: I
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Lightning
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities:
+- position: 0
+  name:
+    ja: すごいもぐる
+    en: So Submerged
+  effect_text:
+    ja: このポケモンは、ベンチにいるかぎり、相手のポケモンからワザのダメージや効果を受けない。
+    en: As long as this Pokémon is on your Bench, prevent all damage from and effects of attacks from your opponent's Pokémon done to this Pokémon.
+attacks:
+- position: 0
+  name:
+    ja: はねる
+    en: Splash
+  cost:
+  - Water
+  damage: '10'
+  effect_text:
+    ja:
+    en:
+first_appearance:
+  set_name_ja: 熱風のアリーナ
+  released_at: '2025-03-14'
+  regulation_mark: I
+  collector_number: '025'
+  image_url:

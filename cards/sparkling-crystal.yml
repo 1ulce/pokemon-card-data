@@ -1,0 +1,41 @@
+---
+schema_version: 1
+slug: sparkling-crystal
+name:
+  ja: きらめく結晶
+  en: Sparkling Crystal
+  prefix:
+card_type: Trainer
+card_subtype: Tool
+energy_type:
+hp:
+retreat_cost:
+regulation_mark: H
+meta_tags:
+- ace_spec
+evolves_from:
+  ja:
+  en:
+weakness:
+  type:
+  value:
+resistance:
+  type:
+  value:
+body_text:
+  ja: |-
+    このカードをつけている「テラスタル」のポケモンがワザを使うとき、そのワザを使うためのエネルギーは、1個ぶん少なくなる。（少なくなるのは、どのタイプのエネルギーでもよい。）
+
+    ポケモンのどうぐは、自分の番に何枚でも、自分のポケモンにつけられる。ポケモン1匹につき1枚だけつけられ、つけたままにする。
+  en:
+rules_text:
+  ja: ACE SPECのカードは、デッキに1枚しか入れられない。
+  en:
+abilities: []
+attacks: []
+first_appearance:
+  set_name_ja: ステラミラクル
+  released_at: '2024-07-19'
+  regulation_mark: H
+  collector_number: '094'
+  image_url:

@@ -1,0 +1,59 @@
+---
+schema_version: 1
+slug: hop-s-trevenant
+name:
+  ja: ホップのオーロット
+  en: Hop's Trevenant
+  prefix: Hop's
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Psychic
+hp: 140
+retreat_cost: 2
+regulation_mark: I
+meta_tags: []
+evolves_from:
+  ja: ホップのボクレー
+  en: Hop's Phantump
+weakness:
+  type: Darkness
+  value: "×2"
+resistance:
+  type: Fighting
+  value: "-30"
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: ホラーリベンジ
+    en: Horrifying Revenge
+  cost:
+  - Colorless
+  damage: 30+
+  effect_text:
+    ja: 前の相手の番に、ワザのダメージで、自分の「ホップのポケモン」がきぜつしていたなら、100ダメージ追加。
+    en: If any of your Hop's Pokémon were Knocked Out by damage from an attack during your opponent's last turn, this attack does 100 more damage.
+- position: 1
+  name:
+    ja: おいつめる
+    en: Corner
+  cost:
+  - Psychic
+  - Colorless
+  - Colorless
+  damage: '90'
+  effect_text:
+    ja: 次の相手の番、このワザを受けたポケモンは、にげられない。
+    en: During your opponent's next turn, the Defending Pokémon can't retreat.
+first_appearance:
+  set_name_ja: MEGAドリームex
+  released_at: '2025-11-28'
+  regulation_mark: I
+  collector_number: '078'
+  image_url:

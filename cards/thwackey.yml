@@ -1,0 +1,55 @@
+---
+schema_version: 1
+slug: thwackey
+name:
+  ja: バチンキー
+  en: Thwackey
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Grass
+hp: 100
+retreat_cost: 2
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja: サルノリ
+  en: Grookey
+weakness:
+  type: Fire
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities:
+- position: 0
+  name:
+    ja: ドンドンだいこ
+    en: Boom Boom Groove
+  effect_text:
+    ja: 自分のバトルポケモンが特性「おまつりおんど」を持つポケモンなら、自分の番に1回使える。自分の山札から好きなカードを1枚選び、手札に加える。そして山札を切る。
+    en: Once during your turn, if your Active Pokémon has the Festival Lead Ability, you may search your deck for a card and put it into your hand. Then, shuffle your deck.
+attacks:
+- position: 0
+  name:
+    ja: たたく
+    en: Beat
+  cost:
+  - Grass
+  - Grass
+  damage: '50'
+  effect_text:
+    ja:
+    en:
+first_appearance:
+  set_name_ja: 変幻の仮面
+  released_at: '2024-04-26'
+  regulation_mark: H
+  collector_number: '009'
+  image_url:

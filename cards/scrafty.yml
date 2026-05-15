@@ -1,0 +1,59 @@
+---
+schema_version: 1
+slug: scrafty
+name:
+  ja: ズルズキン
+  en: Scrafty
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Darkness
+hp: 120
+retreat_cost: 1
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja: ズルッグ
+  en: Scraggy
+weakness:
+  type: Grass
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: かっぱらう 
+    en: Nab 'n' Dash
+  cost:
+  - Colorless
+  damage:
+  effect_text:
+    ja: 自分のベンチポケモンの数ぶんまで、自分の山札から好きなカードを選び、手札に加える。そして山札を切る。
+    en: Search your deck for a number of cards up to the number of your Benched Pokémon and put them into your hand. Then, shuffle your deck.
+- position: 1
+  name:
+    ja: とびひざげり
+    en: High Jump Kick
+  cost:
+  - Darkness
+  - Colorless
+  - Colorless
+  damage: '100'
+  effect_text:
+    ja:
+    en:
+first_appearance:
+  set_name_ja: スカーレット＆バイオレット プロモカードパック第6弾
+  released_at:
+  regulation_mark:
+  collector_number: '45797'
+  image_url:

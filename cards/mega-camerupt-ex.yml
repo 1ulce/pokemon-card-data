@@ -1,0 +1,62 @@
+---
+schema_version: 1
+slug: mega-camerupt-ex
+name:
+  ja: メガバクーダex
+  en: Mega Camerupt ex
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Fire
+hp: 340
+retreat_cost: 4
+regulation_mark: I
+meta_tags:
+- ex
+- mega
+evolves_from:
+  ja: ドンメル
+  en: Numel
+weakness:
+  type: Water
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja: メガシンカexがきぜつしたとき、相手はサイドを3枚とる。
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: あぶりやき
+    en: Roasting Heat
+  cost:
+  - Fire
+  damage: 80+
+  effect_text:
+    ja: 相手のバトルポケモンがやけどなら、160ダメージ追加。
+    en: If your opponent's Active Pokémon is Burned, this attack does 160 more damage.
+- position: 1
+  name:
+    ja: ボルケーノメテオ
+    en: Volcanic Meteor
+  cost:
+  - Fire
+  - Colorless
+  - Colorless
+  - Colorless
+  damage: '280'
+  effect_text:
+    ja: このポケモンについているエネルギーを2個選び、トラッシュする。
+    en: Discard 2 Energy from this Pokémon.
+first_appearance:
+  set_name_ja: メガブレイブ
+  released_at: '2025-08-01'
+  regulation_mark: I
+  collector_number: '013'
+  image_url:

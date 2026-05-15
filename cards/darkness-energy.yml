@@ -1,0 +1,37 @@
+---
+schema_version: 1
+slug: darkness-energy
+name:
+  ja: 基本悪エネルギー
+  en: Darkness Energy
+  prefix:
+card_type: Energy
+card_subtype: Basic Energy
+energy_type:
+hp:
+retreat_cost:
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type:
+  value:
+resistance:
+  type:
+  value:
+body_text:
+  ja: "※ロゴあり（専用キャンペーン）"
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks: []
+first_appearance:
+  set_name_ja: 古代の咆哮
+  released_at: '2023-10-27'
+  regulation_mark:
+  collector_number: '095'
+  image_url:

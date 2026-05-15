@@ -1,0 +1,54 @@
+---
+schema_version: 1
+slug: seaking-2
+name:
+  ja: アズマオウ
+  en: Seaking
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Water
+hp: 110
+retreat_cost: 1
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja: トサキント
+  en: Goldeen
+weakness:
+  type: Lightning
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities:
+- position: 0
+  name:
+    ja: おまつりおんど
+    en: Festival Lead
+  effect_text:
+    ja: 場に「お祭り会場」が出ているなら、このポケモンは、持っているワザを2回連続で使える。（1回目のワザで相手のバトルポケモンがきぜつしたなら、次のバトルポケモンが出たあと、2回目のワザを使う。）
+    en: If Festival Grounds is in play, this Pokémon may use an attack it has twice. If the first attack Knocks Out your opponent's Active Pokémon, you may attack again after your opponent chooses a new Active Pokémon.
+attacks:
+- position: 0
+  name:
+    ja: クイックドロー
+    en: Rapid Draw
+  cost:
+  - Colorless
+  damage: '60'
+  effect_text:
+    ja: 自分の山札を2枚引く。
+    en: Draw 2 cards.
+first_appearance:
+  set_name_ja: テラスタルフェスex
+  released_at: '2024-12-06'
+  regulation_mark: H
+  collector_number: '029'
+  image_url:

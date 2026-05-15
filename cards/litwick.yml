@@ -1,0 +1,58 @@
+---
+schema_version: 1
+slug: litwick
+name:
+  ja: ヒトモシ
+  en: Litwick
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Fire
+hp: 60
+retreat_cost: 1
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Water
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: なかまをよぶ 
+    en: Call for Family
+  cost:
+  - Fire
+  damage:
+  effect_text:
+    ja: 自分の山札からたねポケモンを1枚選び、ベンチに出す。そして山札を切る。
+    en: Search your deck for a Basic Pokémon and put it onto your Bench. Then, shuffle your deck.
+- position: 1
+  name:
+    ja: ひだね
+    en: Live Coal
+  cost:
+  - Fire
+  - Colorless
+  damage: '20'
+  effect_text:
+    ja:
+    en:
+first_appearance:
+  set_name_ja: 変幻の仮面
+  released_at: '2024-04-26'
+  regulation_mark: H
+  collector_number: '019'
+  image_url:

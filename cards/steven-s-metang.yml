@@ -1,0 +1,48 @@
+---
+schema_version: 1
+slug: steven-s-metang
+name:
+  ja: ダイゴのメタング
+  en: Steven's Metang
+  prefix: Steven's
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Metal
+hp: 100
+retreat_cost: 2
+regulation_mark: I
+meta_tags: []
+evolves_from:
+  ja: ダイゴのダンバル
+  en: Steven's Beldum
+weakness:
+  type: Fire
+  value: "×2"
+resistance:
+  type: Grass
+  value: "-30"
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: メタルスラッシュ
+    en: Metal Slash
+  cost:
+  - Metal
+  - Colorless
+  damage: '70'
+  effect_text:
+    ja: 次の自分の番、このポケモンはワザが使えない。
+    en: During your next turn, this Pokémon can't attack.
+first_appearance:
+  set_name_ja: スターターセットex ダイゴのダンバル＆メタグロスex
+  released_at:
+  regulation_mark:
+  collector_number: '006'
+  image_url:

@@ -1,0 +1,55 @@
+---
+schema_version: 1
+slug: meowscarada
+name:
+  ja: マスカーニャ
+  en: Meowscarada
+  prefix:
+card_type: Pokémon
+card_subtype: 2進化
+energy_type: Grass
+hp: 160
+retreat_cost: 1
+regulation_mark: I
+meta_tags: []
+evolves_from:
+  ja: ニャローテ
+  en: Floragato
+weakness:
+  type: Fire
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities:
+- position: 0
+  name:
+    ja: ショータイム
+    en: Showtime
+  effect_text:
+    ja: このポケモンがベンチにいるなら、自分の番に1回使える。このポケモンをバトルポケモンと入れ替える。
+    en: Once during your turn, if this Pokémon is on your Bench, you may switch it with your Active Pokémon.
+attacks:
+- position: 0
+  name:
+    ja: ライジングブルーム
+    en: Rising Bloom
+  cost:
+  - Colorless
+  - Colorless
+  damage: 90+
+  effect_text:
+    ja: 相手のバトルポケモンが「ポケモンex」なら、90ダメージ追加。
+    en: If your opponent's Active Pokémon is a Pokémon ex, this attack does 90 more damage.
+first_appearance:
+  set_name_ja: バトルパートナーズ
+  released_at: '2025-01-24'
+  regulation_mark: I
+  collector_number: '012'
+  image_url:

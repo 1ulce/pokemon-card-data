@@ -1,0 +1,55 @@
+---
+schema_version: 1
+slug: klinklang
+name:
+  ja: ギギギアル
+  en: Klinklang
+  prefix:
+card_type: Pokémon
+card_subtype: 2進化
+energy_type: Metal
+hp: 140
+retreat_cost: 3
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja: ギギアル
+  en: Klang
+weakness:
+  type: Fire
+  value: "×2"
+resistance:
+  type: Grass
+  value: "-30"
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities:
+- position: 0
+  name:
+    ja: きんきゅうかいてん
+    en: Emergency Rotation
+  effect_text:
+    ja: 自分の番に、このカードが手札にあり、相手の場に2進化ポケモンがいるなら、1回使える。このカードをベンチに出す。
+    en: Once during your turn, if this Pokémon is in your hand and your opponent has any Stage 2 Pokémon in play, you may put this Pokémon onto your Bench.
+attacks:
+- position: 0
+  name:
+    ja: ハイパービーム
+    en: Hyper Ray
+  cost:
+  - Colorless
+  - Colorless
+  damage: '130'
+  effect_text:
+    ja: このポケモンについているエネルギーを、すべてトラッシュする。
+    en: Discard all Energy from this Pokémon.
+first_appearance:
+  set_name_ja: ステラミラクル
+  released_at: '2024-07-19'
+  regulation_mark: H
+  collector_number: '069'
+  image_url:

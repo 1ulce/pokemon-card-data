@@ -1,0 +1,57 @@
+---
+schema_version: 1
+slug: klefki
+name:
+  ja: クレッフィ
+  en: Klefki
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Metal
+hp: 70
+retreat_cost: 1
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Fire
+  value: "×2"
+resistance:
+  type: Grass
+  value: "-30"
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: さしこみドロー 
+    en: Stick 'n' Draw
+  cost:
+  - Colorless
+  damage:
+  effect_text:
+    ja: 自分の手札を1枚トラッシュする。その後、自分の山札を2枚引く。
+    en: Discard a card from your hand. If you do, draw 2 cards.
+- position: 1
+  name:
+    ja: ひっかける
+    en: Hook
+  cost:
+  - Colorless
+  damage: '20'
+  effect_text:
+    ja:
+    en:
+first_appearance:
+  set_name_ja: 楽園ドラゴーナ
+  released_at: '2024-09-13'
+  regulation_mark: H
+  collector_number: '035'
+  image_url:

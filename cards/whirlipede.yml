@@ -1,0 +1,59 @@
+---
+schema_version: 1
+slug: whirlipede
+name:
+  ja: ホイーガ
+  en: Whirlipede
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Darkness
+hp: 100
+retreat_cost: 3
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja: フシデ
+  en: Venipede
+weakness:
+  type: Fighting
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: ポイズンサークル 
+    en: Poison Ring
+  cost:
+  - Darkness
+  damage:
+  effect_text:
+    ja: 相手のバトルポケモンをどくにする。次の相手の番、このワザを受けたポケモンは、にげられない。
+    en: Your opponent's Active Pokémon is now Poisoned. During your opponent's next turn, the Defending Pokémon can't retreat.
+- position: 1
+  name:
+    ja: かいてんアタック
+    en: Spinning Attack
+  cost:
+  - Darkness
+  - Colorless
+  - Colorless
+  damage: '60'
+  effect_text:
+    ja:
+    en:
+first_appearance:
+  set_name_ja: 変幻の仮面
+  released_at: '2024-04-26'
+  regulation_mark: H
+  collector_number: '069'
+  image_url:

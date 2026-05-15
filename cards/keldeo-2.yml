@@ -1,0 +1,58 @@
+---
+schema_version: 1
+slug: keldeo-2
+name:
+  ja: ケルディオ
+  en: Keldeo
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Water
+hp: 110
+retreat_cost: 1
+regulation_mark:
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Lightning
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: つきぬける
+    en:
+  cost:
+  - Water
+  damage: '20'
+  effect_text:
+    ja: 相手のベンチポケモン1匹にも、20ダメージ。［ベンチは弱点・抵抗力を計算しない。］
+    en:
+- position: 1
+  name:
+    ja: エネリフレクト
+    en:
+  cost:
+  - Water
+  - Water
+  damage: '70'
+  effect_text:
+    ja: このポケモンについているエネルギーを1個選び、ベンチポケモンにつけ替える。
+    en:
+first_appearance:
+  set_name_ja: ニンジャスピナー
+  released_at: '2026-03-13'
+  regulation_mark: J
+  collector_number: '019'
+  image_url:

@@ -1,0 +1,47 @@
+---
+schema_version: 1
+slug: team-rocket-s-pupitar
+name:
+  ja: ロケット団のサナギラス
+  en: Team Rocket's Pupitar
+  prefix: Team Rocket's
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Fighting
+hp: 100
+retreat_cost: 2
+regulation_mark: I
+meta_tags: []
+evolves_from:
+  ja: ロケット団のヨーギラス
+  en: Team Rocket's Larvitar
+weakness:
+  type: Grass
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: ばくれつかくせい
+    en: Explosive Ascension
+  cost:
+  - Colorless
+  damage: '30'
+  effect_text:
+    ja: このポケモンから進化するカードを、自分の山札から1枚選び、このポケモンにのせて進化させる。そして山札を切る。
+    en: Search your deck for a card that evolves from this Pokémon and put it onto this Pokémon to evolve it. Then, shuffle your deck.
+first_appearance:
+  set_name_ja: ロケット団の栄光
+  released_at: '2025-04-18'
+  regulation_mark: I
+  collector_number: '049'
+  image_url:

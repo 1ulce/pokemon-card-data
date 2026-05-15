@@ -1,0 +1,57 @@
+---
+schema_version: 1
+slug: emolga-2
+name:
+  ja: エモンガ
+  en: Emolga
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Lightning
+hp: 70
+retreat_cost: 0
+regulation_mark: I
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Fighting
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: なかまをよぶ 
+    en: Call for Family
+  cost:
+  - Colorless
+  damage:
+  effect_text:
+    ja: 自分の山札からたねポケモンを2枚まで選び、ベンチに出す。そして山札を切る。
+    en: Search your deck for up to 2 Basic Pokémon and put them onto your Bench. Then, shuffle your deck.
+- position: 1
+  name:
+    ja: バチバチ
+    en: Static Shock
+  cost:
+  - Lightning
+  damage: '20'
+  effect_text:
+    ja:
+    en:
+first_appearance:
+  set_name_ja: ブラックボルト
+  released_at: '2025-06-06'
+  regulation_mark: I
+  collector_number: '032'
+  image_url:

@@ -1,0 +1,56 @@
+---
+schema_version: 1
+slug: genesect
+name:
+  ja: ゲノセクト
+  en: Genesect
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Metal
+hp: 110
+retreat_cost: 1
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Fire
+  value: "×2"
+resistance:
+  type: Grass
+  value: "-30"
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities:
+- position: 0
+  name:
+    ja: エースキャンセラー
+    en: ACE Nullifier
+  effect_text:
+    ja: このポケモンに「ポケモンのどうぐ」がついているなら、相手は手札から「ACE SPEC」のカードを出して使えない。
+    en: If this Pokémon has a Pokémon Tool attached, your opponent can't play any ACE SPEC cards from their hand.
+attacks:
+- position: 0
+  name:
+    ja: マグネブラスト
+    en: Magnetic Blast
+  cost:
+  - Metal
+  - Colorless
+  - Colorless
+  damage: '100'
+  effect_text:
+    ja:
+    en:
+first_appearance:
+  set_name_ja: ナイトワンダラー
+  released_at: '2024-06-07'
+  regulation_mark: H
+  collector_number: '040'
+  image_url:

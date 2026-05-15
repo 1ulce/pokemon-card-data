@@ -1,0 +1,45 @@
+---
+schema_version: 1
+slug: prism-energy
+name:
+  ja: プリズムエネルギー
+  en: Prism Energy
+  prefix:
+card_type: Energy
+card_subtype: Special Energy
+energy_type:
+hp:
+retreat_cost:
+regulation_mark: I
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type:
+  value:
+resistance:
+  type:
+  value:
+body_text:
+  ja: |-
+    このカードは、ポケモンについているかぎり、エネルギー1個ぶんとしてはたらく。
+
+
+
+    たねポケモンについているなら、すべてのタイプのエネルギー1個ぶんとしてはたらく。
+  en:
+rules_text:
+  ja: |-
+    このカードは、エネルギー1個ぶんとしてはたらく。
+
+    たねポケモンについているかぎり、すべてのタイプのエネルギー1個ぶんとしてはたらく。
+  en:
+abilities: []
+attacks: []
+first_appearance:
+  set_name_ja: ブラックボルト
+  released_at: '2025-06-06'
+  regulation_mark: I
+  collector_number: '086'
+  image_url:

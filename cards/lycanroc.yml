@@ -1,0 +1,47 @@
+---
+schema_version: 1
+slug: lycanroc
+name:
+  ja: ルガルガン
+  en: Lycanroc
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Fighting
+hp: 120
+retreat_cost: 1
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja: イワンコ
+  en: Rockruff
+weakness:
+  type: Grass
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: ターボエッジ
+    en: Turbo Edge
+  cost:
+  - Colorless
+  damage: '50'
+  effect_text:
+    ja: 自分のトラッシュから「基本闘エネルギー」を2枚まで選び、ベンチポケモンに好きなようにつける。
+    en: Attach up to 2 Basic [F] Energy cards from your discard pile to your Benched Pokémon in any way you like.
+first_appearance:
+  set_name_ja: 古代のコライドンex
+  released_at: '2024-01-26'
+  regulation_mark: H
+  collector_number: '009'
+  image_url:

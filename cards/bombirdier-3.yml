@@ -1,0 +1,60 @@
+---
+schema_version: 1
+slug: bombirdier-3
+name:
+  ja: オトシドリ
+  en: Bombirdier
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Colorless
+hp: 100
+retreat_cost: 1
+regulation_mark:
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Lightning
+  value: "×2"
+resistance:
+  type: Fighting
+  value: "-30"
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: おとどけチャレンジ 
+    en:
+  cost:
+  - Colorless
+  - Colorless
+  damage:
+  effect_text:
+    ja: コインを2回投げ、すべてオモテなら、自分の山札からポケモンを1枚選び、ベンチに出す。そして山札を切る。
+    en:
+- position: 1
+  name:
+    ja: スピードウイング
+    en:
+  cost:
+  - Colorless
+  - Colorless
+  - Colorless
+  damage: '100'
+  effect_text:
+    ja:
+    en:
+first_appearance:
+  set_name_ja: アビスアイ
+  released_at: '2026-05-22'
+  regulation_mark: J
+  collector_number: '069'
+  image_url:

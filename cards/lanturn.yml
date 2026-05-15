@@ -1,0 +1,60 @@
+---
+schema_version: 1
+slug: lanturn
+name:
+  ja: ランターン
+  en: Lanturn
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Lightning
+hp: 120
+retreat_cost: 2
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja: チョンチー
+  en: Chinchou
+weakness:
+  type: Fighting
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: さくらんフラッシュ 
+    en: Disorienting Flash
+  cost:
+  - Colorless
+  - Colorless
+  damage:
+  effect_text:
+    ja: 相手のバトルポケモンをこんらんにする。このこんらんでのせるダメカンの数は8個になる。
+    en: Your opponent's Active Pokémon is now Confused. Put 8 damage counters instead of 3 on that Pokémon for this Special Condition.
+- position: 1
+  name:
+    ja: サンダーボルト
+    en: Thunderous Bolt
+  cost:
+  - Lightning
+  - Colorless
+  - Colorless
+  damage: '140'
+  effect_text:
+    ja: 次の自分の番、このポケモンはワザが使えない。
+    en: During your next turn, this Pokémon can't attack.
+first_appearance:
+  set_name_ja: ステラミラクル
+  released_at: '2024-07-19'
+  regulation_mark: H
+  collector_number: '031'
+  image_url:

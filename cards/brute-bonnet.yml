@@ -1,0 +1,59 @@
+---
+schema_version: 1
+slug: brute-bonnet
+name:
+  ja: アラブルタケ
+  en: Brute Bonnet
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Darkness
+hp: 120
+retreat_cost: 3
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Grass
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: どくをとばす 
+    en:
+  cost:
+  - Darkness
+  damage:
+  effect_text:
+    ja: 相手のバトルポケモンをどくにする。
+    en:
+- position: 1
+  name:
+    ja: まくしなぐる
+    en:
+  cost:
+  - Darkness
+  - Darkness
+  - Darkness
+  damage: 50+
+  effect_text:
+    ja: 相手のバトルポケモンにのっているダメカンの数×50ダメージ追加。
+    en:
+first_appearance:
+  set_name_ja: 変幻の仮面
+  released_at: '2024-04-26'
+  regulation_mark: H
+  collector_number: '071'
+  image_url:

@@ -1,0 +1,59 @@
+---
+schema_version: 1
+slug: zarude-3
+name:
+  ja: ザルード
+  en: Zarude
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Darkness
+hp: 130
+retreat_cost: 2
+regulation_mark:
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Grass
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: うしろなげ
+    en:
+  cost:
+  - Darkness
+  damage: '30'
+  effect_text:
+    ja: 自分のベンチポケモン1匹にも、30ダメージ。［ベンチは弱点・抵抗力を計算しない。］
+    en:
+- position: 1
+  name:
+    ja: シャドーウィップ
+    en:
+  cost:
+  - Darkness
+  - Darkness
+  - Darkness
+  damage: 100+
+  effect_text:
+    ja: 自分のベンチポケモンに「シャドー悪エネルギー」がついているなら、70ダメージ追加。
+    en:
+first_appearance:
+  set_name_ja: アビスアイ
+  released_at: '2026-05-22'
+  regulation_mark: J
+  collector_number: '054'
+  image_url:

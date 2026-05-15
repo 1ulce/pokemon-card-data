@@ -1,0 +1,56 @@
+---
+schema_version: 1
+slug: milotic
+name:
+  ja: ミロカロス
+  en: Milotic
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Water
+hp: 120
+retreat_cost: 1
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja: ヒンバス
+  en: Feebas
+weakness:
+  type: Lightning
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities:
+- position: 0
+  name:
+    ja: なぎのきょうち
+    en: Lifeboat
+  effect_text:
+    ja: このポケモンがいるかぎり、相手の場のポケモンと、そのポケモンについているすべてのカードは、手札にもどせない。
+    en: Once during your turn, when you play this Pokémon from your hand to evolve 1 of your Pokémon, you may use this Ability. Each player puts a Basic Pokémon from their discard pile onto their Bench. (Your opponent puts a Basic Pokémon onto their Bench first.)
+attacks:
+- position: 0
+  name:
+    ja: ハイドロスプラッシュ
+    en: Hypno Splash
+  cost:
+  - Water
+  - Colorless
+  - Colorless
+  damage: '100'
+  effect_text:
+    ja:
+    en: Your opponent's Active Pokémon is now Asleep.
+first_appearance:
+  set_name_ja: 変幻の仮面
+  released_at: '2024-04-26'
+  regulation_mark: H
+  collector_number: '030'
+  image_url:

@@ -1,0 +1,48 @@
+---
+schema_version: 1
+slug: shroodle-2
+name:
+  ja: シルシュルー
+  en: Shroodle
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Darkness
+hp: 60
+retreat_cost: 1
+regulation_mark: I
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Fighting
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: どくづき
+    en: Poison Jab
+  cost:
+  - Darkness
+  - Colorless
+  damage: '20'
+  effect_text:
+    ja: 相手のバトルポケモンをどくにする。
+    en: Your opponent's Active Pokémon is now Poisoned.
+first_appearance:
+  set_name_ja: メガブレイブ
+  released_at: '2025-08-01'
+  regulation_mark: I
+  collector_number: '043'
+  image_url:

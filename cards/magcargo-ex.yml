@@ -1,0 +1,61 @@
+---
+schema_version: 1
+slug: magcargo-ex
+name:
+  ja: マグカルゴex
+  en: Magcargo ex
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Fire
+hp: 270
+retreat_cost: 3
+regulation_mark: H
+meta_tags:
+- ex
+evolves_from:
+  ja: マグマッグ
+  en: Slugma
+weakness:
+  type: Water
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja: ポケモンexがきぜつしたとき、相手はサイドを2枚とる。
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: あついマグマ
+    en: Hot Magma
+  cost:
+  - Fire
+  - Colorless
+  damage: '70'
+  effect_text:
+    ja: 相手のバトルポケモンをやけどにする。
+    en: Your opponent's Active Pokémon is now Burned.
+- position: 1
+  name:
+    ja: グラウンドバーン
+    en: Ground Burn
+  cost:
+  - Fire
+  - Fire
+  - Colorless
+  damage: 140+
+  effect_text:
+    ja: おたがいの山札を上から1枚ずつトラッシュし、その中にあるエネルギーの枚数×140ダメージ追加。
+    en: Discard the top card of each player's deck. This attack does 140 more damage for each Energy card discarded in this way.
+first_appearance:
+  set_name_ja: クリムゾンヘイズ
+  released_at: '2024-03-22'
+  regulation_mark: H
+  collector_number: '013'
+  image_url:

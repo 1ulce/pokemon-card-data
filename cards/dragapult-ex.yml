@@ -1,0 +1,59 @@
+---
+schema_version: 1
+slug: dragapult-ex
+name:
+  ja: ドラパルトex
+  en: Dragapult ex
+  prefix:
+card_type: Pokémon
+card_subtype: 2進化
+energy_type: Dragon
+hp: 320
+retreat_cost: 1
+regulation_mark: H
+meta_tags:
+- ex
+evolves_from:
+  ja: ドロンチ
+  en: Drakloak
+weakness:
+  type:
+  value:
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja: ポケモンexがきぜつしたとき、相手はサイドを2枚とる。
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: ジェットヘッド
+    en: Jet Headbutt
+  cost:
+  - Colorless
+  damage: '70'
+  effect_text:
+    ja:
+    en:
+- position: 1
+  name:
+    ja: ファントムダイブ
+    en: Phantom Dive
+  cost:
+  - Fire
+  - Psychic
+  damage: '200'
+  effect_text:
+    ja: ダメカン6個を、相手のベンチポケモンに好きなようにのせる。
+    en: Put 6 damage counters on your opponent's Benched Pokémon in any way you like.
+first_appearance:
+  set_name_ja: 変幻の仮面
+  released_at: '2024-04-26'
+  regulation_mark: H
+  collector_number: '081'
+  image_url:

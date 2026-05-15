@@ -1,0 +1,47 @@
+---
+schema_version: 1
+slug: bronzor-5
+name:
+  ja: ドーミラー
+  en: Bronzor
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Metal
+hp: 80
+retreat_cost: 3
+regulation_mark:
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Fire
+  value: "×2"
+resistance:
+  type: Grass
+  value: "-30"
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: ミラーアタック
+    en:
+  cost:
+  - Metal
+  damage: 10+
+  effect_text:
+    ja: 相手のバトルポケモンが鋼ポケモンなら、30ダメージ追加。
+    en:
+first_appearance:
+  set_name_ja: アビスアイ
+  released_at: '2026-05-22'
+  regulation_mark: J
+  collector_number: '061'
+  image_url:

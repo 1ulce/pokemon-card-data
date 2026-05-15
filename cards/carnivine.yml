@@ -1,0 +1,59 @@
+---
+schema_version: 1
+slug: carnivine
+name:
+  ja: マスキッパ
+  en: Carnivine
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Grass
+hp: 110
+retreat_cost: 2
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Fire
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: つまみぐい 
+    en: Nosh
+  cost:
+  - Colorless
+  damage:
+  effect_text:
+    ja: このポケモンのHPを「40」回復する。
+    en: Heal 40 damage from this Pokémon.
+- position: 1
+  name:
+    ja: おおいかぶさる
+    en: Loom Over
+  cost:
+  - Grass
+  - Colorless
+  - Colorless
+  damage: 130-
+  effect_text:
+    ja: このポケモンにのっているダメカンの数×10ダメージぶん、このワザのダメージは小さくなる。
+    en: This attack does 10 less damage for each damage counter on this Pokémon.
+first_appearance:
+  set_name_ja: ステラミラクル
+  released_at: '2024-07-19'
+  regulation_mark: H
+  collector_number: '005'
+  image_url:

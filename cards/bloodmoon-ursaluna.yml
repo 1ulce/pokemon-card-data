@@ -1,0 +1,56 @@
+---
+schema_version: 1
+slug: bloodmoon-ursaluna
+name:
+  ja: ガチグマ アカツキ
+  en: Bloodmoon Ursaluna
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Fighting
+hp: 150
+retreat_cost: 4
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Grass
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities:
+- position: 0
+  name:
+    ja: けいけんそく
+    en: Battle-Hardened
+  effect_text:
+    ja: 自分の番に、このカードを手札からベンチに出したとき、1回使える。自分の手札から「基本闘エネルギー」を2枚まで選び、このポケモンにつける。
+    en: When you play this Pokémon from your hand onto your Bench during your turn, you may attach up to 2 Basic [F] Energy cards from your hand to this Pokémon.
+attacks:
+- position: 0
+  name:
+    ja: マッドバイト
+    en: Mad Bite
+  cost:
+  - Fighting
+  - Fighting
+  - Colorless
+  damage: 100+
+  effect_text:
+    ja: 相手のバトルポケモンにのっているダメカンの数×30ダメージ追加。
+    en: This attack does 30 more damage for each damage counter on your opponent's Active Pokémon.
+first_appearance:
+  set_name_ja: ナイトワンダラー
+  released_at: '2024-06-07'
+  regulation_mark: H
+  collector_number: '025'
+  image_url:

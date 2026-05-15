@@ -1,0 +1,58 @@
+---
+schema_version: 1
+slug: aipom-4
+name:
+  ja: エイパム
+  en: Aipom
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Colorless
+hp: 60
+retreat_cost: 1
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Fighting
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: ぶらさがる
+    en: Hang Down
+  cost:
+  - Colorless
+  damage: '10'
+  effect_text:
+    ja:
+    en:
+- position: 1
+  name:
+    ja: やんちゃげり
+    en: Playful Kick
+  cost:
+  - Colorless
+  - Colorless
+  damage: '20'
+  effect_text:
+    ja:
+    en:
+first_appearance:
+  set_name_ja: 変幻の仮面
+  released_at: '2024-04-26'
+  regulation_mark: H
+  collector_number: '086'
+  image_url:

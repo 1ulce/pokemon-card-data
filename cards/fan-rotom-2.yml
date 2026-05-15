@@ -1,0 +1,54 @@
+---
+schema_version: 1
+slug: fan-rotom-2
+name:
+  ja: スピンロトム
+  en: Fan Rotom
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Colorless
+hp: 70
+retreat_cost: 1
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Lightning
+  value: "×2"
+resistance:
+  type: Fighting
+  value: "-30"
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities:
+- position: 0
+  name:
+    ja: ファンコール
+    en: Fan Call
+  effect_text:
+    ja: 最初の自分の番にだけ1回使える。自分の山札から、HPが「100」以下のポケモンを3枚まで選び、相手に見せて、手札に加える。そして山札を切る。この番、すでに別の「ファンコール」を使っていたなら、この特性は使えない。
+    en: Once during your first turn, you may search your deck for up to 3 [C] Pokémon with 100 HP or less, reveal them, and put them into your hand. Then, shuffle your deck. You can't use more than 1 Fan Call Ability during your turn.
+attacks:
+- position: 0
+  name:
+    ja: とつげきランディング
+    en: Assault Landing
+  cost:
+  - Colorless
+  damage: '70'
+  effect_text:
+    ja: 場にスタジアムが出ていないなら、このワザは失敗。
+    en: If there is no Stadium in play, this attack does nothing.
+first_appearance:
+  set_name_ja: ステラミラクル
+  released_at: '2024-07-19'
+  regulation_mark: H
+  collector_number: '080'
+  image_url:

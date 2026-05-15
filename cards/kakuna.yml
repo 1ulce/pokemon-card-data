@@ -1,0 +1,54 @@
+---
+schema_version: 1
+slug: kakuna
+name:
+  ja: コクーン
+  en: Kakuna
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Grass
+hp: 80
+retreat_cost: 3
+regulation_mark:
+meta_tags: []
+evolves_from:
+  ja: ビードル
+  en: Weedle
+weakness:
+  type: Fire
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities:
+- position: 0
+  name:
+    ja: かたいからだ
+    en: Cocoon Cover
+  effect_text:
+    ja: このポケモンが受けるワザのダメージは「-20」される。
+    en: Prevent all effects of attacks used by your opponent's Pokémon done to this Pokémon. (Damage is not an effect.)
+attacks:
+- position: 0
+  name:
+    ja: ぶらさがる
+    en: Zzzt
+  cost:
+  - Grass
+  damage: '20'
+  effect_text:
+    ja:
+    en:
+first_appearance:
+  set_name_ja: ニンジャスピナー
+  released_at: '2026-03-13'
+  regulation_mark: J
+  collector_number: '002'
+  image_url:

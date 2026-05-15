@@ -1,0 +1,48 @@
+---
+schema_version: 1
+slug: slurpuff
+name:
+  ja: ペロリーム
+  en: Slurpuff
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Psychic
+hp: 120
+retreat_cost: 2
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja: ペロッパフ
+  en: Swirlix
+weakness:
+  type: Metal
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: ペロペロリン
+    en: Slurp Slurp
+  cost:
+  - Psychic
+  - Colorless
+  damage: 90×
+  effect_text:
+    ja: コインを2回投げ、オモテの数×90ダメージ。すべてウラなら、相手のバトルポケモンをこんらんにする。
+    en: Flip 2 coins. This attack does 90 damage for each heads. If both of them are tails, your opponent's Active Pokémon is now Confused.
+first_appearance:
+  set_name_ja: 変幻の仮面
+  released_at: '2024-04-26'
+  regulation_mark: H
+  collector_number: '052'
+  image_url:

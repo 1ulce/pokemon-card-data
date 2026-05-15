@@ -1,0 +1,59 @@
+---
+schema_version: 1
+slug: prinplup
+name:
+  ja: ポッタイシ
+  en: Prinplup
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Water
+hp: 100
+retreat_cost: 2
+regulation_mark: I
+meta_tags: []
+evolves_from:
+  ja: ポッチャマ
+  en: Piplup
+weakness:
+  type: Lightning
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: つつく
+    en: Peck
+  cost:
+  - Colorless
+  damage: '20'
+  effect_text:
+    ja:
+    en:
+- position: 1
+  name:
+    ja: ねらってダイブ 
+    en: Targeted Dive
+  cost:
+  - Colorless
+  - Colorless
+  - Colorless
+  damage:
+  effect_text:
+    ja: 相手のベンチポケモン1匹に、70ダメージ。［ベンチは弱点・抵抗力を計算しない。］
+    en: This attack does 70 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)
+first_appearance:
+  set_name_ja: インフェルノX
+  released_at: '2025-09-26'
+  regulation_mark: I
+  collector_number: '028'
+  image_url:

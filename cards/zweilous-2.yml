@@ -1,0 +1,61 @@
+---
+schema_version: 1
+slug: zweilous-2
+name:
+  ja: ジヘッド
+  en: Zweilous
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Darkness
+hp: 110
+retreat_cost: 3
+regulation_mark: I
+meta_tags: []
+evolves_from:
+  ja: モノズ
+  en: Deino
+weakness:
+  type: Grass
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: ダブルアタック
+    en: Double Hit
+  cost:
+  - Colorless
+  - Colorless
+  damage: 40×
+  effect_text:
+    ja: コインを2回投げ、オモテの数×40ダメージ。
+    en: Flip 2 coins. This attack does 40 damage for each heads.
+- position: 1
+  name:
+    ja: しっこくのキバ
+    en: Pitch-Black Fangs
+  cost:
+  - Darkness
+  - Darkness
+  - Colorless
+  - Colorless
+  damage: '100'
+  effect_text:
+    ja:
+    en:
+first_appearance:
+  set_name_ja: ホワイトフレア
+  released_at: '2025-06-06'
+  regulation_mark: I
+  collector_number: '061'
+  image_url:

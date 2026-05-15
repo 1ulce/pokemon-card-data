@@ -1,0 +1,57 @@
+---
+schema_version: 1
+slug: meowstic-3
+name:
+  ja: ニャオニクス
+  en: Meowstic
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Psychic
+hp: 100
+retreat_cost: 1
+regulation_mark: J
+meta_tags: []
+evolves_from:
+  ja: ニャスパー
+  en: Espurr
+weakness:
+  type: Darkness
+  value: "×2"
+resistance:
+  type: Fighting
+  value: "-30"
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: まどわす 
+    en: Perplex
+  cost:
+  - Psychic
+  damage:
+  effect_text:
+    ja: 相手のバトルポケモンをこんらんにする。
+    en: Your opponent's Active Pokémon is now Confused.
+- position: 1
+  name:
+    ja: サイコキネシス
+    en: Psychic
+  cost:
+  - Psychic
+  damage: 30+
+  effect_text:
+    ja: 相手のバトルポケモンについているエネルギーの数×30ダメージ追加。
+    en: This attack does 30 more damage for each Energy attached to your opponent's Active Pokémon.
+first_appearance:
+  set_name_ja: ムニキスゼロ
+  released_at: '2026-01-23'
+  regulation_mark: J
+  collector_number: '033'
+  image_url:

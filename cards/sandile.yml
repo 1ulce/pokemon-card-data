@@ -1,0 +1,47 @@
+---
+schema_version: 1
+slug: sandile
+name:
+  ja: メグロコ
+  en: Sandile
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Darkness
+hp: 70
+retreat_cost: 2
+regulation_mark: I
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Grass
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: シメる
+    en: Tighten Up
+  cost:
+  - Darkness
+  damage: '10'
+  effect_text:
+    ja: 相手は相手自身の手札を1枚選び、トラッシュする。
+    en: Your opponent discards a card from their hand.
+first_appearance:
+  set_name_ja: ブラックボルト
+  released_at: '2025-06-06'
+  regulation_mark: I
+  collector_number: '060'
+  image_url:

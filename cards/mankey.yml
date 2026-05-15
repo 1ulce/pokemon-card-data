@@ -1,0 +1,47 @@
+---
+schema_version: 1
+slug: mankey
+name:
+  ja: マンキー
+  en: Mankey
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Fighting
+hp: 60
+retreat_cost: 1
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Psychic
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: ダブルチョップ
+    en: Dual Chop
+  cost:
+  - Colorless
+  damage: 10×
+  effect_text:
+    ja: コインを2回投げ、オモテの数×10ダメージ。
+    en: Flip 2 coins. This attack does 10 damage for each heads.
+first_appearance:
+  set_name_ja: 超電ブレイカー
+  released_at: '2024-10-18'
+  regulation_mark: H
+  collector_number: '060'
+  image_url:

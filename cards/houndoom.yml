@@ -1,0 +1,60 @@
+---
+schema_version: 1
+slug: houndoom
+name:
+  ja: ヘルガー
+  en: Houndoom
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Fire
+hp: 120
+retreat_cost: 2
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja: デルビル
+  en: Houndour
+weakness:
+  type: Water
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: かみつく
+    en: Bite
+  cost:
+  - Colorless
+  - Colorless
+  damage: '50'
+  effect_text:
+    ja:
+    en:
+- position: 1
+  name:
+    ja: バークアウト
+    en: Snarl
+  cost:
+  - Fire
+  - Colorless
+  - Colorless
+  damage: '100'
+  effect_text:
+    ja: 次の相手の番、このワザを受けたポケモンが使うワザのダメージは「-100」される。
+    en: During your opponent's next turn, attacks used by the Defending Pokémon do 100 less damage (before applying Weakness and Resistance).
+first_appearance:
+  set_name_ja: ナイトワンダラー
+  released_at: '2024-06-07'
+  regulation_mark: H
+  collector_number: '008'
+  image_url:

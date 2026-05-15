@@ -1,0 +1,58 @@
+---
+schema_version: 1
+slug: haxorus
+name:
+  ja: オノノクス
+  en: Haxorus
+  prefix:
+card_type: Pokémon
+card_subtype: 2進化
+energy_type: Dragon
+hp: 170
+retreat_cost: 2
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja: オノンド
+  en: Fraxure
+weakness:
+  type:
+  value:
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: アックスダウン 
+    en: Bring Down the Axe
+  cost:
+  - Fighting
+  damage:
+  effect_text:
+    ja: 相手のバトルポケモンに特殊エネルギーがついているなら、そのポケモンをきぜつさせる。
+    en: If your opponent's Active Pokémon has any Special Energy attached, it is Knocked Out.
+- position: 1
+  name:
+    ja: りゅうのはどう
+    en: Dragon Pulse
+  cost:
+  - Fighting
+  - Metal
+  damage: '230'
+  effect_text:
+    ja: 自分の山札を上から3枚トラッシュする。
+    en: Discard the top 3 cards of your deck.
+first_appearance:
+  set_name_ja: ナイトワンダラー
+  released_at: '2024-06-07'
+  regulation_mark: H
+  collector_number: '046'
+  image_url:

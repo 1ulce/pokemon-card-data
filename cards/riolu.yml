@@ -1,0 +1,47 @@
+---
+schema_version: 1
+slug: riolu
+name:
+  ja: リオル
+  en: Riolu
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Fighting
+hp: 80
+retreat_cost: 2
+regulation_mark: I
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Psychic
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: かそくづき
+    en: Accelerating Stab
+  cost:
+  - Fighting
+  damage: '30'
+  effect_text:
+    ja: 次の自分の番、このポケモンは「かそくづき」が使えない。
+    en: During your next turn, this Pokémon can't use Accelerating Stab.
+first_appearance:
+  set_name_ja: メガブレイブ
+  released_at: '2025-08-01'
+  regulation_mark: I
+  collector_number: '028'
+  image_url:

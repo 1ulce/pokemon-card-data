@@ -1,0 +1,55 @@
+---
+schema_version: 1
+slug: pecharunt
+name:
+  ja: モモワロウ
+  en: Pecharunt
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Darkness
+hp: 80
+retreat_cost: 1
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Fighting
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities:
+- position: 0
+  name:
+    ja: もうどくしはい
+    en: Toxic Subjugation
+  effect_text:
+    ja: このポケモンがバトル場にいるかぎり、相手のどくのポケモンは、どくでのせるダメカンの数が5個多くなる。
+    en: As long as this Pokémon is in the Active Spot, put 5 more damage counters on your opponent's Poisoned Pokémon during Pokémon Checkup.
+attacks:
+- position: 0
+  name:
+    ja: ポイズンチェーン
+    en: Poison Chain
+  cost:
+  - Darkness
+  - Colorless
+  damage: '10'
+  effect_text:
+    ja: 相手のバトルポケモンをどくにする。次の相手の番、このワザを受けたポケモンは、にげられない。
+    en: Your opponent's Active Pokémon is now Poisoned. During your opponent's next turn, that Pokémon can't retreat.
+first_appearance:
+  set_name_ja: 超電ブレイカー
+  released_at: '2024-10-18'
+  regulation_mark: H
+  collector_number: '075'
+  image_url:

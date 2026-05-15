@@ -1,0 +1,58 @@
+---
+schema_version: 1
+slug: team-rocket-s-meowth-2
+name:
+  ja: ロケット団のニャース
+  en: Team Rocket's Meowth
+  prefix: Team Rocket's
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Colorless
+hp: 70
+retreat_cost: 1
+regulation_mark: I
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Fighting
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: ねこばば 
+    en: Paw-cket Pilfer
+  cost:
+  - Colorless
+  damage:
+  effect_text:
+    ja: 相手の手札からオモテを見ないで1枚選び、そのカードのオモテを見て、相手の山札にもどして切る。
+    en: Choose a random card from your opponent's hand. Your opponent reveals that card and shuffles it into their deck.
+- position: 1
+  name:
+    ja: みだれひっかき
+    en: Fury Swipes
+  cost:
+  - Colorless
+  - Colorless
+  damage: 20×
+  effect_text:
+    ja: コインを3回投げ、オモテの数×20ダメージ。
+    en: Flip 3 coins. This attack does 20 damage for each heads.
+first_appearance:
+  set_name_ja: ロケット団の栄光
+  released_at: '2025-04-18'
+  regulation_mark: I
+  collector_number: '078'
+  image_url:

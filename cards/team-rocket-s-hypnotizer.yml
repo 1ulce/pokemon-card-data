@@ -1,0 +1,40 @@
+---
+schema_version: 1
+slug: team-rocket-s-hypnotizer
+name:
+  ja: ロケット団のさいみん装置
+  en: Team Rocket's Hypnotizer
+  prefix: Team Rocket's
+card_type: Trainer
+card_subtype: Tool
+energy_type:
+hp:
+retreat_cost:
+regulation_mark: I
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type:
+  value:
+resistance:
+  type:
+  value:
+body_text:
+  ja: |-
+    このカードをつけている「ロケット団のポケモン」が、バトル場で相手のポケモンからワザのダメージを受けたとき、ワザを使ったポケモンをねむりにする。
+
+    ポケモンのどうぐは、自分の番に何枚でも、自分のポケモンにつけられる。ポケモン1匹につき1枚だけつけられ、つけたままにする。
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks: []
+first_appearance:
+  set_name_ja: スカーレット＆バイオレット プロモカードパック第10弾
+  released_at:
+  regulation_mark:
+  collector_number: '47497'
+  image_url:

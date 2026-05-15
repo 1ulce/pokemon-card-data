@@ -1,0 +1,59 @@
+---
+schema_version: 1
+slug: yveltal-2
+name:
+  ja: イベルタル
+  en: Yveltal
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Darkness
+hp: 110
+retreat_cost: 0
+regulation_mark: I
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Lightning
+  value: "×2"
+resistance:
+  type: Fighting
+  value: "-30"
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: わしづかみ
+    en: Clutch
+  cost:
+  - Darkness
+  damage: '20'
+  effect_text:
+    ja: 次の相手の番、このワザを受けたポケモンは、にげられない。
+    en: During your opponent's next turn, the Defending Pokémon can't retreat.
+- position: 1
+  name:
+    ja: ダークフェザー
+    en: Dark Feather
+  cost:
+  - Darkness
+  - Darkness
+  - Colorless
+  damage: '110'
+  effect_text:
+    ja:
+    en:
+first_appearance:
+  set_name_ja: メガブレイブ
+  released_at: '2025-08-01'
+  regulation_mark: I
+  collector_number: '040'
+  image_url:

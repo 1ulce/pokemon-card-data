@@ -1,0 +1,61 @@
+---
+schema_version: 1
+slug: electivire
+name:
+  ja: エレキブル
+  en: Electivire
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Lightning
+hp: 140
+retreat_cost: 3
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja: エレブー
+  en: Electabuzz
+weakness:
+  type: Fighting
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: ろうでんナックル
+    en: Short-Circuit Knuckle
+  cost:
+  - Colorless
+  - Colorless
+  damage: 40+
+  effect_text:
+    ja: 相手の場に水ポケモンがいるなら、120ダメージ追加。
+    en: If your opponent has any [W] Pokémon in play, this attack does 120 more damage.
+- position: 1
+  name:
+    ja: エレキスラッグ
+    en: Electroslug
+  cost:
+  - Lightning
+  - Lightning
+  - Colorless
+  - Colorless
+  damage: '140'
+  effect_text:
+    ja:
+    en:
+first_appearance:
+  set_name_ja: サイバージャッジ
+  released_at: '2024-01-26'
+  regulation_mark: H
+  collector_number: '026'
+  image_url:

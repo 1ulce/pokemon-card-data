@@ -1,0 +1,60 @@
+---
+schema_version: 1
+slug: slither-wing
+name:
+  ja: チヲハウハネ
+  en: Slither Wing
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Fighting
+hp: 140
+retreat_cost: 3
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Psychic
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: てつつぶし
+    en: Stomp Off
+  cost:
+  - Fighting
+  - Colorless
+  damage: 20+
+  effect_text:
+    ja: 相手の場に「未来」のポケモンがいるなら、120ダメージ追加。
+    en: Discard the top card of your opponent's deck.
+- position: 1
+  name:
+    ja: スマッシュウイング
+    en: Burning Turbulence
+  cost:
+  - Fighting
+  - Fighting
+  - Colorless
+  damage: '130'
+  effect_text:
+    ja: このポケモンについているエネルギーを2個選び、トラッシュする。
+    en: This Pokémon also does 90 damage to itself. Your opponent's Active Pokémon is now Burned.
+first_appearance:
+  set_name_ja: ナイトワンダラー
+  released_at: '2024-06-07'
+  regulation_mark: H
+  collector_number: '026'
+  image_url:

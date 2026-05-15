@@ -1,0 +1,60 @@
+---
+schema_version: 1
+slug: revavroom-ex
+name:
+  ja: ブロロロームex
+  en: Revavroom ex
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Lightning
+hp: 280
+retreat_cost: 1
+regulation_mark: H
+meta_tags:
+- ex
+evolves_from:
+  ja: ブロロン
+  en: Varoom
+weakness:
+  type: Fighting
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja: ポケモンexがきぜつしたとき、相手はサイドを2枚とる。
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: アクセルフラッシュ
+    en: Accelerator Flash
+  cost:
+  - Metal
+  damage: 20+
+  effect_text:
+    ja: この番、このポケモンがベンチからバトル場に出ていたなら、120ダメージ追加。
+    en: If this Pokémon moved from your Bench to the Active Spot this turn, this attack does 120 more damage.
+- position: 1
+  name:
+    ja: スピードブレイク
+    en: Shattering Speed
+  cost:
+  - Metal
+  - Metal
+  - Metal
+  damage: '250'
+  effect_text:
+    ja: このポケモンと、ついているすべてのカードを、トラッシュする。
+    en: Discard this Pokémon and all attached cards.
+first_appearance:
+  set_name_ja: ナイトワンダラー
+  released_at: '2024-06-07'
+  regulation_mark: H
+  collector_number: '015'
+  image_url:

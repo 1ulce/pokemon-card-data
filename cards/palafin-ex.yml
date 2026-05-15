@@ -1,0 +1,55 @@
+---
+schema_version: 1
+slug: palafin-ex
+name:
+  ja: イルカマンex
+  en: Palafin ex
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Water
+hp: 340
+retreat_cost: 2
+regulation_mark: H
+meta_tags:
+- ex
+evolves_from:
+  ja: ナミイルカ
+  en: Finizen
+weakness:
+  type: Lightning
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja: ポケモンexがきぜつしたとき、相手はサイドを2枚とる。
+  en:
+abilities:
+- position: 0
+  name:
+    ja: マイティソウル
+    en: Hero's Spirit
+  effect_text:
+    ja: このカードは、「イルカマン」の特性「マイティチェンジ」の効果によってしか場に出せない。
+    en: Put this Pokémon into play only with the effect of Palafin's Zero to Hero Ability.
+attacks:
+- position: 0
+  name:
+    ja: ギガインパクト
+    en: Giga Impact
+  cost:
+  - Water
+  damage: '250'
+  effect_text:
+    ja: 次の自分の番、このポケモンはワザが使えない。
+    en: During your next turn, this Pokémon can't attack.
+first_appearance:
+  set_name_ja: 変幻の仮面
+  released_at: '2024-04-26'
+  regulation_mark: H
+  collector_number: '036'
+  image_url:

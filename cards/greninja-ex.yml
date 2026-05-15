@@ -1,0 +1,49 @@
+---
+schema_version: 1
+slug: greninja-ex
+name:
+  ja: ゲッコウガex
+  en: Greninja ex
+  prefix:
+card_type: Pokémon
+card_subtype: 2進化
+energy_type: Water
+hp: 300
+retreat_cost: 2
+regulation_mark: H
+meta_tags:
+- ex
+evolves_from:
+  ja: ゲコガシラ
+  en: Frogadier
+weakness:
+  type: Lightning
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja: ポケモンexがきぜつしたとき、相手はサイドを2枚とる。
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: へんげんしゅりけん
+    en: Shifting Shuriken
+  cost:
+  - Water
+  - Colorless
+  damage: 100+
+  effect_text:
+    ja: コインを1回投げオモテなら、100ダメージ追加。
+    en: Flip a coin. If heads, this attack does 100 more damage.
+first_appearance:
+  set_name_ja: バトルアカデミー
+  released_at: '2024-03-08'
+  regulation_mark: H
+  collector_number: '017'
+  image_url:

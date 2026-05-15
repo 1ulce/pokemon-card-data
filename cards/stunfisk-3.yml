@@ -1,0 +1,58 @@
+---
+schema_version: 1
+slug: stunfisk-3
+name:
+  ja: マッギョ
+  en: Stunfisk
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Lightning
+hp: 110
+retreat_cost: 2
+regulation_mark: I
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Fighting
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: マッドボルト
+    en: Muddy Bolt
+  cost:
+  - Colorless
+  damage: 20+
+  effect_text:
+    ja: このポケモンに闘エネルギーがついているなら、20ダメージ追加。
+    en: If this Pokémon has any [F] Energy attached, this attack does 20 more damage.
+- position: 1
+  name:
+    ja: はねまわる
+    en: Flop
+  cost:
+  - Lightning
+  - Colorless
+  damage: '50'
+  effect_text:
+    ja:
+    en:
+first_appearance:
+  set_name_ja: ホワイトフレア
+  released_at: '2025-06-06'
+  regulation_mark: I
+  collector_number: '032'
+  image_url:

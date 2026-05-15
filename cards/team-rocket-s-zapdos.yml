@@ -1,0 +1,60 @@
+---
+schema_version: 1
+slug: team-rocket-s-zapdos
+name:
+  ja: ロケット団のサンダー
+  en: Team Rocket's Zapdos
+  prefix: Team Rocket's
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Lightning
+hp: 120
+retreat_cost: 1
+regulation_mark: I
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Lightning
+  value: "×2"
+resistance:
+  type: Fighting
+  value: "-30"
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: ジャミングウイング
+    en: Jamming Wing
+  cost:
+  - Colorless
+  - Colorless
+  damage: '30'
+  effect_text:
+    ja: のぞむなら、相手のバトルポケモンについているエネルギーを1個選び、相手のベンチポケモンにつけ替える。
+    en: You may move an Energy from your opponent's Active Pokémon to 1 of their Benched Pokémon.
+- position: 1
+  name:
+    ja: バッドサンダー
+    en: Wicked Thunder
+  cost:
+  - Lightning
+  - Colorless
+  - Colorless
+  damage: 60+
+  effect_text:
+    ja: このポケモンに「ロケット団エネルギー」がついているなら、60ダメージ追加。
+    en: If this Pokémon has any Team Rocket's Energy attached, this attack does 60 more damage.
+first_appearance:
+  set_name_ja: ロケット団の栄光
+  released_at: '2025-04-18'
+  regulation_mark: I
+  collector_number: '033'
+  image_url:

@@ -1,0 +1,61 @@
+---
+schema_version: 1
+slug: hop-s-zacian-ex
+name:
+  ja: ホップのザシアンex
+  en: Hop's Zacian ex
+  prefix: Hop's
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Metal
+hp: 230
+retreat_cost: 2
+regulation_mark: I
+meta_tags:
+- ex
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Fire
+  value: "×2"
+resistance:
+  type: Grass
+  value: "-30"
+body_text:
+  ja:
+  en:
+rules_text:
+  ja: ポケモンexがきぜつしたとき、相手はサイドを2枚とる。
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: せつなぎり
+    en: Insta-Strike
+  cost:
+  - Colorless
+  damage: '30'
+  effect_text:
+    ja: 相手のベンチポケモン1匹にも、30ダメージ。［ベンチは弱点・抵抗力を計算しない。］
+    en: This attack also does 30 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)
+- position: 1
+  name:
+    ja: ブレイブスラッシュ
+    en: Brave Slash
+  cost:
+  - Metal
+  - Metal
+  - Metal
+  - Colorless
+  damage: '240'
+  effect_text:
+    ja: 次の自分の番、このポケモンは「ブレイブスラッシュ」が使えない。
+    en: During your next turn, this Pokémon can't use Brave Slash.
+first_appearance:
+  set_name_ja: バトルパートナーズ
+  released_at: '2025-01-24'
+  regulation_mark: I
+  collector_number: '069'
+  image_url:

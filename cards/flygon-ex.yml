@@ -1,0 +1,60 @@
+---
+schema_version: 1
+slug: flygon-ex
+name:
+  ja: フライゴンex
+  en: Flygon ex
+  prefix:
+card_type: Pokémon
+card_subtype: 2進化
+energy_type: Fighting
+hp: 310
+retreat_cost: 1
+regulation_mark: H
+meta_tags:
+- ex
+evolves_from:
+  ja: ビブラーバ
+  en: Vibrava
+weakness:
+  type: Grass
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja: ポケモンexがきぜつしたとき、相手はサイドを2枚とる。
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: ストームバック
+    en: Reversing Storm
+  cost:
+  - Fighting
+  damage: '130'
+  effect_text:
+    ja: のぞむなら、このポケモンをベンチポケモンと入れ替える。
+    en: You may switch this Pokémon with 1 of your Benched Pokémon.
+- position: 1
+  name:
+    ja: ペリドットソニック 
+    en: Sonic Peridot
+  cost:
+  - Water
+  - Fighting
+  - Metal
+  damage:
+  effect_text:
+    ja: 相手の「ポケモンex・V」全員に、それぞれ100ダメージ。このワザのダメージは弱点・抵抗力を計算しない。
+    en: This attack does 100 damage to each of your opponent's Pokémon ex and Pokémon V. This attack's damage isn't affected by Weakness or Resistance.
+first_appearance:
+  set_name_ja: 楽園ドラゴーナ
+  released_at: '2024-09-13'
+  regulation_mark: H
+  collector_number: '027'
+  image_url:

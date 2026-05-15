@@ -1,0 +1,62 @@
+---
+schema_version: 1
+slug: sylveon-ex
+name:
+  ja: ニンフィアex
+  en: Sylveon ex
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Psychic
+hp: 270
+retreat_cost: 2
+regulation_mark: H
+meta_tags:
+- ex
+evolves_from:
+  ja: イーブイ
+  en: Eevee
+weakness:
+  type: Metal
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja: ポケモンexがきぜつしたとき、相手はサイドを2枚とる。
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: マジカルチャーム
+    en: Magical Charm
+  cost:
+  - Psychic
+  - Colorless
+  - Colorless
+  damage: '160'
+  effect_text:
+    ja: 次の相手の番、このワザを受けたポケモンが使うワザのダメージは「-100」される。
+    en: During your opponent's next turn, attacks used by the Defending Pokémon do 100 less damage (before applying Weakness and Resistance).
+- position: 1
+  name:
+    ja: エンジェライト 
+    en: Angelite
+  cost:
+  - Water
+  - Lightning
+  - Psychic
+  damage:
+  effect_text:
+    ja: 相手のベンチポケモンを2匹選び、そのポケモンと、ついているすべてのカードを、山札にもどして切る。前の自分の番に、自分のポケモンが「エンジェライト」を使っていたなら、このワザは使えない。
+    en: Choose 2 of your opponent's Benched Pokémon. Shuffle those Pokémon and all attached cards into your opponent's deck. If 1 of your Pokémon used Angelite during your last turn, this attack can't be used.
+first_appearance:
+  set_name_ja: テラスタルフェスex
+  released_at: '2024-12-06'
+  regulation_mark: H
+  collector_number: '069'
+  image_url:

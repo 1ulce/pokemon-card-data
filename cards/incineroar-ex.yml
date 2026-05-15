@@ -1,0 +1,59 @@
+---
+schema_version: 1
+slug: incineroar-ex
+name:
+  ja: ガオガエンex
+  en: Incineroar ex
+  prefix:
+card_type: Pokémon
+card_subtype: 2進化
+energy_type: Fire
+hp: 320
+retreat_cost: 2
+regulation_mark: H
+meta_tags:
+- ex
+evolves_from:
+  ja: ニャヒート
+  en: Torracat
+weakness:
+  type: Water
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja: ポケモンexがきぜつしたとき、相手はサイドを2枚とる。
+  en:
+abilities:
+- position: 0
+  name:
+    ja: ハッスルプレー
+    en: Hustle Play
+  effect_text:
+    ja: 相手のベンチポケモンの数ぶん、このポケモンがワザを使うためのエネルギーは少なくなる。
+    en: Attacks used by this Pokémon cost [C] less for each of your opponent's Benched Pokémon.
+attacks:
+- position: 0
+  name:
+    ja: ブレイズボム
+    en: Blaze Blast
+  cost:
+  - Fire
+  - Colorless
+  - Colorless
+  - Colorless
+  - Colorless
+  damage: '240'
+  effect_text:
+    ja: 相手のバトルポケモンをやけどにする。
+    en: Your opponent's Active Pokémon is now Burned.
+first_appearance:
+  set_name_ja: サイバージャッジ
+  released_at: '2024-01-26'
+  regulation_mark: H
+  collector_number: '022'
+  image_url:

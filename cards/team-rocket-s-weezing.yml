@@ -1,0 +1,48 @@
+---
+schema_version: 1
+slug: team-rocket-s-weezing
+name:
+  ja: ロケット団のマタドガス
+  en: Team Rocket's Weezing
+  prefix: Team Rocket's
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Darkness
+hp: 130
+retreat_cost: 2
+regulation_mark: I
+meta_tags: []
+evolves_from:
+  ja: ロケット団のドガース
+  en: Team Rocket's Koffing
+weakness:
+  type: Fighting
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: いっせいばくはつ
+    en: Explode Together Now
+  cost:
+  - Darkness
+  - Colorless
+  damage: 40×
+  effect_text:
+    ja: おたがいの場の、名前に「ドガース」または「マタドガス」とつくポケモンの数×40ダメージ。
+    en: This attack does 40 damage for each Pokémon in play that has "Koffing" or "Weezing" in its name (both yours and your opponent's).
+first_appearance:
+  set_name_ja: ロケット団の栄光
+  released_at: '2025-04-18'
+  regulation_mark: I
+  collector_number: '070'
+  image_url:

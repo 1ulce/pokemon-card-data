@@ -1,0 +1,60 @@
+---
+schema_version: 1
+slug: landorus-3
+name:
+  ja: ランドロス
+  en: Landorus
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Fighting
+hp: 120
+retreat_cost: 1
+regulation_mark: J
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Grass
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: がんせきおとし
+    en: Rock Tumble
+  cost:
+  - Fighting
+  - Fighting
+  damage: '50'
+  effect_text:
+    ja: このワザのダメージは抵抗力を計算しない。
+    en: This attack's damage isn't affected by Resistance.
+- position: 1
+  name:
+    ja: スクリューナックル
+    en: Screw Knuckle
+  cost:
+  - Fighting
+  - Fighting
+  - Colorless
+  damage: '120'
+  effect_text:
+    ja: このポケモンについているエネルギーを1個選び、手札にもどす。
+    en: Put an Energy attached to this Pokémon into your hand.
+first_appearance:
+  set_name_ja: ムニキスゼロ
+  released_at: '2026-01-23'
+  regulation_mark: J
+  collector_number: '040'
+  image_url:

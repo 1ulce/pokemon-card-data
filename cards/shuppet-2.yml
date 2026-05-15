@@ -1,0 +1,54 @@
+---
+schema_version: 1
+slug: shuppet-2
+name:
+  ja: カゲボウズ
+  en: Shuppet
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Psychic
+hp: 50
+retreat_cost: 1
+regulation_mark:
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Darkness
+  value: "×2"
+resistance:
+  type: Fighting
+  value: "-30"
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities:
+- position: 0
+  name:
+    ja: ばけがくれ
+    en:
+  effect_text:
+    ja: このポケモンは、相手のワザや特性の効果を受けない。
+    en:
+attacks:
+- position: 0
+  name:
+    ja: ぶらさがる
+    en:
+  cost:
+  - Psychic
+  damage: '10'
+  effect_text:
+    ja:
+    en:
+first_appearance:
+  set_name_ja: アビスアイ
+  released_at: '2026-05-22'
+  regulation_mark: J
+  collector_number: '031'
+  image_url:

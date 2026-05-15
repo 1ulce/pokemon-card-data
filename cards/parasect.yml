@@ -1,0 +1,58 @@
+---
+schema_version: 1
+slug: parasect
+name:
+  ja: パラセクト
+  en: Parasect
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Grass
+hp: 120
+retreat_cost: 2
+regulation_mark: I
+meta_tags: []
+evolves_from:
+  ja: パラス
+  en: Paras
+weakness:
+  type: Fire
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: キノコのほうし 
+    en: Spore
+  cost:
+  - Colorless
+  damage:
+  effect_text:
+    ja: 相手のバトルポケモンをねむりにする。
+    en: Your opponent's Active Pokémon is now Asleep.
+- position: 1
+  name:
+    ja: シザースイング
+    en: Scissor Swing
+  cost:
+  - Grass
+  - Colorless
+  damage: 60+
+  effect_text:
+    ja: コインを2回投げ、オモテの数×30ダメージ追加。
+    en: Flip 2 coins. This attack does 30 more damage for each heads.
+first_appearance:
+  set_name_ja: バトルパートナーズ
+  released_at: '2025-01-24'
+  regulation_mark: I
+  collector_number: '005'
+  image_url:

@@ -1,0 +1,56 @@
+---
+schema_version: 1
+slug: n-s-zoroark-ex
+name:
+  ja: Nのゾロアークex
+  en: N's Zoroark ex
+  prefix: N's
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Darkness
+hp: 280
+retreat_cost: 2
+regulation_mark: I
+meta_tags:
+- ex
+evolves_from:
+  ja: Nのゾロア
+  en: N's Zorua
+weakness:
+  type: Grass
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja: ポケモンexがきぜつしたとき、相手はサイドを2枚とる。
+  en:
+abilities:
+- position: 0
+  name:
+    ja: とりひき
+    en: Trade
+  effect_text:
+    ja: 自分の番に、自分の手札を1枚トラッシュするなら、1回使える。自分の山札を2枚引く。
+    en: You must discard a card from your hand in order to use this Ability. Once during your turn, you may draw 2 cards.
+attacks:
+- position: 0
+  name:
+    ja: ナイトジョーカー 
+    en: Night Joker
+  cost:
+  - Darkness
+  - Darkness
+  damage:
+  effect_text:
+    ja: 自分のベンチの「Nのポケモン」が持つワザを1つ選び、このワザとして使う。
+    en: Choose 1 of your Benched N's Pokémon's attacks and use it as this attack.
+first_appearance:
+  set_name_ja: バトルパートナーズ
+  released_at: '2025-01-24'
+  regulation_mark: I
+  collector_number: '061'
+  image_url:

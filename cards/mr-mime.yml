@@ -1,0 +1,57 @@
+---
+schema_version: 1
+slug: mr-mime
+name:
+  ja: バリヤード
+  en: Mr. Mime
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Psychic
+hp: 90
+retreat_cost: 1
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Darkness
+  value: "×2"
+resistance:
+  type: Fighting
+  value: "-30"
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: そっくりショー 
+    en: Look-Alike Show
+  cost:
+  - Colorless
+  damage:
+  effect_text:
+    ja: 相手の手札を見る。のぞむなら、その中にあるサポートを1枚選び、その効果を、このワザの効果として使う。
+    en: Your opponent reveals their hand. You may use the effect of a Supporter card you find there as the effect of this attack.
+- position: 1
+  name:
+    ja: ぶきみなねんぱ
+    en: Eerie Wave
+  cost:
+  - Psychic
+  damage: '20'
+  effect_text:
+    ja: 相手のバトルポケモンをこんらんにする。
+    en: Your opponent's Active Pokémon is now Confused.
+first_appearance:
+  set_name_ja: サイバージャッジ
+  released_at: '2024-01-26'
+  regulation_mark: H
+  collector_number: '031'
+  image_url:

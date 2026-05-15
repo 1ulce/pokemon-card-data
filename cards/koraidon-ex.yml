@@ -1,0 +1,61 @@
+---
+schema_version: 1
+slug: koraidon-ex
+name:
+  ja: コライドンex
+  en: Koraidon ex
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Dragon
+hp: 230
+retreat_cost: 2
+regulation_mark: H
+meta_tags:
+- ex
+evolves_from:
+  ja:
+  en:
+weakness:
+  type:
+  value:
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja: ポケモンexがきぜつしたとき、相手はサイドを2枚とる。
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: ほうふくてっつい
+    en: Retribution Strike
+  cost:
+  - Colorless
+  - Colorless
+  damage: 20+
+  effect_text:
+    ja: このポケモンにのっているダメカンの数×10ダメージ追加。
+    en: This attack does 10 more damage for each damage counter on this Pokémon.
+- position: 1
+  name:
+    ja: カイザータックル
+    en: Kaiser Tackle
+  cost:
+  - Fire
+  - Fighting
+  - Fighting
+  damage: '280'
+  effect_text:
+    ja: このポケモンにも60ダメージ。
+    en: This Pokémon also does 60 damage to itself.
+first_appearance:
+  set_name_ja: 古代のコライドンex
+  released_at: '2024-01-26'
+  regulation_mark: H
+  collector_number: '012'
+  image_url:

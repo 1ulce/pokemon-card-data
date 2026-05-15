@@ -1,0 +1,60 @@
+---
+schema_version: 1
+slug: raichu
+name:
+  ja: ライチュウ
+  en: Raichu
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Lightning
+hp: 130
+retreat_cost: 1
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja: ピカチュウ
+  en: Pikachu
+weakness:
+  type: Fighting
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: まきこみボルト 
+    en: Collateral Bolts
+  cost:
+  - Lightning
+  - Colorless
+  damage:
+  effect_text:
+    ja: このポケモン以外の、ダメカンがのっているおたがいのポケモン全員に、それぞれ50ダメージ。［ベンチは弱点・抵抗力を計算しない。］
+    en: This attack does 50 damage to each Pokémon that has any damage counters on it (both yours and your opponent's), except for this Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)
+- position: 1
+  name:
+    ja: ライトニングボール
+    en: Electric Ball
+  cost:
+  - Lightning
+  - Colorless
+  - Colorless
+  damage: '120'
+  effect_text:
+    ja:
+    en:
+first_appearance:
+  set_name_ja: サイバージャッジ
+  released_at: '2024-01-26'
+  regulation_mark: H
+  collector_number: '024'
+  image_url:

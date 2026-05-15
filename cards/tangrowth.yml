@@ -1,0 +1,56 @@
+---
+schema_version: 1
+slug: tangrowth
+name:
+  ja: モジャンボ
+  en: Tangrowth
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Grass
+hp: 150
+retreat_cost: 4
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja: モンジャラ
+  en: Tangela
+weakness:
+  type: Fire
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities:
+- position: 0
+  name:
+    ja: みつりんボディ
+    en: Thicket Body
+  effect_text:
+    ja: このポケモンが受けるワザのダメージは「-30」される。
+    en: This Pokémon takes 30 less damage from attacks (after applying Weakness and Resistance).
+attacks:
+- position: 0
+  name:
+    ja: おおいかぶさる
+    en: Loom Over
+  cost:
+  - Grass
+  - Colorless
+  - Colorless
+  damage: 150-
+  effect_text:
+    ja: このポケモンにのっているダメカンの数×10ダメージぶん、このワザのダメージは小さくなる。
+    en: This attack does 10 less damage for each damage counter on this Pokémon.
+first_appearance:
+  set_name_ja: クリムゾンヘイズ
+  released_at: '2024-03-22'
+  regulation_mark: H
+  collector_number: '002'
+  image_url:

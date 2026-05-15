@@ -1,0 +1,58 @@
+---
+schema_version: 1
+slug: mega-dragonite-ex
+name:
+  ja: メガカイリューex
+  en: Mega Dragonite ex
+  prefix:
+card_type: Pokémon
+card_subtype: 2進化
+energy_type: Dragon
+hp: 370
+retreat_cost: 2
+regulation_mark: I
+meta_tags:
+- ex
+- mega
+evolves_from:
+  ja: ハクリュー
+  en: Dragonair
+weakness:
+  type:
+  value:
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja: メガシンカexがきぜつしたとき、相手はサイドを3枚とる。
+  en:
+abilities:
+- position: 0
+  name:
+    ja: スカイキャリー
+    en: Sky Transport
+  effect_text:
+    ja: 自分の番に1回使える。自分のバトルポケモンをベンチポケモンと入れ替える。
+    en: Once during your turn, you may use this Ability. Switch your Active Pokémon with 1 of your Benched Pokémon.
+attacks:
+- position: 0
+  name:
+    ja: リューノグライド
+    en: Ryuno Glide
+  cost:
+  - Water
+  - Lightning
+  - Lightning
+  damage: '330'
+  effect_text:
+    ja: このポケモンについているエネルギーを2個選び、トラッシュする。
+    en: Discard 2 Energy from this Pokémon.
+first_appearance:
+  set_name_ja: MEGAドリームex
+  released_at: '2025-11-28'
+  regulation_mark: I
+  collector_number: '126'
+  image_url:

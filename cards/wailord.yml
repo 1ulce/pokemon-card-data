@@ -1,0 +1,50 @@
+---
+schema_version: 1
+slug: wailord
+name:
+  ja: ホエルオー
+  en: Wailord
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Water
+hp: 240
+retreat_cost: 4
+regulation_mark: I
+meta_tags: []
+evolves_from:
+  ja: ホエルコ
+  en: Wailmer
+weakness:
+  type: Lightning
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: ハイドロポンプ
+    en: Hydro Pump
+  cost:
+  - Colorless
+  - Colorless
+  - Colorless
+  - Colorless
+  damage: 10+
+  effect_text:
+    ja: このポケモンについている水エネルギーの数×50ダメージ追加。
+    en: This attack does 50 more damage for each [W] Energy attached to this Pokémon.
+first_appearance:
+  set_name_ja: バトルパートナーズ
+  released_at: '2025-01-24'
+  regulation_mark: I
+  collector_number: '025'
+  image_url:

@@ -1,0 +1,42 @@
+---
+schema_version: 1
+slug: team-rocket-s-energy
+name:
+  ja: ロケット団エネルギー
+  en: Team Rocket's Energy
+  prefix: Team Rocket's
+card_type: Energy
+card_subtype: Special Energy
+energy_type:
+hp:
+retreat_cost:
+regulation_mark: I
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type:
+  value:
+resistance:
+  type:
+  value:
+body_text:
+  ja: |-
+    このカードは「ロケット団のポケモン」にしかつけられず、「ロケット団のポケモン」以外についているなら、トラッシュする。
+
+
+
+    このカードは、ポケモンについているかぎり、超悪の2つのタイプのエネルギー2個ぶんとしてはたらく。
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks: []
+first_appearance:
+  set_name_ja: ロケット団の栄光
+  released_at: '2025-04-18'
+  regulation_mark: I
+  collector_number: '098'
+  image_url:

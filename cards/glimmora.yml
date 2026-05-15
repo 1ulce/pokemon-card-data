@@ -1,0 +1,57 @@
+---
+schema_version: 1
+slug: glimmora
+name:
+  ja: キラフロル
+  en: Glimmora
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Fighting
+hp: 130
+retreat_cost: 3
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja: キラーメ
+  en: Glimmet
+weakness:
+  type: Grass
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: しんけいどく 
+    en: Stun Poison
+  cost:
+  - Colorless
+  damage:
+  effect_text:
+    ja: コインを1回投げオモテなら、相手のバトルポケモンをどくとマヒにする。
+    en: Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed and Poisoned.
+- position: 1
+  name:
+    ja: ベノムショック
+    en: Venoshock
+  cost:
+  - Fighting
+  damage: 30+
+  effect_text:
+    ja: 相手のバトルポケモンがどくなら、100ダメージ追加。
+    en: If your opponent's Active Pokémon is Poisoned, this attack does 100 more damage.
+first_appearance:
+  set_name_ja: 変幻の仮面
+  released_at: '2024-04-26'
+  regulation_mark: H
+  collector_number: '063'
+  image_url:

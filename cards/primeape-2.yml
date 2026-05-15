@@ -1,0 +1,47 @@
+---
+schema_version: 1
+slug: primeape-2
+name:
+  ja: オコリザル
+  en: Primeape
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Fighting
+hp: 110
+retreat_cost: 2
+regulation_mark: I
+meta_tags: []
+evolves_from:
+  ja: マンキー
+  en: Mankey
+weakness:
+  type: Psychic
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: ひきずりだす 
+    en: Drag Off
+  cost:
+  - Fighting
+  damage:
+  effect_text:
+    ja: 相手のベンチポケモンを1匹選び、バトルポケモンと入れ替える。その後、新しく出てきたポケモンに30ダメージ。
+    en: Switch in 1 of your opponent's Benched Pokémon to the Active Spot. This attack does 30 damage to the new Active Pokémon.
+first_appearance:
+  set_name_ja: ロケット団の栄光
+  released_at: '2025-04-18'
+  regulation_mark: I
+  collector_number: '046'
+  image_url:

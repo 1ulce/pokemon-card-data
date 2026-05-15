@@ -1,0 +1,59 @@
+---
+schema_version: 1
+slug: weavile-2
+name:
+  ja: マニューラ
+  en: Weavile
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Darkness
+hp: 90
+retreat_cost: 1
+regulation_mark: I
+meta_tags: []
+evolves_from:
+  ja: ニューラ
+  en: Sneasel
+weakness:
+  type: Grass
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: むくいのツメ
+    en: Retaliatory Claw
+  cost:
+  - Darkness
+  - Darkness
+  damage: 20+
+  effect_text:
+    ja: このポケモンの残りHPが「50」以下なら、170ダメージ追加。
+    en: If this Pokémon's remaining HP is 50 or less, this attack does 170 more damage.
+- position: 1
+  name:
+    ja: いあいぎり
+    en: Cut
+  cost:
+  - Darkness
+  - Darkness
+  damage: '60'
+  effect_text:
+    ja:
+    en:
+first_appearance:
+  set_name_ja: インフェルノX
+  released_at: '2025-09-26'
+  regulation_mark: I
+  collector_number: '049'
+  image_url:

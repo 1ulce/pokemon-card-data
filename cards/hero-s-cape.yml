@@ -1,0 +1,41 @@
+---
+schema_version: 1
+slug: hero-s-cape
+name:
+  ja: ヒーローマント
+  en: Hero's Cape
+  prefix: Hero's
+card_type: Trainer
+card_subtype: Tool
+energy_type:
+hp:
+retreat_cost:
+regulation_mark: H
+meta_tags:
+- ace_spec
+evolves_from:
+  ja:
+  en:
+weakness:
+  type:
+  value:
+resistance:
+  type:
+  value:
+body_text:
+  ja: |-
+    このカードをつけているポケモンの最大HPは「＋100」される。
+
+    ポケモンのどうぐは、自分の番に何枚でも、自分のポケモンにつけられる。ポケモン1匹につき1枚だけつけられ、つけたままにする。
+  en:
+rules_text:
+  ja: ACE SPECのカードは、デッキに1枚しか入れられない。
+  en:
+abilities: []
+attacks: []
+first_appearance:
+  set_name_ja: サイバージャッジ
+  released_at: '2024-01-26'
+  regulation_mark: H
+  collector_number: '064'
+  image_url:

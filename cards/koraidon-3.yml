@@ -1,0 +1,60 @@
+---
+schema_version: 1
+slug: koraidon-3
+name:
+  ja: コライドン
+  en: Koraidon
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Fighting
+hp: 130
+retreat_cost: 2
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Psychic
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: はじょうもうこう
+    en: Unrelenting Onslaught
+  cost:
+  - Colorless
+  - Colorless
+  damage: 30+
+  effect_text:
+    ja: 前の自分の番、このポケモン以外の「古代」のポケモンがワザを使っていたなら、150ダメージ追加。
+    en: If 1 of your other Ancient Pokémon used an attack during your last turn, this attack does 150 more damage.
+- position: 1
+  name:
+    ja: ぶちかます
+    en: Hammer In
+  cost:
+  - Fighting
+  - Fighting
+  - Colorless
+  damage: '110'
+  effect_text:
+    ja:
+    en:
+first_appearance:
+  set_name_ja: 超電ブレイカー
+  released_at: '2024-10-18'
+  regulation_mark: H
+  collector_number: '069'
+  image_url:

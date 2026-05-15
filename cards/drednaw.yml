@@ -1,0 +1,56 @@
+---
+schema_version: 1
+slug: drednaw
+name:
+  ja: カジリガメ
+  en: Drednaw
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Water
+hp: 140
+retreat_cost: 3
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja: カムカメ
+  en: Chewtle
+weakness:
+  type: Lightning
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities:
+- position: 0
+  name:
+    ja: てっぺきシェル
+    en: Impervious Shell
+  effect_text:
+    ja: このポケモンは、相手のポケモンから「200」以上のワザのダメージを受けない。
+    en: Prevent all damage done to this Pokémon by attacks from your opponent's Pokémon if that damage is 200 or more.
+attacks:
+- position: 0
+  name:
+    ja: ハードクランチ
+    en: Hard Crunch
+  cost:
+  - Colorless
+  - Colorless
+  - Colorless
+  damage: 80+
+  effect_text:
+    ja: 相手のバトルポケモンにダメカンがのっているなら、80ダメージ追加。
+    en: If your opponent's Active Pokémon already has any damage counters on it, this attack does 80 more damage.
+first_appearance:
+  set_name_ja: ステラミラクル
+  released_at: '2024-07-19'
+  regulation_mark: H
+  collector_number: '026'
+  image_url:

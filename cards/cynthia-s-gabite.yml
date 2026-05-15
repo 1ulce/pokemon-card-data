@@ -1,0 +1,54 @@
+---
+schema_version: 1
+slug: cynthia-s-gabite
+name:
+  ja: シロナのガバイト
+  en: Cynthia's Gabite
+  prefix: Cynthia's
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Fighting
+hp: 100
+retreat_cost: 1
+regulation_mark: I
+meta_tags: []
+evolves_from:
+  ja: シロナのフカマル
+  en: Cynthia's Gible
+weakness:
+  type: Grass
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities:
+- position: 0
+  name:
+    ja: おうじゃのよびごえ
+    en: Champion's Call
+  effect_text:
+    ja: 自分の番に1回使える。自分の山札から「シロナのポケモン」を1枚選び、相手に見せて、手札に加える。そして山札を切る。
+    en: Once during your turn, you may search your deck for a Cynthia's Pokémon, reveal it, and put it into your hand. Then, shuffle your deck.
+attacks:
+- position: 0
+  name:
+    ja: リューノスライス
+    en: Dragonslice
+  cost:
+  - Fighting
+  damage: '40'
+  effect_text:
+    ja:
+    en:
+first_appearance:
+  set_name_ja: 熱風のアリーナ
+  released_at: '2025-03-14'
+  regulation_mark: I
+  collector_number: '043'
+  image_url:

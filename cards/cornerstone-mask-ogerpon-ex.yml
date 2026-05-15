@@ -1,0 +1,57 @@
+---
+schema_version: 1
+slug: cornerstone-mask-ogerpon-ex
+name:
+  ja: オーガポン いしずえのめんex
+  en: Cornerstone Mask Ogerpon ex
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Fighting
+hp: 210
+retreat_cost: 1
+regulation_mark: H
+meta_tags:
+- ex
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Grass
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja: ポケモンexがきぜつしたとき、相手はサイドを2枚とる。
+  en:
+abilities:
+- position: 0
+  name:
+    ja: いしずえのかまえ
+    en: Cornerstone Stance
+  effect_text:
+    ja: このポケモンは、相手の特性を持つポケモンからワザのダメージを受けない。
+    en: Prevent all damage from attacks done to this Pokémon by your opponent's Pokémon that have an Ability.
+attacks:
+- position: 0
+  name:
+    ja: ぶちやぶる
+    en: Demolish
+  cost:
+  - Fighting
+  - Colorless
+  - Colorless
+  damage: '140'
+  effect_text:
+    ja: このワザのダメージは、弱点・抵抗力と、相手のバトルポケモンにかかっている効果を計算しない。
+    en: This attack's damage isn't affected by Weakness or Resistance, or by any effects on your opponent's Active Pokémon.
+first_appearance:
+  set_name_ja: 変幻の仮面
+  released_at: '2024-04-26'
+  regulation_mark: H
+  collector_number: '065'
+  image_url:

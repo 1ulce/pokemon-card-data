@@ -1,0 +1,57 @@
+---
+schema_version: 1
+slug: zubat
+name:
+  ja: ズバット
+  en: Zubat
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Darkness
+hp: 50
+retreat_cost: 1
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Lightning
+  value: "×2"
+resistance:
+  type: Fighting
+  value: "-30"
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: みちびく 
+    en: Lead
+  cost:
+  - Darkness
+  damage:
+  effect_text:
+    ja: 自分の山札からサポートを1枚選び、相手に見せて、手札に加える。そして山札を切る。
+    en: Search your deck for a Supporter card, reveal it, and put it into your hand. Then, shuffle your deck.
+- position: 1
+  name:
+    ja: やみのキバ
+    en: Darkness Fang
+  cost:
+  - Darkness
+  damage: '10'
+  effect_text:
+    ja:
+    en:
+first_appearance:
+  set_name_ja: ナイトワンダラー
+  released_at: '2024-06-07'
+  regulation_mark: H
+  collector_number: '027'
+  image_url:

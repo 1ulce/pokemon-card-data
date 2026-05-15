@@ -1,0 +1,41 @@
+---
+schema_version: 1
+slug: grand-tree
+name:
+  ja: 偉大な大樹
+  en: Grand Tree
+  prefix:
+card_type: Trainer
+card_subtype: Stadium
+energy_type:
+hp:
+retreat_cost:
+regulation_mark: H
+meta_tags:
+- ace_spec
+evolves_from:
+  ja:
+  en:
+weakness:
+  type:
+  value:
+resistance:
+  type:
+  value:
+body_text:
+  ja: |-
+    おたがいのプレイヤーは、自分の番ごとに1回、自分の場のたねポケモン1匹から進化する1進化ポケモンを、自分の山札から1枚選び、そのポケモンにのせて進化させてよい。進化したなら、続けて2進化ポケモンを1枚選び、進化させてよい。そして山札を切る。（最初の自分の番や、出したばかりのたねポケモンは進化させられない。）
+
+    スタジアムは、自分の番に1枚、バトル場の横に出せる。別のスタジアムが場に出たなら、このカードをトラッシュする。同じ名前のスタジアムは場に出せない。
+  en:
+rules_text:
+  ja: ACE SPECのカードは、デッキに1枚しか入れられない。
+  en:
+abilities: []
+attacks: []
+first_appearance:
+  set_name_ja: ステラミラクル
+  released_at: '2024-07-19'
+  regulation_mark: H
+  collector_number: '101'
+  image_url:

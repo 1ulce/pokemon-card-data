@@ -1,0 +1,59 @@
+---
+schema_version: 1
+slug: zarude
+name:
+  ja: ザルード
+  en: Zarude
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Grass
+hp: 120
+retreat_cost: 2
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Fire
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: もぎとる 
+    en: Pluck Off
+  cost:
+  - Grass
+  damage:
+  effect_text:
+    ja: 自分の山札から「基本草エネルギー」を3枚まで選び、相手に見せて、手札に加える。そして山札を切る。
+    en: Search your deck for up to 3 Basic [G] Energy cards, reveal them, and put them into your hand. Then, shuffle your deck.
+- position: 1
+  name:
+    ja: ハンマーウィップ
+    en: Hammer Whip
+  cost:
+  - Grass
+  - Grass
+  - Grass
+  damage: '130'
+  effect_text:
+    ja: 次の自分の番、このポケモンはワザが使えない。
+    en: During your next turn, this Pokémon can't attack.
+first_appearance:
+  set_name_ja: コロコロイチバン！ 2024年7月発売号
+  released_at:
+  regulation_mark:
+  collector_number: '45843'
+  image_url:

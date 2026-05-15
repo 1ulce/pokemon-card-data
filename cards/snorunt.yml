@@ -1,0 +1,48 @@
+---
+schema_version: 1
+slug: snorunt
+name:
+  ja: ユキワラシ
+  en: Snorunt
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Water
+hp: 60
+retreat_cost: 1
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Metal
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: おどろかす
+    en: Astonish
+  cost:
+  - Water
+  - Colorless
+  damage: '20'
+  effect_text:
+    ja: 相手の手札からオモテを見ないで1枚選び、そのカードのオモテを見て、相手の山札にもどして切る。
+    en: Choose a random card from your opponent's hand. Your opponent reveals that card and shuffles it into their deck.
+first_appearance:
+  set_name_ja: 変幻の仮面
+  released_at: '2024-04-26'
+  regulation_mark: H
+  collector_number: '031'
+  image_url:

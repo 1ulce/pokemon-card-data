@@ -1,0 +1,60 @@
+---
+schema_version: 1
+slug: grimmsnarl
+name:
+  ja: オーロンゲ
+  en: Grimmsnarl
+  prefix:
+card_type: Pokémon
+card_subtype: 2進化
+energy_type: Darkness
+hp: 170
+retreat_cost: 3
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja: ギモー
+  en: Morgrem
+weakness:
+  type: Grass
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: ちょうはつクラッチ 
+    en: Goad 'n' Grab
+  cost:
+  - Colorless
+  - Colorless
+  damage:
+  effect_text:
+    ja: 相手のバトルポケモンをベンチポケモンと入れ替える（バトル場に出すポケモンは相手が選ぶ）。その後、新しく出てきたポケモンに160ダメージ。
+    en: Switch out your opponent's Active Pokémon to the Bench. (Your opponent chooses the new Active Pokémon.) If you do, this attack does 160 damage to the new Active Pokémon.
+- position: 1
+  name:
+    ja: グーパンチ
+    en: Knuckle Sandwich
+  cost:
+  - Darkness
+  - Colorless
+  - Colorless
+  damage: '160'
+  effect_text:
+    ja: このポケモンについているエネルギーを2個選び、トラッシュする。
+    en: Discard 2 Energy from this Pokémon.
+first_appearance:
+  set_name_ja: ステラミラクル
+  released_at: '2024-07-19'
+  regulation_mark: H
+  collector_number: '066'
+  image_url:

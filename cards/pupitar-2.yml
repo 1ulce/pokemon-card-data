@@ -1,0 +1,48 @@
+---
+schema_version: 1
+slug: pupitar-2
+name:
+  ja: サナギラス
+  en: Pupitar
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Fighting
+hp: 90
+retreat_cost: 1
+regulation_mark: I
+meta_tags: []
+evolves_from:
+  ja: ヨーギラス
+  en: Larvitar
+weakness:
+  type: Grass
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: とっしん
+    en: Take Down
+  cost:
+  - Colorless
+  - Colorless
+  damage: '60'
+  effect_text:
+    ja: このポケモンにも20ダメージ。
+    en: This Pokémon also does 20 damage to itself.
+first_appearance:
+  set_name_ja: バトルパートナーズ
+  released_at: '2025-01-24'
+  regulation_mark: I
+  collector_number: '048'
+  image_url:

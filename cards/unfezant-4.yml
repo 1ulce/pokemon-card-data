@@ -1,0 +1,60 @@
+---
+schema_version: 1
+slug: unfezant-4
+name:
+  ja: ケンホロウ
+  en: Unfezant
+  prefix:
+card_type: Pokémon
+card_subtype: 2進化
+energy_type: Colorless
+hp: 150
+retreat_cost: 0
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja: ハトーボー
+  en: Tranquill
+weakness:
+  type: Lightning
+  value: "×2"
+resistance:
+  type: Fighting
+  value: "-30"
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: リバースウインド
+    en: Opposing Winds
+  cost:
+  - Colorless
+  - Colorless
+  damage: '70'
+  effect_text:
+    ja: のぞむなら、相手のバトルポケモンについているエネルギーを2個選び、相手の手札にもどす。
+    en: You may put 2 Energy attached to your opponent's Active Pokémon into their hand.
+- position: 1
+  name:
+    ja: そこぢから
+    en: Boundless Power
+  cost:
+  - Colorless
+  - Colorless
+  - Colorless
+  damage: '180'
+  effect_text:
+    ja: 次の自分の番、このポケモンはワザが使えない。
+    en: During your next turn, this Pokémon can't attack.
+first_appearance:
+  set_name_ja: サイバージャッジ
+  released_at: '2024-01-26'
+  regulation_mark: H
+  collector_number: '059'
+  image_url:

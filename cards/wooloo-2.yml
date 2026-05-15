@@ -1,0 +1,48 @@
+---
+schema_version: 1
+slug: wooloo-2
+name:
+  ja: ウールー
+  en: Wooloo
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Colorless
+hp: 70
+retreat_cost: 1
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Fighting
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: つきくずす
+    en: Knock Over
+  cost:
+  - Colorless
+  - Colorless
+  damage: '30'
+  effect_text:
+    ja: のぞむなら、場に出ているスタジアムをトラッシュする。
+    en: You may discard a Stadium in play.
+first_appearance:
+  set_name_ja: ステラミラクル
+  released_at: '2024-07-19'
+  regulation_mark: H
+  collector_number: '086'
+  image_url:

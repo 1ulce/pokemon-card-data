@@ -1,0 +1,60 @@
+---
+schema_version: 1
+slug: krookodile
+name:
+  ja: ワルビアル
+  en: Krookodile
+  prefix:
+card_type: Pokémon
+card_subtype: 2進化
+energy_type: Darkness
+hp: 170
+retreat_cost: 3
+regulation_mark: I
+meta_tags: []
+evolves_from:
+  ja: ワルビル
+  en: Krokorok
+weakness:
+  type: Grass
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: シメる
+    en: Tighten Up
+  cost:
+  - Darkness
+  - Colorless
+  damage: '60'
+  effect_text:
+    ja: 相手は相手自身の手札を2枚選び、トラッシュする。
+    en: Your opponent discards 2 cards from their hand.
+- position: 1
+  name:
+    ja: カースドスラッグ
+    en: Cursed Slug
+  cost:
+  - Darkness
+  - Darkness
+  - Colorless
+  damage: 120+
+  effect_text:
+    ja: 相手の手札が3枚以下なら、120ダメージ追加。
+    en: If your opponent has 3 or fewer cards in their hand, this attack does 120 more damage.
+first_appearance:
+  set_name_ja: ブラックボルト
+  released_at: '2025-06-06'
+  regulation_mark: I
+  collector_number: '062'
+  image_url:

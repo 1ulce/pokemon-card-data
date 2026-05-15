@@ -1,0 +1,55 @@
+---
+schema_version: 1
+slug: feraligatr-2
+name:
+  ja: オーダイル
+  en: Feraligatr
+  prefix:
+card_type: Pokémon
+card_subtype: 2進化
+energy_type: Water
+hp: 180
+retreat_cost: 3
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja: アリゲイツ
+  en: Croconaw
+weakness:
+  type: Lightning
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities:
+- position: 0
+  name:
+    ja: トレントハート
+    en: Torrential Heart
+  effect_text:
+    ja: 自分の番に1回使える。このポケモンにダメカンを5個のせる。その場合、この番、このポケモンが使うワザの、相手のバトルポケモンへのダメージは「+120」される。
+    en: Once during your turn, you may put 5 damage counters on this Pokémon. If you do, during this turn, attacks used by this Pokémon do 120 more damage to your opponent's Active Pokémon (before applying Weakness and Resistance).
+attacks:
+- position: 0
+  name:
+    ja: おおなみ
+    en: Giant Wave
+  cost:
+  - Water
+  - Water
+  damage: '160'
+  effect_text:
+    ja: 次の自分の番、このポケモンは「おおなみ」が使えない。
+    en: During your next turn, this Pokémon can't use Giant Wave.
+first_appearance:
+  set_name_ja: ワイルドフォース
+  released_at: '2024-01-26'
+  regulation_mark: H
+  collector_number: '015'
+  image_url:

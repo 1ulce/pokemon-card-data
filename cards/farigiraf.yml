@@ -1,0 +1,60 @@
+---
+schema_version: 1
+slug: farigiraf
+name:
+  ja: リキキリン
+  en: Farigiraf
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Psychic
+hp: 140
+retreat_cost: 2
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja: キリンリキ
+  en: Girafarig
+weakness:
+  type: Darkness
+  value: "×2"
+resistance:
+  type: Fighting
+  value: "-30"
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: ミッドランブル
+    en: Either Face
+  cost:
+  - Colorless
+  - Colorless
+  damage: 40×
+  effect_text:
+    ja: 自分の場の1進化ポケモンの数×40ダメージ。
+    en: Choose a player. That player shuffles their hand into their deck and draws 4 cards.
+- position: 1
+  name:
+    ja: ぶきみなねんぱ
+    en: Power Beam
+  cost:
+  - Psychic
+  - Colorless
+  - Colorless
+  damage: '80'
+  effect_text:
+    ja: 相手のバトルポケモンをこんらんにする。
+    en:
+first_appearance:
+  set_name_ja: クリムゾンヘイズ
+  released_at: '2024-03-22'
+  regulation_mark: H
+  collector_number: '035'
+  image_url:

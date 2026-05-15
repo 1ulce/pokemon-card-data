@@ -1,0 +1,58 @@
+---
+schema_version: 1
+slug: ethan-s-ho-oh-ex
+name:
+  ja: ヒビキのホウオウex
+  en: Ethan's Ho-Oh ex
+  prefix: Ethan's
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Fire
+hp: 230
+retreat_cost: 2
+regulation_mark: I
+meta_tags:
+- ex
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Water
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja: ポケモンexがきぜつしたとき、相手はサイドを2枚とる。
+  en:
+abilities:
+- position: 0
+  name:
+    ja: こんじきのほのお
+    en: Golden Flame
+  effect_text:
+    ja: 自分の番に1回使える。自分の手札から「基本炎エネルギー」を2枚まで選び、ベンチの「ヒビキのポケモン」1匹につける。
+    en: Once during your turn, you may attach up to 2 Basic [R] Energy cards from your hand to 1 of your Benched Ethan's Pokémon.
+attacks:
+- position: 0
+  name:
+    ja: シャイニングフェザー
+    en: Shining Feathers
+  cost:
+  - Fire
+  - Fire
+  - Fire
+  - Fire
+  damage: '160'
+  effect_text:
+    ja: 自分のポケモン全員のHPを、それぞれ「50」回復する。
+    en: Heal 50 damage from each of your Pokémon.
+first_appearance:
+  set_name_ja: 熱風のアリーナ
+  released_at: '2025-03-14'
+  regulation_mark: I
+  collector_number: '49613'
+  image_url:

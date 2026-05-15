@@ -1,0 +1,59 @@
+---
+schema_version: 1
+slug: malamar
+name:
+  ja: カラマネロ
+  en: Malamar
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Darkness
+hp: 120
+retreat_cost: 3
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja: マーイーカ
+  en: Inkay
+weakness:
+  type: Grass
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: けったくテンタクル 
+    en: Colluding Tentacles
+  cost:
+  - Darkness
+  damage:
+  effect_text:
+    ja: 相手のベンチポケモンを1匹選び、バトルポケモンと入れ替える。その後、新しく出てきたポケモンに120ダメージ。この番、手札から「クセロシキのたくらみ」を出して使っていないなら、このワザは失敗。
+    en: Switch in 1 of your opponent's Benched Pokémon to the Active Spot. If you do, this attack does 120 damage to the new Active Pokémon. If you didn't play Xerosic's Machinations from your hand during this turn, this attack does nothing.
+- position: 1
+  name:
+    ja: かいてんアタック
+    en: Spinning Attack
+  cost:
+  - Darkness
+  - Colorless
+  - Colorless
+  damage: '90'
+  effect_text:
+    ja:
+    en:
+first_appearance:
+  set_name_ja: ナイトワンダラー
+  released_at: '2024-06-07'
+  regulation_mark: H
+  collector_number: '034'
+  image_url:

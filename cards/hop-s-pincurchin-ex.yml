@@ -1,0 +1,57 @@
+---
+schema_version: 1
+slug: hop-s-pincurchin-ex
+name:
+  ja: ホップのバチンウニex
+  en: Hop's Pincurchin ex
+  prefix: Hop's
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Lightning
+hp: 200
+retreat_cost: 2
+regulation_mark: I
+meta_tags:
+- ex
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Fighting
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities:
+- position: 0
+  name:
+    ja: はんげきばり
+    en: Counterattack Quills
+  effect_text:
+    ja: このポケモンが、バトル場で相手のポケモンからワザのダメージを受けたとき、ワザを使ったポケモンにダメカンを3個のせる。
+    en: If this Pokémon is in the Active Spot and is damaged by an attack from your opponent's Pokémon (even if this Pokémon is Knocked Out), place 3 damage counters on the Attacking Pokémon.
+attacks:
+- position: 0
+  name:
+    ja: スパイクサンダー
+    en: Spiky Thunder
+  cost:
+  - Lightning
+  - Lightning
+  - Colorless
+  damage: '120'
+  effect_text:
+    ja: 自分の山札を2枚引く。
+    en: Draw 2 cards.
+first_appearance:
+  set_name_ja: スカーレット＆バイオレット プロモカードパック第9弾
+  released_at:
+  regulation_mark:
+  collector_number: '47168'
+  image_url:

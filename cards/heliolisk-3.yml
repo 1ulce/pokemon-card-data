@@ -1,0 +1,58 @@
+---
+schema_version: 1
+slug: heliolisk-3
+name:
+  ja: エレザード
+  en: Heliolisk
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Lightning
+hp: 120
+retreat_cost: 1
+regulation_mark: I
+meta_tags: []
+evolves_from:
+  ja: エリキテル
+  en: Helioptile
+weakness:
+  type: Fighting
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: せんこうだん
+    en: Dazzle Blast
+  cost:
+  - Colorless
+  damage: '20'
+  effect_text:
+    ja: 相手のバトルポケモンをこんらんにする。
+    en: Your opponent's Active Pokémon is now Confused.
+- position: 1
+  name:
+    ja: ヘッドボルト
+    en: Head Bolt
+  cost:
+  - Lightning
+  - Colorless
+  damage: '70'
+  effect_text:
+    ja:
+    en:
+first_appearance:
+  set_name_ja: メガシンフォニア
+  released_at: '2025-08-01'
+  regulation_mark: I
+  collector_number: '035'
+  image_url:

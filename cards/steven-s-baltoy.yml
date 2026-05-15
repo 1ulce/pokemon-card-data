@@ -1,0 +1,57 @@
+---
+schema_version: 1
+slug: steven-s-baltoy
+name:
+  ja: ダイゴのヤジロン
+  en: Steven's Baltoy
+  prefix: Steven's
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Psychic
+hp: 60
+retreat_cost: 1
+regulation_mark: I
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Darkness
+  value: "×2"
+resistance:
+  type: Fighting
+  value: "-30"
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: しょうしゅうサイン 
+    en: Summoning Sign
+  cost:
+  - Colorless
+  damage:
+  effect_text:
+    ja: 自分の山札からたねポケモンの「ダイゴのポケモン」を2枚まで選び、ベンチに出す。そして山札を切る。
+    en: Search your deck for up to 2 Basic Steven's Pokémon and put them onto your Bench. Then, shuffle your deck.
+- position: 1
+  name:
+    ja: ねんどうだん
+    en: Psychic Sphere
+  cost:
+  - Psychic
+  damage: '20'
+  effect_text:
+    ja:
+    en:
+first_appearance:
+  set_name_ja: スターターセットex ダイゴのダンバル＆メタグロスex
+  released_at:
+  regulation_mark:
+  collector_number: '001'
+  image_url:

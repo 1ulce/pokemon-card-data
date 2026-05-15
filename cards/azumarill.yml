@@ -1,0 +1,59 @@
+---
+schema_version: 1
+slug: azumarill
+name:
+  ja: マリルリ
+  en: Azumarill
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Psychic
+hp: 130
+retreat_cost: 2
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja: マリル
+  en: Marill
+weakness:
+  type: Metal
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: じゃれつく
+    en: Play Rough
+  cost:
+  - Colorless
+  damage: 30+
+  effect_text:
+    ja: コインを1回投げオモテなら、30ダメージ追加。
+    en: Flip a coin. If heads, this attack does 30 more damage.
+- position: 1
+  name:
+    ja: パワータックル
+    en: Power Tackle
+  cost:
+  - Psychic
+  - Colorless
+  - Colorless
+  damage: '140'
+  effect_text:
+    ja: 次の自分の番、このポケモンはワザが使えない。
+    en: During your next turn, this Pokémon can't attack.
+first_appearance:
+  set_name_ja: ワイルドフォース
+  released_at: '2024-01-26'
+  regulation_mark: H
+  collector_number: '027'
+  image_url:

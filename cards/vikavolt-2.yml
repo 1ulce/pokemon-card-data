@@ -1,0 +1,60 @@
+---
+schema_version: 1
+slug: vikavolt-2
+name:
+  ja: クワガノン
+  en: Vikavolt
+  prefix:
+card_type: Pokémon
+card_subtype: 2進化
+energy_type: Lightning
+hp: 160
+retreat_cost: 1
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja: デンヂムシ
+  en: Charjabug
+weakness:
+  type: Fighting
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: ボルトチェンジ
+    en: Volt Switch
+  cost:
+  - Lightning
+  damage: '90'
+  effect_text:
+    ja: このポケモンをベンチの雷ポケモンと入れ替える。
+    en: Switch this Pokémon with 1 of your Benched [L] Pokémon.
+- position: 1
+  name:
+    ja: スパーキングアタック
+    en: Sparking Strike
+  cost:
+  - Lightning
+  - Lightning
+  - Colorless
+  - Colorless
+  damage: '240'
+  effect_text:
+    ja:
+    en:
+first_appearance:
+  set_name_ja: ステラミラクル
+  released_at: '2024-07-19'
+  regulation_mark: H
+  collector_number: '035'
+  image_url:

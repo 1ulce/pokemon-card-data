@@ -1,0 +1,50 @@
+---
+schema_version: 1
+slug: armarouge-ex
+name:
+  ja: グレンアルマex
+  en: Armarouge ex
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Fire
+hp: 260
+retreat_cost: 2
+regulation_mark: H
+meta_tags:
+- ex
+evolves_from:
+  ja: カルボウ
+  en: Charcadet
+weakness:
+  type: Water
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja: ポケモンexがきぜつしたとき、相手はサイドを2枚とる。
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: アーマーキャノン
+    en:
+  cost:
+  - Fire
+  - Fire
+  - Colorless
+  damage: '200'
+  effect_text:
+    ja: このポケモンについている炎エネルギーを1個選び、トラッシュする。
+    en:
+first_appearance:
+  set_name_ja: バトルアカデミー
+  released_at: '2024-03-08'
+  regulation_mark: H
+  collector_number: '011'
+  image_url:

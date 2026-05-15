@@ -1,0 +1,47 @@
+---
+schema_version: 1
+slug: golbat-2
+name:
+  ja: ゴルバット
+  en: Golbat
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Darkness
+hp: 80
+retreat_cost: 1
+regulation_mark:
+meta_tags: []
+evolves_from:
+  ja: ズバット
+  en: Zubat
+weakness:
+  type: Lightning
+  value: "×2"
+resistance:
+  type: Fighting
+  value: "-30"
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: おんみつひこう
+    en:
+  cost:
+  - Darkness
+  damage: '30'
+  effect_text:
+    ja: 次の相手の番、このポケモンはたねポケモンからワザのダメージを受けない。
+    en:
+first_appearance:
+  set_name_ja: ニンジャスピナー
+  released_at: '2026-03-13'
+  regulation_mark: J
+  collector_number: '049'
+  image_url:

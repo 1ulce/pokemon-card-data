@@ -1,0 +1,58 @@
+---
+schema_version: 1
+slug: whimsicott-ex
+name:
+  ja: エルフーンex
+  en: Whimsicott ex
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Grass
+hp: 230
+retreat_cost: 0
+regulation_mark: I
+meta_tags:
+- ex
+evolves_from:
+  ja: モンメン
+  en: Cottonee
+weakness:
+  type: Fire
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja: ポケモンexがきぜつしたとき、相手はサイドを2枚とる。
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: エナジーギフト 
+    en: Energy Gift
+  cost:
+  - Grass
+  damage:
+  effect_text:
+    ja: 自分の山札から基本エネルギーを3枚まで選び、自分のポケモンに好きなようにつける。そして山札を切る。
+    en: Search your deck for up to 3 Basic Energy cards and attach them to your Pokémon in any way you like. Then, shuffle your deck.
+- position: 1
+  name:
+    ja: ワンダーコットン
+    en: Wondrous Cotton
+  cost:
+  - Grass
+  damage: 50×
+  effect_text:
+    ja: 相手の手札を見て、その中にあるトレーナーズの枚数×50ダメージ。
+    en: Your opponent reveals their hand. This attack does 50 damage for each Trainer card you find there.
+first_appearance:
+  set_name_ja: ホワイトフレア
+  released_at: '2025-06-06'
+  regulation_mark: I
+  collector_number: '005'
+  image_url:

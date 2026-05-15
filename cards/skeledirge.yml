@@ -1,0 +1,55 @@
+---
+schema_version: 1
+slug: skeledirge
+name:
+  ja: ラウドボーン
+  en: Skeledirge
+  prefix:
+card_type: Pokémon
+card_subtype: 2進化
+energy_type: Fire
+hp: 180
+retreat_cost: 3
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja: アチゲータ
+  en: Crocalor
+weakness:
+  type: Water
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities:
+- position: 0
+  name:
+    ja: てんねん
+    en: Unaware
+  effect_text:
+    ja: このポケモンは、相手のポケモンが使うワザの効果を受けない。
+    en: Prevent all effects of attacks used by your opponent's Pokémon done to this Pokémon. (Damage is not an effect.)
+attacks:
+- position: 0
+  name:
+    ja: フレアリサイタル
+    en: Torcherto
+  cost:
+  - Fire
+  - Colorless
+  damage: 60+
+  effect_text:
+    ja: おたがいのベンチポケモンの数×20ダメージ追加。
+    en: This attack does 20 more damage for each Benched Pokémon (both yours and your opponent's).
+first_appearance:
+  set_name_ja: 超電ブレイカー
+  released_at: '2024-10-18'
+  regulation_mark: H
+  collector_number: '019'
+  image_url:

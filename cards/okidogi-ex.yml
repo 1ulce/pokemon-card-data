@@ -1,0 +1,60 @@
+---
+schema_version: 1
+slug: okidogi-ex
+name:
+  ja: イイネイヌex
+  en: Okidogi ex
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Darkness
+hp: 250
+retreat_cost: 3
+regulation_mark: H
+meta_tags:
+- ex
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Fighting
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja: ポケモンexがきぜつしたとき、相手はサイドを2枚とる。
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: ポイズンマッスル 
+    en: Poisonous Musculature
+  cost:
+  - Colorless
+  damage:
+  effect_text:
+    ja: 自分の山札から「基本悪エネルギー」を2枚まで選び、このポケモンにつける。そして山札を切る。つけた場合、このポケモンをどくにする。
+    en: Search your deck for up to 2 Basic [D] Energy cards and attach them to this Pokémon. Then, shuffle your deck. If you attached Energy to a Pokémon in this way, this Pokémon is now Poisoned.
+- position: 1
+  name:
+    ja: クレイジーチェーン
+    en: Chain-Crazed
+  cost:
+  - Darkness
+  - Darkness
+  - Colorless
+  damage: 130+
+  effect_text:
+    ja: このポケモンがどくなら、130ダメージ追加。
+    en: If this Pokémon is Poisoned, this attack does 130 more damage.
+first_appearance:
+  set_name_ja: ナイトワンダラー
+  released_at: '2024-06-07'
+  regulation_mark: H
+  collector_number: '036'
+  image_url:

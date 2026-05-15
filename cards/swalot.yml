@@ -1,0 +1,59 @@
+---
+schema_version: 1
+slug: swalot
+name:
+  ja: マルノーム
+  en: Swalot
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Darkness
+hp: 130
+retreat_cost: 3
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja: ゴクリン
+  en: Gulpin
+weakness:
+  type: Fighting
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: パックンマウス
+    en: Devouring Mouth
+  cost:
+  - Darkness
+  damage: 10+
+  effect_text:
+    ja: このポケモンについているエネルギーの数が、相手のバトルポケモンについているエネルギーの数より多いなら、160ダメージ追加。
+    en: If this Pokémon has more Energy attached than your opponent's Active Pokémon, this attack does 160 more damage.
+- position: 1
+  name:
+    ja: ベノムヒット
+    en: Venomous Hit
+  cost:
+  - Darkness
+  - Darkness
+  - Colorless
+  damage: '100'
+  effect_text:
+    ja: 相手のバトルポケモンをどくにする。
+    en: Your opponent's Active Pokémon is now Poisoned.
+first_appearance:
+  set_name_ja: ステラミラクル
+  released_at: '2024-07-19'
+  regulation_mark: H
+  collector_number: '062'
+  image_url:

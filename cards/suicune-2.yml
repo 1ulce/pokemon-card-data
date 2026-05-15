@@ -1,0 +1,48 @@
+---
+schema_version: 1
+slug: suicune-2
+name:
+  ja: スイクン
+  en: Suicune
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Water
+hp: 130
+retreat_cost: 2
+regulation_mark: I
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Lightning
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: クリスタルフォール
+    en: Crystal Fall
+  cost:
+  - Water
+  - Water
+  damage: 30+
+  effect_text:
+    ja: 自分の場に水エネルギーが4個以上あるなら、90ダメージ追加。
+    en: If you have at least 4 [W] Energy in play, this attack does 90 more damage.
+first_appearance:
+  set_name_ja: インフェルノX
+  released_at: '2025-09-26'
+  regulation_mark: I
+  collector_number: '026'
+  image_url:

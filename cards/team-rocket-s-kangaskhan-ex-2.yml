@@ -1,0 +1,61 @@
+---
+schema_version: 1
+slug: team-rocket-s-kangaskhan-ex-2
+name:
+  ja: ロケット団のガルーラex
+  en: Team Rocket's Kangaskhan ex
+  prefix: Team Rocket's
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Colorless
+hp: 230
+retreat_cost: 2
+regulation_mark: I
+meta_tags:
+- ex
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Fighting
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: れんぞくパンチ
+    en: Comet Punch
+  cost:
+  - Colorless
+  - Colorless
+  damage: 30×
+  effect_text:
+    ja: コインを4回投げ、オモテの数×30ダメージ。
+    en: Flip 4 coins. This attack does 30 damage for each heads.
+- position: 1
+  name:
+    ja: バッドインパクト
+    en: Wicked Impact
+  cost:
+  - Colorless
+  - Colorless
+  - Colorless
+  damage: 120+
+  effect_text:
+    ja: この番に、手札から、名前に「ロケット団」とつくサポートを出して使っていたなら、100ダメージ追加。
+    en: If you played a Supporter card that has "Team Rocket" in its name from your hand during this turn, this attack does 100 more damage.
+first_appearance:
+  set_name_ja: スカーレット＆バイオレット プロモカードパック第10弾
+  released_at:
+  regulation_mark:
+  collector_number: '47495'
+  image_url:

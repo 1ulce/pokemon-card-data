@@ -1,0 +1,58 @@
+---
+schema_version: 1
+slug: walrein
+name:
+  ja: トドゼルガ
+  en: Walrein
+  prefix:
+card_type: Pokémon
+card_subtype: 2進化
+energy_type: Water
+hp: 170
+retreat_cost: 3
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja: トドグラー
+  en: Sealeo
+weakness:
+  type: Metal
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: とうけつファング
+    en: Frigid Fangs
+  cost:
+  - Water
+  damage: '60'
+  effect_text:
+    ja: 次の相手の番、ついているエネルギーが2個以下のポケモン全員は、ワザが使えない。（新しく場に出したポケモンもふくむ。）
+    en: During your opponent's next turn, Pokémon that have 2 or less Energy attached can't attack. (This includes new Pokémon that come into play.)
+- position: 1
+  name:
+    ja: メガトンフォール
+    en: Megaton Fall
+  cost:
+  - Water
+  - Water
+  damage: '170'
+  effect_text:
+    ja: このポケモンにも50ダメージ。
+    en: This Pokémon also does 50 damage to itself.
+first_appearance:
+  set_name_ja: 超電ブレイカー
+  released_at: '2024-10-18'
+  regulation_mark: H
+  collector_number: '029'
+  image_url:

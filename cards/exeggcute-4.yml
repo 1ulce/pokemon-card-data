@@ -1,0 +1,47 @@
+---
+schema_version: 1
+slug: exeggcute-4
+name:
+  ja: タマタマ
+  en: Exeggcute
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Grass
+hp: 50
+retreat_cost: 1
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Fire
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: すいとる
+    en: Absorb
+  cost:
+  - Colorless
+  damage: '10'
+  effect_text:
+    ja: このポケモンのHPを「10」回復する。
+    en: Heal 10 damage from this Pokémon.
+first_appearance:
+  set_name_ja: 超電ブレイカー
+  released_at: '2024-10-18'
+  regulation_mark: H
+  collector_number: '001'
+  image_url:

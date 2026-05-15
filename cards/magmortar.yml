@@ -1,0 +1,56 @@
+---
+schema_version: 1
+slug: magmortar
+name:
+  ja: ブーバーン
+  en: Magmortar
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Fire
+hp: 130
+retreat_cost: 2
+regulation_mark: I
+meta_tags: []
+evolves_from:
+  ja: ブーバー
+  en: Magmar
+weakness:
+  type: Water
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities:
+- position: 0
+  name:
+    ja: マグマのはどう
+    en: Magma Surge
+  effect_text:
+    ja: このポケモンがいるかぎり、相手のやけどのポケモンは、やけどでのせるダメカンの数が3個多くなる。
+    en: During Pokémon Checkup, put 3 more damage counters on your opponent's Burned Pokémon.
+attacks:
+- position: 0
+  name:
+    ja: やきこがす
+    en: Searing Flame
+  cost:
+  - Fire
+  - Fire
+  - Colorless
+  damage: '90'
+  effect_text:
+    ja: コインを1回投げオモテなら、相手のバトルポケモンをやけどにする。
+    en: Flip a coin. If heads, your opponent's Active Pokémon is now Burned.
+first_appearance:
+  set_name_ja: バトルパートナーズ
+  released_at: '2025-01-24'
+  regulation_mark: I
+  collector_number: '014'
+  image_url:

@@ -1,0 +1,48 @@
+---
+schema_version: 1
+slug: hypno
+name:
+  ja: スリーパー
+  en: Hypno
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Psychic
+hp: 110
+retreat_cost: 2
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja: スリープ
+  en: Drowzee
+weakness:
+  type: Darkness
+  value: "×2"
+resistance:
+  type: Fighting
+  value: "-30"
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: はくちゅうむ
+    en: Daydream
+  cost:
+  - Psychic
+  - Colorless
+  damage: '80'
+  effect_text:
+    ja: 次の相手の番、このワザを受けたポケモンに、相手が手札からエネルギーをつけたなら、相手の番は終わる。
+    en: During your opponent's next turn, if they attach an Energy card from their hand to the Defending Pokémon, their turn ends.
+first_appearance:
+  set_name_ja: ナイトワンダラー
+  released_at: '2024-06-07'
+  regulation_mark: H
+  collector_number: '017'
+  image_url:

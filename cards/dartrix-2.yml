@@ -1,0 +1,59 @@
+---
+schema_version: 1
+slug: dartrix-2
+name:
+  ja: フクスロー
+  en: Dartrix
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Grass
+hp: 100
+retreat_cost: 2
+regulation_mark: J
+meta_tags: []
+evolves_from:
+  ja: モクロー
+  en: Rowlet
+weakness:
+  type: Fire
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: このは
+    en: Leafage
+  cost:
+  - Grass
+  damage: '20'
+  effect_text:
+    ja:
+    en:
+- position: 1
+  name:
+    ja: フェザーショット 
+    en: Feather Shot
+  cost:
+  - Colorless
+  - Colorless
+  - Colorless
+  damage:
+  effect_text:
+    ja: このポケモンについているエネルギーをすべてトラッシュし、相手のポケモン1匹に、90ダメージ。［ベンチは弱点・抵抗力を計算しない。］
+    en: Discard all Energy from this Pokémon, and this attack does 90 damage to 1 of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)
+first_appearance:
+  set_name_ja: ムニキスゼロ
+  released_at: '2026-01-23'
+  regulation_mark: J
+  collector_number: '011'
+  image_url:

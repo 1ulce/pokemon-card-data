@@ -1,0 +1,57 @@
+---
+schema_version: 1
+slug: durant-ex
+name:
+  ja: アイアントex
+  en: Durant ex
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Grass
+hp: 190
+retreat_cost: 2
+regulation_mark: H
+meta_tags:
+- ex
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Fire
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja: ポケモンexがきぜつしたとき、相手はサイドを2枚とる。
+  en:
+abilities:
+- position: 0
+  name:
+    ja: いきなりけずる
+    en: Sudden Shearing
+  effect_text:
+    ja: 自分の番に、このカードを手札からベンチに出したとき、1回使える。相手の山札を上から1枚トラッシュする。
+    en: When you play this Pokémon from your hand onto your Bench during your turn, you may discard the top card of your opponent's deck.
+attacks:
+- position: 0
+  name:
+    ja: リベンジクラッシュ
+    en: Vengeful Crush
+  cost:
+  - Grass
+  - Colorless
+  - Colorless
+  damage: 120+
+  effect_text:
+    ja: 相手がすでにとったサイドの枚数×30ダメージ追加。
+    en: This attack does 30 more damage for each Prize card your opponent has taken.
+first_appearance:
+  set_name_ja: 超電ブレイカー
+  released_at: '2024-10-18'
+  regulation_mark: H
+  collector_number: '003'
+  image_url:

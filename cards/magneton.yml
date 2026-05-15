@@ -1,0 +1,55 @@
+---
+schema_version: 1
+slug: magneton
+name:
+  ja: レアコイル
+  en: Magneton
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Lightning
+hp: 100
+retreat_cost: 1
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja: コイル
+  en: Magnemite
+weakness:
+  type: Fighting
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities:
+- position: 0
+  name:
+    ja: かじょうほうでん
+    en: Overvolt Discharge
+  effect_text:
+    ja: 自分の番に1回使えて、使ったなら、このポケモンをきぜつさせる。自分のトラッシュから基本エネルギーを3枚まで選び、自分の雷ポケモンに好きなようにつける。
+    en: Once during your turn, you may attach up to 3 Basic Energy cards from your discard pile to your [L] Pokémon in any way you like. If you use this Ability, this Pokémon is Knocked Out.
+attacks:
+- position: 0
+  name:
+    ja: ライトニングボール
+    en: Electric Ball
+  cost:
+  - Lightning
+  - Colorless
+  damage: '40'
+  effect_text:
+    ja:
+    en:
+first_appearance:
+  set_name_ja: 超電ブレイカー
+  released_at: '2024-10-18'
+  regulation_mark: H
+  collector_number: '035'
+  image_url:

@@ -1,0 +1,59 @@
+---
+schema_version: 1
+slug: raging-bolt-ex
+name:
+  ja: タケルライコex
+  en: Raging Bolt ex
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Dragon
+hp: 240
+retreat_cost: 3
+regulation_mark: H
+meta_tags:
+- ex
+evolves_from:
+  ja:
+  en:
+weakness:
+  type:
+  value:
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja: ポケモンexがきぜつしたとき、相手はサイドを2枚とる。
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: はじけるほうこう 
+    en: Burst Roar
+  cost:
+  - Colorless
+  damage:
+  effect_text:
+    ja: 自分の手札をすべてトラッシュし、山札を6枚引く。
+    en: Discard your hand and draw 6 cards.
+- position: 1
+  name:
+    ja: きょくらいごう
+    en: Bellowing Thunder
+  cost:
+  - Lightning
+  - Fighting
+  damage: 70×
+  effect_text:
+    ja: 自分の場のポケモンについている基本エネルギーを好きなだけトラッシュし、その枚数×70ダメージ。
+    en: You may discard any amount of Basic Energy from your Pokémon. This attack does 70 damage for each card you discarded in this way.
+first_appearance:
+  set_name_ja: ワイルドフォース
+  released_at: '2024-01-26'
+  regulation_mark: H
+  collector_number: '053'
+  image_url:

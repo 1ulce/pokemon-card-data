@@ -1,0 +1,56 @@
+---
+schema_version: 1
+slug: team-rocket-s-orbeetle
+name:
+  ja: ロケット団のイオルブ
+  en: Team Rocket's Orbeetle
+  prefix: Team Rocket's
+card_type: Pokémon
+card_subtype: 2進化
+energy_type: Psychic
+hp: 130
+retreat_cost: 2
+regulation_mark: I
+meta_tags: []
+evolves_from:
+  ja: ロケット団のレドームシ
+  en: Team Rocket's Dottler
+weakness:
+  type: Darkness
+  value: "×2"
+resistance:
+  type: Fighting
+  value: "-30"
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities:
+- position: 0
+  name:
+    ja: ロケットブレイン
+    en: Rocket Brain
+  effect_text:
+    ja: 自分の番に何回でも使える。自分の場の「ロケット団のポケモン」にのっているダメカンを1個選び、自分の別のポケモンにのせ替える。
+    en: As often as you like during your turn, you may move 1 damage counter from 1 of your Team Rocket's Pokémon to another of your Pokémon.
+attacks:
+- position: 0
+  name:
+    ja: サイコキネシス
+    en: Psychic
+  cost:
+  - Psychic
+  - Colorless
+  - Colorless
+  damage: 40+
+  effect_text:
+    ja: 相手のバトルポケモンについているエネルギーの数×40ダメージ追加。
+    en: This attack does 40 more damage for each Energy attached to your opponent's Active Pokémon.
+first_appearance:
+  set_name_ja: ロケット団の栄光
+  released_at: '2025-04-18'
+  regulation_mark: I
+  collector_number: '044'
+  image_url:

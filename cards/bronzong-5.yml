@@ -1,0 +1,59 @@
+---
+schema_version: 1
+slug: bronzong-5
+name:
+  ja: ドータクン
+  en: Bronzong
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Metal
+hp: 130
+retreat_cost: 3
+regulation_mark:
+meta_tags: []
+evolves_from:
+  ja: ドーミラー
+  en: Bronzor
+weakness:
+  type: Fire
+  value: "×2"
+resistance:
+  type: Grass
+  value: "-30"
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: ひっぱたく
+    en:
+  cost:
+  - Metal
+  damage: '40'
+  effect_text:
+    ja:
+    en:
+- position: 1
+  name:
+    ja: メタルブロック
+    en:
+  cost:
+  - Metal
+  - Metal
+  - Colorless
+  damage: '120'
+  effect_text:
+    ja: 次の相手の番、このポケモンが進化ポケモンから受けるワザのダメージは「-100」される。
+    en:
+first_appearance:
+  set_name_ja: アビスアイ
+  released_at: '2026-05-22'
+  regulation_mark: J
+  collector_number: '062'
+  image_url:

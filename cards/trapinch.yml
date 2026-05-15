@@ -1,0 +1,58 @@
+---
+schema_version: 1
+slug: trapinch
+name:
+  ja: ナックラー
+  en: Trapinch
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Fighting
+hp: 60
+retreat_cost: 1
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Grass
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: なかまをよぶ 
+    en: Call for Family
+  cost:
+  - Colorless
+  damage:
+  effect_text:
+    ja: 自分の山札からたねポケモンを2枚まで選び、ベンチに出す。そして山札を切る。
+    en: Search your deck for up to 2 Basic Pokémon and put them onto your Bench. Then, shuffle your deck.
+- position: 1
+  name:
+    ja: かみつく
+    en: Bite
+  cost:
+  - Fighting
+  - Colorless
+  damage: '20'
+  effect_text:
+    ja:
+    en:
+first_appearance:
+  set_name_ja: 楽園ドラゴーナ
+  released_at: '2024-09-13'
+  regulation_mark: H
+  collector_number: '025'
+  image_url:

@@ -1,0 +1,59 @@
+---
+schema_version: 1
+slug: teal-mask-ogerpon-2
+name:
+  ja: オーガポン みどりのめん
+  en: Teal Mask Ogerpon
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Grass
+hp: 110
+retreat_cost: 1
+regulation_mark: I
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Fire
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: くさかぐら 
+    en: Grass Kagura
+  cost:
+  - Colorless
+  damage:
+  effect_text:
+    ja: 自分の山札から「基本草エネルギー」を1枚選び、自分のポケモンにつける。そして山札を切る。
+    en: Search your deck for a Basic [G] Energy card and attach it to 1 of your Pokémon. Then, shuffle your deck.
+- position: 1
+  name:
+    ja: おにハンマー
+    en: Ogre's Hammer
+  cost:
+  - Grass
+  - Grass
+  - Colorless
+  damage: '120'
+  effect_text:
+    ja: 次の自分の番、このポケモンは「おにハンマー」が使えない。
+    en: During your next turn, this Pokémon can't use Ogre's Hammer.
+first_appearance:
+  set_name_ja: 熱風のアリーナ
+  released_at: '2025-03-14'
+  regulation_mark: I
+  collector_number: '012'
+  image_url:

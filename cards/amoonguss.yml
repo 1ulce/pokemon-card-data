@@ -1,0 +1,58 @@
+---
+schema_version: 1
+slug: amoonguss
+name:
+  ja: モロバレル
+  en: Amoonguss
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Grass
+hp: 120
+retreat_cost: 2
+regulation_mark: I
+meta_tags: []
+evolves_from:
+  ja: タマゲタケ
+  en: Foongus
+weakness:
+  type: Fire
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: あぶないはんのう
+    en: Dangerous Reaction
+  cost:
+  - Colorless
+  damage: 30+
+  effect_text:
+    ja: 相手のバトルポケモンが特殊状態なら、120ダメージ追加。
+    en: If your opponent's Active Pokémon is affected by a Special Condition, this attack does 120 more damage.
+- position: 1
+  name:
+    ja: タネばくだん
+    en: Seed Bomb
+  cost:
+  - Grass
+  - Colorless
+  damage: '60'
+  effect_text:
+    ja:
+    en:
+first_appearance:
+  set_name_ja: ブラックボルト
+  released_at: '2025-06-06'
+  regulation_mark: I
+  collector_number: '011'
+  image_url:

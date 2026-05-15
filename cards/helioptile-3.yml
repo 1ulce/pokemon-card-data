@@ -1,0 +1,47 @@
+---
+schema_version: 1
+slug: helioptile-3
+name:
+  ja: エリキテル
+  en: Helioptile
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Lightning
+hp: 70
+retreat_cost: 1
+regulation_mark: I
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Fighting
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: ダブルひっかき
+    en: Double Scratch
+  cost:
+  - Colorless
+  damage: 10×
+  effect_text:
+    ja: コインを2回投げ、オモテの数×10ダメージ。
+    en: Flip 2 coins. This attack does 10 damage for each heads.
+first_appearance:
+  set_name_ja: メガシンフォニア
+  released_at: '2025-08-01'
+  regulation_mark: I
+  collector_number: '034'
+  image_url:

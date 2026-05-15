@@ -1,0 +1,57 @@
+---
+schema_version: 1
+slug: pikachu-ex-2
+name:
+  ja: ピカチュウex
+  en: Pikachu ex
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Lightning
+hp: 200
+retreat_cost: 1
+regulation_mark: H
+meta_tags:
+- ex
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Fighting
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja: ポケモンexがきぜつしたとき、相手はサイドを2枚とる。
+  en:
+abilities:
+- position: 0
+  name:
+    ja: がんばりハート
+    en: Resolute Heart
+  effect_text:
+    ja: このポケモンのHPがまんたんの状態で、このポケモンがワザのダメージを受けてきぜつするとき、きぜつせず、残りHPが「10」の状態で場に残る。
+    en: If this Pokémon has full HP and would be Knocked Out by damage from an attack, it is not Knocked Out, and its remaining HP becomes 10.
+attacks:
+- position: 0
+  name:
+    ja: トパーズボルト
+    en: Topaz Bolt
+  cost:
+  - Grass
+  - Lightning
+  - Metal
+  damage: '300'
+  effect_text:
+    ja: このポケモンについているエネルギーを3個選び、トラッシュする。
+    en: Discard 3 Energy from this Pokémon.
+first_appearance:
+  set_name_ja: 超電ブレイカー
+  released_at: '2024-10-18'
+  regulation_mark: H
+  collector_number: '033'
+  image_url:

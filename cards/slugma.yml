@@ -1,0 +1,47 @@
+---
+schema_version: 1
+slug: slugma
+name:
+  ja: マグマッグ
+  en: Slugma
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Fire
+hp: 80
+retreat_cost: 2
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Water
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: あぶりやき
+    en: Roasting Heat
+  cost:
+  - Fire
+  damage: 10+
+  effect_text:
+    ja: 相手のバトルポケモンがやけどなら、40ダメージ追加。
+    en: If your opponent's Active Pokémon is Burned, this attack does 40 more damage.
+first_appearance:
+  set_name_ja: サイバージャッジ
+  released_at: '2024-01-26'
+  regulation_mark: H
+  collector_number: '017'
+  image_url:

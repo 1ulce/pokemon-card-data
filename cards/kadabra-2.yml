@@ -1,0 +1,54 @@
+---
+schema_version: 1
+slug: kadabra-2
+name:
+  ja: ユンゲラー
+  en: Kadabra
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Psychic
+hp: 80
+retreat_cost: 1
+regulation_mark: I
+meta_tags: []
+evolves_from:
+  ja: ケーシィ
+  en: Abra
+weakness:
+  type: Darkness
+  value: "×2"
+resistance:
+  type: Fighting
+  value: "-30"
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities:
+- position: 0
+  name:
+    ja: サイコドロー
+    en: Psychic Draw
+  effect_text:
+    ja: 自分の番に、このカードを手札から出して進化させたとき、1回使える。自分の山札を2枚引く。
+    en: Once during your turn, when you play this Pokémon from your hand to evolve 1 of your Pokémon, you may use this Ability. Draw 2 cards.
+attacks:
+- position: 0
+  name:
+    ja: ちょうねんりき
+    en: Super Psy Bolt
+  cost:
+  - Psychic
+  damage: '30'
+  effect_text:
+    ja:
+    en:
+first_appearance:
+  set_name_ja: メガシンフォニア
+  released_at: '2025-08-01'
+  regulation_mark: I
+  collector_number: '037'
+  image_url:

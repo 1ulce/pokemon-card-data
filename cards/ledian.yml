@@ -1,0 +1,55 @@
+---
+schema_version: 1
+slug: ledian
+name:
+  ja: レディアン
+  en: Ledian
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Grass
+hp: 90
+retreat_cost: 0
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja: レディバ
+  en: Ledyba
+weakness:
+  type: Fire
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities:
+- position: 0
+  name:
+    ja: きらぼしもよう
+    en: Glittering Star Pattern
+  effect_text:
+    ja: 自分の番に、このカードを手札から出して進化させたとき、1回使える。相手のベンチの残りHPが「90」以下のポケモンを1匹選び、バトルポケモンと入れ替える。
+    en: When you play this Pokémon from your hand to evolve 1 of your Pokémon during your turn, you may switch in 1 of your opponent's Benched Pokémon that has 90 HP or less remaining to the Active Spot.
+attacks:
+- position: 0
+  name:
+    ja: スピードスター
+    en: Swift
+  cost:
+  - Colorless
+  - Colorless
+  damage: '70'
+  effect_text:
+    ja: このワザのダメージは、弱点・抵抗力と、相手のバトルポケモンにかかっている効果を計算しない。
+    en: This attack's damage isn't affected by Weakness or Resistance, or by any effects on your opponent's Active Pokémon.
+first_appearance:
+  set_name_ja: ステラミラクル
+  released_at: '2024-07-19'
+  regulation_mark: H
+  collector_number: '002'
+  image_url:

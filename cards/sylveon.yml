@@ -1,0 +1,59 @@
+---
+schema_version: 1
+slug: sylveon
+name:
+  ja: ニンフィア
+  en: Sylveon
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Psychic
+hp: 120
+retreat_cost: 1
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja: イーブイ
+  en: Eevee
+weakness:
+  type: Metal
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: ミスティックリターン 
+    en: Mystical Return
+  cost:
+  - Psychic
+  damage:
+  effect_text:
+    ja: コインを1回投げオモテなら、相手のベンチポケモンを1匹選び、そのポケモンと、ついているすべてのカードを、相手の山札にもどして切る。
+    en: Flip a coin. If heads, choose 1 of your opponent's Benched Pokémon. Shuffle that Pokémon and all attached cards into their deck.
+- position: 1
+  name:
+    ja: チャームボイス
+    en: Disarming Voice
+  cost:
+  - Psychic
+  - Colorless
+  - Colorless
+  damage: '90'
+  effect_text:
+    ja: 相手のバトルポケモンをこんらんにする。
+    en: Your opponent's Active Pokémon is now Confused.
+first_appearance:
+  set_name_ja: ナイトワンダラー
+  released_at: '2024-06-07'
+  regulation_mark: H
+  collector_number: '022'
+  image_url:

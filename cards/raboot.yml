@@ -1,0 +1,59 @@
+---
+schema_version: 1
+slug: raboot
+name:
+  ja: ラビフット
+  en: Raboot
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Fire
+hp: 90
+retreat_cost: 1
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja: ヒバニー
+  en: Scorbunny
+weakness:
+  type: Water
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: ローキック
+    en: Low Sweep
+  cost:
+  - Fire
+  damage: '30'
+  effect_text:
+    ja:
+    en:
+- position: 1
+  name:
+    ja: かえん
+    en: Combustion
+  cost:
+  - Fire
+  - Colorless
+  - Colorless
+  damage: '60'
+  effect_text:
+    ja:
+    en:
+first_appearance:
+  set_name_ja: ステラミラクル
+  released_at: '2024-07-19'
+  regulation_mark: H
+  collector_number: '017'
+  image_url:

@@ -1,0 +1,57 @@
+---
+schema_version: 1
+slug: empoleon-ex
+name:
+  ja: エンペルトex
+  en: Empoleon ex
+  prefix:
+card_type: Pokémon
+card_subtype: 2進化
+energy_type: Metal
+hp: 320
+retreat_cost: 2
+regulation_mark: I
+meta_tags:
+- ex
+evolves_from:
+  ja: ポッタイシ
+  en: Prinplup
+weakness:
+  type: Fire
+  value: "×2"
+resistance:
+  type: Grass
+  value: "-30"
+body_text:
+  ja:
+  en:
+rules_text:
+  ja: ポケモンexがきぜつしたとき、相手はサイドを2枚とる。
+  en:
+abilities:
+- position: 0
+  name:
+    ja: こうていのかまえ
+    en: Emperor's Stance
+  effect_text:
+    ja: このポケモンは、相手のポケモンが使うワザの効果を受けない。
+    en: Prevent all effects of attacks used by your opponent's Pokémon done to this Pokémon. (Damage is not an effect.)
+attacks:
+- position: 0
+  name:
+    ja: アイアンフェザー
+    en: Iron Feathers
+  cost:
+  - Metal
+  - Metal
+  - Colorless
+  damage: '210'
+  effect_text:
+    ja: 次の相手の番、このポケモンが受けるワザのダメージは「-60」される。
+    en: During your opponent's next turn, this Pokémon takes 60 less damage from attacks (after applying Weakness and Resistance).
+first_appearance:
+  set_name_ja: インフェルノX
+  released_at: '2025-09-26'
+  regulation_mark: I
+  collector_number: '058'
+  image_url:

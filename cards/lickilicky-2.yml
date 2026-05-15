@@ -1,0 +1,61 @@
+---
+schema_version: 1
+slug: lickilicky-2
+name:
+  ja: ベロベルト
+  en: Lickilicky
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Colorless
+hp: 150
+retreat_cost: 4
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja: ベロリンガ
+  en: Lickitung
+weakness:
+  type: Fighting
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: のしかかり
+    en: Body Slam
+  cost:
+  - Colorless
+  - Colorless
+  damage: '50'
+  effect_text:
+    ja: コインを1回投げオモテなら、相手のバトルポケモンをマヒにする。
+    en: Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed.
+- position: 1
+  name:
+    ja: ベロベロハリケーン
+    en: Tonguenado
+  cost:
+  - Colorless
+  - Colorless
+  - Colorless
+  - Colorless
+  damage: 70×
+  effect_text:
+    ja: コインを4回投げ、オモテの数×70ダメージ。
+    en: Flip 4 coins. This attack does 70 damage for each heads.
+first_appearance:
+  set_name_ja: サイバージャッジ
+  released_at: '2024-01-26'
+  regulation_mark: H
+  collector_number: '054'
+  image_url:

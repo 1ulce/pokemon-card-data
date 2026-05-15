@@ -1,0 +1,58 @@
+---
+schema_version: 1
+slug: rillaboom
+name:
+  ja: ゴリランダー
+  en: Rillaboom
+  prefix:
+card_type: Pokémon
+card_subtype: 2進化
+energy_type: Grass
+hp: 180
+retreat_cost: 4
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja: バチンキー
+  en: Thwackey
+weakness:
+  type: Fire
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: ドラムアタック
+    en: Drum Beating
+  cost:
+  - Grass
+  damage: '60'
+  effect_text:
+    ja: 次の相手の番、このワザを受けたポケモンは、ワザを使うためのエネルギーとにげるためのエネルギーが、それぞれエネルギー1個ぶん多くなる。
+    en: During your opponent's next turn, attacks used by the Defending Pokémon cost [C] more, and its Retreat Cost is [C] more.
+- position: 1
+  name:
+    ja: ウッドハンマー
+    en: Wood Hammer
+  cost:
+  - Grass
+  - Grass
+  damage: '180'
+  effect_text:
+    ja: このポケモンにも50ダメージ。
+    en: This Pokémon also does 50 damage to itself.
+first_appearance:
+  set_name_ja: 変幻の仮面
+  released_at: '2024-04-26'
+  regulation_mark: H
+  collector_number: '010'
+  image_url:

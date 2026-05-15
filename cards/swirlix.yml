@@ -1,0 +1,54 @@
+---
+schema_version: 1
+slug: swirlix
+name:
+  ja: ペロッパフ
+  en: Swirlix
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Psychic
+hp: 50
+retreat_cost: 1
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Metal
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities:
+- position: 0
+  name:
+    ja: おまつりおんど
+    en: Festival Lead
+  effect_text:
+    ja: 場に「お祭り会場」が出ているなら、このポケモンは、持っているワザを2回連続で使える。（1回目のワザで相手のバトルポケモンがきぜつしたなら、次のバトルポケモンが出たあと、2回目のワザを使う。）
+    en: If Festival Grounds is in play, this Pokémon may use an attack it has twice. If the first attack Knocks Out your opponent's Active Pokémon, you may attack again after your opponent chooses a new Active Pokémon.
+attacks:
+- position: 0
+  name:
+    ja: そっとのせる 
+    en: Sneaky Placement
+  cost:
+  - Psychic
+  damage:
+  effect_text:
+    ja: 相手のポケモン1匹に、ダメカンを2個のせる。
+    en: Put 2 damage counters on 1 of your opponent's Pokémon.
+first_appearance:
+  set_name_ja: 変幻の仮面
+  released_at: '2024-04-26'
+  regulation_mark: H
+  collector_number: '051'
+  image_url:

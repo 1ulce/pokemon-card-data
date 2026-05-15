@@ -1,0 +1,50 @@
+---
+schema_version: 1
+slug: tapu-bulu
+name:
+  ja: カプ・ブルル
+  en: Tapu Bulu
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Grass
+hp: 140
+retreat_cost: 3
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Fire
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: ウッドハンマー
+    en: Wood Hammer
+  cost:
+  - Grass
+  - Grass
+  - Colorless
+  - Colorless
+  damage: '220'
+  effect_text:
+    ja: このポケモンにも30ダメージ。
+    en: This Pokémon also does 30 damage to itself.
+first_appearance:
+  set_name_ja: ナイトワンダラー
+  released_at: '2024-06-07'
+  regulation_mark: H
+  collector_number: '006'
+  image_url:

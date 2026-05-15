@@ -1,0 +1,60 @@
+---
+schema_version: 1
+slug: manectric-2
+name:
+  ja: ライボルト
+  en: Manectric
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Lightning
+hp: 120
+retreat_cost: 1
+regulation_mark:
+meta_tags: []
+evolves_from:
+  ja: ラクライ
+  en: Electrike
+weakness:
+  type: Fighting
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: フラッシュバリア
+    en:
+  cost:
+  - Lightning
+  - Lightning
+  damage: '50'
+  effect_text:
+    ja: 次の相手の番、このポケモンは進化ポケモンからワザのダメージを受けない。
+    en:
+- position: 1
+  name:
+    ja: ソニックエッジ
+    en:
+  cost:
+  - Lightning
+  - Lightning
+  - Lightning
+  damage: '110'
+  effect_text:
+    ja: このワザのダメージは、相手のバトルポケモンにかかっている効果を計算しない。
+    en:
+first_appearance:
+  set_name_ja: アビスアイ
+  released_at: '2026-05-22'
+  regulation_mark: J
+  collector_number: '023'
+  image_url:

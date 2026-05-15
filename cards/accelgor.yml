@@ -1,0 +1,48 @@
+---
+schema_version: 1
+slug: accelgor
+name:
+  ja: アギルダー
+  en: Accelgor
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Grass
+hp: 100
+retreat_cost: 1
+regulation_mark: I
+meta_tags: []
+evolves_from:
+  ja: チョボマキ
+  en: Shelmet
+weakness:
+  type: Fire
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: うつせみポイズン
+    en: Poisonous Ploy
+  cost:
+  - Grass
+  - Colorless
+  damage: '70'
+  effect_text:
+    ja: 相手のバトルポケモンをどくとこんらんにする。このポケモンをベンチポケモンと入れ替える。
+    en: Your opponent's Active Pokémon is now Confused and Poisoned. Switch this Pokémon with 1 of your Benched Pokémon.
+first_appearance:
+  set_name_ja: バトルパートナーズ
+  released_at: '2025-01-24'
+  regulation_mark: I
+  collector_number: '009'
+  image_url:

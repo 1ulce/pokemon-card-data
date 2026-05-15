@@ -1,0 +1,56 @@
+---
+schema_version: 1
+slug: togekiss
+name:
+  ja: トゲキッス
+  en: Togekiss
+  prefix:
+card_type: Pokémon
+card_subtype: 2進化
+energy_type: Psychic
+hp: 140
+retreat_cost: 1
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja: トゲチック
+  en: Togetic
+weakness:
+  type: Metal
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities:
+- position: 0
+  name:
+    ja: ワンダーキッス
+    en: Wonder Kiss
+  effect_text:
+    ja: このポケモンがいるかぎり、相手のバトルポケモンがきぜつするたび、自分はコインを1回投げる。オモテなら、サイドを1枚多くとる。この効果は、この特性を持つポケモンが何匹いても、重ならない。
+    en: When your opponent's Active Pokémon is Knocked Out, flip a coin. If heads, take 1 more Prize card. The effect of Wonder Kiss doesn't stack.
+attacks:
+- position: 0
+  name:
+    ja: スピードウイング
+    en: Speed Wing
+  cost:
+  - Colorless
+  - Colorless
+  - Colorless
+  damage: '140'
+  effect_text:
+    ja:
+    en:
+first_appearance:
+  set_name_ja: 超電ブレイカー
+  released_at: '2024-10-18'
+  regulation_mark: H
+  collector_number: '047'
+  image_url:

@@ -1,0 +1,55 @@
+---
+schema_version: 1
+slug: goodra
+name:
+  ja: ヌメルゴン
+  en: Goodra
+  prefix:
+card_type: Pokémon
+card_subtype: 2進化
+energy_type: Dragon
+hp: 160
+retreat_cost: 3
+regulation_mark:
+meta_tags: []
+evolves_from:
+  ja: ヌメラ
+  en: Goomy
+weakness:
+  type:
+  value:
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities:
+- position: 0
+  name:
+    ja: ぬめぬめスリップ
+    en:
+  effect_text:
+    ja: このポケモンがいるかぎり、相手のバトルポケモンがにげるとき、相手はコインを1回投げる。ウラなら、にげるためのエネルギーはトラッシュせず、入れ替えをしない。この特性の効果は重ならない。
+    en:
+attacks:
+- position: 0
+  name:
+    ja: りゅうのはどう
+    en:
+  cost:
+  - Water
+  - Psychic
+  damage: '160'
+  effect_text:
+    ja: 自分の山札を上から1枚トラッシュする。
+    en:
+first_appearance:
+  set_name_ja: ニンジャスピナー
+  released_at: '2026-03-13'
+  regulation_mark: J
+  collector_number: '066'
+  image_url:

@@ -1,0 +1,60 @@
+---
+schema_version: 1
+slug: piloswine-2
+name:
+  ja: イノムー
+  en: Piloswine
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Water
+hp: 100
+retreat_cost: 3
+regulation_mark: I
+meta_tags: []
+evolves_from:
+  ja: ウリムー
+  en: Swinub
+weakness:
+  type: Metal
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: つきあげる
+    en: Rising Lunge
+  cost:
+  - Colorless
+  - Colorless
+  damage: 30+
+  effect_text:
+    ja: コインを1回投げオモテなら、30ダメージ追加。
+    en: Flip a coin. If heads, this attack does 30 more damage.
+- position: 1
+  name:
+    ja: フロストスマッシュ
+    en: Frost Smash
+  cost:
+  - Water
+  - Colorless
+  - Colorless
+  damage: '70'
+  effect_text:
+    ja:
+    en:
+first_appearance:
+  set_name_ja: インフェルノX
+  released_at: '2025-09-26'
+  regulation_mark: I
+  collector_number: '024'
+  image_url:

@@ -1,0 +1,60 @@
+---
+schema_version: 1
+slug: snorlax-5
+name:
+  ja: カビゴン
+  en: Snorlax
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Colorless
+hp: 160
+retreat_cost: 4
+regulation_mark: J
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Fighting
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: おおぐい 
+    en: Gormandizer
+  cost:
+  - Colorless
+  damage:
+  effect_text:
+    ja: ウラが出るまでコインを投げ、オモテの数ぶんまで、自分の山札から基本エネルギーを選び、このポケモンにつける。そして山札を切る。
+    en: Flip a coin until you get tails. Search your deck for an amount of Basic Energy up to the number of heads and attach it to this Pokémon. Then, shuffle your deck.
+- position: 1
+  name:
+    ja: たおれこむ
+    en: Collapse
+  cost:
+  - Colorless
+  - Colorless
+  - Colorless
+  - Colorless
+  damage: '160'
+  effect_text:
+    ja: このポケモンをねむりにする。
+    en: This Pokémon is now Asleep.
+first_appearance:
+  set_name_ja: ムニキスゼロ
+  released_at: '2026-01-23'
+  regulation_mark: J
+  collector_number: '062'
+  image_url:

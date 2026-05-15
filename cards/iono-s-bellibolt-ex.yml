@@ -1,0 +1,58 @@
+---
+schema_version: 1
+slug: iono-s-bellibolt-ex
+name:
+  ja: ナンジャモのハラバリーex
+  en: Iono's Bellibolt ex
+  prefix: Iono's
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Lightning
+hp: 280
+retreat_cost: 2
+regulation_mark: I
+meta_tags:
+- ex
+evolves_from:
+  ja: ナンジャモのズピカ
+  en: Iono's Tadbulb
+weakness:
+  type: Fighting
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja: ポケモンexがきぜつしたとき、相手はサイドを2枚とる。
+  en:
+abilities:
+- position: 0
+  name:
+    ja: エレキストリーマー
+    en: Electric Streamer
+  effect_text:
+    ja: 自分の番に何回でも使える。自分の手札から「基本雷エネルギー」を1枚選び、自分の「ナンジャモのポケモン」につける。
+    en: As often as you like during your turn, you may attach a Basic [L] Energy card from your hand to 1 of your Iono's Pokémon.
+attacks:
+- position: 0
+  name:
+    ja: サンダーボルト
+    en: Thunderous Bolt
+  cost:
+  - Lightning
+  - Lightning
+  - Lightning
+  - Colorless
+  damage: '230'
+  effect_text:
+    ja: 次の自分の番、このポケモンはワザが使えない。
+    en: During your next turn, this Pokémon can't attack.
+first_appearance:
+  set_name_ja: バトルパートナーズ
+  released_at: '2025-01-24'
+  regulation_mark: I
+  collector_number: '030'
+  image_url:

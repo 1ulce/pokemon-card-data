@@ -1,0 +1,58 @@
+---
+schema_version: 1
+slug: weavile
+name:
+  ja: マニューラ
+  en: Weavile
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Water
+hp: 100
+retreat_cost: 1
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja: ニューラ
+  en: Sneasel
+weakness:
+  type: Metal
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: きりさく
+    en: Slash
+  cost:
+  - Water
+  damage: '40'
+  effect_text:
+    ja:
+    en:
+- position: 1
+  name:
+    ja: ヘイルクロー
+    en: Hail Claw
+  cost:
+  - Water
+  - Water
+  damage: '70'
+  effect_text:
+    ja: このポケモンについているエネルギーをすべてトラッシュし、相手のバトルポケモンをマヒにする。
+    en: Discard all Energy from this Pokémon. Your opponent's Active Pokémon is now Paralyzed.
+first_appearance:
+  set_name_ja: ナイトワンダラー
+  released_at: '2024-06-07'
+  regulation_mark: H
+  collector_number: '014'
+  image_url:

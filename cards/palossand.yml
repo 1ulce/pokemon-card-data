@@ -1,0 +1,62 @@
+---
+schema_version: 1
+slug: palossand
+name:
+  ja: シロデスナ
+  en: Palossand
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Psychic
+hp: 150
+retreat_cost: 4
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja: スナバァ
+  en: Sandygast
+weakness:
+  type: Darkness
+  value: "×2"
+resistance:
+  type: Fighting
+  value: "-30"
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: すなかけ
+    en: Spooky Shot
+  cost:
+  - Psychic
+  - Colorless
+  - Colorless
+  damage: '60'
+  effect_text:
+    ja: 次の相手の番、このワザを受けたポケモンがワザを使うとき、相手はコインを1回投げる。ウラならそのワザは失敗。
+    en:
+- position: 1
+  name:
+    ja: サンドホロウ
+    en: Earthen Power
+  cost:
+  - Psychic
+  - Colorless
+  - Colorless
+  - Colorless
+  damage: '150'
+  effect_text:
+    ja:
+    en: If you have a Stadium in play, this attack does 80 more damage.
+first_appearance:
+  set_name_ja: 変幻の仮面
+  released_at: '2024-04-26'
+  regulation_mark: H
+  collector_number: '054'
+  image_url:

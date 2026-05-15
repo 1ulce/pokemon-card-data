@@ -1,0 +1,59 @@
+---
+schema_version: 1
+slug: grapploct
+name:
+  ja: オトスパス
+  en: Grapploct
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Fighting
+hp: 140
+retreat_cost: 3
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja: タタッコ
+  en: Clobbopus
+weakness:
+  type: Psychic
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: チョップ
+    en: Chop
+  cost:
+  - Fighting
+  damage: '40'
+  effect_text:
+    ja:
+    en:
+- position: 1
+  name:
+    ja: テンタクルレイジ
+    en: Raging Tentacles
+  cost:
+  - Fighting
+  - Fighting
+  - Colorless
+  damage: '130'
+  effect_text:
+    ja: このワザは、このポケモンにダメカンがのっているなら、闘エネルギー1個で使える。
+    en: If this Pokémon has any damage counters on it, this attack can be used for [F].
+first_appearance:
+  set_name_ja: 楽園ドラゴーナ
+  released_at: '2024-09-13'
+  regulation_mark: H
+  collector_number: '033'
+  image_url:

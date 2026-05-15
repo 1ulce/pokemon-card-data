@@ -1,0 +1,47 @@
+---
+schema_version: 1
+slug: simisear
+name:
+  ja: バオッキー
+  en: Simisear
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Fire
+hp: 90
+retreat_cost: 1
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja: バオップ
+  en: Pansear
+weakness:
+  type: Water
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: ダブルスマッシュ
+    en: Double Smash
+  cost:
+  - Fire
+  damage: 70×
+  effect_text:
+    ja: コインを2回投げ、オモテの数×70ダメージ。
+    en: Flip 2 coins. This attack does 70 damage for each heads.
+first_appearance:
+  set_name_ja: 楽園ドラゴーナ
+  released_at: '2024-09-13'
+  regulation_mark: H
+  collector_number: '008'
+  image_url:

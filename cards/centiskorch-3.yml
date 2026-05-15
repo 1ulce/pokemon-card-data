@@ -1,0 +1,61 @@
+---
+schema_version: 1
+slug: centiskorch-3
+name:
+  ja: マルヤクデ
+  en: Centiskorch
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Fire
+hp: 140
+retreat_cost: 3
+regulation_mark: I
+meta_tags: []
+evolves_from:
+  ja: ヤクデ
+  en: Sizzlipede
+weakness:
+  type: Water
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: まきつきクラッシュ
+    en: Coiling Crush
+  cost:
+  - Colorless
+  - Colorless
+  damage: '50'
+  effect_text:
+    ja: コインを2回投げ、オモテの数ぶん、相手のバトルポケモンについているエネルギーを選び、トラッシュする。
+    en: Flip 2 coins. For each heads, discard an Energy from your opponent's Active Pokémon.
+- position: 1
+  name:
+    ja: ヒートクローラー
+    en: Heat Crawler
+  cost:
+  - Fire
+  - Fire
+  - Colorless
+  - Colorless
+  damage: '140'
+  effect_text:
+    ja:
+    en:
+first_appearance:
+  set_name_ja: メガシンフォニア
+  released_at: '2025-08-01'
+  regulation_mark: I
+  collector_number: '013'
+  image_url:

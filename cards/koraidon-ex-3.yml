@@ -1,0 +1,61 @@
+---
+schema_version: 1
+slug: koraidon-ex-3
+name:
+  ja: コライドンex
+  en: Koraidon ex
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Fighting
+hp: 230
+retreat_cost: 2
+regulation_mark: H
+meta_tags:
+- ex
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Psychic
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja: ポケモンexがきぜつしたとき、相手はサイドを2枚とる。
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: ツメできりさく
+    en: Claw Slash
+  cost:
+  - Fighting
+  - Colorless
+  damage: '50'
+  effect_text:
+    ja:
+    en:
+- position: 1
+  name:
+    ja: リベンジバスター
+    en: Revenge Buster
+  cost:
+  - Fighting
+  - Fighting
+  - Colorless
+  damage: 100+
+  effect_text:
+    ja: 自分のベンチポケモンにダメカンがのっているなら、120ダメージ追加。
+    en: If your Benched Pokémon have any damage counters on them, this attack does 120 more damage.
+first_appearance:
+  set_name_ja: スタートデッキGenerations コライドンex・パルデアドオーex
+  released_at: '2024-11-22'
+  regulation_mark: H
+  collector_number: '072'
+  image_url:

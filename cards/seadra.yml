@@ -1,0 +1,58 @@
+---
+schema_version: 1
+slug: seadra
+name:
+  ja: シードラ
+  en: Seadra
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Water
+hp: 90
+retreat_cost: 1
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja: タッツー
+  en: Horsea
+weakness:
+  type: Lightning
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: えんぐん 
+    en: Bubble Beam
+  cost:
+  - Water
+  damage:
+  effect_text:
+    ja: 自分の山札からポケモンを3枚まで選び、相手に見せて、手札に加える。そして山札を切る。
+    en: Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed.
+- position: 1
+  name:
+    ja: するどいひれ
+    en:
+  cost:
+  - Colorless
+  - Colorless
+  damage: '40'
+  effect_text:
+    ja:
+    en:
+first_appearance:
+  set_name_ja: ナイトワンダラー
+  released_at: '2024-06-07'
+  regulation_mark: H
+  collector_number: '011'
+  image_url:

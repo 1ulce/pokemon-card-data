@@ -1,0 +1,57 @@
+---
+schema_version: 1
+slug: teal-mask-ogerpon-ex
+name:
+  ja: オーガポン みどりのめんex
+  en: Teal Mask Ogerpon ex
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Grass
+hp: 210
+retreat_cost: 1
+regulation_mark: H
+meta_tags:
+- ex
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Fire
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja: ポケモンexがきぜつしたとき、相手はサイドを2枚とる。
+  en:
+abilities:
+- position: 0
+  name:
+    ja: みどりのまい
+    en: Teal Dance
+  effect_text:
+    ja: 自分の番に1回使える。自分の手札から「基本草エネルギー」を1枚選び、このポケモンにつける。その後、自分の山札を1枚引く。
+    en: Once during your turn, you may attach a Basic [G] Energy card from your hand to this Pokémon. If you attached Energy to a Pokémon in this way, draw a card.
+attacks:
+- position: 0
+  name:
+    ja: まんようしぐれ
+    en: Myriad Leaf Shower
+  cost:
+  - Grass
+  - Grass
+  - Grass
+  damage: 30+
+  effect_text:
+    ja: おたがいのバトルポケモンについているエネルギーの数×30ダメージ追加。
+    en: This attack does 30 more damage for each Energy attached to both Active Pokémon.
+first_appearance:
+  set_name_ja: 変幻の仮面
+  released_at: '2024-04-26'
+  regulation_mark: H
+  collector_number: '016'
+  image_url:

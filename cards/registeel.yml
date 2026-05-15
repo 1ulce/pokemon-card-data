@@ -1,0 +1,48 @@
+---
+schema_version: 1
+slug: registeel
+name:
+  ja: レジスチル
+  en: Registeel
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Metal
+hp: 130
+retreat_cost: 3
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Fire
+  value: "×2"
+resistance:
+  type: Grass
+  value: "-30"
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: レイジングハンマー
+    en: Raging Hammer
+  cost:
+  - Metal
+  - Colorless
+  damage: 60+
+  effect_text:
+    ja: このポケモンにのっているダメカンの数×10ダメージ追加。
+    en: This attack does 10 more damage for each damage counter on this Pokémon.
+first_appearance:
+  set_name_ja: スタートデッキ100 バトルコレクション
+  released_at: '2025-12-19'
+  regulation_mark: J
+  collector_number: '498'
+  image_url:

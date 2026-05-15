@@ -1,0 +1,57 @@
+---
+schema_version: 1
+slug: meganium
+name:
+  ja: メガニウム
+  en: Meganium
+  prefix:
+card_type: Pokémon
+card_subtype: 2進化
+energy_type: Grass
+hp: 160
+retreat_cost: 2
+regulation_mark: I
+meta_tags: []
+evolves_from:
+  ja: ベイリーフ
+  en: Bayleef
+weakness:
+  type: Fire
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities:
+- position: 0
+  name:
+    ja: おいしげる
+    en: Wild Growth
+  effect_text:
+    ja: このポケモンがいるかぎり、自分のポケモン全員についている「基本草エネルギー」は、それぞれ草エネルギー2個ぶんとしてはたらく。この特性の効果は重ならない。
+    en: Each Basic [G] Energy attached to all of your Pokémon provides [G][G] Energy. The effect of Wild Growth doesn't stack.
+attacks:
+- position: 0
+  name:
+    ja: ソーラービーム
+    en: Solar Beam
+  cost:
+  - Grass
+  - Grass
+  - Colorless
+  - Colorless
+  damage: '140'
+  effect_text:
+    ja:
+    en:
+first_appearance:
+  set_name_ja: メガシンフォニア
+  released_at: '2025-08-01'
+  regulation_mark: I
+  collector_number: '005'
+  image_url:

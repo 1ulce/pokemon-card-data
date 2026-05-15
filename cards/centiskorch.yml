@@ -1,0 +1,58 @@
+---
+schema_version: 1
+slug: centiskorch
+name:
+  ja: マルヤクデ
+  en: Centiskorch
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Fire
+hp: 140
+retreat_cost: 3
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja: ヤクデ
+  en: Sizzlipede
+weakness:
+  type: Water
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: こがす 
+    en: Singe
+  cost:
+  - Fire
+  damage:
+  effect_text:
+    ja: 相手のバトルポケモンをやけどにする。
+    en: Your opponent's Active Pokémon is now Burned.
+- position: 1
+  name:
+    ja: くろこげブレス
+    en: Charring Breath
+  cost:
+  - Fire
+  - Fire
+  damage: '180'
+  effect_text:
+    ja: 相手のバトルポケモンがやけどでないなら、このワザは失敗。
+    en: If your opponent's Active Pokémon isn't Burned, this attack does nothing.
+first_appearance:
+  set_name_ja: ワイルドフォース
+  released_at: '2024-01-26'
+  regulation_mark: H
+  collector_number: '011'
+  image_url:

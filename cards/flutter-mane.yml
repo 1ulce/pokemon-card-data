@@ -1,0 +1,56 @@
+---
+schema_version: 1
+slug: flutter-mane
+name:
+  ja: ハバタクカミ
+  en: Flutter Mane
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Psychic
+hp: 90
+retreat_cost: 1
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Metal
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities:
+- position: 0
+  name:
+    ja: あんやのはばたき
+    en: Midnight Fluttering
+  effect_text:
+    ja: このポケモンがバトル場にいるかぎり、相手のバトルポケモンの特性（「あんやのはばたき」をのぞく）は、すべてなくなる。
+    en: As long as this Pokémon is in the Active Spot, your opponent's Active Pokémon has no Abilities, except for Midnight Fluttering.
+attacks:
+- position: 0
+  name:
+    ja: たたりとばす
+    en: Hex Hurl
+  cost:
+  - Colorless
+  - Colorless
+  - Colorless
+  damage: '90'
+  effect_text:
+    ja: ダメカン2個を、相手のベンチポケモンに好きなようにのせる。
+    en: Put 2 damage counters on your opponent's Benched Pokémon in any way you like.
+first_appearance:
+  set_name_ja: ワイルドフォース
+  released_at: '2024-01-26'
+  regulation_mark: H
+  collector_number: '033'
+  image_url:

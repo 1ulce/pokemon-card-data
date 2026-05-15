@@ -1,0 +1,48 @@
+---
+schema_version: 1
+slug: pawmot
+name:
+  ja: パーモット
+  en: Pawmot
+  prefix:
+card_type: Pokémon
+card_subtype: 2進化
+energy_type: Lightning
+hp: 140
+retreat_cost: 1
+regulation_mark: I
+meta_tags: []
+evolves_from:
+  ja: パモット
+  en: Pawmo
+weakness:
+  type: Fighting
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: ボルテージフィスト
+    en:
+  cost:
+  - Lightning
+  - Lightning
+  damage: '130'
+  effect_text:
+    ja: のぞむなら、このポケモンにも60ダメージを与え、相手のバトルポケモンをマヒにする。
+    en:
+first_appearance:
+  set_name_ja: インフェルノX
+  released_at: '2025-09-26'
+  regulation_mark: I
+  collector_number: '034'
+  image_url:

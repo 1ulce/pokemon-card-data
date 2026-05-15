@@ -1,0 +1,40 @@
+---
+schema_version: 1
+slug: boss-s-orders
+name:
+  ja: ボスの指令
+  en: Boss's Orders
+  prefix: Boss's
+card_type: Trainer
+card_subtype: Supporter
+energy_type:
+hp:
+retreat_cost:
+regulation_mark: I
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type:
+  value:
+resistance:
+  type:
+  value:
+body_text:
+  ja: |-
+    相手のベンチポケモンを1匹選び、バトルポケモンと入れ替える。
+
+    サポートは、自分の番に1枚しか使えない。
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks: []
+first_appearance:
+  set_name_ja: プレミアムトレーナーボックスex
+  released_at: '2023-01-20'
+  regulation_mark:
+  collector_number: '024'
+  image_url:

@@ -1,0 +1,57 @@
+---
+schema_version: 1
+slug: milotic-ex
+name:
+  ja: ミロカロスex
+  en: Milotic ex
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Water
+hp: 270
+retreat_cost: 2
+regulation_mark: H
+meta_tags:
+- ex
+evolves_from:
+  ja: ヒンバス
+  en: Feebas
+weakness:
+  type: Lightning
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja: ポケモンexがきぜつしたとき、相手はサイドを2枚とる。
+  en:
+abilities:
+- position: 0
+  name:
+    ja: きらめくウロコ
+    en: Sparkling Scales
+  effect_text:
+    ja: このポケモンは、相手の「テラスタル」のポケモンからワザのダメージや効果を受けない。
+    en: Prevent all damage from and effects of attacks from your opponent's Tera Pokémon done to this Pokémon.
+attacks:
+- position: 0
+  name:
+    ja: ヒプノスプラッシュ
+    en: Hypno Splash
+  cost:
+  - Water
+  - Colorless
+  - Colorless
+  damage: '160'
+  effect_text:
+    ja: 相手のバトルポケモンをねむりにする。
+    en: Your opponent's Active Pokémon is now Asleep.
+first_appearance:
+  set_name_ja: 超電ブレイカー
+  released_at: '2024-10-18'
+  regulation_mark: H
+  collector_number: '026'
+  image_url:

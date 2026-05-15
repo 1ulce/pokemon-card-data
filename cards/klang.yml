@@ -1,0 +1,48 @@
+---
+schema_version: 1
+slug: klang
+name:
+  ja: ギギアル
+  en: Klang
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Metal
+hp: 90
+retreat_cost: 3
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja: ギアル
+  en: Klink
+weakness:
+  type: Fire
+  value: "×2"
+resistance:
+  type: Grass
+  value: "-30"
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: アイアンタックル
+    en: Iron Tackle
+  cost:
+  - Colorless
+  - Colorless
+  damage: '60'
+  effect_text:
+    ja: このポケモンにも20ダメージ。
+    en: This Pokémon also does 20 damage to itself.
+first_appearance:
+  set_name_ja: ステラミラクル
+  released_at: '2024-07-19'
+  regulation_mark: H
+  collector_number: '068'
+  image_url:

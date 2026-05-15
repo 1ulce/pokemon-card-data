@@ -1,0 +1,50 @@
+---
+schema_version: 1
+slug: darmanitan-2
+name:
+  ja: ヒヒダルマ
+  en: Darmanitan
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Fire
+hp: 150
+retreat_cost: 3
+regulation_mark: I
+meta_tags: []
+evolves_from:
+  ja: ダルマッカ
+  en: Darumaka
+weakness:
+  type: Water
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: ブレイズボール
+    en: Blaze Ball
+  cost:
+  - Colorless
+  - Colorless
+  - Colorless
+  - Colorless
+  damage: 40+
+  effect_text:
+    ja: このポケモンについている炎エネルギーの数×40ダメージ追加。
+    en: This attack does 40 more damage for each [R] Energy attached to this Pokémon.
+first_appearance:
+  set_name_ja: インフェルノX
+  released_at: '2025-09-26'
+  regulation_mark: I
+  collector_number: '016'
+  image_url:

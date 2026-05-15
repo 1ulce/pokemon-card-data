@@ -1,0 +1,48 @@
+---
+schema_version: 1
+slug: bayleef
+name:
+  ja: ベイリーフ
+  en: Bayleef
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Grass
+hp: 110
+retreat_cost: 2
+regulation_mark: I
+meta_tags: []
+evolves_from:
+  ja: チコリータ
+  en: Chikorita
+weakness:
+  type: Fire
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: つきとばす
+    en: Push Down
+  cost:
+  - Grass
+  - Colorless
+  damage: '50'
+  effect_text:
+    ja: 相手のバトルポケモンをベンチポケモンと入れ替える。［バトル場に出すポケモンは相手が選ぶ。］
+    en: Switch out your opponent's Active Pokémon to the Bench. (Your opponent chooses the new Active Pokémon.)
+first_appearance:
+  set_name_ja: メガシンフォニア
+  released_at: '2025-08-01'
+  regulation_mark: I
+  collector_number: '004'
+  image_url:

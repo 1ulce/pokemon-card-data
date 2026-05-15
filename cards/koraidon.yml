@@ -1,0 +1,60 @@
+---
+schema_version: 1
+slug: koraidon
+name:
+  ja: コライドン
+  en: Koraidon
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Dragon
+hp: 140
+retreat_cost: 2
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type:
+  value:
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: げんせいらんだ
+    en: Primordial Beatdown
+  cost:
+  - Fighting
+  - Colorless
+  damage: 30×
+  effect_text:
+    ja: 自分の場の「古代」のポケモンの数×30ダメージ。
+    en: This attack does 30 damage for each of your Ancient Pokémon in play.
+- position: 1
+  name:
+    ja: ひきさく
+    en: Shred
+  cost:
+  - Fire
+  - Fighting
+  - Colorless
+  damage: '130'
+  effect_text:
+    ja: このワザのダメージは、相手のバトルポケモンにかかっている効果を計算しない。
+    en: This attack's damage isn't affected by any effects on your opponent's Active Pokémon.
+first_appearance:
+  set_name_ja: ワイルドフォース
+  released_at: '2024-01-26'
+  regulation_mark: H
+  collector_number: '052'
+  image_url:

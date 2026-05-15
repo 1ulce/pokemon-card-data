@@ -1,0 +1,57 @@
+---
+schema_version: 1
+slug: veluza
+name:
+  ja: ミガルーサ
+  en: Veluza
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Water
+hp: 130
+retreat_cost: 2
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Lightning
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities:
+- position: 0
+  name:
+    ja: したごしらえ
+    en:
+  effect_text:
+    ja: 自分のトラッシュにある「ハイダイ」の枚数ぶん、このポケモンがワザを使うためのエネルギーは少なくなる。
+    en:
+attacks:
+- position: 0
+  name:
+    ja: ソニックエッジ
+    en:
+  cost:
+  - Colorless
+  - Colorless
+  - Colorless
+  - Colorless
+  damage: '110'
+  effect_text:
+    ja: このワザのダメージは、相手のバトルポケモンにかかっている効果を計算しない。
+    en:
+first_appearance:
+  set_name_ja: ステラミラクル
+  released_at: '2024-07-19'
+  regulation_mark: H
+  collector_number: '027'
+  image_url:

@@ -1,0 +1,49 @@
+---
+schema_version: 1
+slug: nosepass
+name:
+  ja: ノズパス
+  en: Nosepass
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Fighting
+hp: 80
+retreat_cost: 3
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Grass
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: パワーラッシュ
+    en: Power Rush
+  cost:
+  - Colorless
+  - Colorless
+  - Colorless
+  damage: '60'
+  effect_text:
+    ja: コインを1回投げウラなら、次の自分の番、このポケモンはワザが使えない。
+    en: Flip a coin. If tails, during your next turn, this Pokémon can't attack.
+first_appearance:
+  set_name_ja: クリムゾンヘイズ
+  released_at: '2024-03-22'
+  regulation_mark: H
+  collector_number: '043'
+  image_url:

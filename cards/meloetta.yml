@@ -1,0 +1,58 @@
+---
+schema_version: 1
+slug: meloetta
+name:
+  ja: メロエッタ
+  en: Meloetta
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Psychic
+hp: 90
+retreat_cost: 1
+regulation_mark: I
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Darkness
+  value: "×2"
+resistance:
+  type: Fighting
+  value: "-30"
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: いやしのメロディ 
+    en: Soothing Melody
+  cost:
+  - Psychic
+  damage:
+  effect_text:
+    ja: 自分のベンチの超ポケモン1匹のHPを「120」回復する。
+    en: Heal 120 damage from 1 of your Benched [P] Pokémon.
+- position: 1
+  name:
+    ja: マジカルショット
+    en: Magical Shot
+  cost:
+  - Psychic
+  - Colorless
+  damage: '50'
+  effect_text:
+    ja:
+    en:
+first_appearance:
+  set_name_ja: スターターセットMEGA メガディアンシーex
+  released_at: '2025-09-05'
+  regulation_mark: I
+  collector_number: '004'
+  image_url:

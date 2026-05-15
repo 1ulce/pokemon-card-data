@@ -1,0 +1,48 @@
+---
+schema_version: 1
+slug: scraggy-2
+name:
+  ja: ズルッグ
+  en: Scraggy
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Darkness
+hp: 80
+retreat_cost: 2
+regulation_mark: I
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Grass
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: はたきおとす
+    en: Knock Off
+  cost:
+  - Darkness
+  - Colorless
+  damage: '20'
+  effect_text:
+    ja: 相手の手札からオモテを見ないで1枚選び、トラッシュする。
+    en: Discard a random card from your opponent's hand.
+first_appearance:
+  set_name_ja: MEGAドリームex
+  released_at: '2025-11-28'
+  regulation_mark: I
+  collector_number: '109'
+  image_url:

@@ -1,0 +1,48 @@
+---
+schema_version: 1
+slug: zeraora-3
+name:
+  ja: ゼラオラ
+  en: Zeraora
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Lightning
+hp: 120
+retreat_cost: 1
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Fighting
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: コンバットサンダー
+    en: Combat Thunder
+  cost:
+  - Lightning
+  - Colorless
+  damage: 20+
+  effect_text:
+    ja: 相手のベンチポケモンの数×20ダメージ追加。
+    en: This attack does 20 more damage for each of your opponent's Benched Pokémon.
+first_appearance:
+  set_name_ja: ステラミラクル
+  released_at: '2024-07-19'
+  regulation_mark: H
+  collector_number: '037'
+  image_url:

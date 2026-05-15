@@ -1,0 +1,47 @@
+---
+schema_version: 1
+slug: glimmet
+name:
+  ja: キラーメ
+  en: Glimmet
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Fighting
+hp: 60
+retreat_cost: 1
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Grass
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: ロックショット
+    en: Rock Shot
+  cost:
+  - Fighting
+  damage: '30'
+  effect_text:
+    ja: このポケモンについているエネルギーを1個選び、トラッシュする。
+    en: Discard an Energy from this Pokémon.
+first_appearance:
+  set_name_ja: 変幻の仮面
+  released_at: '2024-04-26'
+  regulation_mark: H
+  collector_number: '062'
+  image_url:

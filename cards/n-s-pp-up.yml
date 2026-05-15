@@ -1,0 +1,40 @@
+---
+schema_version: 1
+slug: n-s-pp-up
+name:
+  ja: Nのポイントアップ
+  en: N's PP Up
+  prefix: N's
+card_type: Trainer
+card_subtype: Item
+energy_type:
+hp:
+retreat_cost:
+regulation_mark: I
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type:
+  value:
+resistance:
+  type:
+  value:
+body_text:
+  ja: |-
+    自分のトラッシュから基本エネルギーを1枚選び、ベンチの「Nのポケモン」につける。
+
+    グッズは、自分の番に何枚でも使える。
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks: []
+first_appearance:
+  set_name_ja: バトルパートナーズ
+  released_at: '2025-01-24'
+  regulation_mark: I
+  collector_number: '089'
+  image_url:

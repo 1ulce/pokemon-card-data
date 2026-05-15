@@ -1,0 +1,58 @@
+---
+schema_version: 1
+slug: glimmora-2
+name:
+  ja: キラフロル
+  en: Glimmora
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Fighting
+hp: 130
+retreat_cost: 2
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja: キラーメ
+  en: Glimmet
+weakness:
+  type: Grass
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: むしばむはへん
+    en: Corrosive Shards
+  cost:
+  - Colorless
+  damage: '20'
+  effect_text:
+    ja: 相手のバトルポケモンをどくにする。次の相手の番、このワザを受けたポケモンは、手札から出すエネルギーをつけられない。
+    en: Your opponent's Active Pokémon is now Poisoned. During your opponent's next turn, Energy cards can't be attached from your opponent's hand to that Pokémon.
+- position: 1
+  name:
+    ja: いわおとし
+    en: Rock Throw
+  cost:
+  - Fighting
+  - Colorless
+  damage: '60'
+  effect_text:
+    ja:
+    en:
+first_appearance:
+  set_name_ja: 超電ブレイカー
+  released_at: '2024-10-18'
+  regulation_mark: H
+  collector_number: '068'
+  image_url:

@@ -1,0 +1,58 @@
+---
+schema_version: 1
+slug: castform-sunny-form
+name:
+  ja: ポワルン たいようのすがた
+  en: Castform Sunny Form
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Fire
+hp: 70
+retreat_cost: 0
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Water
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: こがす 
+    en: Singe
+  cost:
+  - Fire
+  damage:
+  effect_text:
+    ja: 相手のバトルポケモンをやけどにする。
+    en: Your opponent's Active Pokémon is now Burned.
+- position: 1
+  name:
+    ja: サニーアシスト
+    en: Sunny Assist
+  cost:
+  - Fire
+  - Colorless
+  damage: '50'
+  effect_text:
+    ja: このポケモンについているエネルギーをすべて、ベンチポケモン1匹につけ替える。
+    en: Move all Energy from this Pokémon to 1 of your Benched Pokémon.
+first_appearance:
+  set_name_ja: 楽園ドラゴーナ
+  released_at: '2024-09-13'
+  regulation_mark: H
+  collector_number: '006'
+  image_url:

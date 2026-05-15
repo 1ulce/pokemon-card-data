@@ -1,0 +1,37 @@
+---
+schema_version: 1
+slug: dusk-ball
+name:
+  ja: ダークボール
+  en: Dusk Ball
+  prefix:
+card_type: Trainer
+card_subtype: Item
+energy_type:
+hp:
+retreat_cost:
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type:
+  value:
+resistance:
+  type:
+  value:
+body_text:
+  ja: 自分の山札の下からカードを7枚見て、ポケモンを1枚選び、相手プレイヤーに見せてから、手札に加える。その後、山札を切る。
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks: []
+first_appearance:
+  set_name_ja: 楽園ドラゴーナ
+  released_at: '2024-09-13'
+  regulation_mark: H
+  collector_number: '054'
+  image_url:

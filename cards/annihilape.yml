@@ -1,0 +1,58 @@
+---
+schema_version: 1
+slug: annihilape
+name:
+  ja: コノヨザル
+  en: Annihilape
+  prefix:
+card_type: Pokémon
+card_subtype: 2進化
+energy_type: Fighting
+hp: 140
+retreat_cost: 2
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja: オコリザル
+  en: Primeape
+weakness:
+  type: Psychic
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: あばれまわる
+    en: Tantrum
+  cost:
+  - Fighting
+  damage: '130'
+  effect_text:
+    ja: このポケモンをこんらんにする。
+    en: This Pokémon is now Confused.
+- position: 1
+  name:
+    ja: みちづれファイト 
+    en: Destined Fight
+  cost:
+  - Fighting
+  - Colorless
+  damage:
+  effect_text:
+    ja: おたがいのバトルポケモンをきぜつさせる。
+    en: Both Active Pokémon are Knocked Out.
+first_appearance:
+  set_name_ja: 超電ブレイカー
+  released_at: '2024-10-18'
+  regulation_mark: H
+  collector_number: '062'
+  image_url:

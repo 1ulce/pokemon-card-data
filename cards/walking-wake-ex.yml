@@ -1,0 +1,57 @@
+---
+schema_version: 1
+slug: walking-wake-ex
+name:
+  ja: ウネルミナモex
+  en: Walking Wake ex
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Water
+hp: 220
+retreat_cost: 1
+regulation_mark: H
+meta_tags:
+- ex
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Lightning
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja: ポケモンexがきぜつしたとき、相手はサイドを2枚とる。
+  en:
+abilities:
+- position: 0
+  name:
+    ja: こんぺきはとう
+    en: Azure Seas
+  effect_text:
+    ja: このポケモンが使うワザのダメージは、相手のバトルポケモンにかかっている効果を計算しない。
+    en: Damage from attacks used by this Pokémon isn't affected by any effects on your opponent's Active Pokémon.
+attacks:
+- position: 0
+  name:
+    ja: カタルシスロアー
+    en: Catharsis Roar
+  cost:
+  - Water
+  - Colorless
+  - Colorless
+  damage: 120+
+  effect_text:
+    ja: 相手のバトルポケモンが特殊状態なら、120ダメージ追加。
+    en: If your opponent's Active Pokémon is affected by a Special Condition, this attack does 120 more damage.
+first_appearance:
+  set_name_ja: ワイルドフォース
+  released_at: '2024-01-26'
+  regulation_mark: H
+  collector_number: '024'
+  image_url:

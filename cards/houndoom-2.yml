@@ -1,0 +1,59 @@
+---
+schema_version: 1
+slug: houndoom-2
+name:
+  ja: ヘルガー
+  en: Houndoom
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Darkness
+hp: 120
+retreat_cost: 1
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja: デルビル
+  en: Houndour
+weakness:
+  type: Grass
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: げきをとばす 
+    en: Call to Muster
+  cost:
+  - Darkness
+  damage:
+  effect_text:
+    ja: 自分の山札から基本エネルギーを2枚まで選び、自分のポケモンに好きなようにつける。そして山札を切る。
+    en: Search your deck for up to 2 Basic Energy cards and attach them to your Pokémon in any way you like. Then, shuffle your deck.
+- position: 1
+  name:
+    ja: しっこくのキバ
+    en: Pitch-Black Fangs
+  cost:
+  - Darkness
+  - Colorless
+  - Colorless
+  damage: '100'
+  effect_text:
+    ja:
+    en:
+first_appearance:
+  set_name_ja: スタートデッキGenerations ルギアex・バンギラスex
+  released_at: '2024-11-22'
+  regulation_mark: H
+  collector_number: '077'
+  image_url:

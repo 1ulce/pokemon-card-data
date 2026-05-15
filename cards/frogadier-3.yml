@@ -1,0 +1,58 @@
+---
+schema_version: 1
+slug: frogadier-3
+name:
+  ja: ゲコガシラ
+  en: Frogadier
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Water
+hp: 100
+retreat_cost: 1
+regulation_mark:
+meta_tags: []
+evolves_from:
+  ja: ケロマツ
+  en: Froakie
+weakness:
+  type: Lightning
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: よびよせのじゅつ 
+    en:
+  cost:
+  - Water
+  damage:
+  effect_text:
+    ja: 自分の山札からポケモンを3枚まで選び、相手に見せて、手札に加える。そして山札を切る。
+    en:
+- position: 1
+  name:
+    ja: アクアエッジ
+    en:
+  cost:
+  - Water
+  - Water
+  damage: '50'
+  effect_text:
+    ja:
+    en:
+first_appearance:
+  set_name_ja: ニンジャスピナー
+  released_at: '2026-03-13'
+  regulation_mark: J
+  collector_number: '021'
+  image_url:

@@ -1,0 +1,60 @@
+---
+schema_version: 1
+slug: iron-moth
+name:
+  ja: テツノドクガ
+  en: Iron Moth
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Fire
+hp: 120
+retreat_cost: 2
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Water
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: きゅういん
+    en:
+  cost:
+  - Colorless
+  - Colorless
+  damage: '30'
+  effect_text:
+    ja: 相手のバトルポケモンに与えたダメージぶん、このポケモンのHPを回復する。
+    en:
+- position: 1
+  name:
+    ja: ワイルドリジェクター
+    en:
+  cost:
+  - Fire
+  - Fire
+  - Colorless
+  damage: '120'
+  effect_text:
+    ja: 次の相手の番、このポケモンは「古代」のポケモンからワザのダメージを受けない。
+    en:
+first_appearance:
+  set_name_ja: ナイトワンダラー
+  released_at: '2024-06-07'
+  regulation_mark: H
+  collector_number: '009'
+  image_url:

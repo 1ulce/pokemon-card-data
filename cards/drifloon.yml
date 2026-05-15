@@ -1,0 +1,47 @@
+---
+schema_version: 1
+slug: drifloon
+name:
+  ja: フワンテ
+  en: Drifloon
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Psychic
+hp: 70
+retreat_cost: 1
+regulation_mark: I
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Darkness
+  value: "×2"
+resistance:
+  type: Fighting
+  value: "-30"
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: ひっぱる 
+    en: Pull
+  cost:
+  - Psychic
+  damage:
+  effect_text:
+    ja: コインを1回投げオモテなら、相手のベンチポケモンを1匹選び、バトルポケモンと入れ替える。
+    en: Flip a coin. If heads, switch in 1 of your opponent's Benched Pokémon to the Active Spot.
+first_appearance:
+  set_name_ja: スカーレット＆バイオレット プロモカードパック第9弾
+  released_at:
+  regulation_mark:
+  collector_number: '47169'
+  image_url:

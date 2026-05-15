@@ -1,0 +1,60 @@
+---
+schema_version: 1
+slug: veluza-ex
+name:
+  ja: ミガルーサex
+  en: Veluza ex
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Water
+hp: 210
+retreat_cost: 1
+regulation_mark: H
+meta_tags:
+- ex
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Lightning
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja: ポケモンexがきぜつしたとき、相手はサイドを2枚とる。
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: ひれカッター
+    en: Razor Fin
+  cost:
+  - Water
+  damage: '30'
+  effect_text:
+    ja:
+    en:
+- position: 1
+  name:
+    ja: パージストライク
+    en: Purging Strike
+  cost:
+  - Water
+  - Water
+  - Colorless
+  damage: 120+
+  effect_text:
+    ja: のぞむなら、自分の手札をすべてトラッシュする。トラッシュした場合、120ダメージ追加。
+    en: You may discard your hand. If you discarded any cards in this way, this attack does 120 more damage.
+first_appearance:
+  set_name_ja: スカーレット＆バイオレット プロモカードパック第7弾
+  released_at:
+  regulation_mark:
+  collector_number: '46126'
+  image_url:

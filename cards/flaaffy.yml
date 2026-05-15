@@ -1,0 +1,58 @@
+---
+schema_version: 1
+slug: flaaffy
+name:
+  ja: モココ
+  en: Flaaffy
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Lightning
+hp: 90
+retreat_cost: 2
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja: メリープ
+  en: Mareep
+weakness:
+  type: Fighting
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: ずつき
+    en: Headbutt
+  cost:
+  - Lightning
+  damage: '20'
+  effect_text:
+    ja:
+    en:
+- position: 1
+  name:
+    ja: エレキボール
+    en: Electro Ball
+  cost:
+  - Lightning
+  - Colorless
+  damage: '50'
+  effect_text:
+    ja:
+    en:
+first_appearance:
+  set_name_ja: いつでもどこでも バトルアカデミー
+  released_at:
+  regulation_mark:
+  collector_number: '020'
+  image_url:

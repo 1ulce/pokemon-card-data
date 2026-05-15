@@ -1,0 +1,40 @@
+---
+schema_version: 1
+slug: energy-search
+name:
+  ja: エネルギー転送
+  en: Energy Search
+  prefix:
+card_type: Trainer
+card_subtype: Item
+energy_type:
+hp:
+retreat_cost:
+regulation_mark: J
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type:
+  value:
+resistance:
+  type:
+  value:
+body_text:
+  ja: |-
+    自分の山札から基本エネルギーを1枚選び、相手に見せて、手札に加える。そして山札を切る。
+
+    グッズは、自分の番に何枚でも使える。
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks: []
+first_appearance:
+  set_name_ja: ピカチュウ
+  released_at: '2023-03-24'
+  regulation_mark:
+  collector_number: '017'
+  image_url:

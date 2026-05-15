@@ -1,0 +1,57 @@
+---
+schema_version: 1
+slug: cobalion-ex
+name:
+  ja: コバルオンex
+  en: Cobalion ex
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Metal
+hp: 210
+retreat_cost: 2
+regulation_mark:
+meta_tags:
+- ex
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Fire
+  value: "×2"
+resistance:
+  type: Grass
+  value: "-30"
+body_text:
+  ja:
+  en:
+rules_text:
+  ja: ポケモンexがきぜつしたとき、相手はサイドを2枚とる。
+  en:
+abilities:
+- position: 0
+  name:
+    ja: メタルロード
+    en:
+  effect_text:
+    ja: 自分の番に、このポケモンがベンチからバトル場に出たとき、1回使える。自分の場のポケモンについている鋼エネルギーを好きなだけ選び、このポケモンにつけ替える。
+    en:
+attacks:
+- position: 0
+  name:
+    ja: パワータックル
+    en:
+  cost:
+  - Metal
+  - Metal
+  - Colorless
+  damage: '200'
+  effect_text:
+    ja: 次の自分の番、このポケモンはワザが使えない。
+    en:
+first_appearance:
+  set_name_ja: ニンジャスピナー
+  released_at: '2026-03-13'
+  regulation_mark: J
+  collector_number: '062'
+  image_url:

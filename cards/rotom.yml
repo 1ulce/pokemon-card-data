@@ -1,0 +1,57 @@
+---
+schema_version: 1
+slug: rotom
+name:
+  ja: ロトム
+  en: Rotom
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Lightning
+hp: 80
+retreat_cost: 1
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Fighting
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: クラッシュパルス 
+    en: Crushing Pulse
+  cost:
+  - Lightning
+  damage:
+  effect_text:
+    ja: 相手の手札を見て、その中にある「グッズ」と「ポケモンのどうぐ」を、すべてトラッシュする。
+    en: Your opponent reveals their hand. Discard all Item cards and Pokémon Tool cards you find there.
+- position: 1
+  name:
+    ja: エネショート
+    en: Energy Short
+  cost:
+  - Lightning
+  damage: 20×
+  effect_text:
+    ja: 相手のバトルポケモンについているエネルギーの数×20ダメージ。
+    en: This attack does 20 damage for each Energy attached to your opponent's Active Pokémon.
+first_appearance:
+  set_name_ja: 超電ブレイカー
+  released_at: '2024-10-18'
+  regulation_mark: H
+  collector_number: '037'
+  image_url:

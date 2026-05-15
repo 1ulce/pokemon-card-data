@@ -1,0 +1,61 @@
+---
+schema_version: 1
+slug: iron-thorns
+name:
+  ja: テツノイバラ
+  en: Iron Thorns
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Lightning
+hp: 140
+retreat_cost: 3
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Fighting
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: デスタプレッサー
+    en: Destructo-Press
+  cost:
+  - Lightning
+  - Colorless
+  damage: 70×
+  effect_text:
+    ja: 自分の山札を上から5枚オモテにして、その中にある「未来」のカードの枚数×70ダメージ。オモテにした「未来」のカードはトラッシュし、残りのカードは山札にもどして切る。
+    en: Reveal the top 5 cards of your deck. This attack does 70 damage for each Future card you find there. Then, discard those Future cards and shuffle the other cards back into your deck.
+- position: 1
+  name:
+    ja: メガトンラリアット
+    en: Megaton Lariat
+  cost:
+  - Lightning
+  - Lightning
+  - Lightning
+  - Colorless
+  damage: '140'
+  effect_text:
+    ja:
+    en:
+first_appearance:
+  set_name_ja: サイバージャッジ
+  released_at: '2024-01-26'
+  regulation_mark: H
+  collector_number: '030'
+  image_url:

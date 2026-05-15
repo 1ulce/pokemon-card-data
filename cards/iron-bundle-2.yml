@@ -1,0 +1,49 @@
+---
+schema_version: 1
+slug: iron-bundle-2
+name:
+  ja: テツノツツミ
+  en: Iron Bundle
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Water
+hp: 100
+retreat_cost: 1
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Lightning
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: ガストコリジョン
+    en: Gusting Collision
+  cost:
+  - Water
+  - Water
+  - Colorless
+  damage: 200-
+  effect_text:
+    ja: 相手のバトルポケモンのにげるためのエネルギーの数×50ダメージぶん、このワザのダメージは小さくなる。
+    en: This attack does 50 less damage for each [C] in your opponent's Active Pokémon's Retreat Cost.
+first_appearance:
+  set_name_ja: 超電ブレイカー
+  released_at: '2024-10-18'
+  regulation_mark: H
+  collector_number: '031'
+  image_url:

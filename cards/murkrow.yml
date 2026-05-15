@@ -1,0 +1,47 @@
+---
+schema_version: 1
+slug: murkrow
+name:
+  ja: ヤミカラス
+  en: Murkrow
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Darkness
+hp: 60
+retreat_cost: 1
+regulation_mark: I
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Lightning
+  value: "×2"
+resistance:
+  type: Fighting
+  value: "-30"
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: おそいかかる
+    en:
+  cost:
+  - Darkness
+  damage: 10+
+  effect_text:
+    ja: コインを1回投げオモテなら、20ダメージ追加。
+    en:
+first_appearance:
+  set_name_ja: スターターセットMEGA メガゲンガーex
+  released_at: '2025-09-05'
+  regulation_mark: I
+  collector_number: '004'
+  image_url:

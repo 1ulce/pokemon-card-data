@@ -1,0 +1,56 @@
+---
+schema_version: 1
+slug: dusknoir
+name:
+  ja: ヨノワール
+  en: Dusknoir
+  prefix:
+card_type: Pokémon
+card_subtype: 2進化
+energy_type: Psychic
+hp: 160
+retreat_cost: 3
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja: サマヨール
+  en: Dusclops
+weakness:
+  type: Darkness
+  value: "×2"
+resistance:
+  type: Fighting
+  value: "-30"
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities:
+- position: 0
+  name:
+    ja: カースドボム
+    en: Cursed Blast
+  effect_text:
+    ja: 自分の番に1回使えて、使ったなら、このポケモンをきぜつさせる。相手のポケモン1匹に、ダメカンを13個のせる。
+    en: Once during your turn, you may put 13 damage counters on 1 of your opponent's Pokémon. If you use this Ability, this Pokémon is Knocked Out.
+attacks:
+- position: 0
+  name:
+    ja: かげしばり
+    en: Shadow Bind
+  cost:
+  - Psychic
+  - Psychic
+  - Colorless
+  damage: '150'
+  effect_text:
+    ja: 次の相手の番、このワザを受けたポケモンは、にげられない。
+    en: During your opponent's next turn, the Defending Pokémon can't retreat.
+first_appearance:
+  set_name_ja: ナイトワンダラー
+  released_at: '2024-06-07'
+  regulation_mark: H
+  collector_number: '020'
+  image_url:

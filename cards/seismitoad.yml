@@ -1,0 +1,62 @@
+---
+schema_version: 1
+slug: seismitoad
+name:
+  ja: ガマゲロゲ
+  en: Seismitoad
+  prefix:
+card_type: Pokémon
+card_subtype: 2進化
+energy_type: Water
+hp: 170
+retreat_cost: 3
+regulation_mark: I
+meta_tags: []
+evolves_from:
+  ja: ガマガル
+  en: Palpitoad
+weakness:
+  type: Lightning
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: りんしょう
+    en: Round
+  cost:
+  - Colorless
+  - Colorless
+  - Colorless
+  damage: 70×
+  effect_text:
+    ja: 自分の場の、ワザ「りんしょう」を持つポケモンの数×70ダメージ。
+    en: This attack does 70 damage for each of your Pokémon in play that has the Round attack.
+- position: 1
+  name:
+    ja: ハイパーボイス
+    en: Hyper Voice
+  cost:
+  - Water
+  - Colorless
+  - Colorless
+  - Colorless
+  damage: '160'
+  effect_text:
+    ja:
+    en:
+first_appearance:
+  set_name_ja: ブラックボルト
+  released_at: '2025-06-06'
+  regulation_mark: I
+  collector_number: '024'
+  image_url:

@@ -1,0 +1,47 @@
+---
+schema_version: 1
+slug: liepard
+name:
+  ja: レパルダス
+  en: Liepard
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Darkness
+hp: 110
+retreat_cost: 1
+regulation_mark: I
+meta_tags: []
+evolves_from:
+  ja: チョロネコ
+  en: Purrloin
+weakness:
+  type: Grass
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: はたきおとす
+    en:
+  cost:
+  - Darkness
+  damage: '50'
+  effect_text:
+    ja: 相手の手札からオモテを見ないで1枚選び、トラッシュする。
+    en:
+first_appearance:
+  set_name_ja: ホワイトフレア
+  released_at: '2025-06-06'
+  regulation_mark: I
+  collector_number: '053'
+  image_url:

@@ -1,0 +1,40 @@
+---
+schema_version: 1
+slug: black-belt-s-training
+name:
+  ja: からておうの稽古
+  en: Black Belt's Training
+  prefix: Black Belt's
+card_type: Trainer
+card_subtype: Supporter
+energy_type:
+hp:
+retreat_cost:
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type:
+  value:
+resistance:
+  type:
+  value:
+body_text:
+  ja: |-
+    この番、自分のポケモンが使うワザの、相手のバトル場の「ポケモンex」へのダメージは「+40」される。
+
+    サポートは、自分の番に1枚しか使えない。
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks: []
+first_appearance:
+  set_name_ja: スタートデッキGenerations ピカチュウex・カビゴンex
+  released_at: '2024-11-22'
+  regulation_mark: H
+  collector_number: '143'
+  image_url:

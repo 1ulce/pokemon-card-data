@@ -1,0 +1,47 @@
+---
+schema_version: 1
+slug: frosmoth-3
+name:
+  ja: モスノウ
+  en: Frosmoth
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Water
+hp: 110
+retreat_cost: 2
+regulation_mark: I
+meta_tags: []
+evolves_from:
+  ja: ユキハミ
+  en: Snom
+weakness:
+  type: Metal
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: こごえるはばたき 
+    en: Chilling Wings
+  cost:
+  - Water
+  damage:
+  effect_text:
+    ja: 相手のポケモン全員に、それぞれ20ダメージ。相手のバトルポケモンをねむりにする。［ベンチは弱点・抵抗力を計算しない。］
+    en: This attack does 20 damage to each of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.) Your opponent's Active Pokémon is now Asleep.
+first_appearance:
+  set_name_ja: メガシンフォニア
+  released_at: '2025-08-01'
+  regulation_mark: I
+  collector_number: '025'
+  image_url:

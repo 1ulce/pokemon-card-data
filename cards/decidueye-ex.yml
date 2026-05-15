@@ -1,0 +1,58 @@
+---
+schema_version: 1
+slug: decidueye-ex
+name:
+  ja: ジュナイパーex
+  en: Decidueye ex
+  prefix:
+card_type: Pokémon
+card_subtype: 2進化
+energy_type: Grass
+hp: 320
+retreat_cost: 2
+regulation_mark: J
+meta_tags:
+- ex
+evolves_from:
+  ja: フクスロー
+  en: Dartrix
+weakness:
+  type: Fire
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja: ポケモンexがきぜつしたとき、相手はサイドを2枚とる。
+  en:
+abilities:
+- position: 0
+  name:
+    ja: スナイパーアイ
+    en: Sniper's Eye
+  effect_text:
+    ja: 相手の手札が4枚なら、このポケモンはワザを使うためのエネルギーが、すべてなくなる。
+    en: If your opponent has exactly 4 cards in their hand, ignore all [C] Energy in the costs of attacks used by this Pokémon.
+attacks:
+- position: 0
+  name:
+    ja: クラッシュアロー
+    en: Crushing Arrow
+  cost:
+  - Grass
+  - Colorless
+  - Colorless
+  - Colorless
+  damage: '240'
+  effect_text:
+    ja: 相手のバトルポケモンについているエネルギーを1個選び、トラッシュする。
+    en: Discard an Energy from your opponent's Active Pokémon.
+first_appearance:
+  set_name_ja: ムニキスゼロ
+  released_at: '2026-01-23'
+  regulation_mark: J
+  collector_number: '012'
+  image_url:

@@ -1,0 +1,47 @@
+---
+schema_version: 1
+slug: pikachu
+name:
+  ja: ピカチュウ
+  en: Pikachu
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Lightning
+hp: 60
+retreat_cost: 1
+regulation_mark:
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Fighting
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: くつろぐ 
+    en:
+  cost:
+  - Colorless
+  damage:
+  effect_text:
+    ja: このポケモンのHPを「20」回復する。
+    en:
+first_appearance:
+  set_name_ja: Pokémon Trading Card Game イラストレーションコンテスト 2024
+  released_at:
+  regulation_mark:
+  collector_number: '47363'
+  image_url:

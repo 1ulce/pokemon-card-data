@@ -1,0 +1,44 @@
+---
+schema_version: 1
+slug: iris-s-fighting-spirit
+name:
+  ja: アイリスの闘志
+  en: Iris's Fighting Spirit
+  prefix: Iris's
+card_type: Trainer
+card_subtype: Supporter
+energy_type:
+hp:
+retreat_cost:
+regulation_mark: I
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type:
+  value:
+resistance:
+  type:
+  value:
+body_text:
+  ja: |-
+    このカードは、自分の手札を1枚トラッシュしなければ使えない。
+
+
+
+    自分の手札が6枚になるように、山札を引く。
+
+    サポートは、自分の番に1枚しか使えない。
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks: []
+first_appearance:
+  set_name_ja: バトルパートナーズ
+  released_at: '2025-01-24'
+  regulation_mark: I
+  collector_number: '094'
+  image_url:

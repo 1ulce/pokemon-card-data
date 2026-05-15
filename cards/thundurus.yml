@@ -1,0 +1,59 @@
+---
+schema_version: 1
+slug: thundurus
+name:
+  ja: ボルトロス
+  en: Thundurus
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Lightning
+hp: 120
+retreat_cost: 1
+regulation_mark: I
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Fighting
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: じゅうでん 
+    en: Charge
+  cost:
+  - Colorless
+  damage:
+  effect_text:
+    ja: 自分の山札から「基本雷エネルギー」を1枚選び、このポケモンにつける。そして山札を切る。
+    en: Search your deck for a Basic [L] Energy card and attach it to this Pokémon. Then, shuffle your deck.
+- position: 1
+  name:
+    ja: ディザスターボルト
+    en: Disaster Volt
+  cost:
+  - Lightning
+  - Colorless
+  - Colorless
+  damage: '110'
+  effect_text:
+    ja: このポケモンについているエネルギーを1個選び、トラッシュする。
+    en: Discard an Energy from this Pokémon.
+first_appearance:
+  set_name_ja: ブラックボルト
+  released_at: '2025-06-06'
+  regulation_mark: I
+  collector_number: '036'
+  image_url:

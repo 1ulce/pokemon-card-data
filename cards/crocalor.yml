@@ -1,0 +1,48 @@
+---
+schema_version: 1
+slug: crocalor
+name:
+  ja: アチゲータ
+  en: Crocalor
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Fire
+hp: 110
+retreat_cost: 3
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja: ホゲータ
+  en: Fuecoco
+weakness:
+  type: Water
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: ヒートブレス
+    en:
+  cost:
+  - Fire
+  - Colorless
+  damage: 30+
+  effect_text:
+    ja: コインを1回投げオモテなら、50ダメージ追加。
+    en:
+first_appearance:
+  set_name_ja: 超電ブレイカー
+  released_at: '2024-10-18'
+  regulation_mark: H
+  collector_number: '018'
+  image_url:

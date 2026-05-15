@@ -1,0 +1,47 @@
+---
+schema_version: 1
+slug: feebas-2
+name:
+  ja: ヒンバス
+  en: Feebas
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Water
+hp: 30
+retreat_cost: 1
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Lightning
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: はねにげ 
+    en: Leap Out
+  cost:
+  - Colorless
+  damage:
+  effect_text:
+    ja: このポケモンをベンチポケモンと入れ替える。
+    en: Switch this Pokémon with 1 of your Benched Pokémon.
+first_appearance:
+  set_name_ja: 超電ブレイカー
+  released_at: '2024-10-18'
+  regulation_mark: H
+  collector_number: '025'
+  image_url:

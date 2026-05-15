@@ -1,0 +1,58 @@
+---
+schema_version: 1
+slug: hop-s-rookidee-2
+name:
+  ja: ホップのココガラ
+  en: Hop's Rookidee
+  prefix: Hop's
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Colorless
+hp: 60
+retreat_cost: 1
+regulation_mark: I
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Lightning
+  value: "×2"
+resistance:
+  type: Fighting
+  value: "-30"
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: こわいしせん 
+    en: Intimidating Stare
+  cost:
+  - Colorless
+  damage:
+  effect_text:
+    ja: 次の相手の番、このワザを受けたポケモンが使うワザのダメージは「-20」される。
+    en: During your opponent's next turn, attacks used by the Defending Pokémon do 20 less damage (before applying Weakness and Resistance).
+- position: 1
+  name:
+    ja: つつく
+    en: Peck
+  cost:
+  - Colorless
+  - Colorless
+  damage: '20'
+  effect_text:
+    ja:
+    en:
+first_appearance:
+  set_name_ja: バトルパートナーズ
+  released_at: '2025-01-24'
+  regulation_mark: I
+  collector_number: '083'
+  image_url:

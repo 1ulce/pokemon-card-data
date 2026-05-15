@@ -1,0 +1,62 @@
+---
+schema_version: 1
+slug: umbreon-ex
+name:
+  ja: ブラッキーex
+  en: Umbreon ex
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Darkness
+hp: 280
+retreat_cost: 2
+regulation_mark: H
+meta_tags:
+- ex
+evolves_from:
+  ja: イーブイ
+  en: Eevee
+weakness:
+  type: Grass
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja: ポケモンexがきぜつしたとき、相手はサイドを2枚とる。
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: ムーンミラージュ
+    en: Moon Mirage
+  cost:
+  - Darkness
+  - Colorless
+  - Colorless
+  damage: '160'
+  effect_text:
+    ja: 相手のバトルポケモンをこんらんにする。
+    en: Your opponent's Active Pokémon is now Confused.
+- position: 1
+  name:
+    ja: オニキス 
+    en: Onyx
+  cost:
+  - Lightning
+  - Psychic
+  - Darkness
+  damage:
+  effect_text:
+    ja: このポケモンについているエネルギーをすべてトラッシュし、自分のサイドを1枚とる。
+    en: Discard all Energy from this Pokémon, and take a Prize card.
+first_appearance:
+  set_name_ja: テラスタルフェスex
+  released_at: '2024-12-06'
+  regulation_mark: H
+  collector_number: '093'
+  image_url:

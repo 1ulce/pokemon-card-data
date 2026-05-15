@@ -1,0 +1,54 @@
+---
+schema_version: 1
+slug: rabsca
+name:
+  ja: ベラカス
+  en: Rabsca
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Grass
+hp: 70
+retreat_cost: 1
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja: シガロコ
+  en: Rellor
+weakness:
+  type: Fire
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities:
+- position: 0
+  name:
+    ja: スフィアシールド
+    en: Spherical Shield
+  effect_text:
+    ja: このポケモンがいるかぎり、自分のベンチポケモン全員は、相手のポケモンからワザのダメージや効果を受けない。
+    en: Prevent all damage from and effects of attacks from your opponent's Pokémon done to your Benched Pokémon.
+attacks:
+- position: 0
+  name:
+    ja: サイコキネシス
+    en: Psychic
+  cost:
+  - Grass
+  damage: 10+
+  effect_text:
+    ja: 相手のバトルポケモンについているエネルギーの数×30ダメージ追加。
+    en: This attack does 30 more damage for each Energy attached to your opponent's Active Pokémon.
+first_appearance:
+  set_name_ja: サイバージャッジ
+  released_at: '2024-01-26'
+  regulation_mark: H
+  collector_number: '015'
+  image_url:

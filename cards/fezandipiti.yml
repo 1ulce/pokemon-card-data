@@ -1,0 +1,54 @@
+---
+schema_version: 1
+slug: fezandipiti
+name:
+  ja: キチキギス
+  en: Fezandipiti
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Psychic
+hp: 120
+retreat_cost: 1
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Metal
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities:
+- position: 0
+  name:
+    ja: アドレナフェロモン
+    en: Adrena-Pheromone
+  effect_text:
+    ja: このポケモンに悪エネルギーがついているなら、このポケモンがワザのダメージを受けるとき、自分はコインを1回投げる。オモテなら、このポケモンはそのダメージを受けない。
+    en: If this Pokémon has any [D] Energy attached and is damaged by an attack, flip a coin. If heads, prevent that damage.
+attacks:
+- position: 0
+  name:
+    ja: エナジーフェザー
+    en: Energy Feather
+  cost:
+  - Psychic
+  damage: 30×
+  effect_text:
+    ja: このポケモンについているエネルギーの数×30ダメージ。
+    en: This attack does 30 damage for each Energy attached to this Pokémon.
+first_appearance:
+  set_name_ja: 変幻の仮面
+  released_at: '2024-04-26'
+  regulation_mark: H
+  collector_number: '056'
+  image_url:

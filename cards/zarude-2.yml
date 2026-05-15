@@ -1,0 +1,59 @@
+---
+schema_version: 1
+slug: zarude-2
+name:
+  ja: ザルード
+  en: Zarude
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Grass
+hp: 120
+retreat_cost: 1
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Fire
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: リーフドレイン
+    en: Leaf Drain
+  cost:
+  - Grass
+  damage: '20'
+  effect_text:
+    ja: このポケモンのHPを「20」回復する。
+    en: Heal 20 damage from this Pokémon.
+- position: 1
+  name:
+    ja: ジャングルウィップ
+    en: Jungle Whip
+  cost:
+  - Grass
+  - Grass
+  - Colorless
+  damage: 80+
+  effect_text:
+    ja: のぞむなら、このポケモンについているエネルギーをすべて手札にもどし、80ダメージ追加。
+    en: You may put all Energy attached to this Pokémon into your hand to have this attack do 80 more damage.
+first_appearance:
+  set_name_ja: 楽園ドラゴーナ
+  released_at: '2024-09-13'
+  regulation_mark: H
+  collector_number: '005'
+  image_url:

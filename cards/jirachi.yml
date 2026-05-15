@@ -1,0 +1,58 @@
+---
+schema_version: 1
+slug: jirachi
+name:
+  ja: ジラーチ
+  en: Jirachi
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Metal
+hp: 80
+retreat_cost: 1
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Fire
+  value: "×2"
+resistance:
+  type: Grass
+  value: "-30"
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: みなぎるねがい 
+    en:
+  cost:
+  - Colorless
+  damage:
+  effect_text:
+    ja: 自分のトラッシュから基本エネルギーを1枚選び、ベンチポケモンにつける。
+    en:
+- position: 1
+  name:
+    ja: ビンタ
+    en:
+  cost:
+  - Metal
+  - Colorless
+  damage: '30'
+  effect_text:
+    ja:
+    en:
+first_appearance:
+  set_name_ja: バトルアカデミー
+  released_at: '2024-03-08'
+  regulation_mark: H
+  collector_number: '039'
+  image_url:

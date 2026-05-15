@@ -1,0 +1,62 @@
+---
+schema_version: 1
+slug: magnezone
+name:
+  ja: ジバコイル
+  en: Magnezone
+  prefix:
+card_type: Pokémon
+card_subtype: 2進化
+energy_type: Lightning
+hp: 170
+retreat_cost: 3
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja: レアコイル
+  en: Magneton
+weakness:
+  type: Fighting
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: きょうりょくじば
+    en: Mighty Magnetism
+  cost:
+  - Lightning
+  - Colorless
+  - Colorless
+  damage: '80'
+  effect_text:
+    ja: 相手のバトルポケモンをこんらんにする。次の相手の番、このワザを受けたポケモンは、にげられない。
+    en: Your opponent's Active Pokémon is now Confused. During your opponent's next turn, that Pokémon can't retreat.
+- position: 1
+  name:
+    ja: でんじほう
+    en: Zap Cannon
+  cost:
+  - Lightning
+  - Colorless
+  - Colorless
+  - Colorless
+  damage: '180'
+  effect_text:
+    ja: 次の自分の番、このポケモンは「でんじほう」が使えない。
+    en: During your next turn, this Pokémon can't use Zap Cannon.
+first_appearance:
+  set_name_ja: 超電ブレイカー
+  released_at: '2024-10-18'
+  regulation_mark: H
+  collector_number: '036'
+  image_url:

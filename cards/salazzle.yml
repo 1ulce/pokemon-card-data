@@ -1,0 +1,60 @@
+---
+schema_version: 1
+slug: salazzle
+name:
+  ja: エンニュート
+  en: Salazzle
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Fire
+hp: 120
+retreat_cost: 1
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja: ヤトウモリ
+  en: Salandit
+weakness:
+  type: Water
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: いきなりあぶる 
+    en: Sudden Scorching
+  cost:
+  - Colorless
+  - Colorless
+  damage:
+  effect_text:
+    ja: 相手は相手自身の手札を1枚選び、トラッシュする。この番、このポケモンが「ヤトウモリ」から進化していたなら、さらに2枚トラッシュする。
+    en: Your opponent discards a card from their hand. If this Pokémon evolved from Salandit during this turn, your opponent discards 2 more cards.
+- position: 1
+  name:
+    ja: かえんほうしゃ
+    en: Flamethrower
+  cost:
+  - Fire
+  - Colorless
+  - Colorless
+  damage: '130'
+  effect_text:
+    ja: このポケモンについているエネルギーを1個選び、トラッシュする。
+    en: Discard an Energy from this Pokémon.
+first_appearance:
+  set_name_ja: ステラミラクル
+  released_at: '2024-07-19'
+  regulation_mark: H
+  collector_number: '014'
+  image_url:

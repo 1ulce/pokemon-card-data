@@ -1,0 +1,47 @@
+---
+schema_version: 1
+slug: medicham-4
+name:
+  ja: チャーレム
+  en: Medicham
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Fighting
+hp: 120
+retreat_cost: 1
+regulation_mark: I
+meta_tags: []
+evolves_from:
+  ja: アサナン
+  en: Meditite
+weakness:
+  type: Psychic
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: あいきしょう
+    en: Harmonious Spirit Palm
+  cost:
+  - Fighting
+  damage: 50+
+  effect_text:
+    ja: このポケモンと相手のバトルポケモンについているエネルギーの数が同じなら、120ダメージ追加。
+    en: If this Pokémon and your opponent's Active Pokémon have the same amount of Energy attached, this attack does 120 more damage.
+first_appearance:
+  set_name_ja: ロケット団の栄光
+  released_at: '2025-04-18'
+  regulation_mark: I
+  collector_number: '054'
+  image_url:

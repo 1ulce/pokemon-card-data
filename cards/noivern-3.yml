@@ -1,0 +1,56 @@
+---
+schema_version: 1
+slug: noivern-3
+name:
+  ja: オンバーン
+  en: Noivern
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Colorless
+hp: 110
+retreat_cost: 0
+regulation_mark: I
+meta_tags: []
+evolves_from:
+  ja: オンバット
+  en: Noibat
+weakness:
+  type: Lightning
+  value: "×2"
+resistance:
+  type: Fighting
+  value: "-30"
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities:
+- position: 0
+  name:
+    ja: チューニングエコー
+    en: Tuning Echo
+  effect_text:
+    ja: 自分の手札と相手の手札が同じ枚数なら、このポケモンが「パニックハウル」を使うためのエネルギーは、すべてなくなる。
+    en: If you have the same number of cards in your hand as your opponent, ignore all Energy in the cost of Frightening Howl used by this Pokémon.
+attacks:
+- position: 0
+  name:
+    ja: パニックハウル
+    en: Frightening Howl
+  cost:
+  - Colorless
+  - Colorless
+  - Colorless
+  damage: '110'
+  effect_text:
+    ja: 相手のバトルポケモンをこんらんにする。
+    en: Your opponent's Active Pokémon is now Confused.
+first_appearance:
+  set_name_ja: バトルパートナーズ
+  released_at: '2025-01-24'
+  regulation_mark: I
+  collector_number: '081'
+  image_url:

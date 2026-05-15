@@ -1,0 +1,60 @@
+---
+schema_version: 1
+slug: torkoal
+name:
+  ja: コータス
+  en: Torkoal
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Fire
+hp: 130
+retreat_cost: 3
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Water
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: こうらでぶつかる
+    en: Ramming Shell
+  cost:
+  - Fire
+  - Colorless
+  damage: '30'
+  effect_text:
+    ja: 次の相手の番、このポケモンが受けるワザのダメージは「-30」される。
+    en: During your opponent's next turn, this Pokémon takes 30 less damage from attacks (after applying Weakness and Resistance).
+- position: 1
+  name:
+    ja: ほのおのうず
+    en: Fire Spin
+  cost:
+  - Fire
+  - Colorless
+  - Colorless
+  damage: '110'
+  effect_text:
+    ja: このポケモンについているエネルギーを2個選び、トラッシュする。
+    en: Discard 2 Energy from this Pokémon.
+first_appearance:
+  set_name_ja: クリムゾンヘイズ
+  released_at: '2024-03-22'
+  regulation_mark: H
+  collector_number: '014'
+  image_url:

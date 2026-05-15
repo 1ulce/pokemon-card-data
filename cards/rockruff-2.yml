@@ -1,0 +1,58 @@
+---
+schema_version: 1
+slug: rockruff-2
+name:
+  ja: イワンコ
+  en: Rockruff
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Fighting
+hp: 70
+retreat_cost: 1
+regulation_mark: I
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Grass
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: ほりかえす 
+    en: Dig It Up
+  cost:
+  - Colorless
+  damage:
+  effect_text:
+    ja: 自分の山札を上から1枚見て、もとにもどす。のぞむなら、そのカードをトラッシュする。
+    en: Look at the top card of your deck. You may discard that card.
+- position: 1
+  name:
+    ja: ふむ
+    en: Stampede
+  cost:
+  - Colorless
+  - Colorless
+  damage: '20'
+  effect_text:
+    ja:
+    en:
+first_appearance:
+  set_name_ja: バトルパートナーズ
+  released_at: '2025-01-24'
+  regulation_mark: I
+  collector_number: '051'
+  image_url:

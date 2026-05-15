@@ -1,0 +1,61 @@
+---
+schema_version: 1
+slug: steelix
+name:
+  ja: ハガネール
+  en: Steelix
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Metal
+hp: 200
+retreat_cost: 4
+regulation_mark: I
+meta_tags: []
+evolves_from:
+  ja: イワーク
+  en: Onix
+weakness:
+  type: Fire
+  value: "×2"
+resistance:
+  type: Grass
+  value: "-30"
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: ウェルカムテール
+    en: Welcoming Tail
+  cost:
+  - Colorless
+  - Colorless
+  damage: 40+
+  effect_text:
+    ja: 自分のサイドの残り枚数が6枚なら、200ダメージ追加。
+    en: If you have exactly 6 Prize cards remaining, this attack does 200 more damage.
+- position: 1
+  name:
+    ja: ロケットずつき
+    en: Skull Bash
+  cost:
+  - Metal
+  - Metal
+  - Colorless
+  - Colorless
+  damage: '140'
+  effect_text:
+    ja:
+    en:
+first_appearance:
+  set_name_ja: メガブレイブ
+  released_at: '2025-08-01'
+  regulation_mark: I
+  collector_number: '045'
+  image_url:

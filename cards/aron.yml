@@ -1,0 +1,47 @@
+---
+schema_version: 1
+slug: aron
+name:
+  ja: ココドラ
+  en: Aron
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Metal
+hp: 70
+retreat_cost: 2
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Fire
+  value: "×2"
+resistance:
+  type: Grass
+  value: "-30"
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: すてみタックル
+    en: Double-Edge
+  cost:
+  - Metal
+  damage: '20'
+  effect_text:
+    ja: このポケモンにも10ダメージ。
+    en: This Pokémon also does 10 damage to itself.
+first_appearance:
+  set_name_ja: 変幻の仮面
+  released_at: '2024-04-26'
+  regulation_mark: H
+  collector_number: '073'
+  image_url:

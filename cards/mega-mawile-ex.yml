@@ -1,0 +1,62 @@
+---
+schema_version: 1
+slug: mega-mawile-ex
+name:
+  ja: メガクチートex
+  en: Mega Mawile ex
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Metal
+hp: 270
+retreat_cost: 2
+regulation_mark: I
+meta_tags:
+- ex
+- mega
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Fire
+  value: "×2"
+resistance:
+  type: Grass
+  value: "-30"
+body_text:
+  ja:
+  en:
+rules_text:
+  ja: メガシンカexがきぜつしたとき、相手はサイドを3枚とる。
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: がっつく
+    en: Gobble Down
+  cost:
+  - Metal
+  - Metal
+  damage: 80×
+  effect_text:
+    ja: 自分がすでにとったサイドの枚数×80ダメージ。
+    en: This attack does 80 damage for each Prize card you have taken.
+- position: 1
+  name:
+    ja: ビッグバイト
+    en: Huge Bite
+  cost:
+  - Metal
+  - Metal
+  - Colorless
+  damage: '260'
+  effect_text:
+    ja: 相手のバトルポケモンにダメカンがのっているなら、このワザのダメージは「30」になる。
+    en: If your opponent's Active Pokémon already has any damage counters on it, this attack's base damage is 30.
+first_appearance:
+  set_name_ja: メガブレイブ
+  released_at: '2025-08-01'
+  regulation_mark: I
+  collector_number: '046'
+  image_url:

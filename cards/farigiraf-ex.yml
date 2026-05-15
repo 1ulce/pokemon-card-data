@@ -1,0 +1,57 @@
+---
+schema_version: 1
+slug: farigiraf-ex
+name:
+  ja: リキキリンex
+  en: Farigiraf ex
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Darkness
+hp: 260
+retreat_cost: 2
+regulation_mark: H
+meta_tags:
+- ex
+evolves_from:
+  ja: キリンリキ
+  en: Girafarig
+weakness:
+  type: Grass
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja: ポケモンexがきぜつしたとき、相手はサイドを2枚とる。
+  en:
+abilities:
+- position: 0
+  name:
+    ja: テイルアーマー
+    en: Armor Tail
+  effect_text:
+    ja: このポケモンは、相手のたねポケモンの「ポケモンex」からワザのダメージを受けない。
+    en: Prevent all damage done to this Pokémon by attacks from your opponent's Basic Pokémon ex.
+attacks:
+- position: 0
+  name:
+    ja: ダーティビーム
+    en: Dirty Beam
+  cost:
+  - Psychic
+  - Colorless
+  - Colorless
+  damage: '160'
+  effect_text:
+    ja: 相手のベンチポケモン1匹にも、30ダメージ。［ベンチは弱点・抵抗力を計算しない。］
+    en: This attack also does 30 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)
+first_appearance:
+  set_name_ja: サイバージャッジ
+  released_at: '2024-01-26'
+  regulation_mark: H
+  collector_number: '042'
+  image_url:

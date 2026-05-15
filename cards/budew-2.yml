@@ -1,0 +1,46 @@
+---
+schema_version: 1
+slug: budew-2
+name:
+  ja: スボミー
+  en: Budew
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Grass
+hp: 30
+retreat_cost: 0
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Fire
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: むずむずかふん
+    en: Itchy Pollen
+  cost: []
+  damage: '10'
+  effect_text:
+    ja: 次の相手の番、相手は手札からグッズを出して使えない。
+    en: During your opponent's next turn, they can't play any Item cards from their hand.
+first_appearance:
+  set_name_ja: テラスタルフェスex
+  released_at: '2024-12-06'
+  regulation_mark: H
+  collector_number: '001'
+  image_url:

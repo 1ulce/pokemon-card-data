@@ -1,0 +1,48 @@
+---
+schema_version: 1
+slug: haunter
+name:
+  ja: ゴースト
+  en: Haunter
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Darkness
+hp: 90
+retreat_cost: 1
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja: ゴース
+  en: Gastly
+weakness:
+  type: Fighting
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: どくのいき
+    en: Super Poison Breath
+  cost:
+  - Darkness
+  - Darkness
+  damage: '30'
+  effect_text:
+    ja: 相手のバトルポケモンをどくにする。
+    en: Your opponent's Active Pokémon is now Poisoned.
+first_appearance:
+  set_name_ja: ワイルドフォース
+  released_at: '2024-01-26'
+  regulation_mark: H
+  collector_number: '046'
+  image_url:

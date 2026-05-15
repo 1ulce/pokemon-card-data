@@ -1,0 +1,47 @@
+---
+schema_version: 1
+slug: mow-rotom
+name:
+  ja: カットロトム
+  en: Mow Rotom
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Grass
+hp: 90
+retreat_cost: 1
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Fire
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: かりとりダッシュ
+    en: Reaping Dash
+  cost:
+  - Colorless
+  damage: '30'
+  effect_text:
+    ja: ダメージを与える前に、相手のバトルポケモンについている「ポケモンのどうぐ」と「特殊エネルギー」を、すべてトラッシュする。
+    en: Before doing damage, discard all Pokémon Tools and Special Energy from your opponent's Active Pokémon.
+first_appearance:
+  set_name_ja: ステラミラクル
+  released_at: '2024-07-19'
+  regulation_mark: H
+  collector_number: '006'
+  image_url:

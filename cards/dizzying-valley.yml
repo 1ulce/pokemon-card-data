@@ -1,0 +1,40 @@
+---
+schema_version: 1
+slug: dizzying-valley
+name:
+  ja: めまいの谷
+  en: Dizzying Valley
+  prefix:
+card_type: Trainer
+card_subtype: Stadium
+energy_type:
+hp:
+retreat_cost:
+regulation_mark: I
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type:
+  value:
+resistance:
+  type:
+  value:
+body_text:
+  ja: |-
+    おたがいのこんらんのポケモンは、進化・退化してもこんらんが回復しない。
+
+    スタジアムは、自分の番に1枚、バトル場の横に出せる。別のスタジアムが場に出たなら、このカードをトラッシュする。同じ名前のスタジアムは場に出せない。
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks: []
+first_appearance:
+  set_name_ja: インフェルノX
+  released_at: '2025-09-26'
+  regulation_mark: I
+  collector_number: '080'
+  image_url:

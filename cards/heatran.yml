@@ -1,0 +1,56 @@
+---
+schema_version: 1
+slug: heatran
+name:
+  ja: ヒードラン
+  en: Heatran
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Metal
+hp: 140
+retreat_cost: 4
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Fire
+  value: "×2"
+resistance:
+  type: Grass
+  value: "-30"
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities:
+- position: 0
+  name:
+    ja: しゃくねつボディ
+    en: Incandescent Body
+  effect_text:
+    ja: このポケモンが、バトル場で相手のポケモンからワザのダメージを受けたとき、ワザを使ったポケモンをやけどにする。
+    en: If this Pokémon is in the Active Spot and is damaged by an attack from your opponent's Pokémon (even if this Pokémon is Knocked Out), the Attacking Pokémon is now Burned.
+attacks:
+- position: 0
+  name:
+    ja: スチールバースト
+    en: Steel Burst
+  cost:
+  - Metal
+  - Colorless
+  - Colorless
+  damage: 50×
+  effect_text:
+    ja: このポケモンについている鋼エネルギーをすべてトラッシュし、その枚数×50ダメージ。
+    en: Discard all [M] Energy from this Pokémon. This attack does 50 damage for each card you discarded in this way.
+first_appearance:
+  set_name_ja: 変幻の仮面
+  released_at: '2024-04-26'
+  regulation_mark: H
+  collector_number: '076'
+  image_url:

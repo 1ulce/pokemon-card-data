@@ -1,0 +1,47 @@
+---
+schema_version: 1
+slug: hawlucha-3
+name:
+  ja: ルチャブル
+  en: Hawlucha
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Fighting
+hp: 70
+retreat_cost: 0
+regulation_mark: J
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Psychic
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: リベンジキック
+    en: Vengeful Kick
+  cost:
+  - Fighting
+  damage: 30+
+  effect_text:
+    ja: 自分のベンチポケモンにダメカンがのっているなら、60ダメージ追加。
+    en: If your Benched Pokémon have any damage counters on them, this attack does 60 more damage.
+first_appearance:
+  set_name_ja: ムニキスゼロ
+  released_at: '2026-01-23'
+  regulation_mark: J
+  collector_number: '045'
+  image_url:

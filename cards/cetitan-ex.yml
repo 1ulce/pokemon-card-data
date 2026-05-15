@@ -1,0 +1,58 @@
+---
+schema_version: 1
+slug: cetitan-ex
+name:
+  ja: ハルクジラex
+  en: Cetitan ex
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Water
+hp: 300
+retreat_cost: 4
+regulation_mark: I
+meta_tags:
+- ex
+evolves_from:
+  ja: アルクジラ
+  en: Cetoddle
+weakness:
+  type: Metal
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja: ポケモンexがきぜつしたとき、相手はサイドを2枚とる。
+  en:
+abilities:
+- position: 0
+  name:
+    ja: ゆきにまぎれる
+    en: Snow Camouflage
+  effect_text:
+    ja: このポケモンは、相手が手札からグッズまたはサポートを出して使ったとき、その効果を受けない。
+    en: Whenever your opponent plays an Item or Supporter card from their hand, prevent all effects of that card done to this Pokémon.
+attacks:
+- position: 0
+  name:
+    ja: クラッシュプレス
+    en: Crushing Press
+  cost:
+  - Water
+  - Water
+  - Water
+  - Colorless
+  damage: 140+
+  effect_text:
+    ja: のぞむなら、場に出ているスタジアムをトラッシュする。その場合、140ダメージ追加。
+    en: You may discard a Stadium in play. If you do, this attack does 140 more damage.
+first_appearance:
+  set_name_ja: ロケット団の栄光
+  released_at: '2025-04-18'
+  regulation_mark: I
+  collector_number: '032'
+  image_url:

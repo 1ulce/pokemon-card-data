@@ -1,0 +1,60 @@
+---
+schema_version: 1
+slug: erika-s-victreebel
+name:
+  ja: エリカのウツボット
+  en: Erika's Victreebel
+  prefix: Erika's
+card_type: Pokémon
+card_subtype: 2進化
+energy_type: Grass
+hp: 150
+retreat_cost: 3
+regulation_mark: J
+meta_tags: []
+evolves_from:
+  ja: エリカのウツドン
+  en: Erika's Weepinbell
+weakness:
+  type: Fire
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: はなぞのロンド
+    en: Flower Garden Rondo
+  cost:
+  - Grass
+  - Colorless
+  damage: 40×
+  effect_text:
+    ja: 自分の場の「エリカのポケモン」の数×40ダメージ。
+    en: This attack does 40 damage for each of your Erika's Pokémon in play.
+- position: 1
+  name:
+    ja: ソーラービーム
+    en: Solar Beam
+  cost:
+  - Grass
+  - Grass
+  - Colorless
+  damage: '130'
+  effect_text:
+    ja:
+    en:
+first_appearance:
+  set_name_ja: スタートデッキ100 バトルコレクション
+  released_at: '2025-12-19'
+  regulation_mark: J
+  collector_number: '008'
+  image_url:

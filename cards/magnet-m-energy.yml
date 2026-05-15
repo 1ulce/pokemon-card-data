@@ -1,0 +1,42 @@
+---
+schema_version: 1
+slug: magnet-m-energy
+name:
+  ja: マグネット鋼エネルギー
+  en: Magnet {M} Energy
+  prefix:
+card_type: Energy
+card_subtype: Special Energy
+energy_type:
+hp:
+retreat_cost:
+regulation_mark:
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type:
+  value:
+resistance:
+  type:
+  value:
+body_text:
+  ja: |-
+    このカードは、ポケモンについているかぎり、鋼エネルギー1個ぶんとしてはたらく。
+
+
+
+    このカードをつけている鋼ポケモンは、にげるためのエネルギーが、すべてなくなる。
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks: []
+first_appearance:
+  set_name_ja: ニンジャスピナー
+  released_at: '2026-03-13'
+  regulation_mark: J
+  collector_number: '083'
+  image_url:

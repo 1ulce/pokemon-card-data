@@ -1,0 +1,47 @@
+---
+schema_version: 1
+slug: antique-root-fossil
+name:
+  ja: 古びたねっこの化石
+  en: Antique Root Fossil
+  prefix:
+card_type: Trainer
+card_subtype: Item
+energy_type:
+hp:
+retreat_cost:
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type:
+  value:
+resistance:
+  type:
+  value:
+body_text:
+  ja: |-
+    このカードは、HP60のタイプのたねポケモンとして、場に出せる。このカードは、特殊状態にならず、にげられない。
+
+    自分の番の中でなら、場に出ているこのカードをトラッシュできる。
+  en:
+rules_text:
+  ja:
+  en:
+abilities:
+- position: 0
+  name:
+    ja: げんしのねっこ
+    en:
+  effect_text:
+    ja: このポケモンがバトル場にいるかぎり、相手のたねポケモンは、ワザを使うためのエネルギーが、エネルギー1個ぶん多くなる。
+    en:
+attacks: []
+first_appearance:
+  set_name_ja: ステラミラクル
+  released_at: '2024-07-19'
+  regulation_mark: H
+  collector_number: '090'
+  image_url:

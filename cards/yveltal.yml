@@ -1,0 +1,59 @@
+---
+schema_version: 1
+slug: yveltal
+name:
+  ja: イベルタル
+  en: Yveltal
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Darkness
+hp: 120
+retreat_cost: 1
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Lightning
+  value: "×2"
+resistance:
+  type: Fighting
+  value: "-30"
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: むしばむかぜ 
+    en: Corrosive Winds
+  cost:
+  - Darkness
+  damage:
+  effect_text:
+    ja: ダメカンがのっている相手のポケモン全員に、それぞれダメカンを2個のせる。
+    en: Put 2 damage counters on each of your opponent's Pokémon that has any damage counters on it.
+- position: 1
+  name:
+    ja: はかいビーム
+    en: Destructive Beam
+  cost:
+  - Darkness
+  - Darkness
+  - Colorless
+  damage: '100'
+  effect_text:
+    ja: コインを1回投げオモテなら、相手のバトルポケモンについているエネルギーを1個選び、トラッシュする。
+    en: Flip a coin. If heads, discard an Energy from your opponent's Active Pokémon.
+first_appearance:
+  set_name_ja: ナイトワンダラー
+  released_at: '2024-06-07'
+  regulation_mark: H
+  collector_number: '035'
+  image_url:

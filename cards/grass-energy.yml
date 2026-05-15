@@ -1,0 +1,37 @@
+---
+schema_version: 1
+slug: grass-energy
+name:
+  ja: 基本草エネルギー
+  en: Grass Energy
+  prefix:
+card_type: Energy
+card_subtype: Basic Energy
+energy_type:
+hp:
+retreat_cost:
+regulation_mark:
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type:
+  value:
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks: []
+first_appearance:
+  set_name_ja: クレイバースト
+  released_at: '2023-04-14'
+  regulation_mark:
+  collector_number: '099'
+  image_url:

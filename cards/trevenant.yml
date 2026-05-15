@@ -1,0 +1,60 @@
+---
+schema_version: 1
+slug: trevenant
+name:
+  ja: オーロット
+  en: Trevenant
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Grass
+hp: 120
+retreat_cost: 3
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja: ボクレー
+  en: Phantump
+weakness:
+  type: Fire
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: ギガドレイン
+    en: Giga Drain
+  cost:
+  - Grass
+  - Colorless
+  damage: '50'
+  effect_text:
+    ja: 相手のバトルポケモンに与えたダメージぶん、このポケモンのHPを回復する。
+    en: Heal from this Pokémon the same amount of damage you did to your opponent's Active Pokémon.
+- position: 1
+  name:
+    ja: フォレストダンプ
+    en: Forest Dump
+  cost:
+  - Grass
+  - Grass
+  - Colorless
+  damage: '130'
+  effect_text:
+    ja:
+    en:
+first_appearance:
+  set_name_ja: 変幻の仮面
+  released_at: '2024-04-26'
+  regulation_mark: H
+  collector_number: '007'
+  image_url:

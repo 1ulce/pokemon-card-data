@@ -1,0 +1,56 @@
+---
+schema_version: 1
+slug: carracosta-2
+name:
+  ja: アバゴーラ
+  en: Carracosta
+  prefix:
+card_type: Pokémon
+card_subtype: 2進化
+energy_type: Water
+hp: 180
+retreat_cost: 3
+regulation_mark: I
+meta_tags: []
+evolves_from:
+  ja: プロトーガ
+  en: Tirtouga
+weakness:
+  type: Lightning
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities:
+- position: 0
+  name:
+    ja: マイティシェル
+    en: Mighty Shell
+  effect_text:
+    ja: このポケモンは、特殊エネルギーがついている相手のポケモンから、ワザのダメージや効果を受けない。
+    en: Prevent all damage from and effects of attacks done to this Pokémon by your opponent's Pokémon that have any Special Energy attached.
+attacks:
+- position: 0
+  name:
+    ja: かじりつく
+    en: Big Bite
+  cost:
+  - Water
+  - Colorless
+  - Colorless
+  damage: '150'
+  effect_text:
+    ja: 次の相手の番、このワザを受けたポケモンは、にげられない。
+    en: During your opponent's next turn, the Defending Pokémon can't retreat.
+first_appearance:
+  set_name_ja: ブラックボルト
+  released_at: '2025-06-06'
+  regulation_mark: I
+  collector_number: '026'
+  image_url:

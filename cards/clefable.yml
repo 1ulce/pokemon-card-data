@@ -1,0 +1,60 @@
+---
+schema_version: 1
+slug: clefable
+name:
+  ja: ピクシー
+  en: Clefable
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Psychic
+hp: 120
+retreat_cost: 2
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja: ピッピ
+  en: Clefairy
+weakness:
+  type: Metal
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: ゆびをふる 
+    en: Metronome
+  cost:
+  - Colorless
+  - Colorless
+  damage:
+  effect_text:
+    ja: 相手のバトルポケモンが持っているワザを1つ選び、このワザとして使う。
+    en: Choose 1 of your opponent's Active Pokémon's attacks and use it as this attack.
+- position: 1
+  name:
+    ja: マジカルショット
+    en: Magical Shot
+  cost:
+  - Psychic
+  - Colorless
+  - Colorless
+  damage: '100'
+  effect_text:
+    ja:
+    en:
+first_appearance:
+  set_name_ja: 変幻の仮面
+  released_at: '2024-04-26'
+  regulation_mark: H
+  collector_number: '046'
+  image_url:

@@ -1,0 +1,60 @@
+---
+schema_version: 1
+slug: drapion
+name:
+  ja: ドラピオン
+  en: Drapion
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Darkness
+hp: 140
+retreat_cost: 3
+regulation_mark: J
+meta_tags: []
+evolves_from:
+  ja: スコルピ
+  en: Skorupi
+weakness:
+  type: Fighting
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: たたきつぶす
+    en: Wrack Down
+  cost:
+  - Darkness
+  - Darkness
+  damage: '60'
+  effect_text:
+    ja:
+    en:
+- position: 1
+  name:
+    ja: ハザードテール
+    en: Hazardous Tail
+  cost:
+  - Darkness
+  - Darkness
+  - Darkness
+  damage: '100'
+  effect_text:
+    ja: このポケモンにも70ダメージ。相手のバトルポケモンをどくとマヒにする。
+    en: This Pokémon also does 70 damage to itself. Your opponent's Active Pokémon is now Paralyzed and Poisoned.
+first_appearance:
+  set_name_ja: ムニキスゼロ
+  released_at: '2026-01-23'
+  regulation_mark: J
+  collector_number: '051'
+  image_url:

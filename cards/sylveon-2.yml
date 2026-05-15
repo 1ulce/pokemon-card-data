@@ -1,0 +1,56 @@
+---
+schema_version: 1
+slug: sylveon-2
+name:
+  ja: ニンフィア
+  en: Sylveon
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Psychic
+hp: 120
+retreat_cost: 1
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja: イーブイ
+  en: Eevee
+weakness:
+  type: Metal
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities:
+- position: 0
+  name:
+    ja: しんぴのまもり
+    en: Safeguard
+  effect_text:
+    ja: このポケモンは、相手の「ポケモンex」からワザのダメージを受けない。
+    en: Prevent all damage done to this Pokémon by attacks from your opponent's Pokémon ex.
+attacks:
+- position: 0
+  name:
+    ja: マジカルショット
+    en: Magical Shot
+  cost:
+  - Psychic
+  - Colorless
+  - Colorless
+  damage: '100'
+  effect_text:
+    ja:
+    en:
+first_appearance:
+  set_name_ja: スタートデッキGenerations ゼルネアスex・オンバーンex
+  released_at: '2024-11-22'
+  regulation_mark: H
+  collector_number: '050'
+  image_url:

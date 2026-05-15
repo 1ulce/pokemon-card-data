@@ -1,0 +1,50 @@
+---
+schema_version: 1
+slug: feraligatr
+name:
+  ja: オーダイル
+  en: Feraligatr
+  prefix:
+card_type: Pokémon
+card_subtype: 2進化
+energy_type: Water
+hp: 180
+retreat_cost: 3
+regulation_mark:
+meta_tags: []
+evolves_from:
+  ja: アリゲイツ
+  en: Croconaw
+weakness:
+  type: Lightning
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: ディープダイビング
+    en:
+  cost:
+  - Water
+  - Water
+  - Water
+  - Colorless
+  damage: '140'
+  effect_text:
+    ja: コインを1回投げオモテなら、次の相手の番、このポケモンはワザのダメージや効果を受けない。
+    en:
+first_appearance:
+  set_name_ja: Pokémon Trading Card Game イラストレーションコンテスト 2024
+  released_at:
+  regulation_mark:
+  collector_number: '47362'
+  image_url:

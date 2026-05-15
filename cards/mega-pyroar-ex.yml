@@ -1,0 +1,62 @@
+---
+schema_version: 1
+slug: mega-pyroar-ex
+name:
+  ja: メガカエンジシex
+  en: Mega Pyroar ex
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Fire
+hp: 340
+retreat_cost: 2
+regulation_mark:
+meta_tags:
+- ex
+- mega
+evolves_from:
+  ja: シシコ
+  en: Litleo
+weakness:
+  type: Water
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja: メガシンカexがきぜつしたとき、相手はサイドを3枚とる。
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: ほえたてる
+    en:
+  cost:
+  - Fire
+  - Colorless
+  damage: '80'
+  effect_text:
+    ja: 次の相手の番、このワザを受けたポケモンが使うワザのダメージは「-50」される。
+    en:
+- position: 1
+  name:
+    ja: ビッグバンファイヤー
+    en:
+  cost:
+  - Fire
+  - Fire
+  - Colorless
+  damage: 290-
+  effect_text:
+    ja: このポケモンにのっているダメカンの数×10ダメージぶん、このワザのダメージは小さくなる。
+    en:
+first_appearance:
+  set_name_ja: ニンジャスピナー
+  released_at: '2026-03-13'
+  regulation_mark: J
+  collector_number: '015'
+  image_url:

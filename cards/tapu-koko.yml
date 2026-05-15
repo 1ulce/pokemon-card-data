@@ -1,0 +1,59 @@
+---
+schema_version: 1
+slug: tapu-koko
+name:
+  ja: カプ・コケコ
+  en: Tapu Koko
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Lightning
+hp: 120
+retreat_cost: 1
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Fighting
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: かみなりをよぶ 
+    en: Summon Lightning
+  cost:
+  - Colorless
+  damage:
+  effect_text:
+    ja: 自分の山札から雷ポケモンを2枚まで選び、相手に見せて、手札に加える。そして山札を切る。
+    en: Search your deck for up to 2 [L] Pokémon, reveal them, and put them into your hand. Then, shuffle your deck.
+- position: 1
+  name:
+    ja: サイドカウンター
+    en: Prize Count
+  cost:
+  - Lightning
+  - Lightning
+  - Colorless
+  damage: 90+
+  effect_text:
+    ja: 自分のサイドの残り枚数が、相手のサイドの残り枚数より多いなら、90ダメージ追加。
+    en: If you have more Prize cards remaining than your opponent, this attack does 90 more damage.
+first_appearance:
+  set_name_ja: 超電ブレイカー
+  released_at: '2024-10-18'
+  regulation_mark: H
+  collector_number: '041'
+  image_url:

@@ -1,0 +1,56 @@
+---
+schema_version: 1
+slug: metang
+name:
+  ja: メタング
+  en: Metang
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Metal
+hp: 100
+retreat_cost: 2
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja: ダンバル
+  en: Beldum
+weakness:
+  type: Fire
+  value: "×2"
+resistance:
+  type: Grass
+  value: "-30"
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities:
+- position: 0
+  name:
+    ja: メタルメーカー
+    en: Metal Maker
+  effect_text:
+    ja: 自分の番に1回使える。自分の山札を上から4枚見て、その中から「基本鋼エネルギー」を好きなだけ選び、自分のポケモンに好きなようにつける。残りのカードはすべてウラにして切り、山札の下にもどす。
+    en: Once during your turn, you may look at the top 4 cards of your deck and attach any number of Basic [M] Energy cards you find there to your Pokémon in any way you like. Shuffle the other cards and put them on the bottom of your deck.
+attacks:
+- position: 0
+  name:
+    ja: ビーム
+    en: Beam
+  cost:
+  - Metal
+  - Colorless
+  - Colorless
+  damage: '60'
+  effect_text:
+    ja:
+    en:
+first_appearance:
+  set_name_ja: サイバージャッジ
+  released_at: '2024-01-26'
+  regulation_mark: H
+  collector_number: '047'
+  image_url:

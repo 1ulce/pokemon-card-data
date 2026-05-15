@@ -1,0 +1,59 @@
+---
+schema_version: 1
+slug: articuno
+name:
+  ja: フリーザー
+  en: Articuno
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Water
+hp: 110
+retreat_cost: 1
+regulation_mark: I
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Lightning
+  value: "×2"
+resistance:
+  type: Fighting
+  value: "-30"
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: つめたいはばたき 
+    en: Frigid Fluttering
+  cost:
+  - Colorless
+  damage:
+  effect_text:
+    ja: 自分の山札から「基本水エネルギー」を2枚まで選び、このポケモンにつける。そして山札を切る。
+    en: Search your deck for up to 2 Basic [W] Energy cards and attach them to this Pokémon. Then, shuffle your deck.
+- position: 1
+  name:
+    ja: アイスブラスト
+    en: Ice Blast
+  cost:
+  - Water
+  - Water
+  - Colorless
+  damage: '110'
+  effect_text:
+    ja:
+    en:
+first_appearance:
+  set_name_ja: バトルパートナーズ
+  released_at: '2025-01-24'
+  regulation_mark: I
+  collector_number: '018'
+  image_url:

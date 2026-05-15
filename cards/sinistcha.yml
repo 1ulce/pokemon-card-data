@@ -1,0 +1,57 @@
+---
+schema_version: 1
+slug: sinistcha
+name:
+  ja: ヤバソチャ
+  en: Sinistcha
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Grass
+hp: 70
+retreat_cost: 1
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja: チャデス
+  en: Poltchageist
+weakness:
+  type: Fire
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: のろいのしずく 
+    en: Cursed Drop
+  cost:
+  - Grass
+  damage:
+  effect_text:
+    ja: ダメカン4個を、相手のポケモンに好きなようにのせる。
+    en: Put 4 damage counters on your opponent's Pokémon in any way you like.
+- position: 1
+  name:
+    ja: ぶちまけちゃ
+    en: Spill the Tea
+  cost:
+  - Grass
+  damage: 70×
+  effect_text:
+    ja: 自分の場のポケモンについている草エネルギーを3枚までトラッシュし、その枚数×70ダメージ。
+    en: Discard up to 3 [G] Energy cards from your Pokémon. This attack does 70 damage for each card you discarded in this way.
+first_appearance:
+  set_name_ja: 変幻の仮面
+  released_at: '2024-04-26'
+  regulation_mark: H
+  collector_number: '014'
+  image_url:

@@ -1,0 +1,54 @@
+---
+schema_version: 1
+slug: qwilfish
+name:
+  ja: ハリーセン
+  en: Qwilfish
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Darkness
+hp: 90
+retreat_cost: 1
+regulation_mark:
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Fighting
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities:
+- position: 0
+  name:
+    ja: どくのトゲ
+    en:
+  effect_text:
+    ja: このポケモンが、バトル場で相手のポケモンからワザのダメージを受けたとき、ワザを使ったポケモンをどくにする。
+    en:
+attacks:
+- position: 0
+  name:
+    ja: ベノムショック
+    en:
+  cost:
+  - Darkness
+  damage: 30+
+  effect_text:
+    ja: 相手のバトルポケモンがどくなら、50ダメージ追加。
+    en:
+first_appearance:
+  set_name_ja: ニンジャスピナー
+  released_at: '2026-03-13'
+  regulation_mark: J
+  collector_number: '051'
+  image_url:

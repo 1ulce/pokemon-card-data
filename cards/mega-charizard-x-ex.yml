@@ -1,0 +1,50 @@
+---
+schema_version: 1
+slug: mega-charizard-x-ex
+name:
+  ja: メガリザードンXex
+  en: Mega Charizard X ex
+  prefix:
+card_type: Pokémon
+card_subtype: 2進化
+energy_type: Fire
+hp: 360
+retreat_cost: 2
+regulation_mark: I
+meta_tags:
+- ex
+- mega
+evolves_from:
+  ja: リザード
+  en: Charmeleon
+weakness:
+  type: Water
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja: メガシンカexがきぜつしたとき、相手はサイドを3枚とる。
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: インフェルノX
+    en: Inferno X
+  cost:
+  - Fire
+  - Fire
+  damage: 90×
+  effect_text:
+    ja: 自分の場のポケモンについている炎エネルギーを好きなだけトラッシュし、その枚数×90ダメージ。
+    en: Discard any amount of [R] Energy from among your Pokémon, and this attack does 90 damage for each card you discarded in this way.
+first_appearance:
+  set_name_ja: インフェルノX
+  released_at: '2025-09-26'
+  regulation_mark: I
+  collector_number: '013'
+  image_url:

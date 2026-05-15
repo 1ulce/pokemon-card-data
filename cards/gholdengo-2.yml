@@ -1,0 +1,59 @@
+---
+schema_version: 1
+slug: gholdengo-2
+name:
+  ja: サーフゴー
+  en: Gholdengo
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Metal
+hp: 130
+retreat_cost: 2
+regulation_mark: I
+meta_tags: []
+evolves_from:
+  ja: コレクレー
+  en: Gimmighoul
+weakness:
+  type: Fire
+  value: "×2"
+resistance:
+  type: Grass
+  value: "-30"
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: つかみほうだい 
+    en: All-You-Can-Grab
+  cost:
+  - Colorless
+  damage:
+  effect_text:
+    ja: ウラが出るまでコインを投げ、オモテの数ぶんまで、自分の山札から好きなカードを選び、手札に加える。そして山札を切る。
+    en: Flip a coin until you get tails. Search your deck for a number of cards up to the number of heads and put them into your hand. Then, shuffle your deck.
+- position: 1
+  name:
+    ja: スピードアタック
+    en: Speed Attack
+  cost:
+  - Metal
+  - Colorless
+  - Colorless
+  damage: '100'
+  effect_text:
+    ja:
+    en:
+first_appearance:
+  set_name_ja: メガブレイブ
+  released_at: '2025-08-01'
+  regulation_mark: I
+  collector_number: '051'
+  image_url:

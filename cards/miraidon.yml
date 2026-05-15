@@ -1,0 +1,59 @@
+---
+schema_version: 1
+slug: miraidon
+name:
+  ja: ミライドン
+  en: Miraidon
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Dragon
+hp: 110
+retreat_cost: 2
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type:
+  value:
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: アクセルピーク
+    en: Peak Acceleration
+  cost:
+  - Colorless
+  damage: '40'
+  effect_text:
+    ja: 自分の山札から基本エネルギーを2枚まで選び、自分の「未来」のポケモンに好きなようにつける。そして山札を切る。
+    en: Search your deck for up to 2 Basic Energy cards and attach them to your Future Pokémon in any way you like. Then, shuffle your deck.
+- position: 1
+  name:
+    ja: スパーキングアタック
+    en: Sparking Strike
+  cost:
+  - Lightning
+  - Lightning
+  - Psychic
+  damage: '160'
+  effect_text:
+    ja:
+    en:
+first_appearance:
+  set_name_ja: サイバージャッジ
+  released_at: '2024-01-26'
+  regulation_mark: H
+  collector_number: '052'
+  image_url:

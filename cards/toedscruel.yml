@@ -1,0 +1,60 @@
+---
+schema_version: 1
+slug: toedscruel
+name:
+  ja: リククラゲ
+  en: Toedscruel
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Grass
+hp: 140
+retreat_cost: 3
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja: ノノクラゲ
+  en: Toedscool
+weakness:
+  type: Fire
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: メガドレイン
+    en: Mega Drain
+  cost:
+  - Grass
+  - Colorless
+  damage: '30'
+  effect_text:
+    ja: このポケモンのHPを「30」回復する。
+    en: Heal 30 damage from this Pokémon.
+- position: 1
+  name:
+    ja: ウィップスマッシュ
+    en: Whip Smash
+  cost:
+  - Grass
+  - Colorless
+  - Colorless
+  damage: '90'
+  effect_text:
+    ja:
+    en:
+first_appearance:
+  set_name_ja: スタートデッキ100 バトルコレクション
+  released_at: '2025-12-19'
+  regulation_mark: J
+  collector_number: '075'
+  image_url:

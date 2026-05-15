@@ -1,0 +1,61 @@
+---
+schema_version: 1
+slug: alolan-exeggutor-ex
+name:
+  ja: アローラ ナッシーex
+  en: Alolan Exeggutor ex
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Dragon
+hp: 300
+retreat_cost: 3
+regulation_mark: H
+meta_tags:
+- ex
+evolves_from:
+  ja: タマタマ
+  en: Exeggcute
+weakness:
+  type:
+  value:
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja: ポケモンexがきぜつしたとき、相手はサイドを2枚とる。
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: トロピカルフィーバー
+    en: Tropical Frenzy
+  cost:
+  - Grass
+  - Water
+  damage: '150'
+  effect_text:
+    ja: 自分の手札から基本エネルギーを好きなだけ選び、自分のポケモンに好きなようにつける。
+    en: You may attach any number of Basic Energy cards from your hand to your Pokémon in any way you like.
+- position: 1
+  name:
+    ja: ブンブンスフェーン 
+    en: Swinging Sphene
+  cost:
+  - Grass
+  - Water
+  - Fighting
+  damage:
+  effect_text:
+    ja: コインを1回投げオモテなら、相手のバトル場のたねポケモンをきぜつさせる。ウラなら、相手のベンチのたねポケモンを1匹選び、きぜつさせる。
+    en: Flip a coin. If heads, Knock Out your opponent's Active Basic Pokémon. If tails, Knock Out 1 of your opponent's Benched Basic Pokémon.
+first_appearance:
+  set_name_ja: 楽園ドラゴーナ
+  released_at: '2024-09-13'
+  regulation_mark: H
+  collector_number: '040'
+  image_url:

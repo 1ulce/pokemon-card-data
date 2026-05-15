@@ -1,0 +1,48 @@
+---
+schema_version: 1
+slug: braixen
+name:
+  ja: テールナー
+  en: Braixen
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Fire
+hp: 100
+retreat_cost: 1
+regulation_mark:
+meta_tags: []
+evolves_from:
+  ja: フォッコ
+  en: Fennekin
+weakness:
+  type: Water
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: かえんほうしゃ
+    en:
+  cost:
+  - Fire
+  - Fire
+  damage: '80'
+  effect_text:
+    ja: このポケモンについているエネルギーを1個選び、トラッシュする。
+    en:
+first_appearance:
+  set_name_ja: ニンジャスピナー
+  released_at: '2026-03-13'
+  regulation_mark: J
+  collector_number: '012'
+  image_url:

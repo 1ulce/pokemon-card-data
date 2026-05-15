@@ -1,0 +1,47 @@
+---
+schema_version: 1
+slug: sableye-2
+name:
+  ja: ヤミラミ
+  en: Sableye
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Darkness
+hp: 80
+retreat_cost: 1
+regulation_mark: I
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Grass
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: いきりクロー
+    en: Cocky Claw
+  cost:
+  - Darkness
+  damage: 20+
+  effect_text:
+    ja: 自分のベンチに悪タイプの2進化ポケモンがいるなら、70ダメージ追加。
+    en: If you have any Stage 2 [D] Pokémon on your Bench, this attack does 70 more damage.
+first_appearance:
+  set_name_ja: スターターセットMEGA メガゲンガーex
+  released_at: '2025-09-05'
+  regulation_mark: I
+  collector_number: '006'
+  image_url:

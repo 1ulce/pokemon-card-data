@@ -1,0 +1,59 @@
+---
+schema_version: 1
+slug: druddigon
+name:
+  ja: クリムガン
+  en: Druddigon
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Dragon
+hp: 120
+retreat_cost: 2
+regulation_mark: I
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type:
+  value:
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: りゅうのたけり
+    en: Dragon's Fury
+  cost:
+  - Colorless
+  damage: '20'
+  effect_text:
+    ja: 自分のトラッシュから「基本炎エネルギー」を1枚選び、自分のドラゴンポケモンにつける。
+    en: Attach a Basic [R] Energy card from your discard pile to 1 of your [N] Pokémon.
+- position: 1
+  name:
+    ja: スラッシュクロー
+    en: Slashing Claw
+  cost:
+  - Fire
+  - Water
+  - Colorless
+  damage: '120'
+  effect_text:
+    ja:
+    en:
+first_appearance:
+  set_name_ja: バトルパートナーズ
+  released_at: '2025-01-24'
+  regulation_mark: I
+  collector_number: '073'
+  image_url:

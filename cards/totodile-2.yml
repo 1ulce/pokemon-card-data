@@ -1,0 +1,48 @@
+---
+schema_version: 1
+slug: totodile-2
+name:
+  ja: ワニノコ
+  en: Totodile
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Water
+hp: 80
+retreat_cost: 1
+regulation_mark: J
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Lightning
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: ちょっとつっこむ
+    en: Slight Intrusion
+  cost:
+  - Water
+  - Water
+  damage: '40'
+  effect_text:
+    ja: このポケモンにも10ダメージ。
+    en: This Pokémon also does 10 damage to itself.
+first_appearance:
+  set_name_ja: スタートデッキ100 バトルコレクション
+  released_at: '2025-12-19'
+  regulation_mark: J
+  collector_number: '165'
+  image_url:

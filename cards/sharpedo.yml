@@ -1,0 +1,60 @@
+---
+schema_version: 1
+slug: sharpedo
+name:
+  ja: サメハダー
+  en: Sharpedo
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Water
+hp: 120
+retreat_cost: 1
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja: キバニア
+  en: Carvanha
+weakness:
+  type: Lightning
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: かみすてる
+    en: Chew Off
+  cost:
+  - Colorless
+  - Colorless
+  damage: '50'
+  effect_text:
+    ja: コインを3回投げ、オモテの数ぶん、相手の手札からオモテを見ないで選び、トラッシュする。
+    en: Flip 3 coins. For each heads, discard a random card from your opponent's hand.
+- position: 1
+  name:
+    ja: ジェットヘッド
+    en: Jet Headbutt
+  cost:
+  - Water
+  - Colorless
+  - Colorless
+  damage: '100'
+  effect_text:
+    ja:
+    en:
+first_appearance:
+  set_name_ja: ワイルドフォース
+  released_at: '2024-01-26'
+  regulation_mark: H
+  collector_number: '017'
+  image_url:

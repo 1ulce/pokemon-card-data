@@ -1,0 +1,59 @@
+---
+schema_version: 1
+slug: raichu-2
+name:
+  ja: ライチュウ
+  en: Raichu
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Lightning
+hp: 130
+retreat_cost: 1
+regulation_mark: J
+meta_tags: []
+evolves_from:
+  ja: ピカチュウ
+  en: Pikachu
+weakness:
+  type: Fighting
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: クイックアタック
+    en: Quick Blow
+  cost:
+  - Lightning
+  damage: 20+
+  effect_text:
+    ja: コインを1回投げオモテなら、50ダメージ追加。
+    en: Flip a coin. If heads, this attack does 50 more damage.
+- position: 1
+  name:
+    ja: ストロングボルト
+    en: Strong Volt
+  cost:
+  - Lightning
+  - Lightning
+  - Colorless
+  damage: '150'
+  effect_text:
+    ja: このポケモンについている雷エネルギーを1個選び、トラッシュする。
+    en: Discard a [L] Energy from this Pokémon.
+first_appearance:
+  set_name_ja: スタートデッキ100 バトルコレクション
+  released_at: '2025-12-19'
+  regulation_mark: J
+  collector_number: '226'
+  image_url:

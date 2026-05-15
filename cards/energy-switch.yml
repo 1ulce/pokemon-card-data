@@ -1,0 +1,37 @@
+---
+schema_version: 1
+slug: energy-switch
+name:
+  ja: エネルギーつけかえ
+  en: Energy Switch
+  prefix:
+card_type: Trainer
+card_subtype: Item
+energy_type:
+hp:
+retreat_cost:
+regulation_mark: I
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type:
+  value:
+resistance:
+  type:
+  value:
+body_text:
+  ja: 自分のポケモンの基本エネルギーを1個選び、自分の別のポケモンにつけ替える。
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks: []
+first_appearance:
+  set_name_ja: 古代のコライドンex
+  released_at: '2024-01-26'
+  regulation_mark: H
+  collector_number: '019'
+  image_url:

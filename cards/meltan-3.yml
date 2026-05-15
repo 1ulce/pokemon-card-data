@@ -1,0 +1,58 @@
+---
+schema_version: 1
+slug: meltan-3
+name:
+  ja: メルタン
+  en: Meltan
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Metal
+hp: 70
+retreat_cost: 1
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Fire
+  value: "×2"
+resistance:
+  type: Grass
+  value: "-30"
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: ガラクタはこび 
+    en: Knickknack Carrying
+  cost:
+  - Metal
+  damage:
+  effect_text:
+    ja: 自分の山札から「ポケモンのどうぐ」を1枚選び、相手に見せて、手札に加える。そして山札を切る。
+    en: Search your deck for a Pokémon Tool card, reveal it, and put it into your hand. Then, shuffle your deck.
+- position: 1
+  name:
+    ja: ぶつかる
+    en: Ram
+  cost:
+  - Metal
+  - Colorless
+  damage: '30'
+  effect_text:
+    ja:
+    en:
+first_appearance:
+  set_name_ja: ステラミラクル
+  released_at: '2024-07-19'
+  regulation_mark: H
+  collector_number: '070'
+  image_url:

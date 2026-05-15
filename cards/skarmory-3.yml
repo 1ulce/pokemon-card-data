@@ -1,0 +1,58 @@
+---
+schema_version: 1
+slug: skarmory-3
+name:
+  ja: エアームド
+  en: Skarmory
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Metal
+hp: 110
+retreat_cost: 1
+regulation_mark: I
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Lightning
+  value: "×2"
+resistance:
+  type: Fighting
+  value: "-30"
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: はねやすめ 
+    en: Roost
+  cost:
+  - Colorless
+  damage:
+  effect_text:
+    ja: このポケモンのHPを「50」回復する。次の自分の番、このポケモンはにげられない。
+    en: Heal 50 damage from this Pokémon. During your next turn, this Pokémon can't retreat.
+- position: 1
+  name:
+    ja: メタルクロー
+    en: Metal Claw
+  cost:
+  - Metal
+  - Colorless
+  damage: '60'
+  effect_text:
+    ja:
+    en:
+first_appearance:
+  set_name_ja: ロケット団の栄光
+  released_at: '2025-04-18'
+  regulation_mark: I
+  collector_number: '074'
+  image_url:

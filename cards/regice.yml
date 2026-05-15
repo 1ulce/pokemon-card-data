@@ -1,0 +1,60 @@
+---
+schema_version: 1
+slug: regice
+name:
+  ja: レジアイス
+  en: Regice
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Water
+hp: 120
+retreat_cost: 3
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Metal
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: つらら
+    en: Icicle
+  cost:
+  - Water
+  - Colorless
+  damage: '30'
+  effect_text:
+    ja:
+    en:
+- position: 1
+  name:
+    ja: ふぶき
+    en: Blizzard
+  cost:
+  - Water
+  - Colorless
+  - Colorless
+  damage: '90'
+  effect_text:
+    ja: 相手のベンチポケモン全員にも、それぞれ10ダメージ。［ベンチは弱点・抵抗力を計算しない。］
+    en: This attack also does 10 damage to each of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)
+first_appearance:
+  set_name_ja: スタートデッキGenerations カイオーガex・バシャーモex
+  released_at: '2024-11-22'
+  regulation_mark: H
+  collector_number: '036'
+  image_url:

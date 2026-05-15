@@ -1,0 +1,60 @@
+---
+schema_version: 1
+slug: iron-hands
+name:
+  ja: テツノカイナ
+  en: Iron Hands
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Lightning
+hp: 140
+retreat_cost: 3
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Fighting
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: ショックウェーブ
+    en: Volt Wave
+  cost:
+  - Lightning
+  - Colorless
+  damage: '30'
+  effect_text:
+    ja: コインを1回投げオモテなら、相手のバトルポケモンをマヒにする。
+    en: Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed.
+- position: 1
+  name:
+    ja: ちょうごうきんハンド
+    en: Superalloy Hands
+  cost:
+  - Lightning
+  - Lightning
+  - Colorless
+  damage: 80+
+  effect_text:
+    ja: 相手のバトルポケモンが「ポケモンex・V」なら、80ダメージ追加。
+    en: If your opponent's Active Pokémon is a Pokémon ex or Pokémon V, this attack does 80 more damage.
+first_appearance:
+  set_name_ja: 未来のミライドンex
+  released_at: '2024-01-26'
+  regulation_mark: H
+  collector_number: '006'
+  image_url:

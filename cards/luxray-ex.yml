@@ -1,0 +1,60 @@
+---
+schema_version: 1
+slug: luxray-ex
+name:
+  ja: レントラーex
+  en: Luxray ex
+  prefix:
+card_type: Pokémon
+card_subtype: 2進化
+energy_type: Lightning
+hp: 310
+retreat_cost: 1
+regulation_mark: H
+meta_tags:
+- ex
+evolves_from:
+  ja: ルクシオ
+  en: Luxio
+weakness:
+  type: Fighting
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja: ポケモンexがきぜつしたとき、相手はサイドを2枚とる。
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: つきさすがんこう
+    en: Piercing Gaze
+  cost:
+  - Colorless
+  - Colorless
+  damage: '120'
+  effect_text:
+    ja: 相手の手札を見て、その中からカードを1枚選び、トラッシュする。
+    en: Your opponent reveals their hand. Discard a card you find there.
+- position: 1
+  name:
+    ja: ボルトストライク
+    en: Volt Strike
+  cost:
+  - Lightning
+  - Lightning
+  damage: '250'
+  effect_text:
+    ja: このポケモンについているエネルギーを、すべてトラッシュする。
+    en: Discard all Energy from this Pokémon.
+first_appearance:
+  set_name_ja: 変幻の仮面
+  released_at: '2024-04-26'
+  regulation_mark: H
+  collector_number: '041'
+  image_url:

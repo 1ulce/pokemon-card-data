@@ -1,0 +1,59 @@
+---
+schema_version: 1
+slug: hippopotas-3
+name:
+  ja: ヒポポタス
+  en: Hippopotas
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Fighting
+hp: 100
+retreat_cost: 4
+regulation_mark: J
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Grass
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: すなかけ
+    en: Sand Attack
+  cost:
+  - Fighting
+  damage: '10'
+  effect_text:
+    ja: 次の相手の番、このワザを受けたポケモンがワザを使うとき、相手はコインを1回投げる。ウラならそのワザは失敗。
+    en: During your opponent's next turn, if the Defending Pokémon tries to use an attack, your opponent flips a coin. If tails, that attack doesn't happen.
+- position: 1
+  name:
+    ja: かみつく
+    en: Bite
+  cost:
+  - Fighting
+  - Colorless
+  - Colorless
+  damage: '60'
+  effect_text:
+    ja:
+    en:
+first_appearance:
+  set_name_ja: ムニキスゼロ
+  released_at: '2026-01-23'
+  regulation_mark: J
+  collector_number: '038'
+  image_url:

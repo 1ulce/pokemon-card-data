@@ -1,0 +1,60 @@
+---
+schema_version: 1
+slug: thievul-2
+name:
+  ja: フォクスライ
+  en: Thievul
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Darkness
+hp: 100
+retreat_cost: 1
+regulation_mark:
+meta_tags: []
+evolves_from:
+  ja: クスネ
+  en: Nickit
+weakness:
+  type: Grass
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: スキルシーフ 
+    en:
+  cost:
+  - Colorless
+  - Colorless
+  damage:
+  effect_text:
+    ja: 自分の手札が1枚もないなら、相手の場のポケモンが持つワザを1つ選び、このワザとして使う。
+    en:
+- position: 1
+  name:
+    ja: するどいキバ
+    en:
+  cost:
+  - Darkness
+  - Colorless
+  - Colorless
+  damage: '80'
+  effect_text:
+    ja:
+    en:
+first_appearance:
+  set_name_ja: アビスアイ
+  released_at: '2026-05-22'
+  regulation_mark: J
+  collector_number: '052'
+  image_url:

@@ -1,0 +1,59 @@
+---
+schema_version: 1
+slug: gourgeist-ex
+name:
+  ja: パンプジンex
+  en: Gourgeist ex
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Psychic
+hp: 270
+retreat_cost: 2
+regulation_mark:
+meta_tags:
+- ex
+evolves_from:
+  ja: バケッチャ
+  en: Pumpkaboo
+weakness:
+  type: Darkness
+  value: "×2"
+resistance:
+  type: Fighting
+  value: "-30"
+body_text:
+  ja:
+  en:
+rules_text:
+  ja: ポケモンexがきぜつしたとき、相手はサイドを2枚とる。
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: ホラーロンド
+    en:
+  cost:
+  - Psychic
+  damage: 30+
+  effect_text:
+    ja: ダメカンがのっている自分のベンチポケモンの数×50ダメージ追加。
+    en:
+- position: 1
+  name:
+    ja: ゴーストタッチ
+    en:
+  cost:
+  - Psychic
+  - Psychic
+  damage: '140'
+  effect_text:
+    ja: 相手の手札からオモテを見ないで1枚選び、トラッシュする。
+    en:
+first_appearance:
+  set_name_ja: ニンジャスピナー
+  released_at: '2026-03-13'
+  regulation_mark: J
+  collector_number: '041'
+  image_url:
