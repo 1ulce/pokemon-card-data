@@ -10,7 +10,7 @@ card_subtype: 1進化
 energy_type: Lightning
 hp: 260
 retreat_cost: 2
-regulation_mark:
+regulation_mark: G
 meta_tags:
 - ex
 evolves_from:

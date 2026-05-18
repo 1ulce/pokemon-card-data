@@ -10,7 +10,7 @@ card_subtype: Item
 energy_type:
 hp:
 retreat_cost:
-regulation_mark:
+regulation_mark: I
 meta_tags: []
 evolves_from:
   ja:
@@ -35,6 +35,6 @@ attacks: []
 first_appearance:
   set_name_ja: ポケモンカードゲーム チャンピオンズリーグ2023 愛知
   released_at:
-  regulation_mark:
+  regulation_mark: I
   collector_number: '42953'
   image_url:

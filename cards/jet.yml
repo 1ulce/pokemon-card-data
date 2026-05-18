@@ -10,7 +10,7 @@ card_subtype: Supporter
 energy_type:
 hp:
 retreat_cost:
-regulation_mark:
+regulation_mark: J
 meta_tags: []
 evolves_from:
   ja:
@@ -35,6 +35,6 @@ attacks: []
 first_appearance:
   set_name_ja: ポケモンカードゲーム MEGA　プロモカードパック第3弾
   released_at:
-  regulation_mark:
+  regulation_mark: J
   collector_number: '50040'
   image_url:

@@ -10,7 +10,7 @@ card_subtype: 1進化
 energy_type: Fire
 hp: 140
 retreat_cost: 2
-regulation_mark:
+regulation_mark: J
 meta_tags: []
 evolves_from:
   ja: カルボウ

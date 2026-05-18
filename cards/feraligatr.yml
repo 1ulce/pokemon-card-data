@@ -10,7 +10,7 @@ card_subtype: 2進化
 energy_type: Water
 hp: 180
 retreat_cost: 3
-regulation_mark:
+regulation_mark: I
 meta_tags: []
 evolves_from:
   ja: アリゲイツ
@@ -45,6 +45,6 @@ attacks:
 first_appearance:
   set_name_ja: Pokémon Trading Card Game イラストレーションコンテスト 2024
   released_at:
-  regulation_mark:
+  regulation_mark: I
   collector_number: '47362'
   image_url:

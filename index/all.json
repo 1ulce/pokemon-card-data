@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-05-18T02:51:26Z",
+  "generated_at": "2026-05-18T13:08:39Z",
   "total_faces": 1907,
   "faces": [
     {
@@ -88,7 +88,7 @@
       "name_ja": "逆境ほけん",
       "name_en": "Adversity Insurance",
       "card_type": "Trainer",
-      "regulation_mark": null,
+      "regulation_mark": "I",
       "first_set": "ポケモンカードゲーム MEGA　プロモカードパック第2弾"
     },
     {
@@ -248,7 +248,7 @@
       "name_ja": "ネリネ",
       "name_en": "Amarys",
       "card_type": "Trainer",
-      "regulation_mark": null,
+      "regulation_mark": "H",
       "first_set": "テラスタルフェスex"
     },
     {
@@ -304,7 +304,7 @@
       "name_ja": "デンリュウ",
       "name_en": "Ampharos",
       "card_type": "Pokémon",
-      "regulation_mark": null,
+      "regulation_mark": "J",
       "first_set": "ニンジャスピナー"
     },
     {
@@ -336,7 +336,7 @@
       "name_ja": "コノヨザル",
       "name_en": "Annihilape",
       "card_type": "Pokémon",
-      "regulation_mark": null,
+      "regulation_mark": "J",
       "first_set": "アビスアイ"
     },
     {
@@ -536,7 +536,7 @@
       "name_ja": "グレンアルマ",
       "name_en": "Armarouge",
       "card_type": "Pokémon",
-      "regulation_mark": null,
+      "regulation_mark": "J",
       "first_set": "アビスアイ"
     },
     {
@@ -616,7 +616,7 @@
       "name_ja": "ペパーのサンドウィッチ",
       "name_en": "Arven's Sandwich",
       "card_type": "Trainer",
-      "regulation_mark": null,
+      "regulation_mark": "I",
       "first_set": "熱風のアリーナ"
     },
     {
@@ -672,7 +672,7 @@
       "name_ja": "クレベース",
       "name_en": "Avalugg",
       "card_type": "Pokémon",
-      "regulation_mark": null,
+      "regulation_mark": "J",
       "first_set": "ニンジャスピナー"
     },
     {
@@ -704,7 +704,7 @@
       "name_ja": "AZの安らぎ",
       "name_en": "AZ",
       "card_type": "Trainer",
-      "regulation_mark": null,
+      "regulation_mark": "J",
       "first_set": "ニンジャスピナー"
     },
     {
@@ -712,7 +712,7 @@
       "name_ja": "アンジュフラエッテ",
       "name_en": "AZ's Floette",
       "card_type": "Trainer",
-      "regulation_mark": null,
+      "regulation_mark": "J",
       "first_set": "ニンジャスピナー"
     },
     {
@@ -776,7 +776,7 @@
       "name_ja": "ヤジロン",
       "name_en": "Baltoy",
       "card_type": "Pokémon",
-      "regulation_mark": null,
+      "regulation_mark": "J",
       "first_set": "ニンジャスピナー"
     },
     {
@@ -792,7 +792,7 @@
       "name_ja": "ジュペッタ",
       "name_en": "Banette",
       "card_type": "Pokémon",
-      "regulation_mark": null,
+      "regulation_mark": "J",
       "first_set": "アビスアイ"
     },
     {
@@ -864,7 +864,7 @@
       "name_ja": "スピアーex",
       "name_en": "Beedrill ex",
       "card_type": "Pokémon",
-      "regulation_mark": null,
+      "regulation_mark": "J",
       "first_set": "ニンジャスピナー"
     },
     {
@@ -896,7 +896,7 @@
       "name_ja": "ダンバル",
       "name_en": "Beldum",
       "card_type": "Pokémon",
-      "regulation_mark": null,
+      "regulation_mark": "J",
       "first_set": "ニンジャスピナー"
     },
     {
@@ -920,7 +920,7 @@
       "name_ja": "カチコール",
       "name_en": "Bergmite",
       "card_type": "Pokémon",
-      "regulation_mark": null,
+      "regulation_mark": "J",
       "first_set": "ニンジャスピナー"
     },
     {
@@ -1120,7 +1120,7 @@
       "name_ja": "オトシドリ",
       "name_en": "Bombirdier",
       "card_type": "Pokémon",
-      "regulation_mark": null,
+      "regulation_mark": "J",
       "first_set": "アビスアイ"
     },
     {
@@ -1128,7 +1128,7 @@
       "name_ja": "変化の書",
       "name_en": "Book of Transformation",
       "card_type": "Trainer",
-      "regulation_mark": null,
+      "regulation_mark": "J",
       "first_set": "ニンジャスピナー"
     },
     {
@@ -1184,7 +1184,7 @@
       "name_ja": "テールナー",
       "name_en": "Braixen",
       "card_type": "Pokémon",
-      "regulation_mark": null,
+      "regulation_mark": "J",
       "first_set": "ニンジャスピナー"
     },
     {
@@ -1320,7 +1320,7 @@
       "name_ja": "ドータクン",
       "name_en": "Bronzong",
       "card_type": "Pokémon",
-      "regulation_mark": null,
+      "regulation_mark": "J",
       "first_set": "アビスアイ"
     },
     {
@@ -1360,7 +1360,7 @@
       "name_ja": "ドーミラー",
       "name_en": "Bronzor",
       "card_type": "Pokémon",
-      "regulation_mark": null,
+      "regulation_mark": "J",
       "first_set": "アビスアイ"
     },
     {
@@ -1384,7 +1384,7 @@
       "name_ja": "バブル水エネルギー",
       "name_en": "Bubble {W} Energy",
       "card_type": "Energy",
-      "regulation_mark": null,
+      "regulation_mark": "J",
       "first_set": "ニンジャスピナー"
     },
     {
@@ -1488,7 +1488,7 @@
       "name_ja": "カナリィ",
       "name_en": "Canari",
       "card_type": "Trainer",
-      "regulation_mark": "H",
+      "regulation_mark": "I",
       "first_set": "MEGAドリームex"
     },
     {
@@ -1552,7 +1552,7 @@
       "name_ja": "マスキッパ",
       "name_en": "Carnivine",
       "card_type": "Pokémon",
-      "regulation_mark": null,
+      "regulation_mark": "J",
       "first_set": "ニンジャスピナー"
     },
     {
@@ -1624,7 +1624,7 @@
       "name_ja": "セレビィ",
       "name_en": "Celebi",
       "card_type": "Pokémon",
-      "regulation_mark": "H",
+      "regulation_mark": "J",
       "first_set": "スタートデッキ100 バトルコレクション"
     },
     {
@@ -1672,7 +1672,7 @@
       "name_ja": "マルヤクデ",
       "name_en": "Centiskorch",
       "card_type": "Pokémon",
-      "regulation_mark": null,
+      "regulation_mark": "J",
       "first_set": "アビスアイ"
     },
     {
@@ -1760,7 +1760,7 @@
       "name_ja": "カルボウ",
       "name_en": "Charcadet",
       "card_type": "Pokémon",
-      "regulation_mark": "H",
+      "regulation_mark": "J",
       "first_set": "スタートデッキ100 バトルコレクション"
     },
     {
@@ -1768,7 +1768,7 @@
       "name_ja": "カルボウ",
       "name_en": "Charcadet",
       "card_type": "Pokémon",
-      "regulation_mark": "H",
+      "regulation_mark": "I",
       "first_set": "MEGAドリームex"
     },
     {
@@ -1792,7 +1792,7 @@
       "name_ja": "カルボウ",
       "name_en": "Charcadet",
       "card_type": "Pokémon",
-      "regulation_mark": null,
+      "regulation_mark": "J",
       "first_set": "アビスアイ"
     },
     {
@@ -1816,7 +1816,7 @@
       "name_ja": "デンヂムシ",
       "name_en": "Charjabug",
       "card_type": "Pokémon",
-      "regulation_mark": null,
+      "regulation_mark": "J",
       "first_set": "アビスアイ"
     },
     {
@@ -1872,7 +1872,7 @@
       "name_ja": "ブリガロン",
       "name_en": "Chesnaught",
       "card_type": "Pokémon",
-      "regulation_mark": null,
+      "regulation_mark": "J",
       "first_set": "ニンジャスピナー"
     },
     {
@@ -1880,7 +1880,7 @@
       "name_ja": "ハリマロン",
       "name_en": "Chespin",
       "card_type": "Pokémon",
-      "regulation_mark": null,
+      "regulation_mark": "J",
       "first_set": "ニンジャスピナー"
     },
     {
@@ -1912,7 +1912,7 @@
       "name_ja": "イーユイ",
       "name_en": "Chi-Yu",
       "card_type": "Pokémon",
-      "regulation_mark": null,
+      "regulation_mark": "J",
       "first_set": "アビスアイ"
     },
     {
@@ -2008,7 +2008,7 @@
       "name_ja": "チラチーノex",
       "name_en": "Cinccino ex",
       "card_type": "Pokémon",
-      "regulation_mark": null,
+      "regulation_mark": "J",
       "first_set": "ニンジャスピナー"
     },
     {
@@ -2064,7 +2064,7 @@
       "name_ja": "ネンドール",
       "name_en": "Claydol",
       "card_type": "Pokémon",
-      "regulation_mark": null,
+      "regulation_mark": "J",
       "first_set": "ニンジャスピナー"
     },
     {
@@ -2136,7 +2136,7 @@
       "name_ja": "コバルオンex",
       "name_en": "Cobalion ex",
       "card_type": "Pokémon",
-      "regulation_mark": null,
+      "regulation_mark": "J",
       "first_set": "ニンジャスピナー"
     },
     {
@@ -2392,7 +2392,7 @@
       "name_ja": "アカマツ",
       "name_en": "Crispin",
       "card_type": "Trainer",
-      "regulation_mark": "G",
+      "regulation_mark": "H",
       "first_set": "ステラミラクル"
     },
     {
@@ -2424,7 +2424,7 @@
       "name_ja": "クロバット",
       "name_en": "Crobat",
       "card_type": "Pokémon",
-      "regulation_mark": null,
+      "regulation_mark": "J",
       "first_set": "ニンジャスピナー"
     },
     {
@@ -2488,7 +2488,7 @@
       "name_ja": "フリージオ",
       "name_en": "Cryogonal",
       "card_type": "Pokémon",
-      "regulation_mark": null,
+      "regulation_mark": "I",
       "first_set": "ブラックボルト"
     },
     {
@@ -2544,7 +2544,7 @@
       "name_ja": "モトトカゲ",
       "name_en": "Cyclizar",
       "card_type": "Pokémon",
-      "regulation_mark": "H",
+      "regulation_mark": "J",
       "first_set": "スタートデッキ100 バトルコレクション"
     },
     {
@@ -2832,7 +2832,7 @@
       "name_ja": "デリバード",
       "name_en": "Delibird",
       "card_type": "Pokémon",
-      "regulation_mark": null,
+      "regulation_mark": "J",
       "first_set": "ニンジャスピナー"
     },
     {
@@ -2848,7 +2848,7 @@
       "name_ja": "マフォクシー",
       "name_en": "Delphox",
       "card_type": "Pokémon",
-      "regulation_mark": null,
+      "regulation_mark": "J",
       "first_set": "ニンジャスピナー"
     },
     {
@@ -2864,7 +2864,7 @@
       "name_ja": "デオキシス",
       "name_en": "Deoxys",
       "card_type": "Pokémon",
-      "regulation_mark": null,
+      "regulation_mark": "J",
       "first_set": "ニンジャスピナー"
     },
     {
@@ -2872,7 +2872,7 @@
       "name_ja": "デオキシス",
       "name_en": "Deoxys",
       "card_type": "Pokémon",
-      "regulation_mark": null,
+      "regulation_mark": "J",
       "first_set": "ニンジャスピナー"
     },
     {
@@ -2880,7 +2880,7 @@
       "name_ja": "デオキシス",
       "name_en": "Deoxys",
       "card_type": "Pokémon",
-      "regulation_mark": null,
+      "regulation_mark": "J",
       "first_set": "ニンジャスピナー"
     },
     {
@@ -2888,7 +2888,7 @@
       "name_ja": "デオキシス",
       "name_en": "Deoxys",
       "card_type": "Pokémon",
-      "regulation_mark": null,
+      "regulation_mark": "J",
       "first_set": "ニンジャスピナー"
     },
     {
@@ -2952,7 +2952,7 @@
       "name_ja": "ダダリン",
       "name_en": "Dhelmise",
       "card_type": "Pokémon",
-      "regulation_mark": null,
+      "regulation_mark": "J",
       "first_set": "アビスアイ"
     },
     {
@@ -3064,7 +3064,7 @@
       "name_ja": "ドンファン",
       "name_en": "Donphan",
       "card_type": "Pokémon",
-      "regulation_mark": null,
+      "regulation_mark": "J",
       "first_set": "ニンジャスピナー"
     },
     {
@@ -3240,7 +3240,7 @@
       "name_ja": "モグリュー",
       "name_en": "Drilbur",
       "card_type": "Pokémon",
-      "regulation_mark": null,
+      "regulation_mark": "J",
       "first_set": "アビスアイ"
     },
     {
@@ -3600,7 +3600,7 @@
       "name_ja": "ラクライ",
       "name_en": "Electrike",
       "card_type": "Pokémon",
-      "regulation_mark": null,
+      "regulation_mark": "J",
       "first_set": "アビスアイ"
     },
     {
@@ -3640,7 +3640,7 @@
       "name_ja": "マチエール",
       "name_en": "Emma",
       "card_type": "Trainer",
-      "regulation_mark": null,
+      "regulation_mark": "J",
       "first_set": "ニンジャスピナー"
     },
     {
@@ -3664,7 +3664,7 @@
       "name_ja": "エモンガ",
       "name_en": "Emolga",
       "card_type": "Pokémon",
-      "regulation_mark": null,
+      "regulation_mark": "J",
       "first_set": "ニンジャスピナー"
     },
     {
@@ -3704,7 +3704,7 @@
       "name_ja": "エネルギー回収",
       "name_en": "Energy Retrieval",
       "card_type": "Trainer",
-      "regulation_mark": "G",
+      "regulation_mark": "I",
       "first_set": "ピカチュウ"
     },
     {
@@ -3880,7 +3880,7 @@
       "name_ja": "ニャスパー",
       "name_en": "Espurr",
       "card_type": "Pokémon",
-      "regulation_mark": null,
+      "regulation_mark": "J",
       "first_set": "ニンジャスピナー"
     },
     {
@@ -4144,7 +4144,7 @@
       "name_ja": "フォッコ",
       "name_en": "Fennekin",
       "card_type": "Pokémon",
-      "regulation_mark": null,
+      "regulation_mark": "J",
       "first_set": "ニンジャスピナー"
     },
     {
@@ -4152,7 +4152,7 @@
       "name_ja": "マコモ",
       "name_en": "Fennel",
       "card_type": "Trainer",
-      "regulation_mark": null,
+      "regulation_mark": "I",
       "first_set": "ブラックボルト"
     },
     {
@@ -4160,7 +4160,7 @@
       "name_ja": "オーダイル",
       "name_en": "Feraligatr",
       "card_type": "Pokémon",
-      "regulation_mark": null,
+      "regulation_mark": "I",
       "first_set": "Pokémon Trading Card Game イラストレーションコンテスト 2024"
     },
     {
@@ -4184,7 +4184,7 @@
       "name_ja": "テッシード",
       "name_en": "Ferroseed",
       "card_type": "Pokémon",
-      "regulation_mark": null,
+      "regulation_mark": "J",
       "first_set": "ニンジャスピナー"
     },
     {
@@ -4200,7 +4200,7 @@
       "name_ja": "ナットレイ",
       "name_en": "Ferrothorn",
       "card_type": "Pokémon",
-      "regulation_mark": null,
+      "regulation_mark": "J",
       "first_set": "ニンジャスピナー"
     },
     {
@@ -4240,7 +4240,7 @@
       "name_ja": "基本闘エネルギー",
       "name_en": "Fighting Energy",
       "card_type": "Energy",
-      "regulation_mark": null,
+      "regulation_mark": "H",
       "first_set": "スカーレットex"
     },
     {
@@ -4272,7 +4272,7 @@
       "name_ja": "ナミイルカ",
       "name_en": "Finizen",
       "card_type": "Pokémon",
-      "regulation_mark": null,
+      "regulation_mark": "J",
       "first_set": "アビスアイ"
     },
     {
@@ -4288,7 +4288,7 @@
       "name_ja": "基本炎エネルギー",
       "name_en": "Fire Energy",
       "card_type": "Energy",
-      "regulation_mark": "G",
+      "regulation_mark": "H",
       "first_set": "黒炎の支配者"
     },
     {
@@ -4312,7 +4312,7 @@
       "name_ja": "モココ",
       "name_en": "Flaaffy",
       "card_type": "Pokémon",
-      "regulation_mark": null,
+      "regulation_mark": "J",
       "first_set": "ニンジャスピナー"
     },
     {
@@ -4472,7 +4472,7 @@
       "name_ja": "カリキリ",
       "name_en": "Fomantis",
       "card_type": "Pokémon",
-      "regulation_mark": null,
+      "regulation_mark": "J",
       "first_set": "アビスアイ"
     },
     {
@@ -4568,7 +4568,7 @@
       "name_ja": "ケロマツ",
       "name_en": "Froakie",
       "card_type": "Pokémon",
-      "regulation_mark": null,
+      "regulation_mark": "J",
       "first_set": "ニンジャスピナー"
     },
     {
@@ -4592,7 +4592,7 @@
       "name_ja": "ゲコガシラ",
       "name_en": "Frogadier",
       "card_type": "Pokémon",
-      "regulation_mark": null,
+      "regulation_mark": "J",
       "first_set": "ニンジャスピナー"
     },
     {
@@ -4640,7 +4640,7 @@
       "name_ja": "フクオカのピカチュウ",
       "name_en": "Fukuoka Pikachu",
       "card_type": "Pokémon",
-      "regulation_mark": null,
+      "regulation_mark": "I",
       "first_set": "スペシャルBOX ポケモンセンターフクオカ"
     },
     {
@@ -4752,7 +4752,7 @@
       "name_ja": "ダストダス",
       "name_en": "Garbodor",
       "card_type": "Pokémon",
-      "regulation_mark": null,
+      "regulation_mark": "J",
       "first_set": "ニンジャスピナー"
     },
     {
@@ -4760,7 +4760,7 @@
       "name_ja": "グリ",
       "name_en": "Gardenia",
       "card_type": "Trainer",
-      "regulation_mark": null,
+      "regulation_mark": "J",
       "first_set": "ポケモンカードゲーム MEGA　プロモカードパック第4弾"
     },
     {
@@ -5016,7 +5016,7 @@
       "name_ja": "ゴルバット",
       "name_en": "Golbat",
       "card_type": "Pokémon",
-      "regulation_mark": null,
+      "regulation_mark": "J",
       "first_set": "ニンジャスピナー"
     },
     {
@@ -5032,7 +5032,7 @@
       "name_ja": "トサキント",
       "name_en": "Goldeen",
       "card_type": "Pokémon",
-      "regulation_mark": null,
+      "regulation_mark": "J",
       "first_set": "アビスアイ"
     },
     {
@@ -5064,7 +5064,7 @@
       "name_ja": "グソクムシャ",
       "name_en": "Golisopod",
       "card_type": "Pokémon",
-      "regulation_mark": null,
+      "regulation_mark": "J",
       "first_set": "ニンジャスピナー"
     },
     {
@@ -5088,7 +5088,7 @@
       "name_ja": "ヌメルゴン",
       "name_en": "Goodra",
       "card_type": "Pokémon",
-      "regulation_mark": null,
+      "regulation_mark": "J",
       "first_set": "ニンジャスピナー"
     },
     {
@@ -5096,7 +5096,7 @@
       "name_ja": "ヌメラ",
       "name_en": "Goomy",
       "card_type": "Pokémon",
-      "regulation_mark": null,
+      "regulation_mark": "J",
       "first_set": "ニンジャスピナー"
     },
     {
@@ -5160,7 +5160,7 @@
       "name_ja": "パンプジンex",
       "name_en": "Gourgeist ex",
       "card_type": "Pokémon",
-      "regulation_mark": null,
+      "regulation_mark": "J",
       "first_set": "ニンジャスピナー"
     },
     {
@@ -5216,7 +5216,7 @@
       "name_ja": "基本草エネルギー",
       "name_en": "Grass Energy",
       "card_type": "Energy",
-      "regulation_mark": null,
+      "regulation_mark": "H",
       "first_set": "クレイバースト"
     },
     {
@@ -5240,7 +5240,7 @@
       "name_ja": "大漁ネット",
       "name_en": "Great Haul Net",
       "card_type": "Trainer",
-      "regulation_mark": null,
+      "regulation_mark": "J",
       "first_set": "ニンジャスピナー"
     },
     {
@@ -5384,7 +5384,7 @@
       "name_ja": "アゴジムシ",
       "name_en": "Grubbin",
       "card_type": "Pokémon",
-      "regulation_mark": null,
+      "regulation_mark": "J",
       "first_set": "アビスアイ"
     },
     {
@@ -5600,7 +5600,7 @@
       "name_ja": "ヒードラン",
       "name_en": "Heatran",
       "card_type": "Pokémon",
-      "regulation_mark": null,
+      "regulation_mark": "J",
       "first_set": "アビスアイ"
     },
     {
@@ -5760,7 +5760,7 @@
       "name_ja": "ヒロシマのピカチュウ",
       "name_en": "Hiroshima Pikachu",
       "card_type": "Pokémon",
-      "regulation_mark": null,
+      "regulation_mark": "I",
       "first_set": "スペシャルBOX ポケモンセンターヒロシマ"
     },
     {
@@ -5800,7 +5800,7 @@
       "name_ja": "ホウオウ",
       "name_en": "Ho-Oh",
       "card_type": "Pokémon",
-      "regulation_mark": null,
+      "regulation_mark": "J",
       "first_set": "ニンジャスピナー"
     },
     {
@@ -6152,7 +6152,7 @@
       "name_ja": "インフルエンサーの紹介",
       "name_en": "Influencer's Introduction",
       "card_type": "Trainer",
-      "regulation_mark": null,
+      "regulation_mark": "J",
       "first_set": "スタートデッキ100 バトルコレクション コロちゃおVer."
     },
     {
@@ -6168,7 +6168,7 @@
       "name_ja": "マーイーカ",
       "name_en": "Inkay",
       "card_type": "Pokémon",
-      "regulation_mark": null,
+      "regulation_mark": "J",
       "first_set": "アビスアイ"
     },
     {
@@ -6384,7 +6384,7 @@
       "name_ja": "ユカリ",
       "name_en": "Jacinthe",
       "card_type": "Trainer",
-      "regulation_mark": null,
+      "regulation_mark": "J",
       "first_set": "ムニキスゼロ"
     },
     {
@@ -6424,7 +6424,7 @@
       "name_ja": "ジェット",
       "name_en": "Jet",
       "card_type": "Trainer",
-      "regulation_mark": null,
+      "regulation_mark": "J",
       "first_set": "ポケモンカードゲーム MEGA　プロモカードパック第3弾"
     },
     {
@@ -6512,7 +6512,7 @@
       "name_ja": "ルージュラ",
       "name_en": "Jynx",
       "card_type": "Pokémon",
-      "regulation_mark": null,
+      "regulation_mark": "J",
       "first_set": "アビスアイ"
     },
     {
@@ -6536,7 +6536,7 @@
       "name_ja": "コクーン",
       "name_en": "Kakuna",
       "card_type": "Pokémon",
-      "regulation_mark": null,
+      "regulation_mark": "J",
       "first_set": "ニンジャスピナー"
     },
     {
@@ -6600,7 +6600,7 @@
       "name_ja": "ケルディオ",
       "name_en": "Keldeo",
       "card_type": "Pokémon",
-      "regulation_mark": null,
+      "regulation_mark": "J",
       "first_set": "ニンジャスピナー"
     },
     {
@@ -6800,7 +6800,7 @@
       "name_ja": "コライドン",
       "name_en": "Koraidon",
       "card_type": "Pokémon",
-      "regulation_mark": null,
+      "regulation_mark": "J",
       "first_set": "アビスアイ"
     },
     {
@@ -6864,7 +6864,7 @@
       "name_ja": "ワルビアルex",
       "name_en": "Krookodile ex",
       "card_type": "Pokémon",
-      "regulation_mark": null,
+      "regulation_mark": "I",
       "first_set": "ポケモンカードゲーム MEGA　プロモカードパック第2弾"
     },
     {
@@ -6936,7 +6936,7 @@
       "name_ja": "ランプラー",
       "name_en": "Lampent",
       "card_type": "Pokémon",
-      "regulation_mark": null,
+      "regulation_mark": "J",
       "first_set": "アビスアイ"
     },
     {
@@ -7048,7 +7048,7 @@
       "name_ja": "アオキの手際",
       "name_en": "Larry's Skill",
       "card_type": "Trainer",
-      "regulation_mark": null,
+      "regulation_mark": "H",
       "first_set": "テラスタルフェスex"
     },
     {
@@ -7248,7 +7248,7 @@
       "name_ja": "でんきだま",
       "name_en": "Light Ball",
       "card_type": "Trainer",
-      "regulation_mark": null,
+      "regulation_mark": "I",
       "first_set": "MEGAドリームex"
     },
     {
@@ -7256,7 +7256,7 @@
       "name_ja": "基本雷エネルギー",
       "name_en": "Lightning Energy",
       "card_type": "Energy",
-      "regulation_mark": null,
+      "regulation_mark": "H",
       "first_set": "バイオレットex"
     },
     {
@@ -7368,7 +7368,7 @@
       "name_ja": "シシコ",
       "name_en": "Litleo",
       "card_type": "Pokémon",
-      "regulation_mark": null,
+      "regulation_mark": "J",
       "first_set": "ニンジャスピナー"
     },
     {
@@ -7408,7 +7408,7 @@
       "name_ja": "ヒトモシ",
       "name_en": "Litwick",
       "card_type": "Pokémon",
-      "regulation_mark": null,
+      "regulation_mark": "J",
       "first_set": "アビスアイ"
     },
     {
@@ -7712,7 +7712,7 @@
       "name_ja": "マグネット鋼エネルギー",
       "name_en": "Magnet {M} Energy",
       "card_type": "Energy",
-      "regulation_mark": null,
+      "regulation_mark": "J",
       "first_set": "ニンジャスピナー"
     },
     {
@@ -7768,7 +7768,7 @@
       "name_ja": "カラマネロ",
       "name_en": "Malamar",
       "card_type": "Pokémon",
-      "regulation_mark": null,
+      "regulation_mark": "J",
       "first_set": "アビスアイ"
     },
     {
@@ -7800,7 +7800,7 @@
       "name_ja": "バルジーナ",
       "name_en": "Mandibuzz",
       "card_type": "Pokémon",
-      "regulation_mark": null,
+      "regulation_mark": "J",
       "first_set": "アビスアイ"
     },
     {
@@ -7824,7 +7824,7 @@
       "name_ja": "ライボルト",
       "name_en": "Manectric",
       "card_type": "Pokémon",
-      "regulation_mark": null,
+      "regulation_mark": "J",
       "first_set": "アビスアイ"
     },
     {
@@ -7848,7 +7848,7 @@
       "name_ja": "マンキー",
       "name_en": "Mankey",
       "card_type": "Pokémon",
-      "regulation_mark": null,
+      "regulation_mark": "J",
       "first_set": "アビスアイ"
     },
     {
@@ -7856,7 +7856,7 @@
       "name_ja": "マンタイン",
       "name_en": "Mantine",
       "card_type": "Pokémon",
-      "regulation_mark": "H",
+      "regulation_mark": "J",
       "first_set": "スタートデッキ100 バトルコレクション"
     },
     {
@@ -7896,7 +7896,7 @@
       "name_ja": "メリープ",
       "name_en": "Mareep",
       "card_type": "Pokémon",
-      "regulation_mark": null,
+      "regulation_mark": "J",
       "first_set": "ニンジャスピナー"
     },
     {
@@ -7912,7 +7912,7 @@
       "name_ja": "マリル",
       "name_en": "Marill",
       "card_type": "Pokémon",
-      "regulation_mark": "H",
+      "regulation_mark": "J",
       "first_set": "スタートデッキ100 バトルコレクション"
     },
     {
@@ -7952,7 +7952,7 @@
       "name_ja": "マリィのレパルダス",
       "name_en": "Marnie's Liepard",
       "card_type": "Pokémon",
-      "regulation_mark": "I",
+      "regulation_mark": "J",
       "first_set": "スタートデッキ100 バトルコレクション"
     },
     {
@@ -7976,7 +7976,7 @@
       "name_ja": "マリィのチョロネコ",
       "name_en": "Marnie's Purrloin",
       "card_type": "Pokémon",
-      "regulation_mark": "I",
+      "regulation_mark": "J",
       "first_set": "スタートデッキ100 バトルコレクション"
     },
     {
@@ -7984,7 +7984,7 @@
       "name_ja": "マリィのズルズキン",
       "name_en": "Marnie's Scrafty",
       "card_type": "Pokémon",
-      "regulation_mark": "I",
+      "regulation_mark": "J",
       "first_set": "スタートデッキ100 バトルコレクション"
     },
     {
@@ -7992,7 +7992,7 @@
       "name_ja": "マリィのズルッグ",
       "name_en": "Marnie's Scraggy",
       "card_type": "Pokémon",
-      "regulation_mark": "I",
+      "regulation_mark": "J",
       "first_set": "スタートデッキ100 バトルコレクション"
     },
     {
@@ -8016,7 +8016,7 @@
       "name_ja": "マーシャドー",
       "name_en": "Marshadow",
       "card_type": "Pokémon",
-      "regulation_mark": null,
+      "regulation_mark": "J",
       "first_set": "アビスアイ"
     },
     {
@@ -8224,7 +8224,7 @@
       "name_ja": "メガマフォクシーex",
       "name_en": "Mega Delphox ex",
       "card_type": "Pokémon",
-      "regulation_mark": null,
+      "regulation_mark": "J",
       "first_set": "ポケモンカードゲーム MEGA　プロモカードパック第4弾"
     },
     {
@@ -8240,7 +8240,7 @@
       "name_ja": "メガドラミドロex",
       "name_en": "Mega Dragalge ex",
       "card_type": "Pokémon",
-      "regulation_mark": null,
+      "regulation_mark": "J",
       "first_set": "ニンジャスピナー"
     },
     {
@@ -8280,7 +8280,7 @@
       "name_ja": "メガフラエッテex",
       "name_en": "Mega Floette ex",
       "card_type": "Pokémon",
-      "regulation_mark": null,
+      "regulation_mark": "J",
       "first_set": "ニンジャスピナー"
     },
     {
@@ -8296,7 +8296,7 @@
       "name_ja": "メガエルレイドex",
       "name_en": "Mega Gallade ex",
       "card_type": "Pokémon",
-      "regulation_mark": null,
+      "regulation_mark": "J",
       "first_set": "スペシャルカードセット　メガエルレイドex"
     },
     {
@@ -8320,7 +8320,7 @@
       "name_ja": "メガゲッコウガex",
       "name_en": "Mega Greninja ex",
       "card_type": "Pokémon",
-      "regulation_mark": null,
+      "regulation_mark": "J",
       "first_set": "ニンジャスピナー"
     },
     {
@@ -8400,7 +8400,7 @@
       "name_ja": "メガカエンジシex",
       "name_en": "Mega Pyroar ex",
       "card_type": "Pokémon",
-      "regulation_mark": null,
+      "regulation_mark": "J",
       "first_set": "ニンジャスピナー"
     },
     {
@@ -8440,7 +8440,7 @@
       "name_ja": "メガヤドランex",
       "name_en": "Mega Slowbro ex",
       "card_type": "Pokémon",
-      "regulation_mark": null,
+      "regulation_mark": "J",
       "first_set": "ポケモンカードゲーム MEGA　プロモカードパック第3弾"
     },
     {
@@ -8568,7 +8568,7 @@
       "name_ja": "ニャオニクス",
       "name_en": "Meowstic",
       "card_type": "Pokémon",
-      "regulation_mark": null,
+      "regulation_mark": "J",
       "first_set": "ニンジャスピナー"
     },
     {
@@ -8616,7 +8616,7 @@
       "name_ja": "メタグロス",
       "name_en": "Metagross",
       "card_type": "Pokémon",
-      "regulation_mark": null,
+      "regulation_mark": "J",
       "first_set": "ニンジャスピナー"
     },
     {
@@ -8648,7 +8648,7 @@
       "name_ja": "メタング",
       "name_en": "Metang",
       "card_type": "Pokémon",
-      "regulation_mark": null,
+      "regulation_mark": "J",
       "first_set": "ニンジャスピナー"
     },
     {
@@ -8824,7 +8824,7 @@
       "name_ja": "チラーミィ",
       "name_en": "Minccino",
       "card_type": "Pokémon",
-      "regulation_mark": null,
+      "regulation_mark": "J",
       "first_set": "ニンジャスピナー"
     },
     {
@@ -8848,7 +8848,7 @@
       "name_ja": "ミライドン",
       "name_en": "Miraidon",
       "card_type": "Pokémon",
-      "regulation_mark": "H",
+      "regulation_mark": "J",
       "first_set": "スタートデッキ100 バトルコレクション"
     },
     {
@@ -8864,7 +8864,7 @@
       "name_ja": "ミライドン",
       "name_en": "Miraidon",
       "card_type": "Pokémon",
-      "regulation_mark": null,
+      "regulation_mark": "J",
       "first_set": "アビスアイ"
     },
     {
@@ -9336,7 +9336,7 @@
       "name_ja": "クスネ",
       "name_en": "Nickit",
       "card_type": "Pokémon",
-      "regulation_mark": null,
+      "regulation_mark": "J",
       "first_set": "アビスアイ"
     },
     {
@@ -9384,7 +9384,7 @@
       "name_ja": "キュウコン",
       "name_en": "Ninetales",
       "card_type": "Pokémon",
-      "regulation_mark": null,
+      "regulation_mark": "J",
       "first_set": "ニンジャスピナー"
     },
     {
@@ -9408,7 +9408,7 @@
       "name_ja": "ニトロ炎エネルギー",
       "name_en": "Nitro {R} Energy",
       "card_type": "Energy",
-      "regulation_mark": null,
+      "regulation_mark": "J",
       "first_set": "ニンジャスピナー"
     },
     {
@@ -9576,7 +9576,7 @@
       "name_ja": "オクタン",
       "name_en": "Octillery",
       "card_type": "Pokémon",
-      "regulation_mark": null,
+      "regulation_mark": "J",
       "first_set": "ニンジャスピナー"
     },
     {
@@ -9648,7 +9648,7 @@
       "name_ja": "オドリドリ",
       "name_en": "Oricorio",
       "card_type": "Pokémon",
-      "regulation_mark": "H",
+      "regulation_mark": "J",
       "first_set": "スタートデッキ100 バトルコレクション"
     },
     {
@@ -9656,7 +9656,7 @@
       "name_ja": "オドリドリ",
       "name_en": "Oricorio",
       "card_type": "Pokémon",
-      "regulation_mark": "H",
+      "regulation_mark": "J",
       "first_set": "スタートデッキ100 バトルコレクション"
     },
     {
@@ -9728,7 +9728,7 @@
       "name_ja": "イルカマン",
       "name_en": "Palafin",
       "card_type": "Pokémon",
-      "regulation_mark": null,
+      "regulation_mark": "J",
       "first_set": "アビスアイ"
     },
     {
@@ -9904,7 +9904,7 @@
       "name_ja": "パラダイスリゾート",
       "name_en": "Paradise Resort",
       "card_type": "Trainer",
-      "regulation_mark": "G",
+      "regulation_mark": "I",
       "first_set": "ポケモンカードゲーム ワールドチャンピオンシップス2023 横浜"
     },
     {
@@ -9952,7 +9952,7 @@
       "name_ja": "ミネズミ",
       "name_en": "Patrat",
       "card_type": "Pokémon",
-      "regulation_mark": null,
+      "regulation_mark": "J",
       "first_set": "ニンジャスピナー"
     },
     {
@@ -10064,7 +10064,7 @@
       "name_ja": "サザレ",
       "name_en": "Perrin",
       "card_type": "Trainer",
-      "regulation_mark": null,
+      "regulation_mark": "H",
       "first_set": "クリムゾンヘイズ"
     },
     {
@@ -10104,7 +10104,7 @@
       "name_ja": "ゴマゾウ",
       "name_en": "Phanpy",
       "card_type": "Pokémon",
-      "regulation_mark": null,
+      "regulation_mark": "J",
       "first_set": "ニンジャスピナー"
     },
     {
@@ -10120,7 +10120,7 @@
       "name_ja": "ボクレー",
       "name_en": "Phantump",
       "card_type": "Pokémon",
-      "regulation_mark": null,
+      "regulation_mark": "J",
       "first_set": "ニンジャスピナー"
     },
     {
@@ -10128,7 +10128,7 @@
       "name_ja": "ジプソ",
       "name_en": "Philippe",
       "card_type": "Trainer",
-      "regulation_mark": null,
+      "regulation_mark": "J",
       "first_set": "ニンジャスピナー"
     },
     {
@@ -10144,7 +10144,7 @@
       "name_ja": "ピクニックガール",
       "name_en": "Picnicker",
       "card_type": "Trainer",
-      "regulation_mark": null,
+      "regulation_mark": "H",
       "first_set": "バトルアカデミー"
     },
     {
@@ -10184,7 +10184,7 @@
       "name_ja": "ピカチュウ",
       "name_en": "Pikachu",
       "card_type": "Pokémon",
-      "regulation_mark": null,
+      "regulation_mark": "I",
       "first_set": "Pokémon Trading Card Game イラストレーションコンテスト 2024"
     },
     {
@@ -10232,7 +10232,7 @@
       "name_ja": "ピカチュウex",
       "name_en": "Pikachu ex",
       "card_type": "Pokémon",
-      "regulation_mark": null,
+      "regulation_mark": "J",
       "first_set": "スタートデッキ100 バトルコレクション コロちゃおVer."
     },
     {
@@ -10392,7 +10392,7 @@
       "name_ja": "チャデス",
       "name_en": "Poltchageist",
       "card_type": "Pokémon",
-      "regulation_mark": null,
+      "regulation_mark": "J",
       "first_set": "アビスアイ"
     },
     {
@@ -10408,7 +10408,7 @@
       "name_ja": "ポニータ",
       "name_en": "Ponyta",
       "card_type": "Pokémon",
-      "regulation_mark": "H",
+      "regulation_mark": "J",
       "first_set": "スタートデッキ100 バトルコレクション"
     },
     {
@@ -10464,7 +10464,7 @@
       "name_ja": "プレシャスキャリー",
       "name_en": "Precious Trolley",
       "card_type": "Trainer",
-      "regulation_mark": "H",
+      "regulation_mark": "J",
       "first_set": "スタートデッキ100 バトルコレクション"
     },
     {
@@ -10504,7 +10504,7 @@
       "name_ja": "オコリザル",
       "name_en": "Primeape",
       "card_type": "Pokémon",
-      "regulation_mark": null,
+      "regulation_mark": "J",
       "first_set": "アビスアイ"
     },
     {
@@ -10528,7 +10528,7 @@
       "name_ja": "プリズムタワー",
       "name_en": "Prism Tower",
       "card_type": "Trainer",
-      "regulation_mark": null,
+      "regulation_mark": "J",
       "first_set": "ニンジャスピナー"
     },
     {
@@ -10560,7 +10560,7 @@
       "name_ja": "基本超エネルギー",
       "name_en": "Psychic Energy",
       "card_type": "Energy",
-      "regulation_mark": null,
+      "regulation_mark": "H",
       "first_set": "スタートデッキGenerations ゼルネアスex・オンバーンex"
     },
     {
@@ -10576,7 +10576,7 @@
       "name_ja": "バケッチャ",
       "name_en": "Pumpkaboo",
       "card_type": "Pokémon",
-      "regulation_mark": null,
+      "regulation_mark": "J",
       "first_set": "ニンジャスピナー"
     },
     {
@@ -10672,7 +10672,7 @@
       "name_ja": "ハリボーグ",
       "name_en": "Quilladin",
       "card_type": "Pokémon",
-      "regulation_mark": null,
+      "regulation_mark": "J",
       "first_set": "ニンジャスピナー"
     },
     {
@@ -10680,7 +10680,7 @@
       "name_ja": "ハリーセン",
       "name_en": "Qwilfish",
       "card_type": "Pokémon",
-      "regulation_mark": null,
+      "regulation_mark": "J",
       "first_set": "ニンジャスピナー"
     },
     {
@@ -10784,7 +10784,7 @@
       "name_ja": "ギャロップ",
       "name_en": "Rapidash",
       "card_type": "Pokémon",
-      "regulation_mark": "H",
+      "regulation_mark": "J",
       "first_set": "スタートデッキ100 バトルコレクション"
     },
     {
@@ -10840,7 +10840,7 @@
       "name_ja": "スペシャルレッドカード",
       "name_en": "Red Card",
       "card_type": "Trainer",
-      "regulation_mark": null,
+      "regulation_mark": "J",
       "first_set": "ニンジャスピナー"
     },
     {
@@ -10896,7 +10896,7 @@
       "name_ja": "レジスチル",
       "name_en": "Registeel",
       "card_type": "Pokémon",
-      "regulation_mark": "H",
+      "regulation_mark": "J",
       "first_set": "スタートデッキ100 バトルコレクション"
     },
     {
@@ -10920,7 +10920,7 @@
       "name_ja": "ジーランス",
       "name_en": "Relicanth",
       "card_type": "Pokémon",
-      "regulation_mark": null,
+      "regulation_mark": "J",
       "first_set": "アビスアイ"
     },
     {
@@ -10952,7 +10952,7 @@
       "name_ja": "テッポウオ",
       "name_en": "Remoraid",
       "card_type": "Pokémon",
-      "regulation_mark": null,
+      "regulation_mark": "J",
       "first_set": "ニンジャスピナー"
     },
     {
@@ -10976,7 +10976,7 @@
       "name_ja": "レシラム",
       "name_en": "Reshiram",
       "card_type": "Pokémon",
-      "regulation_mark": "H",
+      "regulation_mark": "J",
       "first_set": "スタートデッキ100 バトルコレクション"
     },
     {
@@ -11256,7 +11256,7 @@
       "name_ja": "ホミカの演奏",
       "name_en": "Roxie's Performance",
       "card_type": "Trainer",
-      "regulation_mark": null,
+      "regulation_mark": "J",
       "first_set": "ニンジャスピナー"
     },
     {
@@ -11640,7 +11640,7 @@
       "name_ja": "アズマオウ",
       "name_en": "Seaking",
       "card_type": "Pokémon",
-      "regulation_mark": null,
+      "regulation_mark": "J",
       "first_set": "アビスアイ"
     },
     {
@@ -11928,7 +11928,7 @@
       "name_ja": "カゲボウズ",
       "name_en": "Shuppet",
       "card_type": "Pokémon",
-      "regulation_mark": null,
+      "regulation_mark": "J",
       "first_set": "アビスアイ"
     },
     {
@@ -11936,7 +11936,7 @@
       "name_ja": "シンボラー",
       "name_en": "Sigilyph",
       "card_type": "Pokémon",
-      "regulation_mark": "H",
+      "regulation_mark": "J",
       "first_set": "スタートデッキ100 バトルコレクション"
     },
     {
@@ -12000,7 +12000,7 @@
       "name_ja": "ヤバソチャ",
       "name_en": "Sinistcha",
       "card_type": "Pokémon",
-      "regulation_mark": null,
+      "regulation_mark": "J",
       "first_set": "アビスアイ"
     },
     {
@@ -12040,7 +12040,7 @@
       "name_ja": "ヤクデ",
       "name_en": "Sizzlipede",
       "card_type": "Pokémon",
-      "regulation_mark": null,
+      "regulation_mark": "J",
       "first_set": "アビスアイ"
     },
     {
@@ -12072,7 +12072,7 @@
       "name_ja": "エアームド",
       "name_en": "Skarmory",
       "card_type": "Pokémon",
-      "regulation_mark": null,
+      "regulation_mark": "J",
       "first_set": "アビスアイ"
     },
     {
@@ -12112,7 +12112,7 @@
       "name_ja": "クズモー",
       "name_en": "Skrelp",
       "card_type": "Pokémon",
-      "regulation_mark": null,
+      "regulation_mark": "J",
       "first_set": "ニンジャスピナー"
     },
     {
@@ -12120,7 +12120,7 @@
       "name_ja": "スカタンク",
       "name_en": "Skuntank",
       "card_type": "Pokémon",
-      "regulation_mark": null,
+      "regulation_mark": "J",
       "first_set": "ニンジャスピナー"
     },
     {
@@ -12152,7 +12152,7 @@
       "name_ja": "ヌメイル",
       "name_en": "Sliggoo",
       "card_type": "Pokémon",
-      "regulation_mark": null,
+      "regulation_mark": "J",
       "first_set": "ニンジャスピナー"
     },
     {
@@ -12200,7 +12200,7 @@
       "name_ja": "ヤドン",
       "name_en": "Slowpoke",
       "card_type": "Pokémon",
-      "regulation_mark": null,
+      "regulation_mark": "J",
       "first_set": "ポケモンカードゲーム MEGA　プロモカードパック第3弾"
     },
     {
@@ -12208,7 +12208,7 @@
       "name_ja": "ヤドン",
       "name_en": "Slowpoke",
       "card_type": "Pokémon",
-      "regulation_mark": null,
+      "regulation_mark": "J",
       "first_set": "アビスアイ"
     },
     {
@@ -12344,7 +12344,7 @@
       "name_ja": "カビゴン",
       "name_en": "Snorlax",
       "card_type": "Pokémon",
-      "regulation_mark": "H",
+      "regulation_mark": "J",
       "first_set": "スタートデッキ100 バトルコレクション コロちゃおVer."
     },
     {
@@ -12536,7 +12536,7 @@
       "name_ja": "ミカルゲ",
       "name_en": "Spiritomb",
       "card_type": "Pokémon",
-      "regulation_mark": null,
+      "regulation_mark": "J",
       "first_set": "アビスアイ"
     },
     {
@@ -12664,7 +12664,7 @@
       "name_ja": "ダイゴのエアームド",
       "name_en": "Steven's Skarmory",
       "card_type": "Pokémon",
-      "regulation_mark": "I",
+      "regulation_mark": "J",
       "first_set": "スタートデッキ100 バトルコレクション"
     },
     {
@@ -12744,7 +12744,7 @@
       "name_ja": "スカンプー",
       "name_en": "Stunky",
       "card_type": "Pokémon",
-      "regulation_mark": null,
+      "regulation_mark": "J",
       "first_set": "ニンジャスピナー"
     },
     {
@@ -12752,7 +12752,7 @@
       "name_ja": "ウソッキー",
       "name_en": "Sudowoodo",
       "card_type": "Pokémon",
-      "regulation_mark": null,
+      "regulation_mark": "J",
       "first_set": "ニンジャスピナー"
     },
     {
@@ -13096,7 +13096,7 @@
       "name_ja": "ケンタロス",
       "name_en": "Tauros",
       "card_type": "Pokémon",
-      "regulation_mark": null,
+      "regulation_mark": "J",
       "first_set": "ニンジャスピナー"
     },
     {
@@ -13728,7 +13728,7 @@
       "name_ja": "フォクスライ",
       "name_en": "Thievul",
       "card_type": "Pokémon",
-      "regulation_mark": null,
+      "regulation_mark": "J",
       "first_set": "アビスアイ"
     },
     {
@@ -13832,7 +13832,7 @@
       "name_ja": "ノノクラゲ",
       "name_en": "Toedscool",
       "card_type": "Pokémon",
-      "regulation_mark": "H",
+      "regulation_mark": "J",
       "first_set": "スタートデッキ100 バトルコレクション"
     },
     {
@@ -13848,7 +13848,7 @@
       "name_ja": "リククラゲ",
       "name_en": "Toedscruel",
       "card_type": "Pokémon",
-      "regulation_mark": "H",
+      "regulation_mark": "J",
       "first_set": "スタートデッキ100 バトルコレクション"
     },
     {
@@ -13920,7 +13920,7 @@
       "name_ja": "トウホクのピカチュウ",
       "name_en": "Tohoku Pikachu",
       "card_type": "Pokémon",
-      "regulation_mark": null,
+      "regulation_mark": "I",
       "first_set": "スペシャルBOX ポケモンセンタートウホク"
     },
     {
@@ -14048,7 +14048,7 @@
       "name_ja": "ストリンダーex",
       "name_en": "Toxtricity ex",
       "card_type": "Pokémon",
-      "regulation_mark": null,
+      "regulation_mark": "G",
       "first_set": "Pokémon Trading Card Game イラストレーションコンテスト 2024"
     },
     {
@@ -14104,7 +14104,7 @@
       "name_ja": "オーロット",
       "name_en": "Trevenant",
       "card_type": "Pokémon",
-      "regulation_mark": null,
+      "regulation_mark": "J",
       "first_set": "ニンジャスピナー"
     },
     {
@@ -14120,7 +14120,7 @@
       "name_ja": "トロピウス",
       "name_en": "Tropius",
       "card_type": "Pokémon",
-      "regulation_mark": null,
+      "regulation_mark": "J",
       "first_set": "アビスアイ"
     },
     {
@@ -14136,7 +14136,7 @@
       "name_ja": "ヤブクロン",
       "name_en": "Trubbish",
       "card_type": "Pokémon",
-      "regulation_mark": null,
+      "regulation_mark": "J",
       "first_set": "ニンジャスピナー"
     },
     {
@@ -14432,7 +14432,7 @@
       "name_ja": "勝利のしるし",
       "name_en": "Victory Symbol",
       "card_type": "Trainer",
-      "regulation_mark": null,
+      "regulation_mark": "I",
       "first_set": "ポケモンカードゲーム チャンピオンズリーグ2023 愛知"
     },
     {
@@ -14464,7 +14464,7 @@
       "name_ja": "クワガノン",
       "name_en": "Vikavolt",
       "card_type": "Pokémon",
-      "regulation_mark": null,
+      "regulation_mark": "J",
       "first_set": "アビスアイ"
     },
     {
@@ -14592,7 +14592,7 @@
       "name_ja": "バルチャイ",
       "name_en": "Vullaby",
       "card_type": "Pokémon",
-      "regulation_mark": null,
+      "regulation_mark": "J",
       "first_set": "アビスアイ"
     },
     {
@@ -14616,7 +14616,7 @@
       "name_ja": "ロコン",
       "name_en": "Vulpix",
       "card_type": "Pokémon",
-      "regulation_mark": null,
+      "regulation_mark": "J",
       "first_set": "ニンジャスピナー"
     },
     {
@@ -14640,7 +14640,7 @@
       "name_ja": "ホエルコ",
       "name_en": "Wailmer",
       "card_type": "Pokémon",
-      "regulation_mark": null,
+      "regulation_mark": "J",
       "first_set": "アビスアイ"
     },
     {
@@ -14712,7 +14712,7 @@
       "name_ja": "ミルホッグ",
       "name_en": "Watchog",
       "card_type": "Pokémon",
-      "regulation_mark": null,
+      "regulation_mark": "J",
       "first_set": "ニンジャスピナー"
     },
     {
@@ -14720,7 +14720,7 @@
       "name_ja": "基本水エネルギー",
       "name_en": "Water Energy",
       "card_type": "Energy",
-      "regulation_mark": null,
+      "regulation_mark": "H",
       "first_set": "スノーハザード"
     },
     {
@@ -14760,7 +14760,7 @@
       "name_ja": "ビードル",
       "name_en": "Weedle",
       "card_type": "Pokémon",
-      "regulation_mark": null,
+      "regulation_mark": "J",
       "first_set": "ニンジャスピナー"
     },
     {
@@ -14848,7 +14848,7 @@
       "name_ja": "コソクムシ",
       "name_en": "Wimpod",
       "card_type": "Pokémon",
-      "regulation_mark": null,
+      "regulation_mark": "J",
       "first_set": "ニンジャスピナー"
     },
     {
@@ -14920,7 +14920,7 @@
       "name_ja": "ゼルネアス",
       "name_en": "Xerneas",
       "card_type": "Pokémon",
-      "regulation_mark": "H",
+      "regulation_mark": "J",
       "first_set": "スタートデッキ100 バトルコレクション"
     },
     {
@@ -14928,7 +14928,7 @@
       "name_ja": "ゼルネアス",
       "name_en": "Xerneas",
       "card_type": "Pokémon",
-      "regulation_mark": null,
+      "regulation_mark": "J",
       "first_set": "ニンジャスピナー"
     },
     {
@@ -15104,7 +15104,7 @@
       "name_ja": "サンダー",
       "name_en": "Zapdos",
       "card_type": "Pokémon",
-      "regulation_mark": "H",
+      "regulation_mark": "J",
       "first_set": "スタートデッキ100 バトルコレクション"
     },
     {
@@ -15128,7 +15128,7 @@
       "name_ja": "ザルード",
       "name_en": "Zarude",
       "card_type": "Pokémon",
-      "regulation_mark": null,
+      "regulation_mark": "J",
       "first_set": "アビスアイ"
     },
     {
@@ -15240,7 +15240,7 @@
       "name_ja": "ズバット",
       "name_en": "Zubat",
       "card_type": "Pokémon",
-      "regulation_mark": null,
+      "regulation_mark": "J",
       "first_set": "ニンジャスピナー"
     },
     {

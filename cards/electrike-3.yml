@@ -10,7 +10,7 @@ card_subtype: たねポケモン
 energy_type: Lightning
 hp: 70
 retreat_cost: 1
-regulation_mark:
+regulation_mark: J
 meta_tags: []
 evolves_from:
   ja:

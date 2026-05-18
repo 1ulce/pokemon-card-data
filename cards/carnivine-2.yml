@@ -10,7 +10,7 @@ card_subtype: たねポケモン
 energy_type: Grass
 hp: 110
 retreat_cost: 2
-regulation_mark:
+regulation_mark: J
 meta_tags: []
 evolves_from:
   ja:

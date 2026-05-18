@@ -10,7 +10,7 @@ card_subtype: 1進化
 energy_type: Psychic
 hp: 330
 retreat_cost: 3
-regulation_mark:
+regulation_mark: J
 meta_tags:
 - ex
 - mega
@@ -46,6 +46,6 @@ attacks:
 first_appearance:
   set_name_ja: ポケモンカードゲーム MEGA　プロモカードパック第3弾
   released_at:
-  regulation_mark:
+  regulation_mark: J
   collector_number: '50036'
   image_url:

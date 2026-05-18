@@ -10,7 +10,7 @@ card_subtype: 1進化
 energy_type: Water
 hp: 150
 retreat_cost: 2
-regulation_mark:
+regulation_mark: J
 meta_tags: []
 evolves_from:
   ja: ナミイルカ

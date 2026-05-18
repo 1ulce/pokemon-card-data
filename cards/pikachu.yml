@@ -10,7 +10,7 @@ card_subtype: たねポケモン
 energy_type: Lightning
 hp: 60
 retreat_cost: 1
-regulation_mark:
+regulation_mark: I
 meta_tags: []
 evolves_from:
   ja:
@@ -42,6 +42,6 @@ attacks:
 first_appearance:
   set_name_ja: Pokémon Trading Card Game イラストレーションコンテスト 2024
   released_at:
-  regulation_mark:
+  regulation_mark: I
   collector_number: '47363'
   image_url:

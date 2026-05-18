@@ -10,7 +10,7 @@ card_subtype: Basic Energy
 energy_type:
 hp:
 retreat_cost:
-regulation_mark:
+regulation_mark: H
 meta_tags: []
 evolves_from:
   ja:
@@ -32,6 +32,6 @@ attacks: []
 first_appearance:
   set_name_ja: スカーレットex
   released_at: '2023-01-20'
-  regulation_mark:
+  regulation_mark: H
   collector_number: '108'
   image_url:

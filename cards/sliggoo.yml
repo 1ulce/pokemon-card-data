@@ -10,7 +10,7 @@ card_subtype: 1進化
 energy_type: Dragon
 hp: 90
 retreat_cost: 3
-regulation_mark:
+regulation_mark: J
 meta_tags: []
 evolves_from:
   ja: ヌメラ

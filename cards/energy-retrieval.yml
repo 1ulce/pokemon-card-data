@@ -10,7 +10,7 @@ card_subtype: Item
 energy_type:
 hp:
 retreat_cost:
-regulation_mark: G
+regulation_mark: I
 meta_tags: []
 evolves_from:
   ja:
@@ -35,6 +35,6 @@ attacks: []
 first_appearance:
   set_name_ja: ピカチュウ
   released_at: '2023-03-24'
-  regulation_mark:
+  regulation_mark: H
   collector_number: '016'
   image_url:
