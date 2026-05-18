@@ -1,0 +1,59 @@
+---
+schema_version: 1
+slug: bloodmoon-ursaluna-ex
+name:
+  ja: ガチグマ アカツキex
+  en: Bloodmoon Ursaluna ex
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Colorless
+hp: 260
+retreat_cost: 3
+regulation_mark: H
+meta_tags:
+- ex
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Fighting
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja: ポケモンexがきぜつしたとき、相手はサイドを2枚とる。
+  en:
+abilities:
+- position: 0
+  name:
+    ja: ろうれんのわざ
+    en: Seasoned Skill
+  effect_text:
+    ja: 相手がすでにとったサイドの枚数ぶん、このポケモンが「ブラッドムーン」を使うためのエネルギーは少なくなる。
+    en: Blood Moon used by this Pokémon costs [C] less for each Prize card your opponent has taken.
+attacks:
+- position: 0
+  name:
+    ja: ブラッドムーン
+    en: Blood Moon
+  cost:
+  - Colorless
+  - Colorless
+  - Colorless
+  - Colorless
+  - Colorless
+  damage: '240'
+  effect_text:
+    ja: 次の自分の番、このポケモンはワザが使えない。
+    en: During your next turn, this Pokémon can't attack.
+first_appearance:
+  set_name_ja: クリムゾンヘイズ
+  released_at: '2024-03-22'
+  regulation_mark: H
+  collector_number: '052'
+  image_url:

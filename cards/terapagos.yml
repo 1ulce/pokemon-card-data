@@ -1,0 +1,59 @@
+---
+schema_version: 1
+slug: terapagos
+name:
+  ja: テラパゴス
+  en: Terapagos
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Colorless
+hp: 120
+retreat_cost: 2
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Fighting
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: プリズムチャージ 
+    en: Prism Charge
+  cost:
+  - Colorless
+  damage:
+  effect_text:
+    ja: 自分の山札から、それぞれちがうタイプの基本エネルギーを3枚まで選び、自分の「テラスタル」のポケモンに好きなようにつける。そして山札を切る。
+    en: Search your deck for up to 3 Basic Energy cards of different types and attach them to your Tera Pokémon in any way you like. Then, shuffle your deck.
+- position: 1
+  name:
+    ja: ハードタックル
+    en: Hard Tackle
+  cost:
+  - Colorless
+  - Colorless
+  - Colorless
+  damage: '100'
+  effect_text:
+    ja:
+    en:
+first_appearance:
+  set_name_ja: 超電ブレイカー
+  released_at: '2024-10-18'
+  regulation_mark: H
+  collector_number: '093'
+  image_url:

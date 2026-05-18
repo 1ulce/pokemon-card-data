@@ -1,0 +1,62 @@
+---
+schema_version: 1
+slug: cyclizar-ex
+name:
+  ja: モトトカゲex
+  en: Cyclizar ex
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Colorless
+hp: 210
+retreat_cost: 1
+regulation_mark: H
+meta_tags:
+- ex
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Fighting
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja: ポケモンexがきぜつしたとき、相手はサイドを2枚とる。
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: ブレイクスルー
+    en: Break Through
+  cost:
+  - Colorless
+  - Colorless
+  - Colorless
+  damage: '130'
+  effect_text:
+    ja: 相手のベンチポケモン1匹にも、30ダメージ。［ベンチは弱点・抵抗力を計算しない。］
+    en: This attack also does 30 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)
+- position: 1
+  name:
+    ja: ジルコンロード
+    en: Zircon Road
+  cost:
+  - Grass
+  - Fire
+  - Psychic
+  damage: '180'
+  effect_text:
+    ja: のぞむなら、自分の山札を5枚引く。
+    en: You may draw 5 cards.
+first_appearance:
+  set_name_ja: 楽園ドラゴーナ
+  released_at: '2024-09-13'
+  regulation_mark: H
+  collector_number: '051'
+  image_url:

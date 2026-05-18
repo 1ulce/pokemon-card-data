@@ -1,0 +1,47 @@
+---
+schema_version: 1
+slug: squawkabilly
+name:
+  ja: イキリンコ
+  en: Squawkabilly
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Colorless
+hp: 70
+retreat_cost: 1
+regulation_mark: I
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Lightning
+  value: "×2"
+resistance:
+  type: Fighting
+  value: "-30"
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: つきとばす
+    en: Push Down
+  cost:
+  - Colorless
+  damage: '20'
+  effect_text:
+    ja: のぞむなら、相手のバトルポケモンをベンチポケモンと入れ替える。［バトル場に出すポケモンは相手が選ぶ。］
+    en: You may switch out your opponent's Active Pokémon to the Bench. (Your opponent chooses the new Active Pokémon.)
+first_appearance:
+  set_name_ja: ロケット団の栄光
+  released_at: '2025-04-18'
+  regulation_mark: I
+  collector_number: '086'
+  image_url:

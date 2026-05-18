@@ -7,10 +7,10 @@ name:
   prefix:
 card_type: Pokémon
 card_subtype: たねポケモン
-energy_type: Water
-hp: 70
+energy_type: Colorless
+hp: 60
 retreat_cost: 1
-regulation_mark: I
+regulation_mark: H
 meta_tags: []
 evolves_from:
   ja:
@@ -31,18 +31,18 @@ abilities: []
 attacks:
 - position: 0
   name:
-    ja: しょうか 
-    en: Firefighting
+    ja: ダブルドロー 
+    en: Double Draw
   cost:
   - Colorless
   damage:
   effect_text:
-    ja: 相手のバトルポケモンについている炎エネルギーを1個選び、トラッシュする。
-    en: Discard a [R] Energy from your opponent's Active Pokémon.
+    ja: 自分の山札を2枚引く。
+    en: Draw 2 cards.
 - position: 1
   name:
-    ja: つばさでうつ
-    en: Wing Attack
+    ja: するどいはね
+    en: Razor Wing
   cost:
   - Colorless
   - Colorless
@@ -51,8 +51,8 @@ attacks:
     ja:
     en:
 first_appearance:
-  set_name_ja: ホワイトフレア
-  released_at: '2025-06-06'
-  regulation_mark: I
-  collector_number: '022'
+  set_name_ja: 変幻の仮面
+  released_at: '2024-04-26'
+  regulation_mark: H
+  collector_number: '088'
   image_url:

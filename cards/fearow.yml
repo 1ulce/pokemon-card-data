@@ -1,0 +1,47 @@
+---
+schema_version: 1
+slug: fearow
+name:
+  ja: オニドリル
+  en: Fearow
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Colorless
+hp: 100
+retreat_cost: 1
+regulation_mark: I
+meta_tags: []
+evolves_from:
+  ja: オニスズメ
+  en: Spearow
+weakness:
+  type: Lightning
+  value: "×2"
+resistance:
+  type: Fighting
+  value: "-30"
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: マシンガンドリル
+    en: Repeating Drill
+  cost:
+  - Colorless
+  damage: 30×
+  effect_text:
+    ja: コインを5回投げ、オモテの数×30ダメージ。
+    en: Flip 5 coins. This attack does 30 damage for each heads.
+first_appearance:
+  set_name_ja: メガブレイブ
+  released_at: '2025-08-01'
+  regulation_mark: I
+  collector_number: '053'
+  image_url:

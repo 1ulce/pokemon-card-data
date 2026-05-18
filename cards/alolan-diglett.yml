@@ -1,0 +1,46 @@
+---
+schema_version: 1
+slug: alolan-diglett
+name:
+  ja: アローラ ディグダ
+  en: Alolan Diglett
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Metal
+hp: 50
+retreat_cost: 1
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Fire
+  value: "×2"
+resistance:
+  type: Grass
+  value: "-30"
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: ふいをつく
+    en: Surprise Attack
+  cost: []
+  damage: '30'
+  effect_text:
+    ja: コインを1回投げウラなら、このワザは失敗。
+    en: Flip a coin. If tails, this attack does nothing.
+first_appearance:
+  set_name_ja: 超電ブレイカー
+  released_at: '2024-10-18'
+  regulation_mark: H
+  collector_number: '076'
+  image_url:

@@ -1,0 +1,61 @@
+---
+schema_version: 1
+slug: snorlax-3
+name:
+  ja: カビゴン
+  en: Snorlax
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Colorless
+hp: 160
+retreat_cost: 4
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Fighting
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: はらごしらえ 
+    en: But First, Food
+  cost:
+  - Colorless
+  damage:
+  effect_text:
+    ja: 自分の手札からエネルギーを1枚選び、このポケモンにつける。その後、このポケモンのHPを「60」回復する。
+    en: Attach an Energy card from your hand to this Pokémon. If you do, heal 60 damage from this Pokémon.
+- position: 1
+  name:
+    ja: ヘビーインパクト
+    en: Heavy Impact
+  cost:
+  - Colorless
+  - Colorless
+  - Colorless
+  - Colorless
+  - Colorless
+  damage: '160'
+  effect_text:
+    ja:
+    en:
+first_appearance:
+  set_name_ja: クリムゾンヘイズ
+  released_at: '2024-03-22'
+  regulation_mark: H
+  collector_number: '051'
+  image_url:

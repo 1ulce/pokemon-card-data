@@ -1,0 +1,48 @@
+---
+schema_version: 1
+slug: aipom-2
+name:
+  ja: エイパム
+  en: Aipom
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Colorless
+hp: 70
+retreat_cost: 1
+regulation_mark: I
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Fighting
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: おどろかす
+    en: Astonish
+  cost:
+  - Colorless
+  - Colorless
+  damage: '20'
+  effect_text:
+    ja: 相手の手札からオモテを見ないで1枚選び、そのカードのオモテを見て、相手の山札にもどして切る。
+    en: Choose a random card from your opponent's hand, and your opponent reveals that card and shuffles it into their deck.
+first_appearance:
+  set_name_ja: インフェルノX
+  released_at: '2025-09-26'
+  regulation_mark: I
+  collector_number: '066'
+  image_url:

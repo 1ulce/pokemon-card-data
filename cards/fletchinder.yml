@@ -1,0 +1,48 @@
+---
+schema_version: 1
+slug: fletchinder
+name:
+  ja: ヒノヤコマ
+  en: Fletchinder
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Fire
+hp: 90
+retreat_cost: 1
+regulation_mark: J
+meta_tags: []
+evolves_from:
+  ja: ヤヤコマ
+  en: Fletchling
+weakness:
+  type: Lightning
+  value: "×2"
+resistance:
+  type: Fighting
+  value: "-30"
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: ほのお
+    en: Flare
+  cost:
+  - Fire
+  - Fire
+  damage: '60'
+  effect_text:
+    ja:
+    en:
+first_appearance:
+  set_name_ja: ムニキスゼロ
+  released_at: '2026-01-23'
+  regulation_mark: J
+  collector_number: '013'
+  image_url:

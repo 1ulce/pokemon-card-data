@@ -7,20 +7,20 @@ name:
   prefix:
 card_type: Pokémon
 card_subtype: たねポケモン
-energy_type: Water
+energy_type: Colorless
 hp: 90
 retreat_cost: 1
-regulation_mark:
+regulation_mark: I
 meta_tags: []
 evolves_from:
   ja:
   en:
 weakness:
-  type: Metal
+  type: Lightning
   value: "×2"
 resistance:
-  type:
-  value:
+  type: Fighting
+  value: "-30"
 body_text:
   ja:
   en:
@@ -31,28 +31,28 @@ abilities: []
 attacks:
 - position: 0
   name:
-    ja: ハッピープレゼント 
-    en:
+    ja: ファストギフト 
+    en: Quick Gift
   cost:
   - Colorless
   damage:
   effect_text:
-    ja: おたがいのプレイヤーは、のぞむなら、それぞれ自分の手札から基本エネルギーを3枚まで選び、自分のポケモンに好きなようにつける。（相手から行う。）
-    en:
+    ja: このワザは、先攻プレイヤーの最初の番でも使える。自分の山札から好きなカードを1枚選び、手札に加える。そして山札を切る。
+    en: If you go first, you can use this attack during your first turn. Search your deck for a card and put it into your hand. Then, shuffle your deck.
 - position: 1
   name:
-    ja: はばたく
-    en:
+    ja: ひっぱたく
+    en: Gentle Slap
   cost:
   - Colorless
   - Colorless
-  damage: '40'
+  damage: '30'
   effect_text:
     ja:
     en:
 first_appearance:
-  set_name_ja: ニンジャスピナー
-  released_at: '2026-03-13'
-  regulation_mark: J
-  collector_number: '018'
+  set_name_ja: メガシンフォニア
+  released_at: '2025-08-01'
+  regulation_mark: I
+  collector_number: '052'
   image_url:

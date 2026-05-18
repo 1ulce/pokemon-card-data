@@ -1,0 +1,47 @@
+---
+schema_version: 1
+slug: furfrou-3
+name:
+  ja: トリミアン
+  en: Furfrou
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Colorless
+hp: 100
+retreat_cost: 1
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Fighting
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: エネアシスト
+    en: Energy Assist
+  cost:
+  - Colorless
+  damage: '30'
+  effect_text:
+    ja: 自分のトラッシュから基本エネルギーを1枚選び、ベンチポケモンにつける。
+    en: Attach a Basic Energy card from your discard pile to 1 of your Benched Pokémon.
+first_appearance:
+  set_name_ja: ナイトワンダラー
+  released_at: '2024-06-07'
+  regulation_mark: H
+  collector_number: '051'
+  image_url:

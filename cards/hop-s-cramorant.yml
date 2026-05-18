@@ -1,0 +1,47 @@
+---
+schema_version: 1
+slug: hop-s-cramorant
+name:
+  ja: ホップのウッウ
+  en: Hop's Cramorant
+  prefix: Hop's
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Colorless
+hp: 110
+retreat_cost: 1
+regulation_mark: I
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Lightning
+  value: "×2"
+resistance:
+  type: Fighting
+  value: "-30"
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: きまぐれスピット
+    en: Fickle Spitting
+  cost:
+  - Colorless
+  damage: '120'
+  effect_text:
+    ja: 相手のサイドの残り枚数が4枚・3枚でないなら、このワザは失敗。
+    en: If your opponent doesn't have exactly 3 or 4 Prize cards remaining, this attack does nothing.
+first_appearance:
+  set_name_ja: バトルパートナーズ
+  released_at: '2025-01-24'
+  regulation_mark: I
+  collector_number: '087'
+  image_url:

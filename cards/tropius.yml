@@ -7,20 +7,20 @@ name:
   prefix:
 card_type: Pokémon
 card_subtype: たねポケモン
-energy_type: Grass
+energy_type: Colorless
 hp: 110
 retreat_cost: 1
-regulation_mark:
+regulation_mark: H
 meta_tags: []
 evolves_from:
   ja:
   en:
 weakness:
-  type: Fire
+  type: Lightning
   value: "×2"
 resistance:
-  type:
-  value:
+  type: Fighting
+  value: "-30"
 body_text:
   ja:
   en:
@@ -31,28 +31,28 @@ abilities: []
 attacks:
 - position: 0
   name:
-    ja: かじつのかおり 
-    en:
+    ja: かじつのみのり 
+    en: Fruit Bearing
   cost:
   - Colorless
   damage:
   effect_text:
-    ja: 自分の山札を上から6枚見て、その中からポケモンを好きなだけ選び、相手に見せて、手札に加える。残りのカードは山札にもどして切る。
-    en:
+    ja: 自分の手札を1枚トラッシュする。その後、自分の山札を3枚引く。
+    en: Discard a card from your hand. If you do, draw 3 cards.
 - position: 1
   name:
-    ja: ソーラービーム
-    en:
+    ja: かぜおこし
+    en: Gust
   cost:
-  - Grass
   - Colorless
-  damage: '60'
+  - Colorless
+  damage: '50'
   effect_text:
     ja:
     en:
 first_appearance:
-  set_name_ja: アビスアイ
-  released_at: '2026-05-22'
-  regulation_mark: J
-  collector_number: '001'
+  set_name_ja: スタートデッキGenerations カイオーガex・バシャーモex
+  released_at: '2024-11-22'
+  regulation_mark: H
+  collector_number: '101'
   image_url:

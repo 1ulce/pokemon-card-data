@@ -1,0 +1,59 @@
+---
+schema_version: 1
+slug: lickitung
+name:
+  ja: ベロリンガ
+  en: Lickitung
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Colorless
+hp: 100
+retreat_cost: 3
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Fighting
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: ベロでひきこむ 
+    en: Tongue Pull
+  cost:
+  - Colorless
+  damage:
+  effect_text:
+    ja: 相手の手札を見て、その中からたねポケモンを2枚まで選び、相手のベンチに出す。
+    en: Your opponent reveals their hand. Put up to 2 Basic Pokémon you find there onto your opponent's Bench.
+- position: 1
+  name:
+    ja: かいりき
+    en: Strength
+  cost:
+  - Colorless
+  - Colorless
+  - Colorless
+  damage: '50'
+  effect_text:
+    ja:
+    en:
+first_appearance:
+  set_name_ja: サイバージャッジ
+  released_at: '2024-01-26'
+  regulation_mark: H
+  collector_number: '053'
+  image_url:

@@ -1,0 +1,57 @@
+---
+schema_version: 1
+slug: buneary
+name:
+  ja: ミミロル
+  en: Buneary
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Colorless
+hp: 70
+retreat_cost: 1
+regulation_mark: I
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Fighting
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: あまえる 
+    en: Charm
+  cost:
+  - Colorless
+  damage:
+  effect_text:
+    ja: 次の相手の番、このワザを受けたポケモンが使うワザのダメージは「-20」される。
+    en: During your opponent's next turn, attacks used by the Defending Pokémon do 20 less damage (before applying Weakness and Resistance).
+- position: 1
+  name:
+    ja: スキップ
+    en: Skip
+  cost:
+  - Colorless
+  damage: '10'
+  effect_text:
+    ja:
+    en:
+first_appearance:
+  set_name_ja: メガシンフォニア
+  released_at: '2025-08-01'
+  regulation_mark: I
+  collector_number: '053'
+  image_url:

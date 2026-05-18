@@ -1,0 +1,59 @@
+---
+schema_version: 1
+slug: oranguru
+name:
+  ja: ヤレユータン
+  en: Oranguru
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Colorless
+hp: 120
+retreat_cost: 2
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Fighting
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: よわみをにぎる 
+    en: Plotter's Command
+  cost:
+  - Colorless
+  damage:
+  effect_text:
+    ja: 次の自分の番の終わりまで、このワザを受けたポケモンの弱点はタイプになる。［弱点は「×2」でダメージ計算をする。］
+    en: Choose 1 of your opponent's Active Pokémon’s attacks. During your opponent’s next turn, that Pokémon can’t use that attack.
+- position: 1
+  name:
+    ja: ひらてうち
+    en: Super Psy Bolt
+  cost:
+  - Colorless
+  - Colorless
+  - Colorless
+  damage: '80'
+  effect_text:
+    ja:
+    en:
+first_appearance:
+  set_name_ja: 超電ブレイカー
+  released_at: '2024-10-18'
+  regulation_mark: H
+  collector_number: '090'
+  image_url:

@@ -1,0 +1,60 @@
+---
+schema_version: 1
+slug: mega-lopunny-ex
+name:
+  ja: メガミミロップex
+  en: Mega Lopunny ex
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Colorless
+hp: 330
+retreat_cost: 1
+regulation_mark: I
+meta_tags:
+- ex
+- mega
+evolves_from:
+  ja: ミミロル
+  en: Buneary
+weakness:
+  type: Fighting
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja: メガシンカexがきぜつしたとき、相手はサイドを3枚とる。
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: しっぷうづき
+    en: Gale Thrust
+  cost:
+  - Colorless
+  damage: 60+
+  effect_text:
+    ja: この番に、このポケモンがベンチからバトル場に出ていたなら、170ダメージ追加。
+    en: If this Pokémon moved from your Bench to the Active Spot this turn, this attack does 170 more damage.
+- position: 1
+  name:
+    ja: スパイクホッパー
+    en: Spiky Hopper
+  cost:
+  - Colorless
+  - Colorless
+  damage: '160'
+  effect_text:
+    ja: このワザのダメージは、相手のバトルポケモンにかかっている効果を計算しない。
+    en: This attack's damage isn't affected by any effects on your opponent's Active Pokémon.
+first_appearance:
+  set_name_ja: インフェルノX
+  released_at: '2025-09-26'
+  regulation_mark: I
+  collector_number: '072'
+  image_url:

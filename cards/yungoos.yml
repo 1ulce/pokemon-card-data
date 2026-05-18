@@ -1,0 +1,58 @@
+---
+schema_version: 1
+slug: yungoos
+name:
+  ja: ヤングース
+  en: Yungoos
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Colorless
+hp: 70
+retreat_cost: 1
+regulation_mark: I
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Fighting
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: もってくる 
+    en: Collect
+  cost:
+  - Colorless
+  damage:
+  effect_text:
+    ja: 自分の山札を1枚引く。
+    en: Draw a card.
+- position: 1
+  name:
+    ja: かじる
+    en: Gnaw
+  cost:
+  - Colorless
+  - Colorless
+  damage: '20'
+  effect_text:
+    ja:
+    en:
+first_appearance:
+  set_name_ja: メガブレイブ
+  released_at: '2025-08-01'
+  regulation_mark: I
+  collector_number: '055'
+  image_url:

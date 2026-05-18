@@ -1,0 +1,48 @@
+---
+schema_version: 1
+slug: hoothoot-3
+name:
+  ja: ホーホー
+  en: Hoothoot
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Colorless
+hp: 70
+retreat_cost: 1
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Lightning
+  value: "×2"
+resistance:
+  type: Fighting
+  value: "-30"
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: サイレントウイング
+    en: Silent Wing
+  cost:
+  - Colorless
+  - Colorless
+  damage: '20'
+  effect_text:
+    ja: 相手の手札を見る。
+    en: Your opponent reveals their hand.
+first_appearance:
+  set_name_ja: ワイルドフォース
+  released_at: '2024-01-26'
+  regulation_mark: H
+  collector_number: '054'
+  image_url:

@@ -1,0 +1,57 @@
+---
+schema_version: 1
+slug: larry-s-starly
+name:
+  ja: アオキのムックル
+  en: Larry's Starly
+  prefix: Larry's
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Colorless
+hp: 60
+retreat_cost: 1
+regulation_mark: J
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Lightning
+  value: "×2"
+resistance:
+  type: Fighting
+  value: "-30"
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: ちいさなおつかい 
+    en: Minor Errand-Running
+  cost:
+  - Colorless
+  damage:
+  effect_text:
+    ja: 自分の山札から基本エネルギーを2枚まで選び、相手に見せて、手札に加える。そして山札を切る。
+    en: Search your deck for up to 2 Basic Energy cards, reveal them, and put them into your hand. Then, shuffle your deck.
+- position: 1
+  name:
+    ja: かっくう
+    en: Glide
+  cost:
+  - Colorless
+  damage: '10'
+  effect_text:
+    ja:
+    en:
+first_appearance:
+  set_name_ja: スタートデッキ100 バトルコレクション
+  released_at: '2025-12-19'
+  regulation_mark: J
+  collector_number: '590'
+  image_url:

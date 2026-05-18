@@ -1,0 +1,57 @@
+---
+schema_version: 1
+slug: watchog
+name:
+  ja: ミルホッグ
+  en: Watchog
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Colorless
+hp: 90
+retreat_cost: 1
+regulation_mark: I
+meta_tags: []
+evolves_from:
+  ja: ミネズミ
+  en: Patrat
+weakness:
+  type: Fighting
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: きあいだめ 
+    en: Focus Energy
+  cost:
+  - Colorless
+  damage:
+  effect_text:
+    ja: 次の自分の番、このポケモンの「ひっさつまえば」のダメージは「240」になる。
+    en: During your next turn, this Pokémon's Hyper Fang attack's base damage is 240.
+- position: 1
+  name:
+    ja: ひっさつまえば
+    en: Hyper Fang
+  cost:
+  - Colorless
+  damage: '80'
+  effect_text:
+    ja: コインを1回投げウラなら、このワザは失敗。
+    en: Flip a coin. If tails, this attack does nothing.
+first_appearance:
+  set_name_ja: ホワイトフレア
+  released_at: '2025-06-06'
+  regulation_mark: I
+  collector_number: '071'
+  image_url:

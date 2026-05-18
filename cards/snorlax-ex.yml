@@ -1,0 +1,63 @@
+---
+schema_version: 1
+slug: snorlax-ex
+name:
+  ja: カビゴンex
+  en: Snorlax ex
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Colorless
+hp: 260
+retreat_cost: 4
+regulation_mark: H
+meta_tags:
+- ex
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Fighting
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja: ポケモンexがきぜつしたとき、相手はサイドを2枚とる。
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: かいりき
+    en: Strength
+  cost:
+  - Colorless
+  - Colorless
+  - Colorless
+  damage: '80'
+  effect_text:
+    ja:
+    en:
+- position: 1
+  name:
+    ja: ねがえりプレス
+    en: Toss-and-Turn Press
+  cost:
+  - Colorless
+  - Colorless
+  - Colorless
+  - Colorless
+  damage: 120×
+  effect_text:
+    ja: コインを3回投げ、オモテの数×120ダメージ。
+    en: Flip 3 coins. This attack does 120 damage for each heads.
+first_appearance:
+  set_name_ja: スタートデッキGenerations ピカチュウex・カビゴンex
+  released_at: '2024-11-22'
+  regulation_mark: H
+  collector_number: '094'
+  image_url:

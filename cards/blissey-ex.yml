@@ -1,0 +1,57 @@
+---
+schema_version: 1
+slug: blissey-ex
+name:
+  ja: ハピナスex
+  en: Blissey ex
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Colorless
+hp: 300
+retreat_cost: 4
+regulation_mark: H
+meta_tags:
+- ex
+evolves_from:
+  ja: ラッキー
+  en: Chansey
+weakness:
+  type: Fighting
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja: ポケモンexがきぜつしたとき、相手はサイドを2枚とる。
+  en:
+abilities:
+- position: 0
+  name:
+    ja: ハッピースイッチ
+    en: Happy Switch
+  effect_text:
+    ja: 自分の番に1回使える。自分の場のポケモンについている基本エネルギーを1個選び、自分の別のポケモンにつけ替える。
+    en: Once during your turn, you may move a Basic Energy from 1 of your Pokémon to another of your Pokémon.
+attacks:
+- position: 0
+  name:
+    ja: おんがえし
+    en: Return
+  cost:
+  - Colorless
+  - Colorless
+  - Colorless
+  damage: '180'
+  effect_text:
+    ja: のぞむなら、自分の手札が6枚になるように、山札を引く。
+    en: You may draw cards until you have 6 cards in your hand.
+first_appearance:
+  set_name_ja: 変幻の仮面
+  released_at: '2024-04-26'
+  regulation_mark: H
+  collector_number: '085'
+  image_url:

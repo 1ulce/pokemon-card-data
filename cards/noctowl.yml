@@ -1,0 +1,55 @@
+---
+schema_version: 1
+slug: noctowl
+name:
+  ja: ヨルノズク
+  en: Noctowl
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Colorless
+hp: 100
+retreat_cost: 1
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja: ホーホー
+  en: Hoothoot
+weakness:
+  type: Lightning
+  value: "×2"
+resistance:
+  type: Fighting
+  value: "-30"
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities:
+- position: 0
+  name:
+    ja: ほうせきさがし
+    en: Jewel Seeker
+  effect_text:
+    ja: 自分の番に、このカードを手札から出して進化させたとき、自分の場に「テラスタル」のポケモンがいるなら、1回使える。自分の山札からトレーナーズを2枚まで選び、相手に見せて、手札に加える。そして山札を切る。
+    en: Once during your turn, when you play this Pokémon from your hand to evolve 1 of your Pokémon, if you have any Tera Pokémon in play, you may search your deck for up to 2 Trainer cards, reveal them, and put them into your hand. Then, shuffle your deck.
+attacks:
+- position: 0
+  name:
+    ja: スピードウイング
+    en: Speed Wing
+  cost:
+  - Colorless
+  - Colorless
+  damage: '60'
+  effect_text:
+    ja:
+    en:
+first_appearance:
+  set_name_ja: ステラミラクル
+  released_at: '2024-07-19'
+  regulation_mark: H
+  collector_number: '077'
+  image_url:

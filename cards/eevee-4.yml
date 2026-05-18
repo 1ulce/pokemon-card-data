@@ -1,0 +1,59 @@
+---
+schema_version: 1
+slug: eevee-4
+name:
+  ja: イーブイ
+  en: Eevee
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Colorless
+hp: 50
+retreat_cost: 1
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Fighting
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: かくせい 
+    en: Ascension
+  cost:
+  - Colorless
+  damage:
+  effect_text:
+    ja: このポケモンから進化するカードを、自分の山札から1枚選び、このポケモンにのせて進化させる。そして山札を切る。
+    en: Search your deck for a card that evolves from this Pokémon and put it onto this Pokémon to evolve it. Then, shuffle your deck.
+- position: 1
+  name:
+    ja: でんこうせっか
+    en: Quick Attack
+  cost:
+  - Colorless
+  - Colorless
+  - Colorless
+  damage: 20+
+  effect_text:
+    ja: コインを1回投げオモテなら、20ダメージ追加。
+    en: Flip a coin. If heads, this attack does 20 more damage.
+first_appearance:
+  set_name_ja: クリムゾンヘイズ
+  released_at: '2024-03-22'
+  regulation_mark: H
+  collector_number: '050'
+  image_url:

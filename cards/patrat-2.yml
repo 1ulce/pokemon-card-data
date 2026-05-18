@@ -1,0 +1,54 @@
+---
+schema_version: 1
+slug: patrat-2
+name:
+  ja: ミネズミ
+  en: Patrat
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Colorless
+hp: 70
+retreat_cost: 1
+regulation_mark:
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Fighting
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities:
+- position: 0
+  name:
+    ja: かんしのめ
+    en:
+  effect_text:
+    ja: このポケモンがいるかぎり、おたがいのポケモン全員にのっているダメカンは、別のポケモンにのせ替えられない。
+    en:
+attacks:
+- position: 0
+  name:
+    ja: かみつく
+    en:
+  cost:
+  - Colorless
+  damage: '10'
+  effect_text:
+    ja:
+    en:
+first_appearance:
+  set_name_ja: ニンジャスピナー
+  released_at: '2026-03-13'
+  regulation_mark: J
+  collector_number: '068'
+  image_url:

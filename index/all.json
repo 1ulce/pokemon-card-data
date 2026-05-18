@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-05-15T17:35:59Z",
+  "generated_at": "2026-05-18T02:51:26Z",
   "total_faces": 1907,
   "faces": [
     {
@@ -108,7 +108,7 @@
       "first_set": "変幻の仮面"
     },
     {
-      "slug": "aipom-4",
+      "slug": "aipom",
       "name_ja": "エイパム",
       "name_en": "Aipom",
       "card_type": "Pokémon",
@@ -116,7 +116,7 @@
       "first_set": "変幻の仮面"
     },
     {
-      "slug": "aipom-5",
+      "slug": "aipom-2",
       "name_ja": "エイパム",
       "name_en": "Aipom",
       "card_type": "Pokémon",
@@ -172,7 +172,7 @@
       "first_set": "スタートデッキGenerations ザシアンex・マホイップex"
     },
     {
-      "slug": "alolan-diglett-2",
+      "slug": "alolan-diglett",
       "name_ja": "アローラ ディグダ",
       "name_en": "Alolan Diglett",
       "card_type": "Pokémon",
@@ -180,7 +180,7 @@
       "first_set": "超電ブレイカー"
     },
     {
-      "slug": "alolan-dugtrio-2",
+      "slug": "alolan-dugtrio",
       "name_ja": "アローラ ダグトリオ",
       "name_en": "Alolan Dugtrio",
       "card_type": "Pokémon",
@@ -244,6 +244,14 @@
       "first_set": "楽園ドラゴーナ"
     },
     {
+      "slug": "amarys",
+      "name_ja": "ネリネ",
+      "name_en": "Amarys",
+      "card_type": "Trainer",
+      "regulation_mark": null,
+      "first_set": "テラスタルフェスex"
+    },
+    {
       "slug": "amaura",
       "name_ja": "アマルス",
       "name_en": "Amaura",
@@ -252,7 +260,7 @@
       "first_set": "ムニキスゼロ"
     },
     {
-      "slug": "ambipom-4",
+      "slug": "ambipom",
       "name_ja": "エテボース",
       "name_en": "Ambipom",
       "card_type": "Pokémon",
@@ -260,7 +268,7 @@
       "first_set": "変幻の仮面"
     },
     {
-      "slug": "ambipom-5",
+      "slug": "ambipom-2",
       "name_ja": "エテボース",
       "name_en": "Ambipom",
       "card_type": "Pokémon",
@@ -372,7 +380,7 @@
       "first_set": "ステラミラクル"
     },
     {
-      "slug": "antique-sail-fossil-2",
+      "slug": "antique-sail-fossil",
       "name_ja": "古びたヒレの化石",
       "name_en": "Antique Sail Fossil",
       "card_type": "Trainer",
@@ -580,15 +588,7 @@
       "first_set": "バトルパートナーズ"
     },
     {
-      "slug": "arven",
-      "name_ja": "ペパーのサンドウィッチ",
-      "name_en": "Arven's Sandwich",
-      "card_type": "Trainer",
-      "regulation_mark": null,
-      "first_set": "熱風のアリーナ"
-    },
-    {
-      "slug": "arven-s-greedent-2",
+      "slug": "arven-s-greedent",
       "name_ja": "ペパーのヨクバリス",
       "name_en": "Arven's Greedent",
       "card_type": "Pokémon",
@@ -612,7 +612,15 @@
       "first_set": "熱風のアリーナ"
     },
     {
-      "slug": "arven-s-skwovet-2",
+      "slug": "arven-s-sandwich",
+      "name_ja": "ペパーのサンドウィッチ",
+      "name_en": "Arven's Sandwich",
+      "card_type": "Trainer",
+      "regulation_mark": null,
+      "first_set": "熱風のアリーナ"
+    },
+    {
+      "slug": "arven-s-skwovet",
       "name_ja": "ペパーのホシガリス",
       "name_en": "Arven's Skwovet",
       "card_type": "Pokémon",
@@ -636,7 +644,7 @@
       "first_set": "熱風のアリーナ"
     },
     {
-      "slug": "audino-3",
+      "slug": "audino",
       "name_ja": "タブンネ",
       "name_en": "Audino",
       "card_type": "Pokémon",
@@ -644,7 +652,7 @@
       "first_set": "ブラックボルト"
     },
     {
-      "slug": "audino-4",
+      "slug": "audino-2",
       "name_ja": "タブンネ",
       "name_en": "Audino",
       "card_type": "Pokémon",
@@ -916,7 +924,7 @@
       "first_set": "ニンジャスピナー"
     },
     {
-      "slug": "bewear-3",
+      "slug": "bewear",
       "name_ja": "キテルグマ",
       "name_en": "Bewear",
       "card_type": "Pokémon",
@@ -924,7 +932,7 @@
       "first_set": "メガシンフォニア"
     },
     {
-      "slug": "bewear-4",
+      "slug": "bewear-2",
       "name_ja": "キテルグマ",
       "name_en": "Bewear",
       "card_type": "Pokémon",
@@ -1020,7 +1028,7 @@
       "first_set": "スタートデッキGenerations カイオーガex・バシャーモex"
     },
     {
-      "slug": "blissey-ex-2",
+      "slug": "blissey-ex",
       "name_ja": "ハピナスex",
       "name_en": "Blissey ex",
       "card_type": "Pokémon",
@@ -1052,7 +1060,7 @@
       "first_set": "ナイトワンダラー"
     },
     {
-      "slug": "bloodmoon-ursaluna-ex-2",
+      "slug": "bloodmoon-ursaluna-ex",
       "name_ja": "ガチグマ アカツキex",
       "name_en": "Bloodmoon Ursaluna ex",
       "card_type": "Pokémon",
@@ -1140,7 +1148,7 @@
       "first_set": "プレミアムトレーナーボックスex"
     },
     {
-      "slug": "bouffalant-3",
+      "slug": "bouffalant",
       "name_ja": "バッフロン",
       "name_en": "Bouffalant",
       "card_type": "Pokémon",
@@ -1148,7 +1156,7 @@
       "first_set": "ステラミラクル"
     },
     {
-      "slug": "bouffalant-4",
+      "slug": "bouffalant-2",
       "name_ja": "バッフロン",
       "name_en": "Bouffalant",
       "card_type": "Pokémon",
@@ -1156,7 +1164,7 @@
       "first_set": "超電ブレイカー"
     },
     {
-      "slug": "bouffalant-ex-2",
+      "slug": "bouffalant-ex",
       "name_ja": "バッフロンex",
       "name_en": "Bouffalant ex",
       "card_type": "Pokémon",
@@ -1220,7 +1228,7 @@
       "first_set": "ホワイトフレア"
     },
     {
-      "slug": "braviary-3",
+      "slug": "braviary",
       "name_ja": "ウォーグル",
       "name_en": "Braviary",
       "card_type": "Pokémon",
@@ -1228,7 +1236,7 @@
       "first_set": "ホワイトフレア"
     },
     {
-      "slug": "braviary-4",
+      "slug": "braviary-2",
       "name_ja": "ウォーグル",
       "name_en": "Braviary",
       "card_type": "Pokémon",
@@ -1388,7 +1396,7 @@
       "first_set": "ワイルドフォース"
     },
     {
-      "slug": "budew-2",
+      "slug": "budew",
       "name_ja": "スボミー",
       "name_en": "Budew",
       "card_type": "Pokémon",
@@ -1420,7 +1428,7 @@
       "first_set": "メガブレイブ"
     },
     {
-      "slug": "buneary-4",
+      "slug": "buneary",
       "name_ja": "ミミロル",
       "name_en": "Buneary",
       "card_type": "Pokémon",
@@ -1428,7 +1436,7 @@
       "first_set": "メガシンフォニア"
     },
     {
-      "slug": "buneary-5",
+      "slug": "buneary-2",
       "name_ja": "ミミロル",
       "name_en": "Buneary",
       "card_type": "Pokémon",
@@ -1436,7 +1444,7 @@
       "first_set": "スタートデッキGenerations ディアルガex・ルカリオex"
     },
     {
-      "slug": "buneary-6",
+      "slug": "buneary-3",
       "name_ja": "ミミロル",
       "name_en": "Buneary",
       "card_type": "Pokémon",
@@ -1444,7 +1452,7 @@
       "first_set": "インフェルノX"
     },
     {
-      "slug": "bunnelby-2",
+      "slug": "bunnelby",
       "name_ja": "ホルビー",
       "name_en": "Bunnelby",
       "card_type": "Pokémon",
@@ -1740,7 +1748,7 @@
       "first_set": "ブラックボルト"
     },
     {
-      "slug": "chansey-3",
+      "slug": "chansey",
       "name_ja": "ラッキー",
       "name_en": "Chansey",
       "card_type": "Pokémon",
@@ -1844,7 +1852,7 @@
       "first_set": "スタートデッキ100 バトルコレクション"
     },
     {
-      "slug": "chatot-2",
+      "slug": "chatot",
       "name_ja": "ペラップ",
       "name_en": "Chatot",
       "card_type": "Pokémon",
@@ -1972,7 +1980,7 @@
       "first_set": "ステラミラクル"
     },
     {
-      "slug": "cinccino-4",
+      "slug": "cinccino",
       "name_ja": "チラチーノ",
       "name_en": "Cinccino",
       "card_type": "Pokémon",
@@ -1980,7 +1988,7 @@
       "first_set": "ブラックボルト"
     },
     {
-      "slug": "cinccino-5",
+      "slug": "cinccino-2",
       "name_ja": "チラチーノ",
       "name_en": "Cinccino",
       "card_type": "Pokémon",
@@ -1988,7 +1996,7 @@
       "first_set": "スタートデッキGenerations レシラムex・モロバレルex"
     },
     {
-      "slug": "cinccino-6",
+      "slug": "cinccino-3",
       "name_ja": "チラチーノ",
       "name_en": "Cinccino",
       "card_type": "Pokémon",
@@ -1996,7 +2004,7 @@
       "first_set": "ワイルドフォース"
     },
     {
-      "slug": "cinccino-ex-2",
+      "slug": "cinccino-ex",
       "name_ja": "チラチーノex",
       "name_en": "Cinccino ex",
       "card_type": "Pokémon",
@@ -2340,7 +2348,7 @@
       "first_set": "クリムゾンヘイズ"
     },
     {
-      "slug": "cramorant-3",
+      "slug": "cramorant-2",
       "name_ja": "ウッウ",
       "name_en": "Cramorant",
       "card_type": "Pokémon",
@@ -2532,7 +2540,7 @@
       "first_set": "サイバージャッジ"
     },
     {
-      "slug": "cyclizar-3",
+      "slug": "cyclizar",
       "name_ja": "モトトカゲ",
       "name_en": "Cyclizar",
       "card_type": "Pokémon",
@@ -2540,7 +2548,7 @@
       "first_set": "スタートデッキ100 バトルコレクション"
     },
     {
-      "slug": "cyclizar-ex-2",
+      "slug": "cyclizar-ex",
       "name_ja": "モトトカゲex",
       "name_en": "Cyclizar ex",
       "card_type": "Pokémon",
@@ -2804,7 +2812,7 @@
       "first_set": "ホワイトフレア"
     },
     {
-      "slug": "delcatty-3",
+      "slug": "delcatty",
       "name_ja": "エネコロロ",
       "name_en": "Delcatty",
       "card_type": "Pokémon",
@@ -2812,7 +2820,7 @@
       "first_set": "スタートデッキ100 バトルコレクション"
     },
     {
-      "slug": "delcatty-4",
+      "slug": "delcatty-2",
       "name_ja": "エネコロロ",
       "name_en": "Delcatty",
       "card_type": "Pokémon",
@@ -2820,7 +2828,7 @@
       "first_set": "サイバージャッジ"
     },
     {
-      "slug": "delibird-2",
+      "slug": "delibird",
       "name_ja": "デリバード",
       "name_en": "Delibird",
       "card_type": "Pokémon",
@@ -2828,7 +2836,7 @@
       "first_set": "ニンジャスピナー"
     },
     {
-      "slug": "delibird-3",
+      "slug": "delibird-2",
       "name_ja": "デリバード",
       "name_en": "Delibird",
       "card_type": "Pokémon",
@@ -2980,7 +2988,7 @@
       "first_set": "ステラミラクル"
     },
     {
-      "slug": "diggersby-2",
+      "slug": "diggersby",
       "name_ja": "ホルード",
       "name_en": "Diggersby",
       "card_type": "Pokémon",
@@ -3100,7 +3108,7 @@
       "first_set": "変幻の仮面"
     },
     {
-      "slug": "drampa-4",
+      "slug": "drampa",
       "name_ja": "ジジーロン",
       "name_en": "Drampa",
       "card_type": "Pokémon",
@@ -3108,7 +3116,7 @@
       "first_set": "スタートデッキ100 バトルコレクション"
     },
     {
-      "slug": "drampa-5",
+      "slug": "drampa-2",
       "name_ja": "ジジーロン",
       "name_en": "Drampa",
       "card_type": "Pokémon",
@@ -3116,7 +3124,7 @@
       "first_set": "スタートデッキGenerations カプ・コケコex・ミミッキュex"
     },
     {
-      "slug": "drampa-6",
+      "slug": "drampa-3",
       "name_ja": "ジジーロン",
       "name_en": "Drampa",
       "card_type": "Pokémon",
@@ -3268,7 +3276,7 @@
       "first_set": "ホワイトフレア"
     },
     {
-      "slug": "dubwool-2",
+      "slug": "dubwool",
       "name_ja": "バイウールー",
       "name_en": "Dubwool",
       "card_type": "Pokémon",
@@ -3276,7 +3284,7 @@
       "first_set": "ステラミラクル"
     },
     {
-      "slug": "ducklett-2",
+      "slug": "ducklett",
       "name_ja": "コアルヒー",
       "name_en": "Ducklett",
       "card_type": "Pokémon",
@@ -3284,7 +3292,7 @@
       "first_set": "ホワイトフレア"
     },
     {
-      "slug": "ducklett-3",
+      "slug": "ducklett-2",
       "name_ja": "コアルヒー",
       "name_en": "Ducklett",
       "card_type": "Pokémon",
@@ -3292,7 +3300,7 @@
       "first_set": "変幻の仮面"
     },
     {
-      "slug": "dudunsparce-3",
+      "slug": "dudunsparce",
       "name_ja": "ノココッチ",
       "name_en": "Dudunsparce",
       "card_type": "Pokémon",
@@ -3300,7 +3308,7 @@
       "first_set": "ワイルドフォース"
     },
     {
-      "slug": "dudunsparce-ex-2",
+      "slug": "dudunsparce-ex",
       "name_ja": "ノココッチex",
       "name_en": "Dudunsparce ex",
       "card_type": "Pokémon",
@@ -3308,7 +3316,7 @@
       "first_set": "バトルパートナーズ"
     },
     {
-      "slug": "dunsparce-3",
+      "slug": "dunsparce",
       "name_ja": "ノコッチ",
       "name_en": "Dunsparce",
       "card_type": "Pokémon",
@@ -3316,7 +3324,7 @@
       "first_set": "バトルパートナーズ"
     },
     {
-      "slug": "dunsparce-5",
+      "slug": "dunsparce-2",
       "name_ja": "ノコッチ",
       "name_en": "Dunsparce",
       "card_type": "Pokémon",
@@ -3460,7 +3468,7 @@
       "first_set": "ブラックボルト"
     },
     {
-      "slug": "eevee-5",
+      "slug": "eevee",
       "name_ja": "イーブイ",
       "name_en": "Eevee",
       "card_type": "Pokémon",
@@ -3468,7 +3476,7 @@
       "first_set": "テラスタルフェスex"
     },
     {
-      "slug": "eevee-6",
+      "slug": "eevee-2",
       "name_ja": "イーブイ",
       "name_en": "Eevee",
       "card_type": "Pokémon",
@@ -3476,7 +3484,7 @@
       "first_set": "バトルアカデミー"
     },
     {
-      "slug": "eevee-7",
+      "slug": "eevee-3",
       "name_ja": "イーブイ",
       "name_en": "Eevee",
       "card_type": "Pokémon",
@@ -3484,7 +3492,7 @@
       "first_set": "ナイトワンダラー"
     },
     {
-      "slug": "eevee-8",
+      "slug": "eevee-4",
       "name_ja": "イーブイ",
       "name_en": "Eevee",
       "card_type": "Pokémon",
@@ -3492,7 +3500,7 @@
       "first_set": "クリムゾンヘイズ"
     },
     {
-      "slug": "eevee-ex-2",
+      "slug": "eevee-ex",
       "name_ja": "イーブイex",
       "name_en": "Eevee ex",
       "card_type": "Pokémon",
@@ -3570,14 +3578,6 @@
       "card_type": "Pokémon",
       "regulation_mark": "I",
       "first_set": "熱風のアリーナ"
-    },
-    {
-      "slug": "electric-generator",
-      "name_ja": "でんきだま",
-      "name_en": "Light Ball",
-      "card_type": "Trainer",
-      "regulation_mark": null,
-      "first_set": "MEGAドリームex"
     },
     {
       "slug": "electrike",
@@ -3940,7 +3940,7 @@
       "first_set": "熱風のアリーナ"
     },
     {
-      "slug": "ethan-s-pichu-2",
+      "slug": "ethan-s-pichu",
       "name_ja": "ヒビキのピチュー",
       "name_en": "Ethan's Pichu",
       "card_type": "Pokémon",
@@ -4084,7 +4084,7 @@
       "first_set": "ステラミラクル"
     },
     {
-      "slug": "fan-rotom-2",
+      "slug": "fan-rotom",
       "name_ja": "スピンロトム",
       "name_en": "Fan Rotom",
       "card_type": "Pokémon",
@@ -4092,7 +4092,7 @@
       "first_set": "ステラミラクル"
     },
     {
-      "slug": "farfetch-d-2",
+      "slug": "farfetch-d",
       "name_ja": "カモネギ",
       "name_en": "Farfetch'd",
       "card_type": "Pokémon",
@@ -4116,7 +4116,7 @@
       "first_set": "サイバージャッジ"
     },
     {
-      "slug": "fearow-2",
+      "slug": "fearow",
       "name_ja": "オニドリル",
       "name_en": "Fearow",
       "card_type": "Pokémon",
@@ -4146,6 +4146,14 @@
       "card_type": "Pokémon",
       "regulation_mark": null,
       "first_set": "ニンジャスピナー"
+    },
+    {
+      "slug": "fennel",
+      "name_ja": "マコモ",
+      "name_en": "Fennel",
+      "card_type": "Trainer",
+      "regulation_mark": null,
+      "first_set": "ブラックボルト"
     },
     {
       "slug": "feraligatr",
@@ -4316,7 +4324,7 @@
       "first_set": "クリムゾンヘイズ"
     },
     {
-      "slug": "flamigo-ex-2",
+      "slug": "flamigo-ex",
       "name_ja": "カラミンゴex",
       "name_en": "Flamigo ex",
       "card_type": "Pokémon",
@@ -4340,7 +4348,7 @@
       "first_set": "テラスタルフェスex"
     },
     {
-      "slug": "fletchinder-2",
+      "slug": "fletchinder",
       "name_ja": "ヒノヤコマ",
       "name_en": "Fletchinder",
       "card_type": "Pokémon",
@@ -4348,7 +4356,7 @@
       "first_set": "ムニキスゼロ"
     },
     {
-      "slug": "fletchinder-4",
+      "slug": "fletchinder-2",
       "name_ja": "ヒノヤコマ",
       "name_en": "Fletchinder",
       "card_type": "Pokémon",
@@ -4356,7 +4364,7 @@
       "first_set": "ステラミラクル"
     },
     {
-      "slug": "fletchling-3",
+      "slug": "fletchling",
       "name_ja": "ヤヤコマ",
       "name_en": "Fletchling",
       "card_type": "Pokémon",
@@ -4364,7 +4372,7 @@
       "first_set": "ムニキスゼロ"
     },
     {
-      "slug": "fletchling-5",
+      "slug": "fletchling-2",
       "name_ja": "ヤヤコマ",
       "name_en": "Fletchling",
       "card_type": "Pokémon",
@@ -4644,7 +4652,7 @@
       "first_set": "サイバージャッジ"
     },
     {
-      "slug": "furfrou-4",
+      "slug": "furfrou",
       "name_ja": "トリミアン",
       "name_en": "Furfrou",
       "card_type": "Pokémon",
@@ -4652,7 +4660,7 @@
       "first_set": "ムニキスゼロ"
     },
     {
-      "slug": "furfrou-5",
+      "slug": "furfrou-2",
       "name_ja": "トリミアン",
       "name_en": "Furfrou",
       "card_type": "Pokémon",
@@ -4660,7 +4668,7 @@
       "first_set": "スタートデッキGenerations ゼルネアスex・オンバーンex"
     },
     {
-      "slug": "furfrou-6",
+      "slug": "furfrou-3",
       "name_ja": "トリミアン",
       "name_en": "Furfrou",
       "card_type": "Pokémon",
@@ -4668,7 +4676,7 @@
       "first_set": "ナイトワンダラー"
     },
     {
-      "slug": "furret-2",
+      "slug": "furret",
       "name_ja": "オオタチ",
       "name_en": "Furret",
       "card_type": "Pokémon",
@@ -4796,14 +4804,6 @@
       "first_set": "超電ブレイカー"
     },
     {
-      "slug": "geeta",
-      "name_ja": "アオキの手際",
-      "name_en": "Larry's Skill",
-      "card_type": "Trainer",
-      "regulation_mark": null,
-      "first_set": "テラスタルフェスex"
-    },
-    {
       "slug": "genesect",
       "name_ja": "ゲノセクト",
       "name_en": "Genesect",
@@ -4924,7 +4924,7 @@
       "first_set": "変幻の仮面"
     },
     {
-      "slug": "glameow-2",
+      "slug": "glameow",
       "name_ja": "ニャルマー",
       "name_en": "Glameow",
       "card_type": "Pokémon",
@@ -5276,7 +5276,7 @@
       "first_set": "メガシンフォニア"
     },
     {
-      "slug": "greedent-2",
+      "slug": "greedent",
       "name_ja": "ヨクバリス",
       "name_en": "Greedent",
       "card_type": "Pokémon",
@@ -5404,7 +5404,7 @@
       "first_set": "ステラミラクル"
     },
     {
-      "slug": "gumshoos-2",
+      "slug": "gumshoos",
       "name_ja": "デカグース",
       "name_en": "Gumshoos",
       "card_type": "Pokémon",
@@ -5508,7 +5508,7 @@
       "first_set": "クリムゾンヘイズ"
     },
     {
-      "slug": "hawlucha-3",
+      "slug": "hawlucha-2",
       "name_ja": "ルチャブル",
       "name_en": "Hawlucha",
       "card_type": "Pokémon",
@@ -5516,7 +5516,7 @@
       "first_set": "ムニキスゼロ"
     },
     {
-      "slug": "hawlucha-4",
+      "slug": "hawlucha-3",
       "name_ja": "ルチャブル",
       "name_en": "Hawlucha",
       "card_type": "Pokémon",
@@ -5636,7 +5636,7 @@
       "first_set": "メガシンフォニア"
     },
     {
-      "slug": "heliolisk-5",
+      "slug": "heliolisk-4",
       "name_ja": "エレザード",
       "name_en": "Heliolisk",
       "card_type": "Pokémon",
@@ -5668,7 +5668,7 @@
       "first_set": "メガシンフォニア"
     },
     {
-      "slug": "helioptile-5",
+      "slug": "helioptile-4",
       "name_ja": "エリキテル",
       "name_en": "Helioptile",
       "card_type": "Pokémon",
@@ -5684,7 +5684,7 @@
       "first_set": "変幻の仮面"
     },
     {
-      "slug": "herdier-2",
+      "slug": "herdier",
       "name_ja": "ハーデリア",
       "name_en": "Herdier",
       "card_type": "Pokémon",
@@ -5764,7 +5764,7 @@
       "first_set": "スペシャルBOX ポケモンセンターヒロシマ"
     },
     {
-      "slug": "hisuian-arcanine-2",
+      "slug": "hisuian-arcanine",
       "name_ja": "ヒスイ ウインディ",
       "name_en": "Hisuian Arcanine",
       "card_type": "Pokémon",
@@ -5772,7 +5772,7 @@
       "first_set": "クリムゾンヘイズ"
     },
     {
-      "slug": "hisuian-growlithe-2",
+      "slug": "hisuian-growlithe",
       "name_ja": "ヒスイ ガーディ",
       "name_en": "Hisuian Growlithe",
       "card_type": "Pokémon",
@@ -5836,7 +5836,7 @@
       "first_set": "スタートデッキ100 バトルコレクション"
     },
     {
-      "slug": "hoothoot-4",
+      "slug": "hoothoot",
       "name_ja": "ホーホー",
       "name_en": "Hoothoot",
       "card_type": "Pokémon",
@@ -5844,7 +5844,7 @@
       "first_set": "テラスタルフェスex"
     },
     {
-      "slug": "hoothoot-5",
+      "slug": "hoothoot-2",
       "name_ja": "ホーホー",
       "name_en": "Hoothoot",
       "card_type": "Pokémon",
@@ -5852,7 +5852,7 @@
       "first_set": "ステラミラクル"
     },
     {
-      "slug": "hoothoot-6",
+      "slug": "hoothoot-3",
       "name_ja": "ホーホー",
       "name_en": "Hoothoot",
       "card_type": "Pokémon",
@@ -5884,7 +5884,7 @@
       "first_set": "バトルパートナーズ"
     },
     {
-      "slug": "hop-s-corvisquire-2",
+      "slug": "hop-s-corvisquire",
       "name_ja": "ホップのアオガラス",
       "name_en": "Hop's Corvisquire",
       "card_type": "Pokémon",
@@ -5892,7 +5892,7 @@
       "first_set": "バトルパートナーズ"
     },
     {
-      "slug": "hop-s-cramorant-2",
+      "slug": "hop-s-cramorant",
       "name_ja": "ホップのウッウ",
       "name_en": "Hop's Cramorant",
       "card_type": "Pokémon",
@@ -5900,7 +5900,7 @@
       "first_set": "バトルパートナーズ"
     },
     {
-      "slug": "hop-s-dubwool-2",
+      "slug": "hop-s-dubwool",
       "name_ja": "ホップのバイウールー",
       "name_en": "Hop's Dubwool",
       "card_type": "Pokémon",
@@ -5924,7 +5924,7 @@
       "first_set": "スカーレット＆バイオレット プロモカードパック第9弾"
     },
     {
-      "slug": "hop-s-rookidee-2",
+      "slug": "hop-s-rookidee",
       "name_ja": "ホップのココガラ",
       "name_en": "Hop's Rookidee",
       "card_type": "Pokémon",
@@ -5948,7 +5948,7 @@
       "first_set": "バトルパートナーズ"
     },
     {
-      "slug": "hop-s-snorlax-2",
+      "slug": "hop-s-snorlax",
       "name_ja": "ホップのカビゴン",
       "name_en": "Hop's Snorlax",
       "card_type": "Pokémon",
@@ -5964,7 +5964,7 @@
       "first_set": "MEGAドリームex"
     },
     {
-      "slug": "hop-s-wooloo-2",
+      "slug": "hop-s-wooloo",
       "name_ja": "ホップのウールー",
       "name_en": "Hop's Wooloo",
       "card_type": "Pokémon",
@@ -6300,7 +6300,7 @@
       "first_set": "未来のミライドンex"
     },
     {
-      "slug": "iron-jugulis-3",
+      "slug": "iron-jugulis",
       "name_ja": "テツノコウベ",
       "name_en": "Iron Jugulis",
       "card_type": "Pokémon",
@@ -6380,6 +6380,14 @@
       "first_set": "メガブレイブ"
     },
     {
+      "slug": "jacinthe",
+      "name_ja": "ユカリ",
+      "name_en": "Jacinthe",
+      "card_type": "Trainer",
+      "regulation_mark": null,
+      "first_set": "ムニキスゼロ"
+    },
+    {
       "slug": "jamming-tower",
       "name_ja": "ジャミングタワー",
       "name_en": "Jamming Tower",
@@ -6420,7 +6428,7 @@
       "first_set": "ポケモンカードゲーム MEGA　プロモカードパック第3弾"
     },
     {
-      "slug": "jigglypuff-3",
+      "slug": "jigglypuff",
       "name_ja": "プリン",
       "name_en": "Jigglypuff",
       "card_type": "Pokémon",
@@ -6532,7 +6540,7 @@
       "first_set": "ニンジャスピナー"
     },
     {
-      "slug": "kangaskhan-3",
+      "slug": "kangaskhan",
       "name_ja": "ガルーラ",
       "name_en": "Kangaskhan",
       "card_type": "Pokémon",
@@ -6540,7 +6548,7 @@
       "first_set": "ロケット団の栄光"
     },
     {
-      "slug": "kangaskhan-5",
+      "slug": "kangaskhan-2",
       "name_ja": "ガルーラ",
       "name_en": "Kangaskhan",
       "card_type": "Pokémon",
@@ -6564,7 +6572,7 @@
       "first_set": "ブラックボルト"
     },
     {
-      "slug": "kecleon-3",
+      "slug": "kecleon",
       "name_ja": "カクレオン",
       "name_en": "Kecleon",
       "card_type": "Pokémon",
@@ -6572,7 +6580,7 @@
       "first_set": "スタートデッキGenerations カイオーガex・バシャーモex"
     },
     {
-      "slug": "kecleon-4",
+      "slug": "kecleon-2",
       "name_ja": "カクレオン",
       "name_en": "Kecleon",
       "card_type": "Pokémon",
@@ -6756,7 +6764,7 @@
       "first_set": "ステラミラクル"
     },
     {
-      "slug": "komala-2",
+      "slug": "komala",
       "name_ja": "ネッコアラ",
       "name_en": "Komala",
       "card_type": "Pokémon",
@@ -6996,15 +7004,7 @@
       "first_set": "ステラミラクル"
     },
     {
-      "slug": "larry",
-      "name_ja": "サザレ",
-      "name_en": "Perrin",
-      "card_type": "Trainer",
-      "regulation_mark": null,
-      "first_set": "クリムゾンヘイズ"
-    },
-    {
-      "slug": "larry-s-braviary-2",
+      "slug": "larry-s-braviary",
       "name_ja": "アオキのウォーグル",
       "name_en": "Larry's Braviary",
       "card_type": "Pokémon",
@@ -7012,7 +7012,7 @@
       "first_set": "スタートデッキ100 バトルコレクション"
     },
     {
-      "slug": "larry-s-dudunsparce-ex-2",
+      "slug": "larry-s-dudunsparce-ex",
       "name_ja": "アオキのノココッチex",
       "name_en": "Larry's Dudunsparce ex",
       "card_type": "Pokémon",
@@ -7020,7 +7020,7 @@
       "first_set": "スタートデッキ100 バトルコレクション"
     },
     {
-      "slug": "larry-s-dunsparce-2",
+      "slug": "larry-s-dunsparce",
       "name_ja": "アオキのノコッチ",
       "name_en": "Larry's Dunsparce",
       "card_type": "Pokémon",
@@ -7028,7 +7028,7 @@
       "first_set": "スタートデッキ100 バトルコレクション"
     },
     {
-      "slug": "larry-s-komala-2",
+      "slug": "larry-s-komala",
       "name_ja": "アオキのネッコアラ",
       "name_en": "Larry's Komala",
       "card_type": "Pokémon",
@@ -7036,7 +7036,7 @@
       "first_set": "スタートデッキ100 バトルコレクション"
     },
     {
-      "slug": "larry-s-rufflet-2",
+      "slug": "larry-s-rufflet",
       "name_ja": "アオキのワシボン",
       "name_en": "Larry's Rufflet",
       "card_type": "Pokémon",
@@ -7044,7 +7044,15 @@
       "first_set": "スタートデッキ100 バトルコレクション"
     },
     {
-      "slug": "larry-s-staraptor-2",
+      "slug": "larry-s-skill",
+      "name_ja": "アオキの手際",
+      "name_en": "Larry's Skill",
+      "card_type": "Trainer",
+      "regulation_mark": null,
+      "first_set": "テラスタルフェスex"
+    },
+    {
+      "slug": "larry-s-staraptor",
       "name_ja": "アオキのムクホーク",
       "name_en": "Larry's Staraptor",
       "card_type": "Pokémon",
@@ -7052,7 +7060,7 @@
       "first_set": "スタートデッキ100 バトルコレクション"
     },
     {
-      "slug": "larry-s-staravia-2",
+      "slug": "larry-s-staravia",
       "name_ja": "アオキのムクバード",
       "name_en": "Larry's Staravia",
       "card_type": "Pokémon",
@@ -7060,7 +7068,7 @@
       "first_set": "スタートデッキ100 バトルコレクション"
     },
     {
-      "slug": "larry-s-starly-2",
+      "slug": "larry-s-starly",
       "name_ja": "アオキのムックル",
       "name_en": "Larry's Starly",
       "card_type": "Pokémon",
@@ -7164,7 +7172,7 @@
       "first_set": "ホワイトフレア"
     },
     {
-      "slug": "lechonk-3",
+      "slug": "lechonk",
       "name_ja": "グルトン",
       "name_en": "Lechonk",
       "card_type": "Pokémon",
@@ -7172,7 +7180,7 @@
       "first_set": "スタートデッキGenerations コライドンex・パルデアドオーex"
     },
     {
-      "slug": "lechonk-4",
+      "slug": "lechonk-2",
       "name_ja": "グルトン",
       "name_en": "Lechonk",
       "card_type": "Pokémon",
@@ -7212,7 +7220,7 @@
       "first_set": "バトルパートナーズ"
     },
     {
-      "slug": "lickilicky-2",
+      "slug": "lickilicky",
       "name_ja": "ベロベルト",
       "name_en": "Lickilicky",
       "card_type": "Pokémon",
@@ -7220,7 +7228,7 @@
       "first_set": "サイバージャッジ"
     },
     {
-      "slug": "lickitung-2",
+      "slug": "lickitung",
       "name_ja": "ベロリンガ",
       "name_en": "Lickitung",
       "card_type": "Pokémon",
@@ -7234,6 +7242,14 @@
       "card_type": "Pokémon",
       "regulation_mark": "I",
       "first_set": "ホワイトフレア"
+    },
+    {
+      "slug": "light-ball",
+      "name_ja": "でんきだま",
+      "name_en": "Light Ball",
+      "card_type": "Trainer",
+      "regulation_mark": null,
+      "first_set": "MEGAドリームex"
     },
     {
       "slug": "lightning-energy",
@@ -7316,7 +7332,7 @@
       "first_set": "ブラックボルト"
     },
     {
-      "slug": "lillipup-2",
+      "slug": "lillipup",
       "name_ja": "ヨーテリー",
       "name_en": "Lillipup",
       "card_type": "Pokémon",
@@ -7324,7 +7340,7 @@
       "first_set": "ホワイトフレア"
     },
     {
-      "slug": "linoone-2",
+      "slug": "linoone",
       "name_ja": "マッスグマ",
       "name_en": "Linoone",
       "card_type": "Pokémon",
@@ -7444,7 +7460,7 @@
       "first_set": "インフェルノX"
     },
     {
-      "slug": "lopunny-3",
+      "slug": "lopunny",
       "name_ja": "ミミロップ",
       "name_en": "Lopunny",
       "card_type": "Pokémon",
@@ -7452,7 +7468,7 @@
       "first_set": "メガシンフォニア"
     },
     {
-      "slug": "lopunny-4",
+      "slug": "lopunny-2",
       "name_ja": "ミミロップ",
       "name_en": "Lopunny",
       "card_type": "Pokémon",
@@ -7540,7 +7556,7 @@
       "first_set": "インフェルノX"
     },
     {
-      "slug": "lugia-ex-2",
+      "slug": "lugia-ex",
       "name_ja": "ルギアex",
       "name_en": "Lugia ex",
       "card_type": "Pokémon",
@@ -8012,7 +8028,7 @@
       "first_set": "古代のコライドンex"
     },
     {
-      "slug": "maushold-3",
+      "slug": "maushold",
       "name_ja": "イッカネズミ",
       "name_en": "Maushold",
       "card_type": "Pokémon",
@@ -8164,7 +8180,7 @@
       "first_set": "メガブレイブ"
     },
     {
-      "slug": "mega-audino-ex-2",
+      "slug": "mega-audino-ex",
       "name_ja": "メガタブンネex",
       "name_en": "Mega Audino ex",
       "card_type": "Pokémon",
@@ -8324,7 +8340,7 @@
       "first_set": "インフェルノX"
     },
     {
-      "slug": "mega-kangaskhan-ex-2",
+      "slug": "mega-kangaskhan-ex",
       "name_ja": "メガガルーラex",
       "name_en": "Mega Kangaskhan ex",
       "card_type": "Pokémon",
@@ -8340,7 +8356,7 @@
       "first_set": "メガシンフォニア"
     },
     {
-      "slug": "mega-lopunny-ex-2",
+      "slug": "mega-lopunny-ex",
       "name_ja": "メガミミロップex",
       "name_en": "Mega Lopunny ex",
       "card_type": "Pokémon",
@@ -8468,14 +8484,6 @@
       "first_set": "楽園ドラゴーナ"
     },
     {
-      "slug": "mela",
-      "name_ja": "マコモ",
-      "name_en": "Fennel",
-      "card_type": "Trainer",
-      "regulation_mark": null,
-      "first_set": "ブラックボルト"
-    },
-    {
       "slug": "melmetal",
       "name_ja": "メルメタル",
       "name_en": "Melmetal",
@@ -8572,7 +8580,7 @@
       "first_set": "ムニキスゼロ"
     },
     {
-      "slug": "meowth-2",
+      "slug": "meowth",
       "name_ja": "ニャース",
       "name_en": "Meowth",
       "card_type": "Pokémon",
@@ -8580,7 +8588,7 @@
       "first_set": "ナイトワンダラー"
     },
     {
-      "slug": "meowth-ex-2",
+      "slug": "meowth-ex",
       "name_ja": "ニャースex",
       "name_en": "Meowth ex",
       "card_type": "Pokémon",
@@ -8756,7 +8764,7 @@
       "first_set": "超電ブレイカー"
     },
     {
-      "slug": "miltank-3",
+      "slug": "miltank",
       "name_ja": "ミルタンク",
       "name_en": "Miltank",
       "card_type": "Pokémon",
@@ -8764,7 +8772,7 @@
       "first_set": "メガブレイブ"
     },
     {
-      "slug": "miltank-5",
+      "slug": "miltank-2",
       "name_ja": "ミルタンク",
       "name_en": "Miltank",
       "card_type": "Pokémon",
@@ -8788,7 +8796,7 @@
       "first_set": "スタートデッキGenerations カプ・コケコex・ミミッキュex"
     },
     {
-      "slug": "minccino-5",
+      "slug": "minccino",
       "name_ja": "チラーミィ",
       "name_en": "Minccino",
       "card_type": "Pokémon",
@@ -8796,7 +8804,7 @@
       "first_set": "ブラックボルト"
     },
     {
-      "slug": "minccino-6",
+      "slug": "minccino-2",
       "name_ja": "チラーミィ",
       "name_en": "Minccino",
       "card_type": "Pokémon",
@@ -8804,7 +8812,7 @@
       "first_set": "スタートデッキGenerations レシラムex・モロバレルex"
     },
     {
-      "slug": "minccino-7",
+      "slug": "minccino-3",
       "name_ja": "チラーミィ",
       "name_en": "Minccino",
       "card_type": "Pokémon",
@@ -8812,7 +8820,7 @@
       "first_set": "ワイルドフォース"
     },
     {
-      "slug": "minccino-8",
+      "slug": "minccino-4",
       "name_ja": "チラーミィ",
       "name_en": "Minccino",
       "card_type": "Pokémon",
@@ -9300,14 +9308,6 @@
       "first_set": "ムニキスゼロ"
     },
     {
-      "slug": "nemona",
-      "name_ja": "ユカリ",
-      "name_en": "Jacinthe",
-      "card_type": "Trainer",
-      "regulation_mark": null,
-      "first_set": "ムニキスゼロ"
-    },
-    {
       "slug": "neo-upper-energy",
       "name_ja": "ネオアッパーエネルギー",
       "name_en": "Neo Upper Energy",
@@ -9412,7 +9412,7 @@
       "first_set": "ニンジャスピナー"
     },
     {
-      "slug": "noctowl-3",
+      "slug": "noctowl",
       "name_ja": "ヨルノズク",
       "name_en": "Noctowl",
       "card_type": "Pokémon",
@@ -9420,7 +9420,7 @@
       "first_set": "ステラミラクル"
     },
     {
-      "slug": "noctowl-4",
+      "slug": "noctowl-2",
       "name_ja": "ヨルノズク",
       "name_en": "Noctowl",
       "card_type": "Pokémon",
@@ -9428,7 +9428,7 @@
       "first_set": "ワイルドフォース"
     },
     {
-      "slug": "noibat-2",
+      "slug": "noibat",
       "name_ja": "オンバット",
       "name_en": "Noibat",
       "card_type": "Pokémon",
@@ -9436,7 +9436,7 @@
       "first_set": "MEGAドリームex"
     },
     {
-      "slug": "noibat-4",
+      "slug": "noibat-2",
       "name_ja": "オンバット",
       "name_en": "Noibat",
       "card_type": "Pokémon",
@@ -9444,7 +9444,7 @@
       "first_set": "バトルパートナーズ"
     },
     {
-      "slug": "noibat-6",
+      "slug": "noibat-3",
       "name_ja": "オンバット",
       "name_en": "Noibat",
       "card_type": "Pokémon",
@@ -9452,7 +9452,7 @@
       "first_set": "スタートデッキGenerations ゼルネアスex・オンバーンex"
     },
     {
-      "slug": "noivern-2",
+      "slug": "noivern",
       "name_ja": "オンバーン",
       "name_en": "Noivern",
       "card_type": "Pokémon",
@@ -9460,7 +9460,7 @@
       "first_set": "MEGAドリームex"
     },
     {
-      "slug": "noivern-3",
+      "slug": "noivern-2",
       "name_ja": "オンバーン",
       "name_en": "Noivern",
       "card_type": "Pokémon",
@@ -9468,7 +9468,7 @@
       "first_set": "バトルパートナーズ"
     },
     {
-      "slug": "noivern-ex-3",
+      "slug": "noivern-ex",
       "name_ja": "オンバーンex",
       "name_en": "Noivern ex",
       "card_type": "Pokémon",
@@ -9596,7 +9596,7 @@
       "first_set": "変幻の仮面"
     },
     {
-      "slug": "oinkologne-2",
+      "slug": "oinkologne",
       "name_ja": "パフュートン",
       "name_en": "Oinkologne",
       "card_type": "Pokémon",
@@ -9636,7 +9636,7 @@
       "first_set": "メガブレイブ"
     },
     {
-      "slug": "oranguru-3",
+      "slug": "oranguru",
       "name_ja": "ヤレユータン",
       "name_en": "Oranguru",
       "card_type": "Pokémon",
@@ -9940,7 +9940,7 @@
       "first_set": "楽園ドラゴーナ"
     },
     {
-      "slug": "patrat-3",
+      "slug": "patrat",
       "name_ja": "ミネズミ",
       "name_en": "Patrat",
       "card_type": "Pokémon",
@@ -9948,7 +9948,7 @@
       "first_set": "ホワイトフレア"
     },
     {
-      "slug": "patrat-4",
+      "slug": "patrat-2",
       "name_ja": "ミネズミ",
       "name_en": "Patrat",
       "card_type": "Pokémon",
@@ -10052,14 +10052,6 @@
       "first_set": "スタートデッキGenerations カイオーガex・バシャーモex"
     },
     {
-      "slug": "penny",
-      "name_ja": "ピクニックガール",
-      "name_en": "Picnicker",
-      "card_type": "Trainer",
-      "regulation_mark": null,
-      "first_set": "バトルアカデミー"
-    },
-    {
       "slug": "perilous-jungle",
       "name_ja": "危険な密林",
       "name_en": "Perilous Jungle",
@@ -10068,7 +10060,15 @@
       "first_set": "ワイルドフォース"
     },
     {
-      "slug": "persian-2",
+      "slug": "perrin",
+      "name_ja": "サザレ",
+      "name_en": "Perrin",
+      "card_type": "Trainer",
+      "regulation_mark": null,
+      "first_set": "クリムゾンヘイズ"
+    },
+    {
+      "slug": "persian",
       "name_ja": "ペルシアン",
       "name_en": "Persian",
       "card_type": "Pokémon",
@@ -10140,7 +10140,15 @@
       "first_set": "クリムゾンヘイズ"
     },
     {
-      "slug": "pidove-3",
+      "slug": "picnicker",
+      "name_ja": "ピクニックガール",
+      "name_en": "Picnicker",
+      "card_type": "Trainer",
+      "regulation_mark": null,
+      "first_set": "バトルアカデミー"
+    },
+    {
+      "slug": "pidove",
       "name_ja": "マメパト",
       "name_en": "Pidove",
       "card_type": "Pokémon",
@@ -10148,7 +10156,7 @@
       "first_set": "ブラックボルト"
     },
     {
-      "slug": "pidove-4",
+      "slug": "pidove-2",
       "name_ja": "マメパト",
       "name_en": "Pidove",
       "card_type": "Pokémon",
@@ -10604,7 +10612,7 @@
       "first_set": "ホワイトフレア"
     },
     {
-      "slug": "purugly-2",
+      "slug": "purugly",
       "name_ja": "ブニャット",
       "name_en": "Purugly",
       "card_type": "Pokémon",
@@ -10796,7 +10804,7 @@
       "first_set": "バイオレットex"
     },
     {
-      "slug": "raticate-2",
+      "slug": "raticate",
       "name_ja": "ラッタ",
       "name_en": "Raticate",
       "card_type": "Pokémon",
@@ -10804,7 +10812,7 @@
       "first_set": "ムニキスゼロ"
     },
     {
-      "slug": "rattata-2",
+      "slug": "rattata",
       "name_ja": "コラッタ",
       "name_en": "Rattata",
       "card_type": "Pokémon",
@@ -10860,7 +10868,7 @@
       "first_set": "スタートデッキ100 バトルコレクション"
     },
     {
-      "slug": "regigigas-2",
+      "slug": "regigigas",
       "name_ja": "レジギガス",
       "name_en": "Regigigas",
       "card_type": "Pokémon",
@@ -11068,14 +11076,6 @@
       "first_set": "サイバージャッジ"
     },
     {
-      "slug": "rika",
-      "name_ja": "ネリネ",
-      "name_en": "Amarys",
-      "card_type": "Trainer",
-      "regulation_mark": null,
-      "first_set": "テラスタルフェスex"
-    },
-    {
       "slug": "rillaboom",
       "name_ja": "ゴリランダー",
       "name_en": "Rillaboom",
@@ -11268,7 +11268,7 @@
       "first_set": "バトルパートナーズ"
     },
     {
-      "slug": "rufflet-3",
+      "slug": "rufflet",
       "name_ja": "ワシボン",
       "name_en": "Rufflet",
       "card_type": "Pokémon",
@@ -11276,7 +11276,7 @@
       "first_set": "ホワイトフレア"
     },
     {
-      "slug": "rufflet-4",
+      "slug": "rufflet-2",
       "name_ja": "ワシボン",
       "name_en": "Rufflet",
       "card_type": "Pokémon",
@@ -11700,7 +11700,7 @@
       "first_set": "ブラックボルト"
     },
     {
-      "slug": "sentret-2",
+      "slug": "sentret",
       "name_ja": "オタチ",
       "name_en": "Sentret",
       "card_type": "Pokémon",
@@ -11780,7 +11780,7 @@
       "first_set": "ワイルドフォース"
     },
     {
-      "slug": "shaymin-4",
+      "slug": "shaymin-3",
       "name_ja": "シェイミ",
       "name_en": "Shaymin",
       "card_type": "Pokémon",
@@ -11788,7 +11788,7 @@
       "first_set": "ムニキスゼロ"
     },
     {
-      "slug": "shaymin-5",
+      "slug": "shaymin-4",
       "name_ja": "シェイミ",
       "name_en": "Shaymin",
       "card_type": "Pokémon",
@@ -12084,7 +12084,7 @@
       "first_set": "超電ブレイカー"
     },
     {
-      "slug": "skitty-3",
+      "slug": "skitty",
       "name_ja": "エネコ",
       "name_en": "Skitty",
       "card_type": "Pokémon",
@@ -12092,7 +12092,7 @@
       "first_set": "スタートデッキ100 バトルコレクション"
     },
     {
-      "slug": "skitty-4",
+      "slug": "skitty-2",
       "name_ja": "エネコ",
       "name_en": "Skitty",
       "card_type": "Pokémon",
@@ -12124,7 +12124,7 @@
       "first_set": "ニンジャスピナー"
     },
     {
-      "slug": "skwovet-2",
+      "slug": "skwovet",
       "name_ja": "ホシガリス",
       "name_en": "Skwovet",
       "card_type": "Pokémon",
@@ -12132,7 +12132,7 @@
       "first_set": "スタートデッキGenerations ザシアンex・マホイップex"
     },
     {
-      "slug": "slaking-ex-2",
+      "slug": "slaking-ex",
       "name_ja": "ケッキングex",
       "name_en": "Slaking ex",
       "card_type": "Pokémon",
@@ -12140,7 +12140,7 @@
       "first_set": "超電ブレイカー"
     },
     {
-      "slug": "slakoth-3",
+      "slug": "slakoth",
       "name_ja": "ナマケロ",
       "name_en": "Slakoth",
       "card_type": "Pokémon",
@@ -12244,7 +12244,7 @@
       "first_set": "スタートデッキ100 バトルコレクション"
     },
     {
-      "slug": "smeargle-2",
+      "slug": "smeargle",
       "name_ja": "ドーブル",
       "name_en": "Smeargle",
       "card_type": "Pokémon",
@@ -12260,7 +12260,7 @@
       "first_set": "ロケット団の栄光"
     },
     {
-      "slug": "smoochum-2",
+      "slug": "smoochum",
       "name_ja": "ムチュール",
       "name_en": "Smoochum",
       "card_type": "Pokémon",
@@ -12332,7 +12332,7 @@
       "first_set": "メガシンフォニア"
     },
     {
-      "slug": "snorlax-5",
+      "slug": "snorlax",
       "name_ja": "カビゴン",
       "name_en": "Snorlax",
       "card_type": "Pokémon",
@@ -12340,7 +12340,7 @@
       "first_set": "ムニキスゼロ"
     },
     {
-      "slug": "snorlax-6",
+      "slug": "snorlax-2",
       "name_ja": "カビゴン",
       "name_en": "Snorlax",
       "card_type": "Pokémon",
@@ -12348,7 +12348,7 @@
       "first_set": "スタートデッキ100 バトルコレクション コロちゃおVer."
     },
     {
-      "slug": "snorlax-7",
+      "slug": "snorlax-3",
       "name_ja": "カビゴン",
       "name_en": "Snorlax",
       "card_type": "Pokémon",
@@ -12356,7 +12356,7 @@
       "first_set": "クリムゾンヘイズ"
     },
     {
-      "slug": "snorlax-9",
+      "slug": "snorlax-4",
       "name_ja": "カビゴン",
       "name_en": "Snorlax",
       "card_type": "Pokémon",
@@ -12364,7 +12364,7 @@
       "first_set": "バトルアカデミー"
     },
     {
-      "slug": "snorlax-ex-2",
+      "slug": "snorlax-ex",
       "name_ja": "カビゴンex",
       "name_en": "Snorlax ex",
       "card_type": "Pokémon",
@@ -12452,7 +12452,7 @@
       "first_set": "ステラミラクル"
     },
     {
-      "slug": "spearow-2",
+      "slug": "spearow",
       "name_ja": "オニスズメ",
       "name_en": "Spearow",
       "card_type": "Pokémon",
@@ -12580,7 +12580,7 @@
       "first_set": "スタートデッキGenerations ゼルネアスex・オンバーンex"
     },
     {
-      "slug": "squawkabilly-3",
+      "slug": "squawkabilly",
       "name_ja": "イキリンコ",
       "name_en": "Squawkabilly",
       "card_type": "Pokémon",
@@ -12588,7 +12588,7 @@
       "first_set": "ロケット団の栄光"
     },
     {
-      "slug": "squawkabilly-4",
+      "slug": "squawkabilly-2",
       "name_ja": "イキリンコ",
       "name_en": "Squawkabilly",
       "card_type": "Pokémon",
@@ -12676,7 +12676,7 @@
       "first_set": "メガブレイブ"
     },
     {
-      "slug": "stoutland-2",
+      "slug": "stoutland",
       "name_ja": "ムーランド",
       "name_en": "Stoutland",
       "card_type": "Pokémon",
@@ -12692,7 +12692,7 @@
       "first_set": "メガシンフォニア"
     },
     {
-      "slug": "stufful-3",
+      "slug": "stufful",
       "name_ja": "ヌイコグマ",
       "name_en": "Stufful",
       "card_type": "Pokémon",
@@ -12700,7 +12700,7 @@
       "first_set": "メガシンフォニア"
     },
     {
-      "slug": "stufful-4",
+      "slug": "stufful-2",
       "name_ja": "ヌイコグマ",
       "name_en": "Stufful",
       "card_type": "Pokémon",
@@ -12820,7 +12820,7 @@
       "first_set": "クリムゾンヘイズ"
     },
     {
-      "slug": "swablu-3",
+      "slug": "swablu",
       "name_ja": "チルット",
       "name_en": "Swablu",
       "card_type": "Pokémon",
@@ -12844,7 +12844,7 @@
       "first_set": "ステラミラクル"
     },
     {
-      "slug": "swanna-2",
+      "slug": "swanna",
       "name_ja": "スワンナ",
       "name_en": "Swanna",
       "card_type": "Pokémon",
@@ -12852,7 +12852,7 @@
       "first_set": "ホワイトフレア"
     },
     {
-      "slug": "swanna-3",
+      "slug": "swanna-2",
       "name_ja": "スワンナ",
       "name_en": "Swanna",
       "card_type": "Pokémon",
@@ -12860,7 +12860,7 @@
       "first_set": "変幻の仮面"
     },
     {
-      "slug": "swellow-2",
+      "slug": "swellow",
       "name_ja": "オオスバメ",
       "name_en": "Swellow",
       "card_type": "Pokémon",
@@ -12948,7 +12948,7 @@
       "first_set": "クリムゾンヘイズ"
     },
     {
-      "slug": "taillow-2",
+      "slug": "taillow",
       "name_ja": "スバメ",
       "name_en": "Taillow",
       "card_type": "Pokémon",
@@ -12956,7 +12956,7 @@
       "first_set": "ロケット団の栄光"
     },
     {
-      "slug": "talonflame-2",
+      "slug": "talonflame",
       "name_ja": "ファイアロー",
       "name_en": "Talonflame",
       "card_type": "Pokémon",
@@ -12964,7 +12964,7 @@
       "first_set": "ムニキスゼロ"
     },
     {
-      "slug": "talonflame-4",
+      "slug": "talonflame-2",
       "name_ja": "ファイアロー",
       "name_en": "Talonflame",
       "card_type": "Pokémon",
@@ -12972,7 +12972,7 @@
       "first_set": "ステラミラクル"
     },
     {
-      "slug": "tandemaus-6",
+      "slug": "tandemaus",
       "name_ja": "ワッカネズミ",
       "name_en": "Tandemaus",
       "card_type": "Pokémon",
@@ -13076,7 +13076,7 @@
       "first_set": "超電ブレイカー"
     },
     {
-      "slug": "tauros-4",
+      "slug": "tauros",
       "name_ja": "ケンタロス",
       "name_en": "Tauros",
       "card_type": "Pokémon",
@@ -13084,7 +13084,7 @@
       "first_set": "熱風のアリーナ"
     },
     {
-      "slug": "tauros-5",
+      "slug": "tauros-2",
       "name_ja": "ケンタロス",
       "name_en": "Tauros",
       "card_type": "Pokémon",
@@ -13092,7 +13092,7 @@
       "first_set": "いつでもどこでも バトルアカデミー"
     },
     {
-      "slug": "tauros-6",
+      "slug": "tauros-3",
       "name_ja": "ケンタロス",
       "name_en": "Tauros",
       "card_type": "Pokémon",
@@ -13180,7 +13180,7 @@
       "first_set": "ロケット団の栄光"
     },
     {
-      "slug": "team-rocket-s-chingling-2",
+      "slug": "team-rocket-s-chingling",
       "name_ja": "ロケット団のリーシャン",
       "name_en": "Team Rocket's Chingling",
       "card_type": "Pokémon",
@@ -13348,7 +13348,7 @@
       "first_set": "スカーレット＆バイオレット プロモカードパック第10弾"
     },
     {
-      "slug": "team-rocket-s-kangaskhan-ex-2",
+      "slug": "team-rocket-s-kangaskhan-ex",
       "name_ja": "ロケット団のガルーラex",
       "name_en": "Team Rocket's Kangaskhan ex",
       "card_type": "Pokémon",
@@ -13380,7 +13380,7 @@
       "first_set": "ロケット団の栄光"
     },
     {
-      "slug": "team-rocket-s-meowth-2",
+      "slug": "team-rocket-s-meowth",
       "name_ja": "ロケット団のニャース",
       "name_en": "Team Rocket's Meowth",
       "card_type": "Pokémon",
@@ -13484,7 +13484,7 @@
       "first_set": "ロケット団の栄光"
     },
     {
-      "slug": "team-rocket-s-persian-ex-2",
+      "slug": "team-rocket-s-persian-ex",
       "name_ja": "ロケット団のペルシアンex",
       "name_en": "Team Rocket's Persian ex",
       "card_type": "Pokémon",
@@ -13500,7 +13500,7 @@
       "first_set": "ロケット団の栄光"
     },
     {
-      "slug": "team-rocket-s-porygon-2",
+      "slug": "team-rocket-s-porygon",
       "name_ja": "ロケット団のポリゴン",
       "name_en": "Team Rocket's Porygon",
       "card_type": "Pokémon",
@@ -13508,7 +13508,7 @@
       "first_set": "ロケット団の栄光"
     },
     {
-      "slug": "team-rocket-s-porygon-z-2",
+      "slug": "team-rocket-s-porygon-z",
       "name_ja": "ロケット団のポリゴンZ",
       "name_en": "Team Rocket's Porygon-Z",
       "card_type": "Pokémon",
@@ -13516,7 +13516,7 @@
       "first_set": "ロケット団の栄光"
     },
     {
-      "slug": "team-rocket-s-porygon2-2",
+      "slug": "team-rocket-s-porygon2",
       "name_ja": "ロケット団のポリゴン2",
       "name_en": "Team Rocket's Porygon2",
       "card_type": "Pokémon",
@@ -13540,7 +13540,7 @@
       "first_set": "ロケット団の栄光"
     },
     {
-      "slug": "team-rocket-s-raticate-2",
+      "slug": "team-rocket-s-raticate",
       "name_ja": "ロケット団のラッタ",
       "name_en": "Team Rocket's Raticate",
       "card_type": "Pokémon",
@@ -13548,7 +13548,7 @@
       "first_set": "ロケット団の栄光"
     },
     {
-      "slug": "team-rocket-s-rattata-2",
+      "slug": "team-rocket-s-rattata",
       "name_ja": "ロケット団のコラッタ",
       "name_en": "Team Rocket's Rattata",
       "card_type": "Pokémon",
@@ -13684,7 +13684,7 @@
       "first_set": "テラスタルフェスex"
     },
     {
-      "slug": "terapagos-2",
+      "slug": "terapagos",
       "name_ja": "テラパゴス",
       "name_en": "Terapagos",
       "card_type": "Pokémon",
@@ -13692,7 +13692,7 @@
       "first_set": "超電ブレイカー"
     },
     {
-      "slug": "terapagos-ex-2",
+      "slug": "terapagos-ex",
       "name_ja": "テラパゴスex",
       "name_en": "Terapagos ex",
       "card_type": "Pokémon",
@@ -13964,7 +13964,7 @@
       "first_set": "スタートデッキGenerations カイオーガex・バシャーモex"
     },
     {
-      "slug": "tornadus-3",
+      "slug": "tornadus",
       "name_ja": "トルネロス",
       "name_en": "Tornadus",
       "card_type": "Pokémon",
@@ -13972,7 +13972,7 @@
       "first_set": "ステラミラクル"
     },
     {
-      "slug": "tornadus-4",
+      "slug": "tornadus-2",
       "name_ja": "トルネロス",
       "name_en": "Tornadus",
       "card_type": "Pokémon",
@@ -14052,7 +14052,7 @@
       "first_set": "Pokémon Trading Card Game イラストレーションコンテスト 2024"
     },
     {
-      "slug": "tranquill-3",
+      "slug": "tranquill",
       "name_ja": "ハトーボー",
       "name_en": "Tranquill",
       "card_type": "Pokémon",
@@ -14060,7 +14060,7 @@
       "first_set": "ブラックボルト"
     },
     {
-      "slug": "tranquill-4",
+      "slug": "tranquill-2",
       "name_ja": "ハトーボー",
       "name_en": "Tranquill",
       "card_type": "Pokémon",
@@ -14112,16 +14112,16 @@
       "name_ja": "トロピウス",
       "name_en": "Tropius",
       "card_type": "Pokémon",
-      "regulation_mark": null,
-      "first_set": "アビスアイ"
+      "regulation_mark": "H",
+      "first_set": "スタートデッキGenerations カイオーガex・バシャーモex"
     },
     {
       "slug": "tropius-2",
       "name_ja": "トロピウス",
       "name_en": "Tropius",
       "card_type": "Pokémon",
-      "regulation_mark": "H",
-      "first_set": "スタートデッキGenerations カイオーガex・バシャーモex"
+      "regulation_mark": null,
+      "first_set": "アビスアイ"
     },
     {
       "slug": "trubbish",
@@ -14228,7 +14228,7 @@
       "first_set": "ムニキスゼロ"
     },
     {
-      "slug": "tyrogue-2",
+      "slug": "tyrogue",
       "name_ja": "バルキー",
       "name_en": "Tyrogue",
       "card_type": "Pokémon",
@@ -14268,7 +14268,7 @@
       "first_set": "クリムゾンヘイズ"
     },
     {
-      "slug": "unfezant-3",
+      "slug": "unfezant",
       "name_ja": "ケンホロウ",
       "name_en": "Unfezant",
       "card_type": "Pokémon",
@@ -14276,7 +14276,7 @@
       "first_set": "ブラックボルト"
     },
     {
-      "slug": "unfezant-4",
+      "slug": "unfezant-2",
       "name_ja": "ケンホロウ",
       "name_en": "Unfezant",
       "card_type": "Pokémon",
@@ -14436,7 +14436,7 @@
       "first_set": "ポケモンカードゲーム チャンピオンズリーグ2023 愛知"
     },
     {
-      "slug": "vigoroth-3",
+      "slug": "vigoroth",
       "name_ja": "ヤルキモノ",
       "name_en": "Vigoroth",
       "card_type": "Pokémon",
@@ -14700,7 +14700,7 @@
       "first_set": "ロケット団の栄光"
     },
     {
-      "slug": "watchog-3",
+      "slug": "watchog",
       "name_ja": "ミルホッグ",
       "name_en": "Watchog",
       "card_type": "Pokémon",
@@ -14708,7 +14708,7 @@
       "first_set": "ホワイトフレア"
     },
     {
-      "slug": "watchog-4",
+      "slug": "watchog-2",
       "name_ja": "ミルホッグ",
       "name_en": "Watchog",
       "card_type": "Pokémon",
@@ -14828,7 +14828,7 @@
       "first_set": "ブラックボルト"
     },
     {
-      "slug": "wigglytuff-3",
+      "slug": "wigglytuff",
       "name_ja": "プクリン",
       "name_en": "Wigglytuff",
       "card_type": "Pokémon",
@@ -14884,7 +14884,7 @@
       "first_set": "ホワイトフレア"
     },
     {
-      "slug": "wooloo-2",
+      "slug": "wooloo",
       "name_ja": "ウールー",
       "name_en": "Wooloo",
       "card_type": "Pokémon",
@@ -15020,7 +15020,7 @@
       "first_set": "熱風のアリーナ"
     },
     {
-      "slug": "yungoos-2",
+      "slug": "yungoos",
       "name_ja": "ヤングース",
       "name_en": "Yungoos",
       "card_type": "Pokémon",
@@ -15076,7 +15076,7 @@
       "first_set": "ロケット団の栄光"
     },
     {
-      "slug": "zangoose-2",
+      "slug": "zangoose",
       "name_ja": "ザングース",
       "name_en": "Zangoose",
       "card_type": "Pokémon",
@@ -15084,7 +15084,7 @@
       "first_set": "超電ブレイカー"
     },
     {
-      "slug": "zangoose-ex-2",
+      "slug": "zangoose-ex",
       "name_ja": "ザングースex",
       "name_en": "Zangoose ex",
       "card_type": "Pokémon",
@@ -15188,7 +15188,7 @@
       "first_set": "ステラミラクル"
     },
     {
-      "slug": "zigzagoon-2",
+      "slug": "zigzagoon",
       "name_ja": "ジグザグマ",
       "name_en": "Zigzagoon",
       "card_type": "Pokémon",

@@ -1,0 +1,47 @@
+---
+schema_version: 1
+slug: minccino
+name:
+  ja: チラーミィ
+  en: Minccino
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Colorless
+hp: 60
+retreat_cost: 1
+regulation_mark: I
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Fighting
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: スイープビンタ
+    en: Tail Slap
+  cost:
+  - Colorless
+  damage: 20×
+  effect_text:
+    ja: コインを2回投げ、オモテの数×20ダメージ。
+    en: Flip 2 coins. This attack does 20 damage for each heads.
+first_appearance:
+  set_name_ja: ブラックボルト
+  released_at: '2025-06-06'
+  regulation_mark: I
+  collector_number: '077'
+  image_url:

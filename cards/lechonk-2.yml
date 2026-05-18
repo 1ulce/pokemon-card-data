@@ -1,0 +1,47 @@
+---
+schema_version: 1
+slug: lechonk-2
+name:
+  ja: グルトン
+  en: Lechonk
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Colorless
+hp: 50
+retreat_cost: 1
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Fighting
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: うしろげり
+    en: Rear Kick
+  cost:
+  - Colorless
+  damage: '30'
+  effect_text:
+    ja:
+    en:
+first_appearance:
+  set_name_ja: バトルアカデミー
+  released_at: '2024-03-08'
+  regulation_mark: H
+  collector_number: '047'
+  image_url:

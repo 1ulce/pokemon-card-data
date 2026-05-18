@@ -1,0 +1,61 @@
+---
+schema_version: 1
+slug: bouffalant-2
+name:
+  ja: バッフロン
+  en: Bouffalant
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Colorless
+hp: 130
+retreat_cost: 2
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Fighting
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: まちうけホーン
+    en: Ready to Ram
+  cost:
+  - Colorless
+  - Colorless
+  damage: '40'
+  effect_text:
+    ja: 次の相手の番、このポケモンがワザのダメージを受けたとき、ワザを使ったポケモンにダメカンを6個のせる。
+    en: During your opponent's next turn, if this Pokémon is damaged by an attack (even if this Pokémon is Knocked Out), put 6 damage counters on the Attacking Pokémon.
+- position: 1
+  name:
+    ja: スマッシュヘッド
+    en: Smashing Headbutt
+  cost:
+  - Colorless
+  - Colorless
+  - Colorless
+  - Colorless
+  damage: '150'
+  effect_text:
+    ja: このポケモンについているエネルギーを2個選び、トラッシュする。
+    en: Discard 2 Energy from this Pokémon.
+first_appearance:
+  set_name_ja: 超電ブレイカー
+  released_at: '2024-10-18'
+  regulation_mark: H
+  collector_number: '087'
+  image_url:

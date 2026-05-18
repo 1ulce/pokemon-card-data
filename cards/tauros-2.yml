@@ -1,0 +1,49 @@
+---
+schema_version: 1
+slug: tauros-2
+name:
+  ja: ケンタロス
+  en: Tauros
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Colorless
+hp: 120
+retreat_cost: 2
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Fighting
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: はかいのつの
+    en: Destructive Horn
+  cost:
+  - Colorless
+  - Colorless
+  - Colorless
+  damage: '70'
+  effect_text:
+    ja: コインを1回投げオモテなら、相手のバトルポケモンについているエネルギーを1個選び、トラッシュする。
+    en: Flip a coin. If heads, discard an Energy from your opponent's Active Pokémon.
+first_appearance:
+  set_name_ja: いつでもどこでも バトルアカデミー
+  released_at:
+  regulation_mark:
+  collector_number: '044'
+  image_url:

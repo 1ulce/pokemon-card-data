@@ -1,0 +1,56 @@
+---
+schema_version: 1
+slug: iron-jugulis
+name:
+  ja: テツノコウベ
+  en: Iron Jugulis
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Colorless
+hp: 130
+retreat_cost: 2
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Lightning
+  value: "×2"
+resistance:
+  type: Fighting
+  value: "-30"
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities:
+- position: 0
+  name:
+    ja: オートマーシャル
+    en:
+  effect_text:
+    ja: このポケモンが、バトル場で相手のポケモンからワザのダメージを受けたとき、ワザを使ったポケモンにダメカンを3個のせる。
+    en:
+attacks:
+- position: 0
+  name:
+    ja: ブラストウインド
+    en:
+  cost:
+  - Colorless
+  - Colorless
+  - Colorless
+  damage: '110'
+  effect_text:
+    ja:
+    en:
+first_appearance:
+  set_name_ja: 未来のミライドンex
+  released_at: '2024-01-26'
+  regulation_mark: H
+  collector_number: '017'
+  image_url:

@@ -1,0 +1,57 @@
+---
+schema_version: 1
+slug: raticate
+name:
+  ja: ラッタ
+  en: Raticate
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Colorless
+hp: 90
+retreat_cost: 1
+regulation_mark: J
+meta_tags: []
+evolves_from:
+  ja: コラッタ
+  en: Rattata
+weakness:
+  type: Fighting
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: こそげおとす
+    en: Scrape Off
+  cost:
+  - Colorless
+  damage: '20'
+  effect_text:
+    ja: ダメージを与える前に、相手のバトルポケモンについている「ポケモンのどうぐ」をトラッシュする。
+    en: Before doing damage, discard all Pokémon Tools from your opponent's Active Pokémon.
+- position: 1
+  name:
+    ja: ぎゃくしゅうまえば
+    en: Retaliatory Incisors
+  cost:
+  - Colorless
+  damage: 40×
+  effect_text:
+    ja: 自分のベンチの「コラッタ」全員にのっているダメカンの数×40ダメージ。
+    en: This attack does 40 damage for each damage counter on all of your Benched Rattata.
+first_appearance:
+  set_name_ja: ムニキスゼロ
+  released_at: '2026-01-23'
+  regulation_mark: J
+  collector_number: '060'
+  image_url:

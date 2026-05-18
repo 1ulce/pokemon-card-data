@@ -1,0 +1,47 @@
+---
+schema_version: 1
+slug: bunnelby
+name:
+  ja: ホルビー
+  en: Bunnelby
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Colorless
+hp: 70
+retreat_cost: 1
+regulation_mark: J
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Fighting
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: けとばす
+    en: Smash Kick
+  cost:
+  - Colorless
+  damage: '10'
+  effect_text:
+    ja:
+    en:
+first_appearance:
+  set_name_ja: ムニキスゼロ
+  released_at: '2026-01-23'
+  regulation_mark: J
+  collector_number: '063'
+  image_url:

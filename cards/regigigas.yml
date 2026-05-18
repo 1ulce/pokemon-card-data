@@ -1,0 +1,50 @@
+---
+schema_version: 1
+slug: regigigas
+name:
+  ja: レジギガス
+  en: Regigigas
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Colorless
+hp: 160
+retreat_cost: 4
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Fighting
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: ジュエルブレイク
+    en: Jewel Breaker
+  cost:
+  - Colorless
+  - Colorless
+  - Colorless
+  - Colorless
+  damage: 100+
+  effect_text:
+    ja: 相手のバトルポケモンが「テラスタル」のポケモンなら、230ダメージ追加。
+    en: If your opponent's Active Pokémon is a Tera Pokémon, this attack does 230 more damage.
+first_appearance:
+  set_name_ja: テラスタルフェスex
+  released_at: '2024-12-06'
+  regulation_mark: H
+  collector_number: '132'
+  image_url:

@@ -1,0 +1,58 @@
+---
+schema_version: 1
+slug: fletchling
+name:
+  ja: ヤヤコマ
+  en: Fletchling
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Colorless
+hp: 60
+retreat_cost: 1
+regulation_mark: J
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Lightning
+  value: "×2"
+resistance:
+  type: Fighting
+  value: "-30"
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: とりぶえ 
+    en: Chirp
+  cost:
+  - Colorless
+  damage:
+  effect_text:
+    ja: 自分の山札から、抵抗力が闘タイプのポケモンを2枚まで選び、相手に見せて、手札に加える。そして山札を切る。
+    en: Search your deck for up to 2 Pokémon with [F] Resistance, reveal them, and put them into your hand. Then, shuffle your deck.
+- position: 1
+  name:
+    ja: つつく
+    en: Peck
+  cost:
+  - Colorless
+  - Colorless
+  damage: '20'
+  effect_text:
+    ja:
+    en:
+first_appearance:
+  set_name_ja: ムニキスゼロ
+  released_at: '2026-01-23'
+  regulation_mark: J
+  collector_number: '065'
+  image_url:

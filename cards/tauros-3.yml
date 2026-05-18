@@ -1,0 +1,48 @@
+---
+schema_version: 1
+slug: tauros-3
+name:
+  ja: ケンタロス
+  en: Tauros
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Colorless
+hp: 130
+retreat_cost: 2
+regulation_mark:
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Fighting
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: むれでねらう 
+    en:
+  cost:
+  - Colorless
+  - Colorless
+  damage:
+  effect_text:
+    ja: 相手のポケモンを1匹選び、自分の場の、名前に「ケンタロス」とつくポケモンの数ぶんコインを投げる。選んだポケモンに、オモテの数×50ダメージ。［ベンチは弱点・抵抗力を計算しない。］
+    en:
+first_appearance:
+  set_name_ja: ニンジャスピナー
+  released_at: '2026-03-13'
+  regulation_mark: J
+  collector_number: '067'
+  image_url:

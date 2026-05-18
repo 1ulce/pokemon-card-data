@@ -1,0 +1,46 @@
+---
+schema_version: 1
+slug: alolan-dugtrio
+name:
+  ja: アローラ ダグトリオ
+  en: Alolan Dugtrio
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Metal
+hp: 110
+retreat_cost: 2
+regulation_mark: H
+meta_tags: []
+evolves_from:
+  ja: アローラ ディグダ
+  en: Alolan Diglett
+weakness:
+  type: Fire
+  value: "×2"
+resistance:
+  type: Grass
+  value: "-30"
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: スリービンゴ
+    en: Trio-Cheehoo
+  cost: []
+  damage: '120'
+  effect_text:
+    ja: 自分の手札が3枚でないなら、このワザは失敗。
+    en: If you don't have exactly 3 cards in your hand, this attack does nothing.
+first_appearance:
+  set_name_ja: 超電ブレイカー
+  released_at: '2024-10-18'
+  regulation_mark: H
+  collector_number: '077'
+  image_url:
