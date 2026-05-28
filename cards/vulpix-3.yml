@@ -32,13 +32,13 @@ attacks:
 - position: 0
   name:
     ja: こがす 
-    en:
+    en: Singe
   cost:
   - Fire
   damage:
   effect_text:
     ja: 相手のバトルポケモンをやけどにする。
-    en:
+    en: Your opponent's Active Pokémon is now Burned.
 first_appearance:
   set_name_ja: ニンジャスピナー
   released_at: '2026-03-13'

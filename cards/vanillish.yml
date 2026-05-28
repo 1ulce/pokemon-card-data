@@ -32,7 +32,7 @@ attacks:
 - position: 0
   name:
     ja: ぶつかる
-    en: Frost Smash
+    en: Ram
   cost:
   - Colorless
   - Colorless
@@ -43,7 +43,7 @@ attacks:
 - position: 1
   name:
     ja: れいとうビーム
-    en:
+    en: Ice Beam
   cost:
   - Water
   - Colorless
@@ -51,7 +51,7 @@ attacks:
   damage: '50'
   effect_text:
     ja: コインを1回投げオモテなら、相手のバトルポケモンをマヒにする。
-    en:
+    en: Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed.
 first_appearance:
   set_name_ja: ホワイトフレア
   released_at: '2025-06-06'

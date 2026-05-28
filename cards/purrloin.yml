@@ -32,13 +32,13 @@ attacks:
 - position: 0
   name:
     ja: わるいおさそい 
-    en:
+    en: Invite Evil
   cost:
   - Darkness
   damage:
   effect_text:
     ja: 自分の山札から悪ポケモンを3枚まで選び、相手に見せて、手札に加える。そして山札を切る。
-    en:
+    en: Search your deck for up to 3 [D] Pokémon, reveal them, and put them into your hand. Then, shuffle your deck.
 first_appearance:
   set_name_ja: ホワイトフレア
   released_at: '2025-06-06'

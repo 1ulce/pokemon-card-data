@@ -32,7 +32,7 @@ attacks:
 - position: 0
   name:
     ja: ふむ
-    en:
+    en: Stampede
   cost:
   - Psychic
   damage: '20'

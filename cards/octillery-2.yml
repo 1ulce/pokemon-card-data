@@ -32,24 +32,24 @@ attacks:
 - position: 0
   name:
     ja: すみふんしゃ
-    en:
+    en: Jet of Ink
   cost:
   - Water
   damage: '30'
   effect_text:
     ja: 次の相手の番、このワザを受けたポケモンがワザを使うとき、相手はコインを2回投げる。1回でもウラなら、そのワザは失敗。
-    en:
+    en: During your opponent's next turn, if the Defending Pokémon tries to use an attack, your opponent flips 2 coins. If either of them is tails, that attack doesn't happen.
 - position: 1
   name:
     ja: あばれまわる
-    en:
+    en: Tantrum
   cost:
   - Water
   - Colorless
   damage: '120'
   effect_text:
     ja: このポケモンをこんらんにする。
-    en:
+    en: This Pokémon is now Confused.
 first_appearance:
   set_name_ja: ニンジャスピナー
   released_at: '2026-03-13'

@@ -30,7 +30,10 @@ body_text:
     この番、自分の「テラスタル」のポケモンが使うワザのダメージで、相手のバトルポケモンがきぜつしたなら、サイドを1枚多くとる。
 
     サポートは、自分の番に1枚しか使えない。
-  en:
+  en: |-
+    Briar Trainer - Supporter
+
+    You can use this card only if your opponent has exactly 2 Prize cards remaining.During this turn, if your opponent's Active Pokémon is Knocked Out by damage from an attack used by your Tera Pokémon, take 1 more Prize card.
 rules_text:
   ja:
   en:

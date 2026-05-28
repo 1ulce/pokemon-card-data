@@ -32,14 +32,14 @@ attacks:
 - position: 0
   name:
     ja: れんけいスロー
-    en: Make the Assist
+    en: Coordinated Throwing
   cost:
   - Fighting
   - Colorless
   damage: 20×
   effect_text:
     ja: 自分の場のたねポケモンの数×20ダメージ。
-    en: Move an Energy from this Pokémon to 1 of your Benched Pokémon.
+    en: This attack does 20 damage for each of your Basic Pokémon in play.
 first_appearance:
   set_name_ja: 楽園ドラゴーナ
   released_at: '2024-09-13'

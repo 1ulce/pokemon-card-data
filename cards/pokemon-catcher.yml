@@ -26,7 +26,10 @@ body_text:
     コインを1回投げオモテなら、相手のベンチポケモンを1匹選び、バトルポケモンと入れ替える。
 
     グッズは、自分の番に何枚でも使える。
-  en:
+  en: |-
+    Pokémon Catcher Trainer - Item
+
+    Flip a coin. If heads, switch in 1 of your opponent's Benched Pokémon to the Active Spot.
 rules_text:
   ja:
   en:

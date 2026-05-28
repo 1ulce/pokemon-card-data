@@ -31,15 +31,15 @@ abilities:
 - position: 0
   name:
     ja: ゴミダウナー
-    en:
+    en: Gloomy Garbage
   effect_text:
     ja: このポケモンがいるかぎり、「ポケモンのどうぐ」がついている相手のバトルポケモンが使うワザのダメージは「-20」される。
-    en:
+    en: Attacks used by your opponent's Active Pokémon that has a Pokémon Tool attached do 20 less damage (before applying Weakness and Resistance).
 attacks:
 - position: 0
   name:
     ja: ヘドロばくだん
-    en:
+    en: Sludge Bomb
   cost:
   - Darkness
   - Darkness

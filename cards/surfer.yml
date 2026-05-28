@@ -26,7 +26,10 @@ body_text:
     自分のバトルポケモンをベンチポケモンと入れ替える。その後、自分の手札が5枚になるように、山札を引く。
 
     サポートは、自分の番に1枚しか使えない。
-  en:
+  en: |-
+    Surfer Trainer - Supporter
+
+    Switch your Active Pokémon with 1 of your Benched Pokémon. If you do, draw cards until you have 5 cards in your hand.
 rules_text:
   ja:
   en:

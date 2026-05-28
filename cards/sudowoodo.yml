@@ -32,23 +32,23 @@ attacks:
 - position: 0
   name:
     ja: しれんのたび 
-    en: Hit and Hide
+    en: Trials and Trip-ulations
   cost:
   - Colorless
   damage:
   effect_text:
     ja: 自分の山札から「変化の書」を2枚まで選び、相手に見せて、手札に加える。そして山札を切る。
-    en: Flip a coin. If heads, during your opponent's next turn, prevent all damage from and effects of attacks done to this Pokémon.
+    en: Search your deck for up to 2 Transformation Tome cards, reveal them, and put them into your hand. Then, shuffle your deck.
 - position: 1
   name:
     ja: いわとばし
-    en: Elbow Strike
+    en: Rock Hurl
   cost:
   - Fighting
   damage: '30'
   effect_text:
     ja: このワザのダメージは抵抗力を計算しない。
-    en:
+    en: This attack's damage isn't affected by Resistance.
 first_appearance:
   set_name_ja: ニンジャスピナー
   released_at: '2026-03-13'

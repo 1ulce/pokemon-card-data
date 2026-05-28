@@ -26,7 +26,10 @@ body_text:
     ウラになっている相手のサイド1枚と、相手の手札からオモテを見ないで1枚選び、それぞれオモテを見る。のぞむなら、選んだカードを相手に入れ替えさせる。（対戦が終わるまで、そのサイドはオモテのまま。）
 
     グッズは、自分の番に何枚でも使える。
-  en:
+  en: |-
+    Team Rocket's Bother-Bot Trainer - Item
+
+    Turn 1 of your opponent's face-down Prize cards face up and choose a random card from your opponent's hand. Your opponent reveals that card. You may have your opponent switch those cards. (That Prize card remains face up for the rest of the game.)
 rules_text:
   ja:
   en:

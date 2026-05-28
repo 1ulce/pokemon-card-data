@@ -24,7 +24,10 @@ resistance:
   value:
 body_text:
   ja: "このカードは、ポケモンについているかぎり、エネルギー1個ぶんとしてはたらく。 \n\n\n\nこのカードを手札からポケモンにつけたとき、自分の山札を4枚引く。"
-  en:
+  en: |-
+    Enriching Energy Energy - Special Energy
+
+    As long as this card is attached to a Pokémon, it provides [C] Energy.When you attach this card from your hand to a Pokémon, draw 4 cards.
 rules_text:
   ja: ACE SPECのカードは、デッキに1枚しか入れられない。
   en:

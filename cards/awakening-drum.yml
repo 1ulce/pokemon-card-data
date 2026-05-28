@@ -27,7 +27,10 @@ body_text:
     自分の場の「古代」のポケモンの数ぶん、山札を引く。
 
     グッズは、自分の番に何枚でも使える。
-  en:
+  en: |-
+    Awakening Drum Trainer - Item
+
+    Draw a card for each of your Ancient Pokémon in play.
 rules_text:
   ja: ACE SPECのカードは、デッキに1枚しか入れられない。
   en:

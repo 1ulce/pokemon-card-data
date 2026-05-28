@@ -32,7 +32,7 @@ attacks:
 - position: 0
   name:
     ja: ビリリパンチ
-    en:
+    en: Electric Punch
   cost:
   - Lightning
   - Lightning

@@ -32,13 +32,13 @@ attacks:
 - position: 0
   name:
     ja: のんびりする 
-    en: Yawn
+    en: Take It Easy
   cost:
   - Colorless
   damage:
   effect_text:
     ja: このポケモンのHPを「60」回復する。次の自分の番、このポケモンはにげられない。
-    en: Your opponent's Active Pokémon is now Asleep.
+    en: Heal 60 damage from this Pokémon. During your next turn, this Pokémon can't retreat.
 first_appearance:
   set_name_ja: 超電ブレイカー
   released_at: '2024-10-18'

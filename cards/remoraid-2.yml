@@ -32,7 +32,7 @@ attacks:
 - position: 0
   name:
     ja: するどいひれ
-    en:
+    en: Sharp Fin
   cost:
   - Water
   damage: '20'

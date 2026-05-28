@@ -32,7 +32,7 @@ attacks:
 - position: 0
   name:
     ja: すなかけ
-    en: Spooky Shot
+    en: Sand Attack
   cost:
   - Psychic
   - Colorless
@@ -40,11 +40,11 @@ attacks:
   damage: '60'
   effect_text:
     ja: 次の相手の番、このワザを受けたポケモンがワザを使うとき、相手はコインを1回投げる。ウラならそのワザは失敗。
-    en:
+    en: During your opponent's next turn, if the Defending Pokémon tries to use an attack, your opponent flips a coin. If tails, that attack doesn't happen.
 - position: 1
   name:
     ja: サンドホロウ
-    en: Earthen Power
+    en: Spooky Sand
   cost:
   - Psychic
   - Colorless
@@ -53,7 +53,7 @@ attacks:
   damage: '150'
   effect_text:
     ja:
-    en: If you have a Stadium in play, this attack does 80 more damage.
+    en:
 first_appearance:
   set_name_ja: 変幻の仮面
   released_at: '2024-04-26'

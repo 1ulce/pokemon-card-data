@@ -32,13 +32,13 @@ attacks:
 - position: 0
   name:
     ja: つばめがえし
-    en: Apply Gel
+    en: Aerial Ace
   cost:
   - Water
   damage: 10+
   effect_text:
     ja: コインを1回投げオモテなら、20ダメージ追加。
-    en: During your opponent's next turn, if the Defending Pokémon tries to attack, your opponent flips a coin. If tails, that attack doesn’t happen.
+    en: Flip a coin. If heads, this attack does 20 more damage.
 first_appearance:
   set_name_ja: 楽園ドラゴーナ
   released_at: '2024-09-13'

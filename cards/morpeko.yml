@@ -31,21 +31,21 @@ abilities:
 - position: 0
   name:
     ja: おやつさがし
-    en: In a Hungry Hurry
+    en: Snack Seek
   effect_text:
     ja: 自分の番に1回使える。自分の山札を上から1枚見て、もとにもどす。のぞむなら、そのカードをトラッシュする。
-    en: If this Pokémon has no Energy attached, it has no Retreat Cost.
+    en: Once during your turn, you may look at the top card of your deck. You may discard that card.
 attacks:
 - position: 0
   name:
     ja: ひろってつける 
-    en: Energizer Wheel
+    en: Pick and Stick
   cost:
   - Lightning
   damage:
   effect_text:
     ja: 自分のトラッシュから基本エネルギーを2枚まで選び、自分のポケモンに好きなようにつける。
-    en: Move 2 [D] Energy from this Pokémon to 1 of your Benched Pokémon.
+    en: Attach up to 2 Basic Energy cards from your discard pile to your Pokémon in any way you like.
 first_appearance:
   set_name_ja: クリムゾンヘイズ
   released_at: '2024-03-22'

@@ -26,7 +26,10 @@ body_text:
     おたがいの「ホップのポケモン」が使うワザの、相手のバトルポケモンへのダメージは「+30」される。
 
     スタジアムは、自分の番に1枚、バトル場の横に出せる。別のスタジアムが場に出たなら、このカードをトラッシュする。同じ名前のスタジアムは場に出せない。
-  en:
+  en: |-
+    Postwick Trainer - Stadium
+
+    Attacks used by Hop's Pokémon (both yours and your opponent's) do 30 more damage to the opponent's Active Pokémon (before applying Weakness and Resistance).
 rules_text:
   ja:
   en:

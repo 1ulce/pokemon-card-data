@@ -26,7 +26,10 @@ body_text:
     自分の山札からたねポケモンの「ホップのポケモン」を2枚まで選び、ベンチに出す。そして山札を切る。
 
     グッズは、自分の番に何枚でも使える。
-  en:
+  en: |-
+    Hop's Bag Trainer - Item
+
+    Search your deck for up to 2 Basic Hop's Pokémon and put them onto your Bench. Then, shuffle your deck.
 rules_text:
   ja:
   en:

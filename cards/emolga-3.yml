@@ -32,23 +32,23 @@ attacks:
 - position: 0
   name:
     ja: ちいさなおつかい 
-    en:
+    en: Minor Errand-Running
   cost:
   - Colorless
   damage:
   effect_text:
     ja: 自分の山札から基本エネルギーを2枚まで選び、相手に見せて、手札に加える。そして山札を切る。
-    en:
+    en: Search your deck for up to 2 Basic Energy cards, reveal them, and put them into your hand. Then, shuffle your deck.
 - position: 1
   name:
     ja: スカイリターン
-    en:
+    en: Sky Return
   cost:
   - Lightning
   damage: '30'
   effect_text:
     ja: このポケモンと、ついているすべてのカードを、手札にもどす。
-    en:
+    en: Put this Pokémon and all attached cards into your hand.
 first_appearance:
   set_name_ja: ニンジャスピナー
   released_at: '2026-03-13'

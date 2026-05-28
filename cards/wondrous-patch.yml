@@ -26,7 +26,10 @@ body_text:
     自分のトラッシュから「基本超エネルギー」を1枚選び、ベンチの超ポケモンにつける。
 
     グッズは、自分の番に何枚でも使える。
-  en:
+  en: |-
+    Wondrous Patch Trainer - Item
+
+    Attach a Basic [P] Energy card from your discard pile to 1 of your Benched [P] Pokémon.
 rules_text:
   ja:
   en:

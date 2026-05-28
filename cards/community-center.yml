@@ -26,7 +26,10 @@ body_text:
     この番、手札からサポートを出して使っていたプレイヤーは、自分の番ごとに1回、自分のポケモン全員のHPを、それぞれ「10」回復してよい。
 
     スタジアムは、自分の番に1枚、バトル場の横に出せる。別のスタジアムが場に出たなら、このカードをトラッシュする。同じ名前のスタジアムは場に出せない。
-  en:
+  en: |-
+    Community Center Trainer - Stadium
+
+    Once during each player's turn, if they played a Supporter card from their hand this turn, they may heal 10 damage from each of their Pokémon.
 rules_text:
   ja:
   en:

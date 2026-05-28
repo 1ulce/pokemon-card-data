@@ -32,15 +32,15 @@ abilities:
 - position: 0
   name:
     ja: メタルロード
-    en:
+    en: Metal Road
   effect_text:
     ja: 自分の番に、このポケモンがベンチからバトル場に出たとき、1回使える。自分の場のポケモンについている鋼エネルギーを好きなだけ選び、このポケモンにつけ替える。
-    en:
+    en: Once during your turn, when this Pokémon moves from your Bench to the Active Spot, you may use this Ability. Move any amount of [M] Energy from your other Pokémon to this Pokémon.
 attacks:
 - position: 0
   name:
     ja: パワータックル
-    en:
+    en: Power Tackle
   cost:
   - Metal
   - Metal
@@ -48,7 +48,7 @@ attacks:
   damage: '200'
   effect_text:
     ja: 次の自分の番、このポケモンはワザが使えない。
-    en:
+    en: During your next turn, this Pokémon can't use attacks.
 first_appearance:
   set_name_ja: ニンジャスピナー
   released_at: '2026-03-13'

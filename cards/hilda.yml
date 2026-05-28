@@ -26,7 +26,10 @@ body_text:
     自分の山札から進化ポケモンとエネルギーを1枚ずつ選び、相手に見せて、手札に加える。そして山札を切る。
 
     サポートは、自分の番に1枚しか使えない。
-  en:
+  en: |-
+    Hilda Trainer - Supporter
+
+    Search your deck for an Evolution Pokémon and an Energy card, reveal them, and put them into your hand. Then, shuffle your deck.
 rules_text:
   ja:
   en:

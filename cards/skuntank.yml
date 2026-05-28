@@ -32,7 +32,7 @@ attacks:
 - position: 0
   name:
     ja: うしろげり
-    en:
+    en: Rear Kick
   cost:
   - Darkness
   damage: '40'
@@ -42,7 +42,7 @@ attacks:
 - position: 1
   name:
     ja: スマッシュターン
-    en:
+    en: Smash Turn
   cost:
   - Darkness
   - Darkness
@@ -50,7 +50,7 @@ attacks:
   damage: '100'
   effect_text:
     ja: このポケモンをベンチポケモンと入れ替える。
-    en:
+    en: Switch this Pokémon with 1 of your Benched Pokémon.
 first_appearance:
   set_name_ja: ニンジャスピナー
   released_at: '2026-03-13'

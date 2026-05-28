@@ -32,17 +32,17 @@ attacks:
 - position: 0
   name:
     ja: かじる
-    en: Hide
+    en: Gnaw
   cost:
   - Water
   damage: '10'
   effect_text:
     ja:
-    en: Flip a coin. If heads, during your opponent's next turn, prevent all damage from and effects of attacks done to this Pokémon.
+    en:
 - position: 1
   name:
     ja: どつく
-    en: Gnaw
+    en: Corkscrew Punch
   cost:
   - Colorless
   - Colorless

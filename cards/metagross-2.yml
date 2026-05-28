@@ -32,17 +32,17 @@ attacks:
 - position: 0
   name:
     ja: はねかえす
-    en:
+    en: Bounce Back
   cost:
   - Metal
   damage: '60'
   effect_text:
     ja: 相手のバトルポケモンをベンチポケモンと入れ替える。［バトル場に出すポケモンは相手が選ぶ。］
-    en:
+    en: Switch out your opponent's Active Pokémon to the Bench. (Your opponent chooses the new Active Pokémon.)
 - position: 1
   name:
     ja: メタリックハンマー
-    en:
+    en: Metallic Hammer
   cost:
   - Metal
   - Metal
@@ -51,10 +51,10 @@ attacks:
   damage: 150+
   effect_text:
     ja: のぞむなら、このポケモンについている鋼エネルギーを3個トラッシュし、150ダメージ追加。
-    en:
+    en: You may discard 3 [M] Energy from this Pokémon and have this attack do 150 more damage.
 first_appearance:
   set_name_ja: ニンジャスピナー
   released_at: '2026-03-13'
   regulation_mark: J
   collector_number: '059'
-  image_url:
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/M4/050143_P_METAGUROSU.jpg

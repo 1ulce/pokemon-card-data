@@ -33,17 +33,17 @@ attacks:
 - position: 0
   name:
     ja: ひるがえす
-    en: Covert Flight
+    en: Strafe
   cost:
   - Colorless
   damage: '50'
   effect_text:
     ja: のぞむなら、このポケモンをベンチポケモンと入れ替える。
-    en: During your opponent's next turn, prevent all damage done to this Pokémon by attacks from Basic Pokémon.
+    en: You may switch this Pokémon with 1 of your Benched Pokémon.
 - position: 1
   name:
     ja: ソニックブラスト
-    en: Dominating Echo
+    en: Sonic Blast
   cost:
   - Colorless
   - Colorless
@@ -51,7 +51,7 @@ attacks:
   damage: '220'
   effect_text:
     ja: このポケモンにも30ダメージ。
-    en: During your opponent's next turn, they can’t play any Special Energy or Stadium cards from their hand.
+    en: This Pokémon also does 30 damage to itself.
 first_appearance:
   set_name_ja: スタートデッキGenerations ゼルネアスex・オンバーンex
   released_at: '2024-11-22'

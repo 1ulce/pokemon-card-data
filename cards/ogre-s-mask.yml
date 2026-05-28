@@ -26,7 +26,10 @@ body_text:
     自分のトラッシュから、名前に「オーガポン」とつく「ポケモンex」を1枚選び、自分の場の、名前に「オーガポン」とつく「ポケモンex」1匹と入れ替える（ついているカード・ダメカン・特殊状態・効果などは、すべて引きつぐ）。入れ替えたポケモンはトラッシュする。
 
     グッズは、自分の番に何枚でも使える。
-  en:
+  en: |-
+    Ogre's Mask Trainer - Item
+
+    Choose a Pokémon ex in your discard pile that has "Ogerpon" in its name, and switch it with 1 of your Pokémon ex in play that has "Ogerpon" in its name. Any attached cards, damage counters, Special Conditions, turns in play, and any other effects remain on the new Pokémon.
 rules_text:
   ja:
   en:

@@ -26,7 +26,10 @@ body_text:
     自分のポケモン1匹のHPを「60」回復し、特殊状態もすべて回復する。
 
     サポートは、自分の番に1枚しか使えない。
-  en:
+  en: |-
+    Pokémon Center Lady Trainer - Supporter
+
+    Heal 60 damage and remove all Special Conditions from 1 of your Pokémon.
 rules_text:
   ja:
   en:

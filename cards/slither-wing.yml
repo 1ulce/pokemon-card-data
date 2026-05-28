@@ -32,18 +32,18 @@ attacks:
 - position: 0
   name:
     ja: てつつぶし
-    en: Stomp Off
+    en: Iron Smasher
   cost:
   - Fighting
   - Colorless
   damage: 20+
   effect_text:
     ja: 相手の場に「未来」のポケモンがいるなら、120ダメージ追加。
-    en: Discard the top card of your opponent's deck.
+    en: If your opponent has any Future Pokémon in play, this attack does 120 more damage.
 - position: 1
   name:
     ja: スマッシュウイング
-    en: Burning Turbulence
+    en: Smashing Wing
   cost:
   - Fighting
   - Fighting
@@ -51,7 +51,7 @@ attacks:
   damage: '130'
   effect_text:
     ja: このポケモンについているエネルギーを2個選び、トラッシュする。
-    en: This Pokémon also does 90 damage to itself. Your opponent's Active Pokémon is now Burned.
+    en: Discard 2 Energy from this Pokémon.
 first_appearance:
   set_name_ja: ナイトワンダラー
   released_at: '2024-06-07'

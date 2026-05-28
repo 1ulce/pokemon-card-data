@@ -32,16 +32,16 @@ attacks:
 - position: 0
   name:
     ja: おんみつひこう
-    en:
+    en: Covert Flight
   cost:
   - Darkness
   damage: '30'
   effect_text:
     ja: 次の相手の番、このポケモンはたねポケモンからワザのダメージを受けない。
-    en:
+    en: During your opponent's next turn, prevent all damage done to this Pokémon by attacks from Basic Pokémon.
 first_appearance:
   set_name_ja: ニンジャスピナー
   released_at: '2026-03-13'
   regulation_mark: J
   collector_number: '049'
-  image_url:
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/M4/050133_P_GORUBATTO.jpg

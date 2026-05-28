@@ -26,7 +26,10 @@ body_text:
     相手の手札を見て、その中からエネルギーを1枚選び、相手の山札の下にもどす。
 
     グッズは、自分の番に何枚でも使える。
-  en:
+  en: |-
+    Energy Swatter Trainer - Item
+
+    Your opponent reveals their hand, and you choose an Energy card you find there and put it on the bottom of their deck.
 rules_text:
   ja:
   en:

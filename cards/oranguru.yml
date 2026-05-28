@@ -32,17 +32,17 @@ attacks:
 - position: 0
   name:
     ja: よわみをにぎる 
-    en: Plotter's Command
+    en: Now You're in My Power
   cost:
   - Colorless
   damage:
   effect_text:
     ja: 次の自分の番の終わりまで、このワザを受けたポケモンの弱点はタイプになる。［弱点は「×2」でダメージ計算をする。］
-    en: Choose 1 of your opponent's Active Pokémon’s attacks. During your opponent’s next turn, that Pokémon can’t use that attack.
+    en: Until the end of your next turn, the Defending Pokémon's Weakness is now [C]. (The amount of Weakness doesn't change.)
 - position: 1
   name:
     ja: ひらてうち
-    en: Super Psy Bolt
+    en: Smack
   cost:
   - Colorless
   - Colorless

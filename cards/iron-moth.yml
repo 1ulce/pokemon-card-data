@@ -32,18 +32,18 @@ attacks:
 - position: 0
   name:
     ja: きゅういん
-    en:
+    en: Suction
   cost:
   - Colorless
   - Colorless
   damage: '30'
   effect_text:
     ja: 相手のバトルポケモンに与えたダメージぶん、このポケモンのHPを回復する。
-    en:
+    en: Heal from this Pokémon the same amount of damage you did to your opponent's Active Pokémon.
 - position: 1
   name:
     ja: ワイルドリジェクター
-    en:
+    en: Anachronism Repulsor
   cost:
   - Fire
   - Fire
@@ -51,7 +51,7 @@ attacks:
   damage: '120'
   effect_text:
     ja: 次の相手の番、このポケモンは「古代」のポケモンからワザのダメージを受けない。
-    en:
+    en: During your opponent's next turn, prevent all damage done to this Pokémon by attacks from Ancient Pokémon.
 first_appearance:
   set_name_ja: ナイトワンダラー
   released_at: '2024-06-07'

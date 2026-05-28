@@ -34,18 +34,18 @@ attacks:
 - position: 0
   name:
     ja: ほえたてる
-    en:
+    en: Ferocious Bellow
   cost:
   - Fire
   - Colorless
   damage: '80'
   effect_text:
     ja: 次の相手の番、このワザを受けたポケモンが使うワザのダメージは「-50」される。
-    en:
+    en: During your opponent's next turn, attacks used by the Defending Pokémon do 50 less damage (before applying Weakness and Resistance).
 - position: 1
   name:
     ja: ビッグバンファイヤー
-    en:
+    en: Fiery Big Bang
   cost:
   - Fire
   - Fire
@@ -53,7 +53,7 @@ attacks:
   damage: 290-
   effect_text:
     ja: このポケモンにのっているダメカンの数×10ダメージぶん、このワザのダメージは小さくなる。
-    en:
+    en: This attack does 10 less damage for each damage counter on this Pokémon.
 first_appearance:
   set_name_ja: ニンジャスピナー
   released_at: '2026-03-13'

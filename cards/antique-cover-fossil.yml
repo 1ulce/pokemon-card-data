@@ -26,7 +26,10 @@ body_text:
     このカードは、HP60のタイプのたねポケモンとして、場に出せる。このカードは、特殊状態にならず、にげられない。
 
     自分の番の中でなら、場に出ているこのカードをトラッシュできる。
-  en:
+  en: |-
+    Antique Cover Fossil - 60 HP Trainer - Item
+
+    Play this card as if it were a 60-HP Basic [C] Pokémon. This card can't be affected by any Special Conditions and can't retreat.At any time during your turn, you may discard this card from play. Ability: Protective Cover Prevent all effects of attacks used by your opponent's Pokémon done to this Pokémon. (Damage is not an effect.)
 rules_text:
   ja:
   en:

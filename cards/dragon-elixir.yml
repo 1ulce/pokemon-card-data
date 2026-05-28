@@ -26,7 +26,10 @@ body_text:
     自分のバトル場のドラゴンポケモンのHPを「60」回復する。
 
     グッズは、自分の番に何枚でも使える。
-  en:
+  en: |-
+    Dragon Elixir Trainer - Item
+
+    Heal 60 damage from your Active [N] Pokémon.
 rules_text:
   ja:
   en:

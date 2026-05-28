@@ -26,7 +26,10 @@ body_text:
     自分の山札を上から6枚見て、その中から基本エネルギーを1枚選び、自分のポケモンにつける。残りのカードは山札にもどして切る。
 
     サポートは、自分の番に1枚しか使えない。
-  en:
+  en: |-
+    Waitress Trainer - Supporter
+
+    Look at the top 6 cards of your deck and attach a Basic Energy card you find there to 1 of your Pokémon. Shuffle the other cards back into your deck.
 rules_text:
   ja:
   en:

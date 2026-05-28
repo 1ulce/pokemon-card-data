@@ -26,7 +26,10 @@ body_text:
     自分の山札を上から7枚見て、その中から悪ポケモンを1枚選び、ベンチに出す。残りのカードはすべてウラにして切り、山札の下にもどす。（最初の自分の番には使えない。）
 
     サポートは、自分の番に1枚しか使えない。
-  en:
+  en: |-
+    Grimsley's Move Trainer - Supporter
+
+    Look at the top 7 cards of your deck and put a [D] Pokémon you find there onto your Bench. Shuffle the other cards and put them on the bottom of your deck. You can't use this card during your first turn.
 rules_text:
   ja:
   en:

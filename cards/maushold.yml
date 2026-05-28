@@ -32,23 +32,23 @@ attacks:
 - position: 0
   name:
     ja: ファミリーマーチ 
-    en: Gentle Slap
+    en: Familial March
   cost:
   - Colorless
   damage:
   effect_text:
     ja: 自分の山札から「イッカネズミ（『ポケモンex』をふくむ）」を2枚まで選び、ベンチに出す。そして山札を切る。
-    en:
+    en: Search your deck for up to 2 in any combination of Maushold and Maushold ex and put them onto your Bench. Then, shuffle your deck.
 - position: 1
   name:
     ja: れんぞくまえば
-    en: Gnaw Relentlessly
+    en: Incessant Incisors
   cost:
   - Colorless
   damage: 30×
   effect_text:
     ja: コインを4回投げ、オモテの数×30ダメージ。
-    en: Put 1 damage counter on each of your opponent's Pokémon for each of your Maushold in play.
+    en: Flip 4 coins. This attack does 30 damage for each heads.
 first_appearance:
   set_name_ja: 超電ブレイカー
   released_at: '2024-10-18'

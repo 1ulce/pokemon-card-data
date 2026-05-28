@@ -32,13 +32,13 @@ attacks:
 - position: 0
   name:
     ja: おそいかかる
-    en:
+    en: Ambush
   cost:
   - Darkness
   damage: 10+
   effect_text:
     ja: コインを1回投げオモテなら、20ダメージ追加。
-    en:
+    en: Flip a coin. If heads, this attack does 20 more damage.
 first_appearance:
   set_name_ja: スターターセットMEGA メガゲンガーex
   released_at: '2025-09-05'

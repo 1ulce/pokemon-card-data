@@ -32,7 +32,7 @@ attacks:
 - position: 0
   name:
     ja: やみのかぜ
-    en: Flap
+    en: Wind of Darkness
   cost:
   - Darkness
   damage: '30'
@@ -42,7 +42,7 @@ attacks:
 - position: 1
   name:
     ja: スナイプフェザー 
-    en: Dirty Throw
+    en: Sniping Feathers
   cost:
   - Darkness
   - Darkness
@@ -50,7 +50,7 @@ attacks:
   damage:
   effect_text:
     ja: このポケモンについているエネルギーを2個トラッシュし、相手のポケモン1匹に、120ダメージ。［ベンチは弱点・抵抗力を計算しない。］
-    en: Discard a card from your hand. If you can't, this attack does nothing.
+    en: Discard 2 Energy from this Pokémon, and this attack does 120 damage to 1 of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)
 first_appearance:
   set_name_ja: スターターセットMEGA メガゲンガーex
   released_at: '2025-09-05'

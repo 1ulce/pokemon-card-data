@@ -28,7 +28,10 @@ body_text:
 
 
     このカードをつけている草ポケモンは、最大HPが「＋20」される。
-  en:
+  en: |-
+    Growing Grass Energy Energy - Special Energy
+
+    As long as this card is attached to a Pokémon, it provides [G] Energy.The [G] Pokémon this card is attached to gets +20 HP.
 rules_text:
   ja:
   en:

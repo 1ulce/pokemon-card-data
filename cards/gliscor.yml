@@ -32,13 +32,13 @@ attacks:
 - position: 0
   name:
     ja: ポイズンサークル
-    en:
+    en: Poison Ring
   cost:
   - Fighting
   damage: '50'
   effect_text:
     ja: 相手のバトルポケモンをどくにする。次の相手の番、このワザを受けたポケモンは、にげられない。
-    en:
+    en: Your opponent's Active Pokémon is now Poisoned. During your opponent's next turn, that Pokémon can't retreat.
 first_appearance:
   set_name_ja: インフェルノX
   released_at: '2025-09-26'

@@ -26,7 +26,10 @@ body_text:
     おたがいのプレイヤーは、自分の番ごとに1回、自分のバトル場の水ポケモンを、ベンチの水ポケモンと入れ替えてよい。
 
     スタジアムは、自分の番に1枚、バトル場の横に出せる。別のスタジアムが場に出たなら、このカードをトラッシュする。同じ名前のスタジアムは場に出せない。
-  en:
+  en: |-
+    Surfing Beach Trainer - Stadium
+
+    Once during each player's turn, that player may switch their Active [W] Pokémon with 1 of their Benched [W] Pokémon.
 rules_text:
   ja:
   en:

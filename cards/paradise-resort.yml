@@ -26,7 +26,10 @@ body_text:
     おたがいの「コダック」全員のにげるためのエネルギーは、それぞれ1個ぶん少なくなる。
 
     スタジアムは、自分の番に1枚、バトル場の横に出せる。別のスタジアムが場に出たなら、このカードをトラッシュする。同じ名前のスタジアムは場に出せない。
-  en:
+  en: |-
+    Paradise Resort Trainer - Stadium
+
+    The Retreat Cost of each Psyduck in play (both yours and your opponent's) is [C] less.
 rules_text:
   ja:
   en:

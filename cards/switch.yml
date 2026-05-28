@@ -26,7 +26,10 @@ body_text:
     自分のバトルポケモンをベンチポケモンと入れ替える。
 
     グッズは、自分の番に何枚でも使える。
-  en:
+  en: |-
+    Switch Trainer - Item
+
+    Switch your Active Pokémon with 1 of your Benched Pokémon.
 rules_text:
   ja:
   en:

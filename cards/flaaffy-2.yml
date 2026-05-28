@@ -32,14 +32,14 @@ attacks:
 - position: 0
   name:
     ja: でんじしょうがい
-    en:
+    en: Disconnect
   cost:
   - Lightning
   - Colorless
   damage: '40'
   effect_text:
     ja: 次の相手の番、相手は手札からグッズを出して使えない。
-    en:
+    en: During your opponent's next turn, they can't play any Item cards from their hand.
 first_appearance:
   set_name_ja: ニンジャスピナー
   released_at: '2026-03-13'

@@ -32,16 +32,16 @@ attacks:
 - position: 0
   name:
     ja: とっしん
-    en:
+    en: Take Down
   cost:
   - Colorless
   damage: '30'
   effect_text:
     ja: このポケモンにも10ダメージ。
-    en:
+    en: This Pokémon also does 10 damage to itself.
 first_appearance:
   set_name_ja: ニンジャスピナー
   released_at: '2026-03-13'
   regulation_mark: J
   collector_number: '070'
-  image_url:
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/M4/050154_P_CHIRAMII.jpg

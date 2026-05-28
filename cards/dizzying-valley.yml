@@ -26,7 +26,10 @@ body_text:
     おたがいのこんらんのポケモンは、進化・退化してもこんらんが回復しない。
 
     スタジアムは、自分の番に1枚、バトル場の横に出せる。別のスタジアムが場に出たなら、このカードをトラッシュする。同じ名前のスタジアムは場に出せない。
-  en:
+  en: |-
+    Dizzying Valley Trainer - Stadium
+
+    Confused Pokémon (both yours and your opponent's) don't recover from that Special Condition when they evolve or devolve.
 rules_text:
   ja:
   en:

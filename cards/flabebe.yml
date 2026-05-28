@@ -32,17 +32,17 @@ attacks:
 - position: 0
   name:
     ja: きずをなおす 
-    en: Pollen Shot
+    en: Bind Wound
   cost:
   - Colorless
   damage:
   effect_text:
     ja: 自分のポケモン1匹のHPを「30」回復する。
-    en:
+    en: Heal 30 damage from 1 of your Pokémon.
 - position: 1
   name:
     ja: ようせいのかぜ
-    en:
+    en: Fairy Wind
   cost:
   - Psychic
   damage: '10'

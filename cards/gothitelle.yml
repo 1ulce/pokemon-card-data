@@ -31,22 +31,22 @@ abilities:
 - position: 0
   name:
     ja: ねじれたみらい
-    en: Read the Stars
+    en: Distorted Future
   effect_text:
     ja: このポケモンがバトル場にいるなら、自分の番に1回使える。相手は相手自身の手札をすべて山札にもどして切る。その後、相手は山札を3枚引く。
-    en: Once during your turn, you may look at the top 2 cards of your opponent's deck and put 1 of them back. Put the other card on the bottom of their deck.
+    en: Once during your turn, if this Pokémon is in the Active Spot, you may have your opponent shuffle their hand into their deck and draw 3 cards.
 attacks:
 - position: 0
   name:
     ja: シンクロショット
-    en: Psych Out
+    en: Synchro Shot
   cost:
   - Psychic
   - Colorless
   damage: 90+
   effect_text:
     ja: 自分の手札と相手の手札が同じ枚数なら、90ダメージ追加。
-    en: Discard a random card from your opponent's hand.
+    en: If you have the same number of cards in your hand as your opponent, this attack does 90 more damage.
 first_appearance:
   set_name_ja: ホワイトフレア
   released_at: '2025-06-06'

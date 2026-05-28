@@ -32,17 +32,17 @@ attacks:
 - position: 0
   name:
     ja: えんぐん 
-    en: Bubble Beam
+    en: Call for Backup
   cost:
   - Water
   damage:
   effect_text:
     ja: 自分の山札からポケモンを3枚まで選び、相手に見せて、手札に加える。そして山札を切る。
-    en: Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed.
+    en: Search your deck for up to 3 Pokémon, reveal them, and put them into your hand. Then, shuffle your deck.
 - position: 1
   name:
     ja: するどいひれ
-    en:
+    en: Sharp Fin
   cost:
   - Colorless
   - Colorless

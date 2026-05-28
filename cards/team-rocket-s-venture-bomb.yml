@@ -26,7 +26,10 @@ body_text:
     コインを1回投げオモテなら、相手のポケモン1匹に、ダメカンを2個のせる。ウラなら、自分のバトルポケモンに、ダメカンを2個のせる。
 
     グッズは、自分の番に何枚でも使える。
-  en:
+  en: |-
+    Team Rocket's Venture Bomb Trainer - Item
+
+    Flip a coin. If heads, put 2 damage counters on 1 of your opponent's Pokémon. If tails, put 2 damage counters on your Active Pokémon.
 rules_text:
   ja:
   en:

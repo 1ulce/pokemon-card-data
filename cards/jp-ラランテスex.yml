@@ -1,0 +1,59 @@
+---
+schema_version: 1
+slug: jp-ラランテスex
+name:
+  ja: ラランテスex
+  en:
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Grass
+hp: 260
+retreat_cost: 1
+regulation_mark: J
+meta_tags:
+- ex
+evolves_from:
+  ja: カリキリ
+  en: Fomantis
+weakness:
+  type: Fire
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja: ポケモンexがきぜつしたとき、相手はサイドを2枚とる。
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: はつらつカッター
+    en:
+  cost:
+  - Grass
+  damage: 60+
+  effect_text:
+    ja: この番に、このポケモンのHPを回復していたなら、200ダメージ追加。
+    en:
+- position: 1
+  name:
+    ja: リーフガード
+    en:
+  cost:
+  - Grass
+  - Colorless
+  damage: '140'
+  effect_text:
+    ja: 次の相手の番、このポケモンが受けるワザのダメージは「-50」される。
+    en:
+first_appearance:
+  set_name_ja: アビスアイ
+  released_at: '2026-05-22'
+  regulation_mark: J
+  collector_number: '004'
+  image_url:

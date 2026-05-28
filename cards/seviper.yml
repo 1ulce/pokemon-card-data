@@ -31,15 +31,15 @@ abilities:
 - position: 0
   name:
     ja: エキサイトパワー
-    en:
+    en: Excited Power
   effect_text:
     ja: 自分の場に悪タイプの「メガシンカex」がいるなら、このポケモンが使うワザの、相手のバトルポケモンへのダメージは「+120」される。
-    en:
+    en: If you have any [D] Mega Evolution Pokémon ex in play, attacks used by this Pokémon do 120 more damage to your opponent's Active Pokémon (before applying Weakness and Resistance).
 attacks:
 - position: 0
   name:
     ja: しっこくのキバ
-    en:
+    en: Pitch-Black Fangs
   cost:
   - Darkness
   - Darkness

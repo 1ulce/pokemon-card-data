@@ -32,17 +32,17 @@ attacks:
 - position: 0
   name:
     ja: どくをとばす 
-    en:
+    en: Poison Spray
   cost:
   - Darkness
   damage:
   effect_text:
     ja: 相手のバトルポケモンをどくにする。
-    en:
+    en: Your opponent's Active Pokémon is now Poisoned.
 - position: 1
   name:
     ja: まくしなぐる
-    en:
+    en: Relentless Punches
   cost:
   - Darkness
   - Darkness
@@ -50,7 +50,7 @@ attacks:
   damage: 50+
   effect_text:
     ja: 相手のバトルポケモンにのっているダメカンの数×50ダメージ追加。
-    en:
+    en: This attack does 50 more damage for each damage counter on your opponent's Active Pokémon.
 first_appearance:
   set_name_ja: 変幻の仮面
   released_at: '2024-04-26'

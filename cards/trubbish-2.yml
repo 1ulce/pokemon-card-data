@@ -32,13 +32,13 @@ attacks:
 - position: 0
   name:
     ja: アシッドボム
-    en:
+    en: Acid Spray
   cost:
   - Darkness
   damage: '10'
   effect_text:
     ja: コインを1回投げオモテなら、相手のバトルポケモンについているエネルギーを1個選び、トラッシュする。
-    en:
+    en: Flip a coin. If heads, discard an Energy from your opponent's Active Pokémon.
 first_appearance:
   set_name_ja: ニンジャスピナー
   released_at: '2026-03-13'

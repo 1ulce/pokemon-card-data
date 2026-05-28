@@ -10,7 +10,7 @@ card_subtype: 1進化
 energy_type: Lightning
 hp: 260
 retreat_cost: 2
-regulation_mark: G
+regulation_mark:
 meta_tags:
 - ex
 evolves_from:
@@ -45,6 +45,6 @@ attacks:
 first_appearance:
   set_name_ja: Pokémon Trading Card Game イラストレーションコンテスト 2024
   released_at:
-  regulation_mark: G
+  regulation_mark:
   collector_number: '47364'
   image_url:

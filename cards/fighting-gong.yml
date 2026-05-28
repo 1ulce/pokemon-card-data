@@ -26,7 +26,10 @@ body_text:
     自分の山札から闘タイプのたねポケモンまたは「基本闘エネルギー」を1枚選び、相手に見せて、手札に加える。そして山札を切る。
 
     グッズは、自分の番に何枚でも使える。
-  en:
+  en: |-
+    Fighting Gong Trainer - Item
+
+    Search your deck for a Basic [F] Energy card or a Basic [F] Pokémon, reveal it, and put it into your hand. Then, shuffle your deck.
 rules_text:
   ja:
   en:

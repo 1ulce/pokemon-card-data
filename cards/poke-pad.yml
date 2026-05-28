@@ -26,7 +26,10 @@ body_text:
     自分の山札からポケモン（「ルールを持つポケモン」をのぞく）を1枚選び、相手に見せて、手札に加える。そして山札を切る。
 
     グッズは、自分の番に何枚でも使える。
-  en:
+  en: |-
+    Poké Pad Trainer - Item
+
+    Search your deck for a Pokémon that doesn't have a Rule Box, reveal it, and put it into your hand. Then, shuffle your deck. (Pokémon ex, Pokémon V, etc. have Rule Boxes.)
 rules_text:
   ja:
   en:

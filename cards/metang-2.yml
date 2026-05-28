@@ -32,7 +32,7 @@ attacks:
 - position: 0
   name:
     ja: メタルクロー
-    en:
+    en: Metal Claw
   cost:
   - Metal
   damage: '30'
@@ -42,7 +42,7 @@ attacks:
 - position: 1
   name:
     ja: ガードプレス
-    en:
+    en: Guard Press
   cost:
   - Metal
   - Metal
@@ -50,7 +50,7 @@ attacks:
   damage: '70'
   effect_text:
     ja: 次の相手の番、このポケモンが受けるワザのダメージは「-30」される。
-    en:
+    en: During your opponent's next turn, this Pokémon takes 30 less damage from attacks (after applying Weakness and Resistance).
 first_appearance:
   set_name_ja: ニンジャスピナー
   released_at: '2026-03-13'

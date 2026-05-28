@@ -26,7 +26,10 @@ body_text:
     自分のトラッシュから水ポケモンと「基本水エネルギー」をそれぞれ3枚まで選び、相手に見せて、山札にもどして切る。
 
     グッズは、自分の番に何枚でも使える。
-  en:
+  en: |-
+    Great Haul Net Trainer - Item
+
+    Choose 1 or both:• Shuffle up to 3 [W] Pokémon from your discard pile into your deck.• Shuffle up to 3 Basic [W] Energy cards from your discard pile into your deck.
 rules_text:
   ja:
   en:
@@ -37,4 +40,4 @@ first_appearance:
   released_at: '2026-03-13'
   regulation_mark: J
   collector_number: '073'
-  image_url:
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/M4/050157_T_TAIRIXYOUNETTO.jpg

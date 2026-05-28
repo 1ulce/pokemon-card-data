@@ -31,15 +31,15 @@ abilities:
 - position: 0
   name:
     ja: したごしらえ
-    en:
+    en: Food Prep
   effect_text:
     ja: 自分のトラッシュにある「ハイダイ」の枚数ぶん、このポケモンがワザを使うためのエネルギーは少なくなる。
-    en:
+    en: Attacks used by this Pokémon cost [C] less for each Kofu card in your discard pile.
 attacks:
 - position: 0
   name:
     ja: ソニックエッジ
-    en:
+    en: Sonic Edge
   cost:
   - Colorless
   - Colorless
@@ -48,7 +48,7 @@ attacks:
   damage: '110'
   effect_text:
     ja: このワザのダメージは、相手のバトルポケモンにかかっている効果を計算しない。
-    en:
+    en: This attack's damage isn't affected by any effects on your opponent's Active Pokémon.
 first_appearance:
   set_name_ja: ステラミラクル
   released_at: '2024-07-19'

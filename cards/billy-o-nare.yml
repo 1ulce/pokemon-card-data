@@ -26,7 +26,10 @@ body_text:
     自分の山札を2枚引く。その後、自分の手札が10枚以上あるなら、さらに2枚引く。
 
     サポートは、自分の番に1枚しか使えない。
-  en:
+  en: |-
+    Billy & O'Nare Trainer - Supporter
+
+    Draw 2 cards. Then, if you have 10 or more cards in your hand, draw 2 more cards.
 rules_text:
   ja:
   en:

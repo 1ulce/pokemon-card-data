@@ -33,13 +33,13 @@ attacks:
 - position: 0
   name:
     ja: ビーランブル
-    en:
+    en: Rumbling Bees
   cost:
   - Grass
   damage: 110×
   effect_text:
     ja: 自分の場の「スピアー（『ポケモンex』をふくむ）」の数×110ダメージ。
-    en:
+    en: This attack does 110 damage for each of your Beedrill and Beedrill ex in play.
 first_appearance:
   set_name_ja: ニンジャスピナー
   released_at: '2026-03-13'

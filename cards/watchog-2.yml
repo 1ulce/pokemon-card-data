@@ -32,17 +32,17 @@ attacks:
 - position: 0
   name:
     ja: ぬきうちチェック 
-    en:
+    en: Snap Inspection
   cost:
   - Colorless
   damage:
   effect_text:
     ja: コインを3回投げる。オモテが出たなら、相手の手札を見て、その中からカードをオモテの数ぶん選び、相手の山札にもどして切る。
-    en:
+    en: Flip 3 coins. If any of them are heads, your opponent reveals their hand. For each heads, choose a card you find there and shuffle it into your opponent's deck.
 - position: 1
   name:
     ja: けたぐり
-    en:
+    en: Low Kick
   cost:
   - Colorless
   damage: '50'

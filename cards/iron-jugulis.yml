@@ -31,15 +31,15 @@ abilities:
 - position: 0
   name:
     ja: オートマーシャル
-    en:
+    en: Automated Combat
   effect_text:
     ja: このポケモンが、バトル場で相手のポケモンからワザのダメージを受けたとき、ワザを使ったポケモンにダメカンを3個のせる。
-    en:
+    en: If this Pokémon is in the Active Spot and is damaged by an attack from your opponent's Pokémon (even if this Pokémon is Knocked Out), put 3 damage counters on the Attacking Pokémon.
 attacks:
 - position: 0
   name:
     ja: ブラストウインド
-    en:
+    en: Blasting Wind
   cost:
   - Colorless
   - Colorless

@@ -32,13 +32,13 @@ attacks:
 - position: 0
   name:
     ja: バディアタック
-    en:
+    en: Buddy Attack
   cost:
   - Psychic
   damage: 10+
   effect_text:
     ja: この番に、手札から「マチエール」を出して使っていたなら、60ダメージ追加。
-    en:
+    en: If you played Emma from your hand during this turn, this attack does 60 more damage.
 first_appearance:
   set_name_ja: ニンジャスピナー
   released_at: '2026-03-13'

@@ -30,7 +30,10 @@ body_text:
     自分の山札からサポートを1枚選び、相手に見せて、手札に加える。そして山札を切る。
 
     グッズは、自分の番に何枚でも使える。
-  en:
+  en: |-
+    Call Bell Trainer - Item
+
+    You can use this card only if you go second, and only during your first turn.Search your deck for a Supporter card, reveal it, and put it into your hand. Then, shuffle your deck.
 rules_text:
   ja:
   en:

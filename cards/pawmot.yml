@@ -32,14 +32,14 @@ attacks:
 - position: 0
   name:
     ja: ボルテージフィスト
-    en:
+    en: Voltaic Fist
   cost:
   - Lightning
   - Lightning
   damage: '130'
   effect_text:
     ja: のぞむなら、このポケモンにも60ダメージを与え、相手のバトルポケモンをマヒにする。
-    en:
+    en: You may have this Pokémon also do 60 damage to itself and make your opponent's Active Pokémon Paralyzed.
 first_appearance:
   set_name_ja: インフェルノX
   released_at: '2025-09-26'

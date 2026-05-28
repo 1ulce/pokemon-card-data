@@ -27,7 +27,10 @@ body_text:
     相手のベンチポケモンを1匹選び、バトルポケモンと入れ替える。その後、自分のバトルポケモンをベンチポケモンと入れ替える。
 
     グッズは、自分の番に何枚でも使える。
-  en:
+  en: |-
+    Prime Catcher Trainer - Item
+
+    Switch in 1 of your opponent's Benched Pokémon to the Active Spot. If you do, switch your Active Pokémon with 1 of your Benched Pokémon.
 rules_text:
   ja: ACE SPECのカードは、デッキに1枚しか入れられない。
   en:

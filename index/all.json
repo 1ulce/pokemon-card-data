@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-05-18T13:24:36Z",
-  "total_faces": 1907,
+  "generated_at": "2026-05-28T16:43:01Z",
+  "total_faces": 1941,
   "faces": [
     {
       "slug": "abomasnow",
@@ -84,9 +84,9 @@
       "first_set": "メガシンフォニア"
     },
     {
-      "slug": "adversity-insurance",
+      "slug": "adversity-policy",
       "name_ja": "逆境ほけん",
-      "name_en": "Adversity Insurance",
+      "name_en": "Adversity Policy",
       "card_type": "Trainer",
       "regulation_mark": "I",
       "first_set": "ポケモンカードゲーム MEGA　プロモカードパック第2弾"
@@ -314,6 +314,14 @@
       "card_type": "Trainer",
       "regulation_mark": "H",
       "first_set": "超電ブレイカー"
+    },
+    {
+      "slug": "ange-floette",
+      "name_ja": "アンジュフラエッテ",
+      "name_en": "Ange Floette",
+      "card_type": "Trainer",
+      "regulation_mark": "J",
+      "first_set": "ニンジャスピナー"
     },
     {
       "slug": "annihilape",
@@ -700,17 +708,9 @@
       "first_set": "ブラックボルト"
     },
     {
-      "slug": "az",
+      "slug": "az-s-tranquility",
       "name_ja": "AZの安らぎ",
-      "name_en": "AZ",
-      "card_type": "Trainer",
-      "regulation_mark": "J",
-      "first_set": "ニンジャスピナー"
-    },
-    {
-      "slug": "az-s-floette",
-      "name_ja": "アンジュフラエッテ",
-      "name_en": "AZ's Floette",
+      "name_en": "AZ's Tranquility",
       "card_type": "Trainer",
       "regulation_mark": "J",
       "first_set": "ニンジャスピナー"
@@ -1124,14 +1124,6 @@
       "first_set": "アビスアイ"
     },
     {
-      "slug": "book-of-transformation",
-      "name_ja": "変化の書",
-      "name_en": "Book of Transformation",
-      "card_type": "Trainer",
-      "regulation_mark": "J",
-      "first_set": "ニンジャスピナー"
-    },
-    {
       "slug": "boomerang-energy",
       "name_ja": "ブーメランエネルギー",
       "name_en": "Boomerang Energy",
@@ -1380,9 +1372,9 @@
       "first_set": "楽園ドラゴーナ"
     },
     {
-      "slug": "bubble-w-energy",
+      "slug": "bubbly-water-energy",
       "name_ja": "バブル水エネルギー",
-      "name_en": "Bubble {W} Energy",
+      "name_en": "Bubbly Water Energy",
       "card_type": "Energy",
       "regulation_mark": "J",
       "first_set": "ニンジャスピナー"
@@ -2480,7 +2472,7 @@
       "name_ja": "フリージオ",
       "name_en": "Cryogonal",
       "card_type": "Pokémon",
-      "regulation_mark": "I",
+      "regulation_mark": "H",
       "first_set": "楽園ドラゴーナ"
     },
     {
@@ -6476,6 +6468,278 @@
       "first_set": "ホワイトフレア"
     },
     {
+      "slug": "jp-ごうかいボム",
+      "name_ja": "ごうかいボム",
+      "name_en": null,
+      "card_type": "Trainer",
+      "regulation_mark": "J",
+      "first_set": "アビスアイ"
+    },
+    {
+      "slug": "jp-アシマリ",
+      "name_ja": "アシマリ",
+      "name_en": null,
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "アビスアイ"
+    },
+    {
+      "slug": "jp-アシレーヌ",
+      "name_ja": "アシレーヌ",
+      "name_en": null,
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "アビスアイ"
+    },
+    {
+      "slug": "jp-オシャマリ",
+      "name_ja": "オシャマリ",
+      "name_en": null,
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "アビスアイ"
+    },
+    {
+      "slug": "jp-オラチフ",
+      "name_ja": "オラチフ",
+      "name_en": null,
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "アビスアイ"
+    },
+    {
+      "slug": "jp-カスミの元気",
+      "name_ja": "カスミの元気",
+      "name_en": null,
+      "card_type": "Trainer",
+      "regulation_mark": "J",
+      "first_set": "アビスアイ"
+    },
+    {
+      "slug": "jp-グラジオの決戦",
+      "name_ja": "グラジオの決戦",
+      "name_en": null,
+      "card_type": "Trainer",
+      "regulation_mark": "J",
+      "first_set": "アビスアイ"
+    },
+    {
+      "slug": "jp-ケララッパ",
+      "name_ja": "ケララッパ",
+      "name_en": null,
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "アビスアイ"
+    },
+    {
+      "slug": "jp-サビ組のしたっぱ",
+      "name_ja": "サビ組のしたっぱ",
+      "name_en": null,
+      "card_type": "Trainer",
+      "regulation_mark": "J",
+      "first_set": "アビスアイ"
+    },
+    {
+      "slug": "jp-シャドー悪エネルギー",
+      "name_ja": "シャドー悪エネルギー",
+      "name_en": null,
+      "card_type": "Energy",
+      "regulation_mark": "J",
+      "first_set": "アビスアイ"
+    },
+    {
+      "slug": "jp-シルヴァディ",
+      "name_ja": "シルヴァディ",
+      "name_en": null,
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "アビスアイ"
+    },
+    {
+      "slug": "jp-ズガイドス",
+      "name_ja": "ズガイドス",
+      "name_en": null,
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "アビスアイ"
+    },
+    {
+      "slug": "jp-タイプ：ヌル",
+      "name_ja": "タイプ：ヌル",
+      "name_en": null,
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "アビスアイ"
+    },
+    {
+      "slug": "jp-タテトプス",
+      "name_ja": "タテトプス",
+      "name_en": null,
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "アビスアイ"
+    },
+    {
+      "slug": "jp-ダークベル",
+      "name_ja": "ダークベル",
+      "name_en": null,
+      "card_type": "Trainer",
+      "regulation_mark": "J",
+      "first_set": "アビスアイ"
+    },
+    {
+      "slug": "jp-ツツケラ",
+      "name_ja": "ツツケラ",
+      "name_en": null,
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "アビスアイ"
+    },
+    {
+      "slug": "jp-トリデプス",
+      "name_ja": "トリデプス",
+      "name_en": null,
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "アビスアイ"
+    },
+    {
+      "slug": "jp-ドデカバシ",
+      "name_ja": "ドデカバシ",
+      "name_en": null,
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "アビスアイ"
+    },
+    {
+      "slug": "jp-ホエルオーex",
+      "name_ja": "ホエルオーex",
+      "name_en": null,
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "アビスアイ"
+    },
+    {
+      "slug": "jp-ボルト雷エネルギー",
+      "name_ja": "ボルト雷エネルギー",
+      "name_en": null,
+      "card_type": "Energy",
+      "regulation_mark": "J",
+      "first_set": "アビスアイ"
+    },
+    {
+      "slug": "jp-マフィティフ",
+      "name_ja": "マフィティフ",
+      "name_en": null,
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "アビスアイ"
+    },
+    {
+      "slug": "jp-ムク",
+      "name_ja": "ムク",
+      "name_en": null,
+      "card_type": "Trainer",
+      "regulation_mark": "J",
+      "first_set": "アビスアイ"
+    },
+    {
+      "slug": "jp-メガシャンデラex",
+      "name_ja": "メガシャンデラex",
+      "name_en": null,
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "アビスアイ"
+    },
+    {
+      "slug": "jp-メガゼラオラex",
+      "name_ja": "メガゼラオラex",
+      "name_en": null,
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "アビスアイ"
+    },
+    {
+      "slug": "jp-メガダークライex",
+      "name_ja": "メガダークライex",
+      "name_en": null,
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "アビスアイ"
+    },
+    {
+      "slug": "jp-メガドリュウズex",
+      "name_ja": "メガドリュウズex",
+      "name_en": null,
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "アビスアイ"
+    },
+    {
+      "slug": "jp-モルペコex",
+      "name_ja": "モルペコex",
+      "name_en": null,
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "アビスアイ"
+    },
+    {
+      "slug": "jp-ヤドラン",
+      "name_ja": "ヤドラン",
+      "name_en": null,
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "アビスアイ"
+    },
+    {
+      "slug": "jp-ラムパルドex",
+      "name_ja": "ラムパルドex",
+      "name_en": null,
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "アビスアイ"
+    },
+    {
+      "slug": "jp-ラランテスex",
+      "name_ja": "ラランテスex",
+      "name_en": null,
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "アビスアイ"
+    },
+    {
+      "slug": "jp-リトライバッジ",
+      "name_ja": "リトライバッジ",
+      "name_en": null,
+      "card_type": "Trainer",
+      "regulation_mark": "J",
+      "first_set": "アビスアイ"
+    },
+    {
+      "slug": "jp-化石採掘場",
+      "name_ja": "化石採掘場",
+      "name_en": null,
+      "card_type": "Trainer",
+      "regulation_mark": "J",
+      "first_set": "アビスアイ"
+    },
+    {
+      "slug": "jp-古びたずがいの化石",
+      "name_ja": "古びたずがいの化石",
+      "name_en": null,
+      "card_type": "Trainer",
+      "regulation_mark": "J",
+      "first_set": "アビスアイ"
+    },
+    {
+      "slug": "jp-古びたたての化石",
+      "name_ja": "古びたたての化石",
+      "name_en": null,
+      "card_type": "Trainer",
+      "regulation_mark": "J",
+      "first_set": "アビスアイ"
+    },
+    {
       "slug": "judge",
       "name_ja": "ジャッジマン",
       "name_en": "Judge",
@@ -7708,9 +7972,9 @@
       "first_set": "メガシンフォニア"
     },
     {
-      "slug": "magnet-m-energy",
+      "slug": "magnetic-metal-energy",
       "name_ja": "マグネット鋼エネルギー",
-      "name_en": "Magnet {M} Energy",
+      "name_en": "Magnetic Metal Energy",
       "card_type": "Energy",
       "regulation_mark": "J",
       "first_set": "ニンジャスピナー"
@@ -9404,9 +9668,9 @@
       "first_set": "メガシンフォニア"
     },
     {
-      "slug": "nitro-r-energy",
+      "slug": "nitro-fire-energy",
       "name_ja": "ニトロ炎エネルギー",
-      "name_en": "Nitro {R} Energy",
+      "name_en": "Nitro Fire Energy",
       "card_type": "Energy",
       "regulation_mark": "J",
       "first_set": "ニンジャスピナー"
@@ -10208,7 +10472,7 @@
       "name_ja": "ピカチュウ",
       "name_en": "Pikachu",
       "card_type": "Pokémon",
-      "regulation_mark": "G",
+      "regulation_mark": null,
       "first_set": "ピカチュウ"
     },
     {
@@ -10834,14 +11098,6 @@
       "card_type": "Trainer",
       "regulation_mark": "H",
       "first_set": "サイバージャッジ"
-    },
-    {
-      "slug": "red-card",
-      "name_ja": "スペシャルレッドカード",
-      "name_en": "Red Card",
-      "card_type": "Trainer",
-      "regulation_mark": "J",
-      "first_set": "ニンジャスピナー"
     },
     {
       "slug": "redeemable-ticket",
@@ -12460,6 +12716,14 @@
       "first_set": "メガブレイブ"
     },
     {
+      "slug": "special-red-card",
+      "name_ja": "スペシャルレッドカード",
+      "name_en": "Special Red Card",
+      "card_type": "Trainer",
+      "regulation_mark": "J",
+      "first_set": "ニンジャスピナー"
+    },
+    {
       "slug": "spectrier",
       "name_ja": "レイスポス",
       "name_en": "Spectrier",
@@ -14048,7 +14312,7 @@
       "name_ja": "ストリンダーex",
       "name_en": "Toxtricity ex",
       "card_type": "Pokémon",
-      "regulation_mark": "G",
+      "regulation_mark": null,
       "first_set": "Pokémon Trading Card Game イラストレーションコンテスト 2024"
     },
     {
@@ -14066,6 +14330,14 @@
       "card_type": "Pokémon",
       "regulation_mark": "H",
       "first_set": "サイバージャッジ"
+    },
+    {
+      "slug": "transformation-tome",
+      "name_ja": "変化の書",
+      "name_en": "Transformation Tome",
+      "card_type": "Trainer",
+      "regulation_mark": "J",
+      "first_set": "ニンジャスピナー"
     },
     {
       "slug": "trapinch",

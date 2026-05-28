@@ -32,14 +32,14 @@ attacks:
 - position: 0
   name:
     ja: すいとる
-    en:
+    en: Absorb
   cost:
   - Water
   - Psychic
   damage: '30'
   effect_text:
     ja: このポケモンのHPを「30」回復する。
-    en:
+    en: Heal 30 damage from this Pokémon.
 first_appearance:
   set_name_ja: ニンジャスピナー
   released_at: '2026-03-13'

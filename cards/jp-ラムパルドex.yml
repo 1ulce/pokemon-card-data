@@ -1,0 +1,56 @@
+---
+schema_version: 1
+slug: jp-ラムパルドex
+name:
+  ja: ラムパルドex
+  en:
+  prefix:
+card_type: Pokémon
+card_subtype: 2進化
+energy_type: Fighting
+hp: 330
+retreat_cost: 2
+regulation_mark: J
+meta_tags:
+- ex
+evolves_from:
+  ja: ズガイドス
+  en:
+weakness:
+  type: Grass
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja: ポケモンexがきぜつしたとき、相手はサイドを2枚とる。
+  en:
+abilities:
+- position: 0
+  name:
+    ja: はかいのずつき
+    en:
+  effect_text:
+    ja: このポケモンがバトル場にいるなら、自分の番に1回使える。コインを1回投げオモテなら、相手のバトルポケモンについているエネルギーを1個選び、トラッシュする。
+    en:
+attacks:
+- position: 0
+  name:
+    ja: ランページハンマー
+    en:
+  cost:
+  - Fighting
+  - Fighting
+  damage: '150'
+  effect_text:
+    ja: 次の自分の番、このポケモンが使うワザの、相手のバトルポケモンへのダメージは「+150」される。
+    en:
+first_appearance:
+  set_name_ja: アビスアイ
+  released_at: '2026-05-22'
+  regulation_mark: J
+  collector_number: '043'
+  image_url:

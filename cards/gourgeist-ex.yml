@@ -33,24 +33,24 @@ attacks:
 - position: 0
   name:
     ja: ホラーロンド
-    en:
+    en: Horrifying Rondo
   cost:
   - Psychic
   damage: 30+
   effect_text:
     ja: ダメカンがのっている自分のベンチポケモンの数×50ダメージ追加。
-    en:
+    en: This attack does 50 more damage for each of your Benched Pokémon that has any damage counters on it.
 - position: 1
   name:
     ja: ゴーストタッチ
-    en:
+    en: Ghostly Touch
   cost:
   - Psychic
   - Psychic
   damage: '140'
   effect_text:
     ja: 相手の手札からオモテを見ないで1枚選び、トラッシュする。
-    en:
+    en: Discard a random card from your opponent's hand.
 first_appearance:
   set_name_ja: ニンジャスピナー
   released_at: '2026-03-13'

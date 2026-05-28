@@ -32,13 +32,13 @@ attacks:
 - position: 0
   name:
     ja: たいかこうせん
-    en:
+    en: Devolution Ray
   cost:
   - Fighting
   damage: '50'
   effect_text:
     ja: 相手の進化しているバトルポケモンから、「進化カード」を1枚はがして退化させる。はがしたカードは、相手の手札にもどす。
-    en:
+    en: If your opponent's Active Pokémon is an evolved Pokémon, devolve it by putting the highest Stage Evolution card on it into your opponent's hand.
 first_appearance:
   set_name_ja: ニンジャスピナー
   released_at: '2026-03-13'

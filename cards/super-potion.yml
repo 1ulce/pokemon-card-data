@@ -26,7 +26,10 @@ body_text:
     自分のポケモンを1匹選び、HPを「60」回復する。回復した場合、そのポケモンについているエネルギーを1個選び、トラッシュする。
 
     グッズは、自分の番に何枚でも使える。
-  en:
+  en: |-
+    Super Potion Trainer - Item
+
+    Heal 60 damage from 1 of your Pokémon. If you do, discard an Energy attached to that Pokémon.
 rules_text:
   ja:
   en:

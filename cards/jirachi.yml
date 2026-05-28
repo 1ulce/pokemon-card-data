@@ -32,17 +32,17 @@ attacks:
 - position: 0
   name:
     ja: みなぎるねがい 
-    en:
+    en: Swelling Wish
   cost:
   - Colorless
   damage:
   effect_text:
     ja: 自分のトラッシュから基本エネルギーを1枚選び、ベンチポケモンにつける。
-    en:
+    en: Attach a Basic Energy card from your discard pile to 1 of your Benched Pokémon.
 - position: 1
   name:
     ja: ビンタ
-    en:
+    en: Slap
   cost:
   - Metal
   - Colorless

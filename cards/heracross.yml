@@ -32,7 +32,7 @@ attacks:
 - position: 0
   name:
     ja: のしかかり
-    en: Tackle
+    en: Body Slam
   cost:
   - Grass
   - Colorless
@@ -40,11 +40,11 @@ attacks:
   damage: '60'
   effect_text:
     ja: コインを1回投げオモテなら、相手のバトルポケモンをマヒにする。
-    en:
+    en: Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed.
 - position: 1
   name:
     ja: ちきゅうなげ
-    en: Smashing Horn
+    en: Seismic Toss
   cost:
   - Grass
   - Colorless
@@ -53,7 +53,7 @@ attacks:
   damage: '130'
   effect_text:
     ja:
-    en: This attack's damage isn’t affected by Resistance.
+    en:
 first_appearance:
   set_name_ja: 変幻の仮面
   released_at: '2024-04-26'

@@ -26,7 +26,10 @@ body_text:
     相手のベンチのたねポケモンを1匹選び、バトルポケモンと入れ替える。その後、新しく出てきたポケモンをこんらんにする。
 
     サポートは、自分の番に1枚しか使えない。
-  en:
+  en: |-
+    Lisia's Appeal Trainer - Supporter
+
+    Switch in 1 of your opponent's Benched Basic Pokémon to the Active Spot. If you do, the new Active Pokémon is now Confused.
 rules_text:
   ja:
   en:

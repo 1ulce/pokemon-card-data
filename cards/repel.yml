@@ -26,7 +26,10 @@ body_text:
     相手のバトルポケモンをベンチポケモンと入れ替える。［バトル場に出すポケモンは相手が選ぶ。］
 
     グッズは、自分の番に何枚でも使える。
-  en:
+  en: |-
+    Repel Trainer - Item
+
+    Your opponent switches their Active Pokémon with 1 of their Benched Pokémon.
 rules_text:
   ja:
   en:

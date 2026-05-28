@@ -27,7 +27,10 @@ body_text:
     自分の「未来」のポケモン全員に、トラッシュから基本エネルギーを1枚ずつつける。
 
     グッズは、自分の番に何枚でも使える。
-  en:
+  en: |-
+    Reboot Pod Trainer - Item
+
+    Attach a Basic Energy card from your discard pile to each of your Future Pokémon.
 rules_text:
   ja: ACE SPECのカードは、デッキに1枚しか入れられない。
   en:

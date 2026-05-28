@@ -32,17 +32,17 @@ attacks:
 - position: 0
   name:
     ja: じっとする 
-    en: Hook
+    en: Hold Still
   cost:
   - Water
   damage:
   effect_text:
     ja: このポケモンのHPを「30」回復する。
-    en:
+    en: Heal 30 damage from this Pokémon.
 - position: 1
   name:
     ja: ひれカッター
-    en:
+    en: Razor Fin
   cost:
   - Colorless
   - Colorless

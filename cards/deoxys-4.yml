@@ -32,16 +32,16 @@ attacks:
 - position: 0
   name:
     ja: サイコスピード
-    en:
+    en: Psyspeed
   cost:
   - Psychic
   damage: '30'
   effect_text:
     ja: のぞむなら、自分の手札が5枚になるように、山札を引く。
-    en:
+    en: You may draw cards until you have 5 cards in your hand.
 first_appearance:
   set_name_ja: ニンジャスピナー
   released_at: '2026-03-13'
   regulation_mark: J
   collector_number: '034'
-  image_url:
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/M4/050118_P_DEOKISHISU.jpg

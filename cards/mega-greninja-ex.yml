@@ -33,22 +33,22 @@ abilities:
 - position: 0
   name:
     ja: ひっさつしゅりけん
-    en:
+    en: Mortal Shuriken
   effect_text:
     ja: このポケモンがバトル場にいて、自分の番に、自分の手札から「基本水エネルギー」を1枚トラッシュするなら、1回使える。相手のポケモン1匹に、ダメカンを6個のせる。
-    en:
+    en: Once during your turn, if this Pokémon is in the Active Spot, you may discard a Basic [W] Energy card from your hand in order to use this Ability. Place 6 damage counters on 1 of your opponent's Pokémon.
 attacks:
 - position: 0
   name:
     ja: ニンジャスピナー
-    en:
+    en: Ninja Spinner
   cost:
   - Water
   - Water
   damage: 120+
   effect_text:
     ja: のぞむなら、このポケモンについている水エネルギーを1個手札にもどし、80ダメージ追加。
-    en:
+    en: You may put a [W] Energy attached to this Pokémon into your hand and have this attack do 80 more damage.
 first_appearance:
   set_name_ja: ニンジャスピナー
   released_at: '2026-03-13'

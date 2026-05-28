@@ -32,13 +32,13 @@ attacks:
 - position: 0
   name:
     ja: チャームボイス
-    en:
+    en: Disarming Voice
   cost:
   - Colorless
   damage: '10'
   effect_text:
     ja: 相手のバトルポケモンをこんらんにする。
-    en:
+    en: Your opponent's Active Pokémon is now Confused.
 first_appearance:
   set_name_ja: 楽園ドラゴーナ
   released_at: '2024-09-13'

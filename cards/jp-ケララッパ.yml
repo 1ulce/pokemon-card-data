@@ -1,0 +1,47 @@
+---
+schema_version: 1
+slug: jp-ケララッパ
+name:
+  ja: ケララッパ
+  en:
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Colorless
+hp: 90
+retreat_cost: 1
+regulation_mark: J
+meta_tags: []
+evolves_from:
+  ja: ツツケラ
+  en:
+weakness:
+  type: Lightning
+  value: "×2"
+resistance:
+  type: Fighting
+  value: "-30"
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: そらをとぶ
+    en:
+  cost:
+  - Colorless
+  damage: '30'
+  effect_text:
+    ja: コインを1回投げウラなら、このワザは失敗。オモテなら、次の相手の番、このポケモンはワザのダメージや効果を受けない。
+    en:
+first_appearance:
+  set_name_ja: アビスアイ
+  released_at: '2026-05-22'
+  regulation_mark: J
+  collector_number: '065'
+  image_url:

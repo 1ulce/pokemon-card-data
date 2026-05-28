@@ -32,7 +32,7 @@ attacks:
 - position: 0
   name:
     ja: ぶつかる
-    en:
+    en: Ram
   cost:
   - Colorless
   - Colorless
@@ -43,7 +43,7 @@ attacks:
 - position: 1
   name:
     ja: ダブルフリーズ
-    en:
+    en: Double Freeze
   cost:
   - Water
   - Colorless
@@ -51,7 +51,7 @@ attacks:
   damage: 90×
   effect_text:
     ja: コインを2回投げ、オモテの数×90ダメージ。1回でもオモテなら、相手のバトルポケモンをマヒにする。
-    en:
+    en: Flip 2 coins. This attack does 90 damage for each heads. If either of them is heads, your opponent's Active Pokémon is now Paralyzed.
 first_appearance:
   set_name_ja: ホワイトフレア
   released_at: '2025-06-06'

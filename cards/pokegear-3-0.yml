@@ -26,7 +26,10 @@ body_text:
     自分の山札を上から7枚見て、その中からサポートを1枚選び、相手に見せて、手札に加える。残りのカードは山札にもどして切る。
 
     グッズは、自分の番に何枚でも使える。
-  en:
+  en: |-
+    Pokégear 3.0 Trainer - Item
+
+    Look at the top 7 cards of your deck. You may reveal a Supporter card you find there and put it into your hand. Shuffle the other cards back into your deck.
 rules_text:
   ja:
   en:

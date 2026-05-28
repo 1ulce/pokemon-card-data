@@ -31,22 +31,22 @@ abilities:
 - position: 0
   name:
     ja: ぬめぬめスリップ
-    en:
+    en: Slimy Sliding
   effect_text:
     ja: このポケモンがいるかぎり、相手のバトルポケモンがにげるとき、相手はコインを1回投げる。ウラなら、にげるためのエネルギーはトラッシュせず、入れ替えをしない。この特性の効果は重ならない。
-    en:
+    en: When your opponent's Active Pokémon retreats, your opponent flips a coin. If tails, Energy for its Retreat Cost is not discarded, and they don't switch Pokémon. The effect of Slimy Sliding doesn't stack.
 attacks:
 - position: 0
   name:
     ja: りゅうのはどう
-    en:
+    en: Dragon Pulse
   cost:
   - Water
   - Psychic
   damage: '160'
   effect_text:
     ja: 自分の山札を上から1枚トラッシュする。
-    en:
+    en: Discard the top card of your deck.
 first_appearance:
   set_name_ja: ニンジャスピナー
   released_at: '2026-03-13'

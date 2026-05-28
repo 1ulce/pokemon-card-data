@@ -27,7 +27,10 @@ body_text:
     自分の山札から「ポケモンのどうぐ」を5枚まで選び、相手に見せて、手札に加える。そして山札を切る。
 
     グッズは、自分の番に何枚でも使える。
-  en:
+  en: |-
+    Treasure Tracker Trainer - Item
+
+    Search your deck for up to 5 Pokémon Tool cards, reveal them, and put them into your hand. Then, shuffle your deck.
 rules_text:
   ja: ACE SPECのカードは、デッキに1枚しか入れられない。
   en:

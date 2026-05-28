@@ -27,7 +27,10 @@ body_text:
     自分のトラッシュからサポートを2枚まで選び、相手に見せて、手札に加える。
 
     グッズは、自分の番に何枚でも使える。
-  en:
+  en: |-
+    Miracle Headset Trainer - Item
+
+    Put up to 2 Supporter cards from your discard pile into your hand.
 rules_text:
   ja: ACE SPECのカードは、デッキに1枚しか入れられない。
   en:

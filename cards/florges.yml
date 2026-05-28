@@ -31,22 +31,22 @@ abilities:
 - position: 0
   name:
     ja: みわくのいざない
-    en: Blooming Garden
+    en: Captivating Invitation
   effect_text:
     ja: 自分の番に1回使える。コインを1回投げオモテなら、相手のベンチポケモンを1匹選び、バトルポケモンと入れ替える。その後、新しく出てきたポケモンをこんらんにする。
-    en: Your Pokémon in play have no Weakness.
+    en: Once during your turn, you may flip a coin. If heads, switch in 1 of your opponent's Benched Pokémon to the Active Spot, and the new Active Pokémon is now Confused.
 attacks:
 - position: 0
   name:
     ja: マジカルショット
-    en: Moonblast
+    en: Magical Shot
   cost:
   - Psychic
   - Colorless
   damage: '120'
   effect_text:
     ja:
-    en: During your opponent's next turn, the Defending Pokémon’s attacks do 30 less damage (before applying Weakness and Resistance).
+    en:
 first_appearance:
   set_name_ja: クリムゾンヘイズ
   released_at: '2024-03-22'

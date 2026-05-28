@@ -32,17 +32,17 @@ attacks:
 - position: 0
   name:
     ja: ハッピープレゼント 
-    en:
+    en: Pleasing Present
   cost:
   - Colorless
   damage:
   effect_text:
     ja: おたがいのプレイヤーは、のぞむなら、それぞれ自分の手札から基本エネルギーを3枚まで選び、自分のポケモンに好きなようにつける。（相手から行う。）
-    en:
+    en: Each player may attach up to 3 Basic Energy cards from their hand to their Pokémon in any way they like. Your opponent does this first.
 - position: 1
   name:
     ja: はばたく
-    en:
+    en: Flap
   cost:
   - Colorless
   - Colorless

@@ -26,7 +26,10 @@ body_text:
     このカードをつけているにげるためのエネルギーが4個のポケモンが、バトル場で相手のポケモンからワザのダメージを受けてきぜつしたとき、そのポケモンについている基本エネルギーを3枚まで選び、自分のベンチポケモンに好きなようにつけ替える。
 
     ポケモンのどうぐは、自分の番に何枚でも、自分のポケモンにつけられる。ポケモン1匹につき1枚だけつけられ、つけたままにする。
-  en:
+  en: |-
+    Heavy Baton Trainer - Tool
+
+    If the Pokémon this card is attached to has a Retreat Cost of exactly 4, is in the Active Spot, and is Knocked Out by damage from an attack from your opponent's Pokémon, move up to 3 Basic Energy cards from that Pokémon to your Benched Pokémon in any way you like.
 rules_text:
   ja:
   en:

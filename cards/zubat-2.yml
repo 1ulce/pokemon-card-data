@@ -32,16 +32,16 @@ attacks:
 - position: 0
   name:
     ja: ちょうおんぱ 
-    en:
+    en: Supersonic
   cost:
   - Darkness
   damage:
   effect_text:
     ja: 相手のバトルポケモンをこんらんにする。
-    en:
+    en: Your opponent's Active Pokémon is now Confused.
 first_appearance:
   set_name_ja: ニンジャスピナー
   released_at: '2026-03-13'
   regulation_mark: J
   collector_number: '048'
-  image_url:
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/M4/050132_P_ZUBATTO.jpg

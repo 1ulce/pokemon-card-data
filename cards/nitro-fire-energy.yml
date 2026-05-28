@@ -1,9 +1,9 @@
 ---
 schema_version: 1
-slug: nitro-r-energy
+slug: nitro-fire-energy
 name:
   ja: ニトロ炎エネルギー
-  en: Nitro {R} Energy
+  en: Nitro Fire Energy
   prefix:
 card_type: Energy
 card_subtype: Special Energy
@@ -28,7 +28,10 @@ body_text:
 
 
     このカードをつけている炎ポケモンが使うワザの効果で、このカードがトラッシュされたなら、ワザのダメージや効果のあとに、手札にもどす。
-  en:
+  en: |-
+    Nitro Fire Energy Energy - Special Energy
+
+    As long as this card is attached to a Pokémon, it provides [R] Energy. If this card is discarded by an effect of an attack used by the [R] Pokémon this card is attached to, put this card into your hand after attack damage and effects.
 rules_text:
   ja:
   en:
@@ -39,4 +42,4 @@ first_appearance:
   released_at: '2026-03-13'
   regulation_mark: J
   collector_number: '081'
-  image_url:
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/M4/050165_E_NITOROHONOOENERUGI.jpg

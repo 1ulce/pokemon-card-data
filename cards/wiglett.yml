@@ -32,24 +32,24 @@ attacks:
 - position: 0
   name:
     ja: ほりだしもの 
-    en: Fury Headbutt
+    en: Lucky Find
   cost:
   - Water
   damage:
   effect_text:
     ja: 自分の山札からグッズを1枚選び、相手に見せて、手札に加える。そして山札を切る。
-    en: Flip 3 coins. This attack does 10 damage for each heads.
+    en: Search your deck for an Item card, reveal it, and put it into your hand. Then, shuffle your deck.
 - position: 1
   name:
     ja: アクアボム
-    en:
+    en: Aqua Bomb
   cost:
   - Water
   - Water
   damage: '40'
   effect_text:
     ja: このポケモンにも20ダメージ。
-    en:
+    en: This Pokémon also does 20 damage to itself.
 first_appearance:
   set_name_ja: ワイルドフォース
   released_at: '2024-01-26'

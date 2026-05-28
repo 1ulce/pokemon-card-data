@@ -26,7 +26,10 @@ body_text:
     おたがいの「ダイゴのポケモン」全員が、相手のポケモンから受けるワザのダメージは「-30」される。
 
     スタジアムは、自分の番に1枚、バトル場の横に出せる。別のスタジアムが場に出たなら、このカードをトラッシュする。同じ名前のスタジアムは場に出せない。
-  en:
+  en: |-
+    Granite Cave Trainer - Stadium
+
+    Steven's Pokémon (both yours and your opponent's) take 30 less damage from attacks from the opponent's Pokémon (after applying Weakness and Resistance).
 rules_text:
   ja:
   en:

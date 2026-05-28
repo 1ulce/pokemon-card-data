@@ -26,7 +26,10 @@ body_text:
     おたがいの場のポケモン全員の特性は、すべてなくなる。
 
     スタジアムは、自分の番に1枚、バトル場の横に出せる。別のスタジアムが場に出たなら、このカードをトラッシュする。同じ名前のスタジアムは場に出せない。
-  en:
+  en: |-
+    Team Rocket's Watchtower Trainer - Stadium
+
+    [C] Pokémon in play (both yours and your opponent's) have no Abilities.
 rules_text:
   ja:
   en:

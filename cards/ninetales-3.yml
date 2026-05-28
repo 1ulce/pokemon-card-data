@@ -32,17 +32,17 @@ attacks:
 - position: 0
   name:
     ja: きゅうびうつし 
-    en:
+    en: Nine-Tailed Transfer
   cost:
   - Fire
   damage:
   effect_text:
     ja: 自分のベンチポケモンを1匹選び、選んだポケモンにのっているダメカンをすべて、相手のバトルポケモンにのせ替える。
-    en:
+    en: Move all damage counters from 1 of your Benched Pokémon to your opponent's Active Pokémon.
 - position: 1
   name:
     ja: おにび
-    en:
+    en: Will-O-Wisp
   cost:
   - Fire
   - Fire

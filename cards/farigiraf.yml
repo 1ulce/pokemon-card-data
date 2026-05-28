@@ -32,18 +32,18 @@ attacks:
 - position: 0
   name:
     ja: ミッドランブル
-    en: Either Face
+    en: One-derful Rumble
   cost:
   - Colorless
   - Colorless
   damage: 40×
   effect_text:
     ja: 自分の場の1進化ポケモンの数×40ダメージ。
-    en: Choose a player. That player shuffles their hand into their deck and draws 4 cards.
+    en: This attack does 40 damage for each of your Stage 1 Pokémon in play.
 - position: 1
   name:
     ja: ぶきみなねんぱ
-    en: Power Beam
+    en: Eerie Wave
   cost:
   - Psychic
   - Colorless
@@ -51,7 +51,7 @@ attacks:
   damage: '80'
   effect_text:
     ja: 相手のバトルポケモンをこんらんにする。
-    en:
+    en: Your opponent's Active Pokémon is now Confused.
 first_appearance:
   set_name_ja: クリムゾンヘイズ
   released_at: '2024-03-22'

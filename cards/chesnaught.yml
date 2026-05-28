@@ -31,15 +31,15 @@ abilities:
 - position: 0
   name:
     ja: ニードルアーマー
-    en:
+    en: Needly Armor
   effect_text:
     ja: このポケモンが、バトル場で相手のポケモンからワザのダメージを受けたとき、このポケモンについている草エネルギーの数×3個ぶんのダメカンを、ワザを使ったポケモンにのせる。
-    en:
+    en: If this Pokémon is in the Active Spot and is damaged by an attack from your opponent's Pokémon (even if this Pokémon is Knocked Out), place 3 damage counters on the Attacking Pokémon for each [G] Energy attached to this Pokémon.
 attacks:
 - position: 0
   name:
     ja: かこいこむ
-    en:
+    en: Impound
   cost:
   - Grass
   - Grass
@@ -47,7 +47,7 @@ attacks:
   damage: '160'
   effect_text:
     ja: 次の相手の番、このワザを受けたポケモンは、にげられない。
-    en:
+    en: During your opponent's next turn, the Defending Pokémon can't retreat.
 first_appearance:
   set_name_ja: ニンジャスピナー
   released_at: '2026-03-13'

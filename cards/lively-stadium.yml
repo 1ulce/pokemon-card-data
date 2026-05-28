@@ -26,7 +26,10 @@ body_text:
     おたがいの場のたねポケモン全員の最大HPは、それぞれ「＋30」される。
 
     スタジアムは、自分の番に1枚、バトル場の横に出せる。別のスタジアムが場に出たなら、このカードをトラッシュする。同じ名前のスタジアムは場に出せない。
-  en:
+  en: |-
+    Lively Stadium Trainer - Stadium
+
+    Each Basic Pokémon in play (both yours and your opponent's) gets +30 HP.
 rules_text:
   ja:
   en:

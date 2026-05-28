@@ -1,9 +1,9 @@
 ---
 schema_version: 1
-slug: magnet-m-energy
+slug: magnetic-metal-energy
 name:
   ja: マグネット鋼エネルギー
-  en: Magnet {M} Energy
+  en: Magnetic Metal Energy
   prefix:
 card_type: Energy
 card_subtype: Special Energy
@@ -28,7 +28,10 @@ body_text:
 
 
     このカードをつけている鋼ポケモンは、にげるためのエネルギーが、すべてなくなる。
-  en:
+  en: |-
+    Magnetic Metal Energy Energy - Special Energy
+
+    As long as this card is attached to a Pokémon, it provides [M] Energy.The [M] Pokémon this card is attached to has no Retreat Cost.
 rules_text:
   ja:
   en:
@@ -39,4 +42,4 @@ first_appearance:
   released_at: '2026-03-13'
   regulation_mark: J
   collector_number: '083'
-  image_url:
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/M4/050167_E_MAGUNETTOHAGANEENERUGI.jpg

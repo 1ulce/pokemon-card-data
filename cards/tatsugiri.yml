@@ -31,15 +31,15 @@ abilities:
 - position: 0
   name:
     ja: きゃくよせ
-    en:
+    en: Attract Customers
   effect_text:
     ja: このポケモンがバトル場にいるなら、自分の番に1回使える。自分の山札を上から6枚見て、その中からサポートを1枚選び、相手に見せて、手札に加える。残りのカードは山札にもどして切る。
-    en:
+    en: Once during your turn, if this Pokémon is in the Active Spot, you may look at the top 6 cards of your deck, reveal a Supporter card you find there, and put it into your hand. Shuffle the other cards back into your deck.
 attacks:
 - position: 0
   name:
     ja: なみのり
-    en:
+    en: Surf
   cost:
   - Fire
   - Water

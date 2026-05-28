@@ -31,21 +31,21 @@ abilities:
 - position: 0
   name:
     ja: よるこうさく
-    en:
+    en: Nighttime Maneuvers
   effect_text:
     ja: このポケモンがバトル場にいるなら、自分の番に1回使える。自分の山札から好きなカードを1枚選ぶ。残りの山札を切り、選んだカードを山札の上にもどす。
-    en:
+    en: Once during your turn, if this Pokémon is in the Active Spot, you may use this Ability. Search your deck for a card. Shuffle your deck, then put that card on top of it.
 attacks:
 - position: 0
   name:
     ja: どくおんぱ
-    en:
+    en: Poison Sound Wave
   cost:
   - Darkness
   damage: '80'
   effect_text:
     ja: 相手のバトルポケモンをどくとこんらんにする。
-    en:
+    en: Your opponent's Active Pokémon is now Confused and Poisoned.
 first_appearance:
   set_name_ja: ニンジャスピナー
   released_at: '2026-03-13'

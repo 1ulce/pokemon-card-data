@@ -32,24 +32,24 @@ attacks:
 - position: 0
   name:
     ja: のろいのねっこ
-    en:
+    en: Cursed Roots
   cost:
   - Psychic
   damage: '30'
   effect_text:
     ja: 次の相手の番、このワザを受けたポケモンは、手札から出すエネルギーをつけられない。
-    en:
+    en: During your opponent's next turn, Energy can't be attached from your opponent's hand to the Defending Pokémon.
 - position: 1
   name:
     ja: オーバーペイン
-    en:
+    en: Overwhelming Pain
   cost:
   - Psychic
   - Psychic
   damage: 60+
   effect_text:
     ja: 相手のポケモン全員にのっているダメカンの数×10ダメージ追加。
-    en:
+    en: This attack does 10 more damage for each damage counter on all of your opponent's Pokémon.
 first_appearance:
   set_name_ja: ニンジャスピナー
   released_at: '2026-03-13'

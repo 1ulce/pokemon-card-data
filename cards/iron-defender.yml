@@ -26,7 +26,10 @@ body_text:
     次の相手の番、自分の鋼ポケモン全員が、相手のポケモンから受けるワザのダメージは「-30」される。（新しく場に出したポケモンもふくむ。）
 
     グッズは、自分の番に何枚でも使える。
-  en:
+  en: |-
+    Iron Defender Trainer - Item
+
+    During your opponent's next turn, all of your [M] Pokémon take 30 less damage from attacks from your opponent's Pokémon (after applying Weakness and Resistance). (This includes new Pokémon that come into play.)
 rules_text:
   ja:
   en:

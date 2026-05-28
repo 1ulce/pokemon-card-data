@@ -27,7 +27,10 @@ body_text:
     相手のポケモン全員についている「ポケモンのどうぐ」と「特殊エネルギー」と、場に出ている「スタジアム」を、すべてトラッシュする。
 
     グッズは、自分の番に何枚でも使える。
-  en:
+  en: |-
+    Megaton Blower Trainer - Item
+
+    Discard all Pokémon Tools and Special Energy from all of your opponent's Pokémon, and discard a Stadium in play.
 rules_text:
   ja: ACE SPECのカードは、デッキに1枚しか入れられない。
   en:

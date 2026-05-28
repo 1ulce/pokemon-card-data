@@ -27,7 +27,10 @@ body_text:
     自分の場のポケモンを1匹選び、そのポケモンと、ついているすべてのカードを、手札にもどす。
 
     グッズは、自分の番に何枚でも使える。
-  en:
+  en: |-
+    Scoop Up Cyclone Trainer - Item
+
+    Put 1 of your Pokémon and all cards attached to it into your hand.
 rules_text:
   ja: ACE SPECのカードは、デッキに1枚しか入れられない。
   en:

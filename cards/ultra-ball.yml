@@ -30,7 +30,10 @@ body_text:
     自分の山札にあるポケモンを1枚、相手に見せてから、手札に加える。そして山札を切る。
 
     グッズは、自分の番に何枚でも使える。
-  en:
+  en: |-
+    Ultra Ball Trainer - Item
+
+    You can use this card only if you discard 2 other cards from your hand.Search your deck for a Pokémon, reveal it, and put it into your hand. Then, shuffle your deck.
 rules_text:
   ja:
   en:

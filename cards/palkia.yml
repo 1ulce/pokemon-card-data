@@ -32,14 +32,14 @@ attacks:
 - position: 0
   name:
     ja: スペースクラッシュ
-    en:
+    en: Space Crash
   cost:
   - Grass
   - Water
   damage: 40×
   effect_text:
     ja: このポケモンについている基本エネルギーの数×40ダメージ。
-    en:
+    en: This attack does 40 damage for each Basic Energy attached to this Pokémon.
 first_appearance:
   set_name_ja: 楽園ドラゴーナ
   released_at: '2024-09-13'

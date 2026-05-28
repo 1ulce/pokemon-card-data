@@ -32,17 +32,17 @@ attacks:
 - position: 0
   name:
     ja: ひょうざんくずし
-    en:
+    en: Iceberg Breaker
   cost:
   - Water
   damage: 60×
   effect_text:
     ja: 自分の山札を上から6枚トラッシュし、その中にある「基本水エネルギー」の枚数×60ダメージ。
-    en:
+    en: Discard the top 6 cards of your deck, and this attack does 60 damage for each Basic [W] Energy card you discarded in this way.
 - position: 1
   name:
     ja: フロストスタンプ
-    en:
+    en: Frost Stamp
   cost:
   - Water
   - Water
@@ -57,4 +57,4 @@ first_appearance:
   released_at: '2026-03-13'
   regulation_mark: J
   collector_number: '024'
-  image_url:
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/M4/050108_P_KUREBESU.jpg

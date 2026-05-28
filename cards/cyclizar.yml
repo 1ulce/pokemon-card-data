@@ -32,7 +32,7 @@ attacks:
 - position: 0
   name:
     ja: しっぽのムチ
-    en: Ram
+    en: Tail Snap
   cost:
   - Colorless
   damage: '10'
@@ -42,14 +42,14 @@ attacks:
 - position: 1
   name:
     ja: スピードアタック
-    en: Driving Buddy
+    en: Speed Attack
   cost:
   - Colorless
   - Colorless
   damage: '50'
   effect_text:
     ja:
-    en: If you played a Supporter card from your hand during this turn, this attack does 70 more damage.
+    en:
 first_appearance:
   set_name_ja: スタートデッキ100 バトルコレクション
   released_at: '2025-12-19'

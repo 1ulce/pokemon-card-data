@@ -1,10 +1,10 @@
 ---
 schema_version: 1
-slug: az
+slug: az-s-tranquility
 name:
   ja: AZの安らぎ
-  en: AZ
-  prefix:
+  en: AZ's Tranquility
+  prefix: AZ's
 card_type: Trainer
 card_subtype: Supporter
 energy_type:
@@ -26,7 +26,10 @@ body_text:
     自分のバトルポケモンをベンチポケモンと入れ替える。「ポケモンex」をベンチに入れ替えた場合、そのポケモンのHPを「80」回復する。
 
     サポートは、自分の番に1枚しか使えない。
-  en:
+  en: |-
+    AZ's Tranquility Trainer - Supporter
+
+    Switch your Active Pokémon with 1 of your Benched Pokémon. If you moved a Pokémon ex to your Bench in this way, heal 80 damage from that Pokémon.
 rules_text:
   ja:
   en:

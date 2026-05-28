@@ -33,7 +33,7 @@ attacks:
 - position: 0
   name:
     ja: アーマーキャノン
-    en:
+    en: Armor Cannon
   cost:
   - Fire
   - Fire
@@ -41,7 +41,7 @@ attacks:
   damage: '200'
   effect_text:
     ja: このポケモンについている炎エネルギーを1個選び、トラッシュする。
-    en:
+    en: Discard a [R] Energy from this Pokémon.
 first_appearance:
   set_name_ja: バトルアカデミー
   released_at: '2024-03-08'

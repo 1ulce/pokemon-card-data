@@ -32,17 +32,17 @@ attacks:
 - position: 0
   name:
     ja: ちいさなおつかい 
-    en: Magical Leaf
+    en: Minor Errand-Running
   cost:
   - Colorless
   damage:
   effect_text:
     ja: 自分の山札から基本エネルギーを3枚まで選び、相手に見せて、手札に加える。そして山札を切る。
-    en: Flip a coin. If heads, this attack does 30 more damage, and heal 30 damage from this Pokémon.
+    en: Search your deck for up to 3 Basic Energy cards, reveal them, and put them into your hand. Then, shuffle your deck.
 - position: 1
   name:
     ja: かいてんアタック
-    en:
+    en: Spinning Attack
   cost:
   - Psychic
   - Colorless

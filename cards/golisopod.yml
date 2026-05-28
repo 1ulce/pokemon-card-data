@@ -32,17 +32,17 @@ attacks:
 - position: 0
   name:
     ja: きゅうしょぎり
-    en: Powerful Cross
+    en: Critical Slash
   cost:
   - Water
   damage: '30'
   effect_text:
     ja: このワザのダメージで、相手のポケモンがきぜつしたなら、次の相手の番、このポケモンはワザのダメージや効果を受けない。
-    en: This attack does 20 damage for each card in your opponent's hand.
+    en: If your opponent's Pokémon is Knocked Out by damage from this attack, during your opponent's next turn, prevent all damage from and effects of attacks done to this Pokémon.
 - position: 1
   name:
     ja: そこぢから
-    en: Waterfall
+    en: Boundless Power
   cost:
   - Colorless
   - Colorless
@@ -50,7 +50,7 @@ attacks:
   damage: '150'
   effect_text:
     ja: 次の自分の番、このポケモンはワザが使えない。
-    en:
+    en: During your next turn, this Pokémon can't use attacks.
 first_appearance:
   set_name_ja: ニンジャスピナー
   released_at: '2026-03-13'

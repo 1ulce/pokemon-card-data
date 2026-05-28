@@ -26,7 +26,10 @@ body_text:
     相手は相手自身の手札を、3枚になるようにトラッシュする。
 
     サポートは、自分の番に1枚しか使えない。
-  en:
+  en: |-
+    Xerosic's Machinations Trainer - Supporter
+
+    Your opponent discards cards from their hand until they have 3 cards in their hand.
 rules_text:
   ja:
   en:

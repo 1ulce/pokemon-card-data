@@ -32,17 +32,17 @@ attacks:
 - position: 0
   name:
     ja: よびよせのじゅつ 
-    en:
+    en: Summoning Jutsu
   cost:
   - Water
   damage:
   effect_text:
     ja: 自分の山札からポケモンを3枚まで選び、相手に見せて、手札に加える。そして山札を切る。
-    en:
+    en: Search your deck for up to 3 Pokémon, reveal them, and put them into your hand. Then, shuffle your deck.
 - position: 1
   name:
     ja: アクアエッジ
-    en:
+    en: Aqua Edge
   cost:
   - Water
   - Water

@@ -28,7 +28,10 @@ body_text:
 
 
     このカードをつけているポケモンが使うワザの効果で、このカードがトラッシュされたなら、ワザのダメージや効果のあとに、もとのポケモンにつけなおす。
-  en:
+  en: |-
+    Boomerang Energy Energy - Special Energy
+
+    As long as this card is attached to a Pokémon, it provides [C] Energy.If this card is discarded by an effect of an attack used by the Pokémon this card is attached to, attach this card from your discard pile to that Pokémon after attacking.
 rules_text:
   ja:
   en:

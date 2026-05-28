@@ -26,7 +26,10 @@ body_text:
     おたがいのプレイヤーは、自分の番ごとに1回、自分の手札を1枚選び、山札の上にもどしてよい。
 
     スタジアムは、自分の番に1枚、バトル場の横に出せる。別のスタジアムが場に出たなら、このカードをトラッシュする。同じ名前のスタジアムは場に出せない。
-  en:
+  en: |-
+    Academy at Night Trainer - Stadium
+
+    Once during each player's turn, that player may put a card from their hand on top of their deck.
 rules_text:
   ja:
   en:

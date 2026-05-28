@@ -34,25 +34,25 @@ attacks:
 - position: 0
   name:
     ja: ふしょくえき 
-    en:
+    en: Corrosive Liquid
   cost:
   - Colorless
   - Colorless
   damage:
   effect_text:
     ja: 相手のポケモン全員についている「ポケモンのどうぐ」と「特殊エネルギー」を、すべてトラッシュする。
-    en:
+    en: Discard all Pokémon Tools and Special Energy from all of your opponent's Pokémon.
 - position: 1
   name:
     ja: デッドリーポイズン 
-    en:
+    en: Pernicious Poison
   cost:
   - Water
   - Darkness
   damage:
   effect_text:
     ja: 相手のバトルポケモンをどくにする。このどくでのせるダメカンの数は16個になる。
-    en:
+    en: Your opponent's Active Pokémon is now Poisoned. During Pokémon Checkup, place 16 damage counters on that Pokémon instead of 1.
 first_appearance:
   set_name_ja: ニンジャスピナー
   released_at: '2026-03-13'

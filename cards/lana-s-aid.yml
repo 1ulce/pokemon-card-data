@@ -26,7 +26,10 @@ body_text:
     自分のトラッシュからポケモン（「ルールを持つポケモン」をのぞく）と基本エネルギーを合計3枚まで選び、相手に見せて、手札に加える。
 
     サポートは、自分の番に1枚しか使えない。
-  en:
+  en: |-
+    Lana's Aid Trainer - Supporter
+
+    Put up to 3 in any combination of Pokémon that don't have a Rule Box and Basic Energy cards from your discard pile into your hand. (Pokémon ex, Pokémon V, etc. have Rule Boxes.)
 rules_text:
   ja:
   en:

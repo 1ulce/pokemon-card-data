@@ -32,7 +32,7 @@ attacks:
 - position: 0
   name:
     ja: ジオストーム
-    en:
+    en: Geo Storm
   cost:
   - Psychic
   - Psychic
@@ -40,7 +40,7 @@ attacks:
   damage: 30×
   effect_text:
     ja: 自分のポケモン全員についている超エネルギーの数×30ダメージ。
-    en:
+    en: This attack does 30 damage for each [P] Energy attached to all of your Pokémon.
 first_appearance:
   set_name_ja: ニンジャスピナー
   released_at: '2026-03-13'

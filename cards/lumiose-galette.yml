@@ -26,7 +26,10 @@ body_text:
     自分のバトルポケモンのHPを「20」回復し、特殊状態も1つ回復する。
 
     グッズは、自分の番に何枚でも使える。
-  en:
+  en: |-
+    Lumiose Galette Trainer - Item
+
+    Heal 20 damage and remove a Special Condition from your Active Pokémon.
 rules_text:
   ja:
   en:

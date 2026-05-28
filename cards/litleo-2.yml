@@ -32,7 +32,7 @@ attacks:
 - position: 0
   name:
     ja: たいあたり
-    en:
+    en: Tackle
   cost:
   - Colorless
   damage: '10'

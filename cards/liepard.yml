@@ -32,13 +32,13 @@ attacks:
 - position: 0
   name:
     ja: はたきおとす
-    en:
+    en: Knock Off
   cost:
   - Darkness
   damage: '50'
   effect_text:
     ja: 相手の手札からオモテを見ないで1枚選び、トラッシュする。
-    en:
+    en: Discard a random card from your opponent's hand.
 first_appearance:
   set_name_ja: ホワイトフレア
   released_at: '2025-06-06'

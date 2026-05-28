@@ -1,10 +1,10 @@
 ---
 schema_version: 1
-slug: az-s-floette
+slug: jp-化石採掘場
 name:
-  ja: アンジュフラエッテ
-  en: AZ's Floette
-  prefix: AZ's
+  ja: 化石採掘場
+  en:
+  prefix:
 card_type: Trainer
 card_subtype: Stadium
 energy_type:
@@ -23,11 +23,7 @@ resistance:
   value:
 body_text:
   ja: |-
-    このカードは、場に出ている「プリズムタワー」をトラッシュしなければ場に出せず、「プリズムタワー」を出した番でも場に出せる。
-
-
-
-    おたがいの場の「メガフラエッテex」全員は、それぞれ最大HPが「+150」される。
+    おたがいのプレイヤーは、自分の番ごとに1回、自分の山札から、名前に「古びた」とつくグッズを2枚まで選び、ベンチに出してよい。そして山札を切る。
 
     スタジアムは、自分の番に1枚、バトル場の横に出せる。別のスタジアムが場に出たなら、このカードをトラッシュする。同じ名前のスタジアムは場に出せない。
   en:
@@ -37,8 +33,8 @@ rules_text:
 abilities: []
 attacks: []
 first_appearance:
-  set_name_ja: ニンジャスピナー
-  released_at: '2026-03-13'
+  set_name_ja: アビスアイ
+  released_at: '2026-05-22'
   regulation_mark: J
   collector_number: '079'
   image_url:

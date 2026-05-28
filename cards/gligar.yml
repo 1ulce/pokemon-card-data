@@ -32,13 +32,13 @@ attacks:
 - position: 0
   name:
     ja: どくづき
-    en: Toxic
+    en: Poison Jab
   cost:
   - Fighting
   damage: '10'
   effect_text:
     ja: 相手のバトルポケモンをどくにする。
-    en: Flip a coin. If heads, your opponent's Active Pokémon is now Poisoned. During Pokémon Checkup, put 2 damage counters on that Pokémon instead of 1.
+    en: Your opponent's Active Pokémon is now Poisoned.
 first_appearance:
   set_name_ja: インフェルノX
   released_at: '2025-09-26'

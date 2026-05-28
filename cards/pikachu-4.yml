@@ -10,7 +10,7 @@ card_subtype: たねポケモン
 energy_type: Lightning
 hp: 70
 retreat_cost: 1
-regulation_mark: G
+regulation_mark:
 meta_tags: []
 evolves_from:
   ja:
@@ -44,6 +44,6 @@ attacks:
 first_appearance:
   set_name_ja: ピカチュウ
   released_at: '2023-03-24'
-  regulation_mark: G
+  regulation_mark:
   collector_number: '46294'
   image_url:

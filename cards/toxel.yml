@@ -32,17 +32,17 @@ attacks:
 - position: 0
   name:
     ja: なかまをよぶ 
-    en: Whimsy Tackle
+    en: Call for Family
   cost:
   - Darkness
   damage:
   effect_text:
     ja: 自分の山札からたねポケモンを2枚まで選び、ベンチに出す。そして山札を切る。
-    en: Flip a coin. If tails, this attack does nothing.
+    en: Search your deck for up to 2 Basic Pokémon and put them onto your Bench. Then, shuffle your deck.
 - position: 1
   name:
     ja: やんちゃげり
-    en:
+    en: Playful Kick
   cost:
   - Darkness
   - Colorless

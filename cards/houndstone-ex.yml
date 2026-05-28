@@ -33,7 +33,7 @@ attacks:
 - position: 0
   name:
     ja: ホラーファング
-    en:
+    en: Horrifying Fang
   cost:
   - Psychic
   - Colorless
@@ -41,7 +41,7 @@ attacks:
   damage: 100+
   effect_text:
     ja: ウラが出るまでコインを投げ、オモテの数×20ダメージ追加。
-    en:
+    en: Flip a coin until you get tails. This attack does 20 more damage for each heads.
 first_appearance:
   set_name_ja: バトルアカデミー
   released_at: '2024-03-08'

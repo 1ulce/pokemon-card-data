@@ -26,7 +26,10 @@ body_text:
     相手は相手自身の手札を数えたあと、すべてウラにして切り、山札の下にもどす。その後、相手はもどした枚数ぶん、山札を引く。
 
     グッズは、自分の番に何枚でも使える。
-  en:
+  en: |-
+    Meddling Memo Trainer - Item
+
+    Your opponent counts the cards in their hand, shuffles those cards, and puts them on the bottom of their deck. If they do, they draw that many cards.
 rules_text:
   ja:
   en:

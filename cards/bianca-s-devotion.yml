@@ -26,7 +26,10 @@ body_text:
     残りHPが「30」以下の自分のポケモン1匹のHPを、すべて回復する。
 
     サポートは、自分の番に1枚しか使えない。
-  en:
+  en: |-
+    Bianca's Devotion Trainer - Supporter
+
+    Heal all damage from 1 of your Pokémon that has 30 HP or less remaining.
 rules_text:
   ja:
   en:

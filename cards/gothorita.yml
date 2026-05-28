@@ -32,17 +32,17 @@ attacks:
 - position: 0
   name:
     ja: フォーチュンアイ 
-    en: Mind Bend
+    en: Fortunate Eye
   cost:
   - Psychic
   damage:
   effect_text:
     ja: 相手の山札を上から5枚見て、好きな順番に入れ替えて、山札の上にもどす。
-    en: Your opponent's Active Pokémon is now Confused.
+    en: Look at the top 5 cards of your opponent's deck and put them back in any order.
 - position: 1
   name:
     ja: サイコショット
-    en: Super Psy Bolt
+    en: Psyshot
   cost:
   - Psychic
   - Colorless

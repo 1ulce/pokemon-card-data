@@ -32,24 +32,24 @@ attacks:
 - position: 0
   name:
     ja: うたいはげます 
-    en: Slap
+    en: Supportive Singing
   cost:
   - Colorless
   damage:
   effect_text:
     ja: 自分のベンチの「古代」のポケモン1匹のHPを「100」回復する。
-    en:
+    en: Heal 100 damage from 1 of your Benched Ancient Pokémon.
 - position: 1
   name:
     ja: ハイパーボイス
-    en: Roaring Scream
+    en: Hyper Voice
   cost:
   - Colorless
   - Colorless
   damage: '40'
   effect_text:
     ja:
-    en: This attack does 20 damage to 1 of your opponent's Pokémon for each damage counter on this Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)
+    en:
 first_appearance:
   set_name_ja: 古代のコライドンex
   released_at: '2024-01-26'

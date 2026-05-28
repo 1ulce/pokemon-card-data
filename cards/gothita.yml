@@ -32,7 +32,7 @@ attacks:
 - position: 0
   name:
     ja: ちょうねんりき
-    en:
+    en: Super Psy Bolt
   cost:
   - Psychic
   damage: '20'

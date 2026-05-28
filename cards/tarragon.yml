@@ -26,7 +26,10 @@ body_text:
     自分のトラッシュから闘ポケモンと「基本闘エネルギー」を合計4枚まで選び、相手に見せて、手札に加える。
 
     サポートは、自分の番に1枚しか使えない。
-  en:
+  en: |-
+    Tarragon Trainer - Supporter
+
+    Put up to 4 in any combination of [F] Pokémon and Basic [F] Energy cards from your discard pile into your hand.
 rules_text:
   ja:
   en:

@@ -10,7 +10,7 @@ card_subtype: たねポケモン
 energy_type: Water
 hp: 90
 retreat_cost: 1
-regulation_mark: I
+regulation_mark: H
 meta_tags: []
 evolves_from:
   ja:
@@ -32,23 +32,23 @@ attacks:
 - position: 0
   name:
     ja: コールサイン 
-    en: Drag Off
+    en: Call Sign
   cost:
   - Water
   damage:
   effect_text:
     ja: 自分の山札からポケモンを1枚選び、相手に見せて、手札に加える。そして山札を切る。
-    en: Switch in 1 of your opponent's Benched Pokémon to the Active Spot. This attack does 20 damage to the new Active Pokémon.
+    en: Search your deck for a Pokémon, reveal it, and put it into your hand. Then, shuffle your deck.
 - position: 1
   name:
     ja: れいとうビーム
-    en: Icicle
+    en: Ice Beam
   cost:
   - Water
   damage: '30'
   effect_text:
     ja: コインを1回投げオモテなら、相手のバトルポケモンをマヒにする。
-    en:
+    en: Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed.
 first_appearance:
   set_name_ja: 楽園ドラゴーナ
   released_at: '2024-09-13'

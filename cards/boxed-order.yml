@@ -30,7 +30,10 @@ body_text:
     自分の山札からグッズを2枚まで選び、相手に見せて、手札に加える。そして山札を切る。
 
     グッズは、自分の番に何枚でも使える。
-  en:
+  en: |-
+    Boxed Order Trainer - Item
+
+    Search your deck for up to 2 Item cards, reveal them, and put them into your hand. Then, shuffle your deck. Your turn ends.
 rules_text:
   ja:
   en:

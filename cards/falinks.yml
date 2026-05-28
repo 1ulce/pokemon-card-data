@@ -32,24 +32,24 @@ attacks:
 - position: 0
   name:
     ja: じんけいをくむ 
-    en: Headbutt
+    en: Form Ranks
   cost:
   - Colorless
   damage:
   effect_text:
     ja: 自分の山札からたねポケモンを2枚まで選び、ベンチに出す。そして山札を切る。
-    en:
+    en: Search your deck for up to 2 Basic Pokémon and put them onto your Bench. Then, shuffle your deck.
 - position: 1
   name:
     ja: いっせいこうげき
-    en: Reckless Charge Together
+    en: All-Out Attack
   cost:
   - Colorless
   - Colorless
   damage: 30+
   effect_text:
     ja: 前の自分の番、このポケモンが「じんけいをくむ」を使っていたなら、90ダメージ追加。
-    en: If Falinks is on your Bench, this attack does 90 more damage.
+    en: If this Pokémon used Form Ranks during your last turn, this attack does 90 more damage.
 first_appearance:
   set_name_ja: ステラミラクル
   released_at: '2024-07-19'

@@ -34,17 +34,17 @@ attacks:
 - position: 0
   name:
     ja: はやてぎり
-    en:
+    en: Gale Slash
   cost:
   - Fighting
   damage: 50+
   effect_text:
     ja: このポケモンにダメカンがのっていないなら、150ダメージ追加。
-    en:
+    en: If this Pokémon has no damage counters on it, this attack does 150 more damage.
 - position: 1
   name:
     ja: マーベラスエッジ
-    en:
+    en: Marvelous Edge
   cost:
   - Fighting
   - Fighting
@@ -58,4 +58,4 @@ first_appearance:
   released_at:
   regulation_mark: J
   collector_number: '49716'
-  image_url:
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/M-P/049716_P_MERUREIDOEX.jpg

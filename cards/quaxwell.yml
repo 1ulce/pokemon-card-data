@@ -32,7 +32,7 @@ attacks:
 - position: 0
   name:
     ja: アクアエッジ
-    en:
+    en: Aqua Edge
   cost:
   - Water
   damage: '40'

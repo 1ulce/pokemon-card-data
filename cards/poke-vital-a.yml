@@ -31,7 +31,10 @@ body_text:
     このカードは、トラッシュにあるかぎり、手札に加えられず、山札にもどせない。
 
     グッズは、自分の番に何枚でも使える。
-  en:
+  en: |-
+    Poké Vital A Trainer - Item
+
+    Heal 150 damage from 1 of your Pokémon.This card can't be put into your hand or deck from the discard pile.
 rules_text:
   ja: ACE SPECのカードは、デッキに1枚しか入れられない。
   en:

@@ -26,7 +26,10 @@ body_text:
     おたがいのプレイヤーは、それぞれ自分の手札が5枚になるようにトラッシュする。（トラッシュは相手から行う。手札が5枚以下のプレイヤーはトラッシュしない。）
 
     グッズは、自分の番に何枚でも使える。
-  en:
+  en: |-
+    Hand Trimmer Trainer - Item
+
+    Each player discards cards from their hand until they have 5 cards in their hand. Your opponent discards first. (If a player has 5 or fewer cards in their hand, they do not discard.)
 rules_text:
   ja:
   en:

@@ -32,18 +32,18 @@ attacks:
 - position: 0
   name:
     ja: グリードハザード
-    en: Leaf Bringer
+    en: Hazardous Greed
   cost:
   - Grass
   - Colorless
   damage: '20'
   effect_text:
     ja: 自分の山札の残り枚数が3枚以下なら、相手のベンチポケモン2匹にも、それぞれ120ダメージ。［ベンチは弱点・抵抗力を計算しない。］
-    en: Attach up to 2 Basic [G] Energy cards from your discard pile to 1 of your Pokémon.
+    en: If there are 3 or fewer cards in your deck, this attack also does 120 damage to 2 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)
 - position: 1
   name:
     ja: まきこみウィップ
-    en: Binding Greed
+    en: Entangling Whip
   cost:
   - Grass
   - Grass
@@ -51,7 +51,7 @@ attacks:
   damage: '130'
   effect_text:
     ja: 自分の山札を上から3枚トラッシュする。
-    en: During your opponent's next turn, attacks used by the Defending Pokémon cost [C][C] more.
+    en: Discard the top 3 cards of your deck.
 first_appearance:
   set_name_ja: 超電ブレイカー
   released_at: '2024-10-18'

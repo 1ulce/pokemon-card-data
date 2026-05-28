@@ -26,7 +26,10 @@ body_text:
     おたがいの草ポケモン全員は、出したばかりの番（最初の自分の番をのぞく）でも草ポケモンに進化できる。
 
     スタジアムは、自分の番に1枚、バトル場の横に出せる。別のスタジアムが場に出たなら、このカードをトラッシュする。同じ名前のスタジアムは場に出せない。
-  en:
+  en: |-
+    Forest of Vitality Trainer - Stadium
+
+    Each player's [G] Pokémon can evolve into [G] Pokémon during the turn they play those Pokémon, except during their first turn.
 rules_text:
   ja:
   en:

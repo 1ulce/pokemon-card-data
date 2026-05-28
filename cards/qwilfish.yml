@@ -31,21 +31,21 @@ abilities:
 - position: 0
   name:
     ja: どくのトゲ
-    en:
+    en: Poison Point
   effect_text:
     ja: このポケモンが、バトル場で相手のポケモンからワザのダメージを受けたとき、ワザを使ったポケモンをどくにする。
-    en:
+    en: If this Pokémon is in the Active Spot and is damaged by an attack from your opponent's Pokémon (even if this Pokémon is Knocked Out), the Attacking Pokémon is now Poisoned.
 attacks:
 - position: 0
   name:
     ja: ベノムショック
-    en:
+    en: Venoshock
   cost:
   - Darkness
   damage: 30+
   effect_text:
     ja: 相手のバトルポケモンがどくなら、50ダメージ追加。
-    en:
+    en: If your opponent's Active Pokémon is Poisoned, this attack does 50 more damage.
 first_appearance:
   set_name_ja: ニンジャスピナー
   released_at: '2026-03-13'

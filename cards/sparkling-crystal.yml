@@ -27,7 +27,10 @@ body_text:
     このカードをつけている「テラスタル」のポケモンがワザを使うとき、そのワザを使うためのエネルギーは、1個ぶん少なくなる。（少なくなるのは、どのタイプのエネルギーでもよい。）
 
     ポケモンのどうぐは、自分の番に何枚でも、自分のポケモンにつけられる。ポケモン1匹につき1枚だけつけられ、つけたままにする。
-  en:
+  en: |-
+    Sparkling Crystal Trainer - Tool
+
+    When the Tera Pokémon this card is attached to uses an attack, that attack costs 1 Energy less. (The Energy can be of any type.)
 rules_text:
   ja: ACE SPECのカードは、デッキに1枚しか入れられない。
   en:

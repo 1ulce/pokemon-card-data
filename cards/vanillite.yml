@@ -32,7 +32,7 @@ attacks:
 - position: 0
   name:
     ja: たたく
-    en: Chilly
+    en: Beat
   cost:
   - Colorless
   damage: '10'
@@ -42,14 +42,14 @@ attacks:
 - position: 1
   name:
     ja: アイスエッジ
-    en:
+    en: Ice Edge
   cost:
   - Water
   - Colorless
   damage: 20+
   effect_text:
     ja: コインを1回投げオモテなら、20ダメージ追加。
-    en:
+    en: Flip a coin. If heads, this attack does 20 more damage.
 first_appearance:
   set_name_ja: ホワイトフレア
   released_at: '2025-06-06'

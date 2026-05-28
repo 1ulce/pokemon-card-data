@@ -32,13 +32,13 @@ attacks:
 - position: 0
   name:
     ja: れんぞくスピン
-    en: Rapid Spin
+    en: Continuous Spin
   cost:
   - Fighting
   damage: 30×
   effect_text:
     ja: ウラが出るまでコインを投げ、オモテの数×30ダメージ。
-    en: Switch this Pokémon with 1 of your Benched Pokémon. If you do, switch out your opponent's Active Pokémon to the Bench. (Your opponent chooses the new Active Pokémon.)
+    en: Flip a coin until you get tails. This attack does 30 damage for each heads.
 first_appearance:
   set_name_ja: ニンジャスピナー
   released_at: '2026-03-13'

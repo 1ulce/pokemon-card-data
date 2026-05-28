@@ -32,7 +32,7 @@ attacks:
 - position: 0
   name:
     ja: どろかけ
-    en:
+    en: Mud-Slap
   cost:
   - Fighting
   damage: '10'
@@ -42,7 +42,7 @@ attacks:
 - position: 1
   name:
     ja: ころがる
-    en:
+    en: Rollout
   cost:
   - Colorless
   - Colorless

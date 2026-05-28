@@ -33,18 +33,18 @@ attacks:
 - position: 0
   name:
     ja: おいつめる
-    en:
+    en: Corner
   cost:
   - Darkness
   - Colorless
   damage: '80'
   effect_text:
     ja: 次の相手の番、このワザを受けたポケモンは、にげられない。
-    en:
+    en: During your opponent's next turn, the Defending Pokémon can't retreat.
 - position: 1
   name:
     ja: ストロングバイト
-    en:
+    en: Strong Bite
   cost:
   - Darkness
   - Darkness
@@ -52,7 +52,7 @@ attacks:
   damage: 140+
   effect_text:
     ja: このポケモンに「ポケモンのどうぐ」がついているなら、140ダメージ追加。
-    en:
+    en: If this Pokémon has a Pokémon Tool attached, this attack does 140 more damage.
 first_appearance:
   set_name_ja: ポケモンカードゲーム MEGA　プロモカードパック第2弾
   released_at:

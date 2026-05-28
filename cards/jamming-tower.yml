@@ -26,7 +26,10 @@ body_text:
     おたがいのポケモン全員についている「ポケモンのどうぐ」の効果は、すべてなくなる。
 
     スタジアムは、自分の番に1枚、バトル場の横に出せる。別のスタジアムが場に出たなら、このカードをトラッシュする。同じ名前のスタジアムは場に出せない。
-  en:
+  en: |-
+    Jamming Tower Trainer - Stadium
+
+    Pokémon Tools attached to each Pokémon (both yours and your opponent's) have no effect.
 rules_text:
   ja:
   en:

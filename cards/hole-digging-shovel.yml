@@ -26,7 +26,10 @@ body_text:
     自分の山札を上から2枚トラッシュする。
 
     グッズは、自分の番に何枚でも使える。
-  en:
+  en: |-
+    Hole-Digging Shovel Trainer - Item
+
+    Discard the top 2 cards of your deck.
 rules_text:
   ja:
   en:

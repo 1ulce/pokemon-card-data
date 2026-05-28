@@ -32,21 +32,21 @@ abilities:
 - position: 0
   name:
     ja: なめらかコート
-    en:
+    en: Smooth Coat
   effect_text:
     ja: このポケモンがワザのダメージを受けるとき、自分はコインを1回投げる。オモテなら、このポケモンはそのダメージを受けない。
-    en:
+    en: If any damage is done to this Pokémon by attacks, flip a coin. If heads, prevent that damage.
 attacks:
 - position: 0
   name:
     ja: エナジービンタ
-    en:
+    en: Energized Slap
   cost:
   - Colorless
   damage: 40×
   effect_text:
     ja: このポケモンについているエネルギーの数×40ダメージ。
-    en:
+    en: This attack does 40 damage for each Energy attached to this Pokémon.
 first_appearance:
   set_name_ja: ニンジャスピナー
   released_at: '2026-03-13'

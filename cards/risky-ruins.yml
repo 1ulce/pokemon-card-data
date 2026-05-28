@@ -26,7 +26,10 @@ body_text:
     おたがいのプレイヤーは、それぞれ、自分の番に、たねポケモン（悪ポケモンをのぞく）をベンチに出すたび、そのポケモンにダメカンを2個のせる。
 
     スタジアムは、自分の番に1枚、バトル場の横に出せる。別のスタジアムが場に出たなら、このカードをトラッシュする。同じ名前のスタジアムは場に出せない。
-  en:
+  en: |-
+    Risky Ruins Trainer - Stadium
+
+    Whenever any player puts a Basic non-[D] Pokémon onto their Bench during their turn, place 2 damage counters on that Pokémon.
 rules_text:
   ja:
   en:

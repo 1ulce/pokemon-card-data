@@ -30,7 +30,10 @@ body_text:
     自分のトラッシュから基本エネルギーを2枚まで選び、自分の2進化ポケモン1匹につける。
 
     サポートは、自分の番に1枚しか使えない。
-  en:
+  en: |-
+    Rosa's Encouragement Trainer - Supporter
+
+    You can use this card only if you have more Prize cards remaining than your opponent.Attach up to 2 Basic Energy cards from your discard pile to 1 of your Stage 2 Pokémon.
 rules_text:
   ja:
   en:

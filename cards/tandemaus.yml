@@ -32,13 +32,13 @@ attacks:
 - position: 0
   name:
     ja: じゃれつく
-    en:
+    en: Play Rough
   cost:
   - Colorless
   damage: 10+
   effect_text:
     ja: コインを1回投げオモテなら、10ダメージ追加。
-    en:
+    en: Flip a coin. If heads, this attack does 10 more damage.
 first_appearance:
   set_name_ja: 超電ブレイカー
   released_at: '2024-10-18'

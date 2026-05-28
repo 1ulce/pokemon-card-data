@@ -1,0 +1,62 @@
+---
+schema_version: 1
+slug: jp-メガドリュウズex
+name:
+  ja: メガドリュウズex
+  en:
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Metal
+hp: 340
+retreat_cost: 4
+regulation_mark: J
+meta_tags:
+- ex
+- mega
+evolves_from:
+  ja: モグリュー
+  en: Drilbur
+weakness:
+  type: Fire
+  value: "×2"
+resistance:
+  type: Grass
+  value: "-30"
+body_text:
+  ja:
+  en:
+rules_text:
+  ja: メガシンカexがきぜつしたとき、相手はサイドを3枚とる。
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: ほりくずす
+    en:
+  cost:
+  - Metal
+  - Metal
+  damage: '90'
+  effect_text:
+    ja: 相手の山札を上から2枚トラッシュする。
+    en:
+- position: 1
+  name:
+    ja: マキシマムドリル
+    en:
+  cost:
+  - Metal
+  - Metal
+  - Metal
+  damage: 200+
+  effect_text:
+    ja: このワザを使うためのエネルギーより、2個多くエネルギーがついているなら、130ダメージ追加。
+    en:
+first_appearance:
+  set_name_ja: アビスアイ
+  released_at: '2026-05-22'
+  regulation_mark: J
+  collector_number: '063'
+  image_url:

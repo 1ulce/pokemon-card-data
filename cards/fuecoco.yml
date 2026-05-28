@@ -32,14 +32,14 @@ attacks:
 - position: 0
   name:
     ja: ねつでこがす
-    en: Tackle
+    en: Heat Burn
   cost:
   - Fire
   - Colorless
   damage: '20'
   effect_text:
     ja: 相手のバトルポケモンをやけどにする。
-    en:
+    en: Your opponent's Active Pokémon is now Burned.
 first_appearance:
   set_name_ja: 超電ブレイカー
   released_at: '2024-10-18'

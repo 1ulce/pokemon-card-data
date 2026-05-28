@@ -34,17 +34,17 @@ attacks:
 - position: 0
   name:
     ja: やさしいひかり 
-    en:
+    en: Gentle Light
   cost:
   - Psychic
   damage:
   effect_text:
     ja: おたがいのポケモン全員のHPを、それぞれ「30」回復する。
-    en:
+    en: Heal 30 damage from each Pokémon (both yours and your opponent's).
 - position: 1
   name:
     ja: エタニティブルーム
-    en:
+    en: Eternity Bloom
   cost:
   - Psychic
   - Psychic
@@ -52,7 +52,7 @@ attacks:
   damage: '200'
   effect_text:
     ja: 自分の山札から「基本超エネルギー」を4枚まで選び、ベンチポケモンに好きなようにつける。そして山札を切る。
-    en:
+    en: Search your deck for up to 4 Basic [P] Energy cards and attach them to your Benched Pokémon in any way you like. Then, shuffle your deck.
 first_appearance:
   set_name_ja: ニンジャスピナー
   released_at: '2026-03-13'

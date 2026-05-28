@@ -31,15 +31,15 @@ abilities:
 - position: 0
   name:
     ja: なぎのきょうち
-    en: Lifeboat
+    en: Mentally Calm
   effect_text:
     ja: このポケモンがいるかぎり、相手の場のポケモンと、そのポケモンについているすべてのカードは、手札にもどせない。
-    en: Once during your turn, when you play this Pokémon from your hand to evolve 1 of your Pokémon, you may use this Ability. Each player puts a Basic Pokémon from their discard pile onto their Bench. (Your opponent puts a Basic Pokémon onto their Bench first.)
+    en: Your opponent's Pokémon in play and all attached cards can't be put into your opponent's hand.
 attacks:
 - position: 0
   name:
     ja: ハイドロスプラッシュ
-    en: Hypno Splash
+    en: Hydro Splash
   cost:
   - Water
   - Colorless
@@ -47,7 +47,7 @@ attacks:
   damage: '100'
   effect_text:
     ja:
-    en: Your opponent's Active Pokémon is now Asleep.
+    en:
 first_appearance:
   set_name_ja: 変幻の仮面
   released_at: '2024-04-26'

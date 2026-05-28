@@ -26,7 +26,10 @@ body_text:
     自分のポケモンを1匹選び、HPを「30」回復する。
 
     グッズは、自分の番に何枚でも使える。
-  en:
+  en: |-
+    Potion Trainer - Item
+
+    Heal 30 damage from 1 of your Pokémon.
 rules_text:
   ja:
   en:

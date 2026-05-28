@@ -26,7 +26,10 @@ body_text:
     おたがいのどくのポケモン（悪ポケモンをのぞく）全員は、どくでのせるダメカンの数がそれぞれ2個多くなる。
 
     スタジアムは、自分の番に1枚、バトル場の横に出せる。別のスタジアムが場に出たなら、このカードをトラッシュする。同じ名前のスタジアムは場に出せない。
-  en:
+  en: |-
+    Perilous Jungle Trainer - Stadium
+
+    During Pokémon Checkup, put 2 more damage counters on each Poisoned non-[D] Pokémon (both yours and your opponent's).
 rules_text:
   ja:
   en:

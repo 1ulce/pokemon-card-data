@@ -26,7 +26,10 @@ body_text:
     おたがいのプレイヤーは、自分の番ごとに1回、自分の山札から「マリィのポケモン」を1枚選び、相手に見せて、手札に加えてよい。そして山札を切る。
 
     スタジアムは、自分の番に1枚、バトル場の横に出せる。別のスタジアムが場に出たなら、このカードをトラッシュする。同じ名前のスタジアムは場に出せない。
-  en:
+  en: |-
+    Spikemuth Gym Trainer - Stadium
+
+    Once during each player's turn, that player may search their deck for a Marnie's Pokémon, reveal it, and put it into their hand. Then, that player shuffles their deck.
 rules_text:
   ja:
   en:

@@ -26,7 +26,10 @@ body_text:
     おたがいの場のポケモンについている「ポケモンのどうぐ」を2枚まで選び、トラッシュする。
 
     グッズは、自分の番に何枚でも使える。
-  en:
+  en: |-
+    Tool Scrapper Trainer - Item
+
+    Choose up to 2 Pokémon Tool cards attached to Pokémon in play (yours or your opponent's) and discard them.
 rules_text:
   ja:
   en:

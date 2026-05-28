@@ -32,16 +32,16 @@ attacks:
 - position: 0
   name:
     ja: ふいをつく
-    en:
+    en: Surprise Attack
   cost:
   - Grass
   damage: '30'
   effect_text:
     ja: コインを1回投げウラなら、このワザは失敗。
-    en:
+    en: Flip a coin. If tails, this attack does nothing.
 first_appearance:
   set_name_ja: ニンジャスピナー
   released_at: '2026-03-13'
   regulation_mark: J
   collector_number: '001'
-  image_url:
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/M4/050085_P_BIDORU.jpg

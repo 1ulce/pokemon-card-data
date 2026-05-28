@@ -32,14 +32,14 @@ attacks:
 - position: 0
   name:
     ja: トリックステップ
-    en:
+    en: Tricky Steps
   cost:
   - Psychic
   - Colorless
   damage: '80'
   effect_text:
     ja: のぞむなら、相手のバトルポケモンについているエネルギーを1個選び、相手のベンチポケモンにつけ替える。
-    en:
+    en: You may move an Energy from your opponent's Active Pokémon to 1 of their Benched Pokémon.
 first_appearance:
   set_name_ja: ニンジャスピナー
   released_at: '2026-03-13'

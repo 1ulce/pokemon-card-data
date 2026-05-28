@@ -31,7 +31,10 @@ body_text:
     このカードは、トラッシュにあるかぎり、手札に加えられず、山札にもどせない。
 
     スタジアムは、自分の番に1枚、バトル場の横に出せる。別のスタジアムが場に出たなら、このカードをトラッシュする。同じ名前のスタジアムは場に出せない。
-  en:
+  en: |-
+    Neutralization Zone Trainer - Stadium
+
+    Prevent all damage done to Pokémon that don't have a Rule Box (both yours and your opponent's) by attacks from the opponent's Pokémon ex and Pokémon V. (Pokémon ex, Pokémon V, etc. have Rule Boxes.)This card can't be put into your hand or deck from the discard pile.
 rules_text:
   ja: ACE SPECのカードは、デッキに1枚しか入れられない。
   en:

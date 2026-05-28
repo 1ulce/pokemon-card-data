@@ -26,7 +26,10 @@ body_text:
     「おたがいのプレイヤーは、それぞれサイドを1枚とる。」をのぞむか、相手にたずねる。相手がのぞむなら、おたがいのプレイヤーは、それぞれサイドを1枚とる。のぞまないなら、自分は山札を4枚引く。
 
     サポートは、自分の番に1枚しか使えない。
-  en:
+  en: |-
+    Lt. Surge's Bargain Trainer - Supporter
+
+    Ask your opponent if each player may take a Prize card. If yes, each player takes a Prize card. If no, you draw 4 cards.
 rules_text:
   ja:
   en:

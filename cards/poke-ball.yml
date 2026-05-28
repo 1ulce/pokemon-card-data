@@ -26,7 +26,10 @@ body_text:
     コインを1回投げオモテなら、自分の山札のポケモンを1枚、相手に見せてから、手札に加える。そして山札を切る。
 
     グッズは、自分の番に何枚でも使える。
-  en:
+  en: |-
+    Poké Ball Trainer - Item
+
+    Flip a coin. If heads, search your deck for a Pokémon, reveal it, and put it into your hand. Shuffle your deck afterward.
 rules_text:
   ja:
   en:

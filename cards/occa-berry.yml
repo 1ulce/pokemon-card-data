@@ -26,7 +26,10 @@ body_text:
     このカードをつけているポケモンが、相手の炎ポケモンからワザのダメージを受けるとき、そのダメージは「-60」され、このカードをトラッシュする。
 
     ポケモンのどうぐは、自分の番に何枚でも、自分のポケモンにつけられる。ポケモン1匹につき1枚だけつけられ、つけたままにする。
-  en:
+  en: |-
+    Occa Berry Trainer - Tool
+
+    If the Pokémon this card is attached to is damaged by an attack from your opponent's [R] Pokémon, it takes 60 less damage (after applying Weakness and Resistance), and discard this card.
 rules_text:
   ja:
   en:

@@ -1,0 +1,47 @@
+---
+schema_version: 1
+slug: jp-ツツケラ
+name:
+  ja: ツツケラ
+  en:
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Colorless
+hp: 70
+retreat_cost: 1
+regulation_mark: J
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Lightning
+  value: "×2"
+resistance:
+  type: Fighting
+  value: "-30"
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: にどづき
+    en:
+  cost:
+  - Colorless
+  damage: 10×
+  effect_text:
+    ja: コインを2回投げ、オモテの数×10ダメージ。
+    en:
+first_appearance:
+  set_name_ja: アビスアイ
+  released_at: '2026-05-22'
+  regulation_mark: J
+  collector_number: '064'
+  image_url:

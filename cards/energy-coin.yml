@@ -26,7 +26,10 @@ body_text:
     コインを2回投げ、すべてオモテなら、自分の山札から基本エネルギーを1枚選び、自分のポケモンにつける。そして山札を切る。
 
     グッズは、自分の番に何枚でも使える。
-  en:
+  en: |-
+    Energy Coin Trainer - Item
+
+    Flip 2 coins. If both of them are heads, search your deck for a Basic Energy card and attach it to 1 of your Pokémon. Then, shuffle your deck.
 rules_text:
   ja:
   en:

@@ -28,7 +28,10 @@ body_text:
 
 
     たねポケモンについているなら、すべてのタイプのエネルギー1個ぶんとしてはたらく。
-  en:
+  en: |-
+    Prism Energy Energy - Special Energy
+
+    This card provides [C] Energy. If the Pokémon this card is attached to is a Basic Pokémon, this card provides every type of Energy but provides only 1 Energy at a time.
 rules_text:
   ja: |-
     このカードは、エネルギー1個ぶんとしてはたらく。

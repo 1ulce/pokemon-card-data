@@ -32,18 +32,18 @@ attacks:
 - position: 0
   name:
     ja: りんしょう
-    en:
+    en: Round
   cost:
   - Colorless
   - Colorless
   damage: 40×
   effect_text:
     ja: 自分の場の、ワザ「りんしょう」を持つポケモンの数×40ダメージ。
-    en:
+    en: This attack does 40 damage for each of your Pokémon in play that has the Round attack.
 - position: 1
   name:
     ja: ちきゅうなげ
-    en:
+    en: Seismic Toss
   cost:
   - Colorless
   - Colorless

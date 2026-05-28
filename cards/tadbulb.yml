@@ -32,17 +32,17 @@ attacks:
 - position: 0
   name:
     ja: たいあたり
-    en: Thunder Wave
+    en: Tackle
   cost:
   - Colorless
   damage: '10'
   effect_text:
     ja:
-    en: Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed.
+    en:
 - position: 1
   name:
     ja: エレキボール
-    en:
+    en: Electro Ball
   cost:
   - Lightning
   - Colorless

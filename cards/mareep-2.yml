@@ -32,14 +32,14 @@ attacks:
 - position: 0
   name:
     ja: でんじは
-    en:
+    en: Thunder Wave
   cost:
   - Lightning
   - Colorless
   damage: '20'
   effect_text:
     ja: コインを1回投げオモテなら、相手のバトルポケモンをマヒにする。
-    en:
+    en: Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed.
 first_appearance:
   set_name_ja: ニンジャスピナー
   released_at: '2026-03-13'

@@ -32,7 +32,7 @@ attacks:
 - position: 0
   name:
     ja: ひっぱたく
-    en:
+    en: Gentle Slap
   cost:
   - Water
   - Psychic

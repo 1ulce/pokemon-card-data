@@ -32,17 +32,17 @@ attacks:
 - position: 0
   name:
     ja: ゲノムチャージ 
-    en:
+    en: Genome Charge
   cost:
   - Colorless
   damage:
   effect_text:
     ja: 自分の山札から「基本超エネルギー」を2枚まで選び、このポケモンにつける。そして山札を切る。
-    en:
+    en: Search your deck for up to 2 Basic [P] Energy cards and attach them to this Pokémon. Then, shuffle your deck.
 - position: 1
   name:
     ja: サイコキネシス
-    en:
+    en: Psychic
   cost:
   - Psychic
   - Psychic
@@ -50,7 +50,7 @@ attacks:
   damage: 80+
   effect_text:
     ja: 相手のバトルポケモンについているエネルギーの数×20ダメージ追加。
-    en:
+    en: This attack does 20 more damage for each Energy attached to your opponent's Active Pokémon.
 first_appearance:
   set_name_ja: ニンジャスピナー
   released_at: '2026-03-13'

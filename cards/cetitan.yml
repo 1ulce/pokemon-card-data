@@ -31,15 +31,15 @@ abilities:
 - position: 0
   name:
     ja: がっちりボディ
-    en:
+    en: Solid Body
   effect_text:
     ja: このポケモンが受けるワザのダメージは「-30」される。
-    en:
+    en: This Pokémon takes 30 less damage from attacks (after applying Weakness and Resistance).
 attacks:
 - position: 0
   name:
     ja: デンジャーマウス
-    en:
+    en: Dangerous Mouth
   cost:
   - Water
   - Colorless

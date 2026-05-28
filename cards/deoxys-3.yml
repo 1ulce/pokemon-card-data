@@ -32,7 +32,7 @@ attacks:
 - position: 0
   name:
     ja: サイコプロテクト
-    en:
+    en: Psy Protection
   cost:
   - Psychic
   - Psychic
@@ -40,7 +40,7 @@ attacks:
   damage: '80'
   effect_text:
     ja: 次の相手の番、このポケモンは特性を持つポケモンからワザのダメージを受けない。
-    en:
+    en: During your opponent's next turn, prevent all damage done to this Pokémon by attacks from Pokémon that have an Ability.
 first_appearance:
   set_name_ja: ニンジャスピナー
   released_at: '2026-03-13'

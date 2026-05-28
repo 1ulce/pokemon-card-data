@@ -26,7 +26,10 @@ body_text:
     自分の山札から、名前に「ワザマシン」とつく「ポケモンのどうぐ」を3枚まで選び、相手に見せて、手札に加える。そして山札を切る。
 
     グッズは、自分の番に何枚でも使える。
-  en:
+  en: |-
+    TM Machine Trainer - Item
+
+    Search your deck for up to 3 Pokémon Tool cards that have "Technical Machine" in their name, reveal them, and put them into your hand. Then, shuffle your deck.
 rules_text:
   ja:
   en:

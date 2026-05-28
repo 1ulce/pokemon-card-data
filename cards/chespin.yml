@@ -32,7 +32,7 @@ attacks:
 - position: 0
   name:
     ja: たたく
-    en:
+    en: Beat
   cost:
   - Grass
   damage: '10'
@@ -42,7 +42,7 @@ attacks:
 - position: 1
   name:
     ja: トゲでさす
-    en:
+    en: Spike Sting
   cost:
   - Grass
   - Grass

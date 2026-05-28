@@ -32,17 +32,17 @@ attacks:
 - position: 0
   name:
     ja: さいきのほのお 
-    en:
+    en: Flames of Revival
   cost:
   - Fire
   damage:
   effect_text:
     ja: 自分のトラッシュからたねポケモンを3枚まで選び、ベンチに出す。
-    en:
+    en: Put up to 3 Basic Pokémon from your discard pile onto your Bench.
 - position: 1
   name:
     ja: ぐれんのつばさ
-    en:
+    en: Bright Wing
   cost:
   - Fire
   - Fire
@@ -50,7 +50,7 @@ attacks:
   damage: '130'
   effect_text:
     ja: このポケモンについている炎エネルギーを1個選び、トラッシュする。
-    en:
+    en: Discard a [R] Energy from this Pokémon.
 first_appearance:
   set_name_ja: ニンジャスピナー
   released_at: '2026-03-13'
