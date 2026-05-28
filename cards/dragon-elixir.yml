@@ -22,10 +22,7 @@ resistance:
   type:
   value:
 body_text:
-  ja: |-
-    自分のバトル場のドラゴンポケモンのHPを「60」回復する。
-
-    グッズは、自分の番に何枚でも使える。
+  ja: 自分のバトル場のドラゴンポケモンのHPを「60」回復する。
   en: |-
     Dragon Elixir Trainer - Item
 

@@ -22,10 +22,7 @@ resistance:
   type:
   value:
 body_text:
-  ja: |-
-    相手は相手自身の手札を、3枚になるようにトラッシュする。
-
-    サポートは、自分の番に1枚しか使えない。
+  ja: 相手は相手自身の手札を、3枚になるようにトラッシュする。
   en: |-
     Xerosic's Machinations Trainer - Supporter
 

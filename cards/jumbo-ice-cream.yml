@@ -22,10 +22,7 @@ resistance:
   type:
   value:
 body_text:
-  ja: |-
-    エネルギーが3個以上ついている自分のバトルポケモンのHPを「80」回復する。
-
-    グッズは、自分の番に何枚でも使える。
+  ja: エネルギーが3個以上ついている自分のバトルポケモンのHPを「80」回復する。
   en: |-
     Jumbo Ice Cream Trainer - Item
 

@@ -22,10 +22,7 @@ resistance:
   type:
   value:
 body_text:
-  ja: |-
-    自分の山札を3枚引く。
-
-    サポートは、自分の番に1枚しか使えない。
+  ja: 自分の山札を3枚引く。
   en: |-
     Friends in Paldea Trainer - Supporter
 

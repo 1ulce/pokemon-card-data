@@ -22,10 +22,7 @@ resistance:
   type:
   value:
 body_text:
-  ja: |-
-    自分の超ポケモン1匹のHPを「150」回復する。
-
-    サポートは、自分の番に1枚しか使えない。
+  ja: 自分の超ポケモン1匹のHPを「150」回復する。
   en: |-
     Jacinthe Trainer - Supporter
 

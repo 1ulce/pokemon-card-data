@@ -22,10 +22,7 @@ resistance:
   type:
   value:
 body_text:
-  ja: |-
-    相手の手札を見て、その中からグッズを2枚まで選び、トラッシュする。
-
-    サポートは、自分の番に1枚しか使えない。
+  ja: 相手の手札を見て、その中からグッズを2枚まで選び、トラッシュする。
   en: |-
     Eri Trainer - Supporter
 

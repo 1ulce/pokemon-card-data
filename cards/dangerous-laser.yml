@@ -23,10 +23,7 @@ resistance:
   type:
   value:
 body_text:
-  ja: |-
-    相手のバトルポケモンをやけどとこんらんにする。
-
-    グッズは、自分の番に何枚でも使える。
+  ja: 相手のバトルポケモンをやけどとこんらんにする。
   en: |-
     Dangerous Laser Trainer - Item
 

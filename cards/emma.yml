@@ -22,10 +22,7 @@ resistance:
   type:
   value:
 body_text:
-  ja: |-
-    相手の手札を見て、その中にあるポケモンの枚数ぶん、自分の山札を引く。
-
-    サポートは、自分の番に1枚しか使えない。
+  ja: 相手の手札を見て、その中にあるポケモンの枚数ぶん、自分の山札を引く。
   en: |-
     Emma Trainer - Supporter
 
