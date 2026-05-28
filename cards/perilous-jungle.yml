@@ -23,10 +23,7 @@ resistance:
   value:
 body_text:
   ja: おたがいのどくのポケモン（悪ポケモンをのぞく）全員は、どくでのせるダメカンの数がそれぞれ2個多くなる。
-  en: |-
-    Perilous Jungle Trainer - Stadium
-
-    During Pokémon Checkup, put 2 more damage counters on each Poisoned non-[D] Pokémon (both yours and your opponent's).
+  en: During Pokémon Checkup, put 2 more damage counters on each Poisoned non-[D] Pokémon (both yours and your opponent's).
 rules_text:
   ja:
   en:

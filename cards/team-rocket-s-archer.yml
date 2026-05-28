@@ -26,10 +26,7 @@ body_text:
     このカードは、前の相手の番に、自分の「ロケット団のポケモン」がきぜつしていなければ使えない。
 
     おたがいのプレイヤーは、それぞれ手札をすべて山札にもどして切る。その後、自分は5枚、相手は3枚、山札を引く。
-  en: |-
-    Team Rocket's Archer Trainer - Supporter
-
-    You can use this card only if any of your Team Rocket's Pokémon were Knocked Out during your opponent's last turn.Each player shuffles their hand into their deck. Then, you draw 5 cards, and your opponent draws 3 cards.
+  en: You can use this card only if any of your Team Rocket's Pokémon were Knocked Out during your opponent's last turn.Each player shuffles their hand into their deck. Then, you draw 5 cards, and your opponent draws 3 cards.
 rules_text:
   ja:
   en:

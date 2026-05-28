@@ -23,10 +23,7 @@ resistance:
   value:
 body_text:
   ja: 自分のポケモン全員のHPを、それぞれ「40」回復する。
-  en: |-
-    Fennel Trainer - Supporter
-
-    Heal 40 damage from each of your Pokémon.
+  en: Heal 40 damage from each of your Pokémon.
 rules_text:
   ja:
   en:

@@ -23,10 +23,7 @@ resistance:
   value:
 body_text:
   ja: 自分の「メガシンカex」1匹のHPを、すべて回復する。その後、回復したポケモンについているエネルギーを、すべて手札にもどす。
-  en: |-
-    Wally's Compassion Trainer - Supporter
-
-    Heal all damage from 1 of your Mega Evolution Pokémon ex. If you healed any damage in this way, put all Energy attached to that Pokémon into your hand.
+  en: Heal all damage from 1 of your Mega Evolution Pokémon ex. If you healed any damage in this way, put all Energy attached to that Pokémon into your hand.
 rules_text:
   ja:
   en:

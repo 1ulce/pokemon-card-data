@@ -23,10 +23,7 @@ resistance:
   value:
 body_text:
   ja: 自分のサイドを数えたあと、すべてウラにして切り、山札の下にもどす。その後、もどした枚数ぶん、山札を上からサイドとして置く。
-  en: |-
-    Redeemable Ticket Trainer - Item
-
-    Count your Prize cards, shuffle them, and put them on the bottom of your deck. Then, take that many cards from the top of your deck and put them face down as your Prize cards.
+  en: Count your Prize cards, shuffle them, and put them on the bottom of your deck. Then, take that many cards from the top of your deck and put them face down as your Prize cards.
 rules_text:
   ja:
   en:

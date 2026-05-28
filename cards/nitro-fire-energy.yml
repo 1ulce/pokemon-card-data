@@ -28,10 +28,7 @@ body_text:
 
 
     このカードをつけている炎ポケモンが使うワザの効果で、このカードがトラッシュされたなら、ワザのダメージや効果のあとに、手札にもどす。
-  en: |-
-    Nitro Fire Energy Energy - Special Energy
-
-    As long as this card is attached to a Pokémon, it provides [R] Energy. If this card is discarded by an effect of an attack used by the [R] Pokémon this card is attached to, put this card into your hand after attack damage and effects.
+  en: As long as this card is attached to a Pokémon, it provides [R] Energy. If this card is discarded by an effect of an attack used by the [R] Pokémon this card is attached to, put this card into your hand after attack damage and effects.
 rules_text:
   ja:
   en:

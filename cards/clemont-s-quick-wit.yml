@@ -23,10 +23,7 @@ resistance:
   value:
 body_text:
   ja: 自分の雷ポケモン全員のHPを、それぞれ「60」回復する。
-  en: |-
-    Clemont's Quick Wit Trainer - Supporter
-
-    Heal 60 damage from each of your [L] Pokémon.
+  en: Heal 60 damage from each of your [L] Pokémon.
 rules_text:
   ja:
   en:

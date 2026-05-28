@@ -23,10 +23,7 @@ resistance:
   value:
 body_text:
   ja: おたがいのプレイヤーは、自分の番ごとに1回、自分の手札を2枚トラッシュするなら、自分の山札を1枚引いてよい。
-  en: |-
-    Prism Tower Trainer - Stadium
-
-    Once during each player's turn, that player may discard 2 cards from their hand in order to draw a card.
+  en: Once during each player's turn, that player may discard 2 cards from their hand in order to draw a card.
 rules_text:
   ja:
   en:

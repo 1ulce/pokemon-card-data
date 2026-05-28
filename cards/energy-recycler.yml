@@ -23,10 +23,7 @@ resistance:
   value:
 body_text:
   ja: 自分のトラッシュから基本エネルギーを5枚選び、相手に見せてから、山札にもどす。そして山札を切る。
-  en: |-
-    Energy Recycler Trainer - Item
-
-    Shuffle up to 5 basic Energy cards from your discard pile into your deck.
+  en: Shuffle up to 5 basic Energy cards from your discard pile into your deck.
 rules_text:
   ja:
   en:

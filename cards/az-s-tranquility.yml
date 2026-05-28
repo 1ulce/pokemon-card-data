@@ -23,10 +23,7 @@ resistance:
   value:
 body_text:
   ja: 自分のバトルポケモンをベンチポケモンと入れ替える。「ポケモンex」をベンチに入れ替えた場合、そのポケモンのHPを「80」回復する。
-  en: |-
-    AZ's Tranquility Trainer - Supporter
-
-    Switch your Active Pokémon with 1 of your Benched Pokémon. If you moved a Pokémon ex to your Bench in this way, heal 80 damage from that Pokémon.
+  en: Switch your Active Pokémon with 1 of your Benched Pokémon. If you moved a Pokémon ex to your Bench in this way, heal 80 damage from that Pokémon.
 rules_text:
   ja:
   en:

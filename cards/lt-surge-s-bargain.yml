@@ -23,10 +23,7 @@ resistance:
   value:
 body_text:
   ja: "「おたがいのプレイヤーは、それぞれサイドを1枚とる。」をのぞむか、相手にたずねる。相手がのぞむなら、おたがいのプレイヤーは、それぞれサイドを1枚とる。のぞまないなら、自分は山札を4枚引く。"
-  en: |-
-    Lt. Surge's Bargain Trainer - Supporter
-
-    Ask your opponent if each player may take a Prize card. If yes, each player takes a Prize card. If no, you draw 4 cards.
+  en: Ask your opponent if each player may take a Prize card. If yes, each player takes a Prize card. If no, you draw 4 cards.
 rules_text:
   ja:
   en:

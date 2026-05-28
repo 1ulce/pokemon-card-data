@@ -23,10 +23,7 @@ resistance:
   value:
 body_text:
   ja: 自分の山札から「ヒビキのポケモン」と「基本炎エネルギー」を合計3枚まで選び、相手に見せて、手札に加える。そして山札を切る。
-  en: |-
-    Ethan's Adventure Trainer - Supporter
-
-    Search your deck for up to 3 in any combination of Ethan's Pokémon and Basic [R] Energy cards, reveal them, and put them into your hand. Then, shuffle your deck.
+  en: Search your deck for up to 3 in any combination of Ethan's Pokémon and Basic [R] Energy cards, reveal them, and put them into your hand. Then, shuffle your deck.
 rules_text:
   ja:
   en:

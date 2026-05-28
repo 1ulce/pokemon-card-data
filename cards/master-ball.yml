@@ -27,10 +27,7 @@ body_text:
     自分の山札からポケモンを1枚選び、相手に見せてから、手札に加える。そして山札を切る。
 
     ※このカードは、過去の同名のカードで代用できませんのでご注意ください。
-  en: |-
-    Master Ball Trainer - Item
-
-    Search your deck for a Pokémon, reveal it, and put it into your hand. Shuffle your deck afterward.
+  en: Search your deck for a Pokémon, reveal it, and put it into your hand. Shuffle your deck afterward.
 rules_text:
   ja: ACE SPECのカードは、デッキに1枚しか入れられない。
   en:

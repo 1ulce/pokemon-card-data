@@ -23,10 +23,7 @@ resistance:
   value:
 body_text:
   ja: おたがいのプレイヤーは、自分の番ごとに1回、自分のトラッシュから「基本雷エネルギー」を2枚まで選び、相手に見せて、手札に加えてよい。
-  en: |-
-    Levincia Trainer - Stadium
-
-    Once during each player's turn, that player may put up to 2 Basic [L] Energy cards from their discard pile into their hand.
+  en: Once during each player's turn, that player may put up to 2 Basic [L] Energy cards from their discard pile into their hand.
 rules_text:
   ja:
   en:

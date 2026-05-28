@@ -23,10 +23,7 @@ resistance:
   value:
 body_text:
   ja: この番、自分の闘ポケモンが使うワザの、相手のバトルポケモンへのダメージは「+30」される。
-  en: |-
-    Premium Power Pro Trainer - Item
-
-    During this turn, attacks used by your [F] Pokémon do 30 more damage to your opponent's Active Pokémon (before applying Weakness and Resistance).
+  en: During this turn, attacks used by your [F] Pokémon do 30 more damage to your opponent's Active Pokémon (before applying Weakness and Resistance).
 rules_text:
   ja:
   en:

@@ -23,10 +23,7 @@ resistance:
   value:
 body_text:
   ja: 自分の山札を上から2枚トラッシュする。
-  en: |-
-    Hole-Digging Shovel Trainer - Item
-
-    Discard the top 2 cards of your deck.
+  en: Discard the top 2 cards of your deck.
 rules_text:
   ja:
   en:

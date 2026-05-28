@@ -23,10 +23,7 @@ resistance:
   value:
 body_text:
   ja: エネルギーが3個以上ついている自分のバトルポケモンのHPを「80」回復する。
-  en: |-
-    Jumbo Ice Cream Trainer - Item
-
-    Heal 80 damage from your Active Pokémon that has 3 or more Energy attached.
+  en: Heal 80 damage from your Active Pokémon that has 3 or more Energy attached.
 rules_text:
   ja:
   en:

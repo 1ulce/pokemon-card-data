@@ -23,10 +23,7 @@ resistance:
   value:
 body_text:
   ja: 自分のバトルポケモンのHPを「70」回復する。
-  en: |-
-    Cook Trainer - Supporter
-
-    Heal 70 damage from your Active Pokémon.
+  en: Heal 70 damage from your Active Pokémon.
 rules_text:
   ja:
   en:

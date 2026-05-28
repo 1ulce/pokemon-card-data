@@ -24,10 +24,7 @@ resistance:
   value:
 body_text:
   ja: 自分の山札から「ポケモンのどうぐ」を5枚まで選び、相手に見せて、手札に加える。そして山札を切る。
-  en: |-
-    Treasure Tracker Trainer - Item
-
-    Search your deck for up to 5 Pokémon Tool cards, reveal them, and put them into your hand. Then, shuffle your deck.
+  en: Search your deck for up to 5 Pokémon Tool cards, reveal them, and put them into your hand. Then, shuffle your deck.
 rules_text:
   ja: ACE SPECのカードは、デッキに1枚しか入れられない。
   en:

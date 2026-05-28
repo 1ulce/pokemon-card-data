@@ -23,10 +23,7 @@ resistance:
   value:
 body_text:
   ja: 自分の山札を上から3枚見て、好きな順番に入れ替えて、山札の上にもどす。または、そのカードをすべてウラにして切り、山札の下にもどす。
-  en: |-
-    Deduction Kit Trainer - Item
-
-    Look at the top 3 cards of your deck and put them back in any order, or shuffle them and put them on the bottom of your deck.
+  en: Look at the top 3 cards of your deck and put them back in any order, or shuffle them and put them on the bottom of your deck.
 rules_text:
   ja:
   en:

@@ -23,10 +23,7 @@ resistance:
   value:
 body_text:
   ja: 自分のバトルポケモンをベンチポケモンと入れ替える。その後、自分の手札が5枚になるように、山札を引く。
-  en: |-
-    Surfer Trainer - Supporter
-
-    Switch your Active Pokémon with 1 of your Benched Pokémon. If you do, draw cards until you have 5 cards in your hand.
+  en: Switch your Active Pokémon with 1 of your Benched Pokémon. If you do, draw cards until you have 5 cards in your hand.
 rules_text:
   ja:
   en:

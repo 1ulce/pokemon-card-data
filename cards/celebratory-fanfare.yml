@@ -23,10 +23,7 @@ resistance:
   value:
 body_text:
   ja: おたがいのプレイヤーは、自分の番ごとに1回、自分のポケモン全員のHPを、それぞれ「10」回復してよい。その場合、自分の番は終わる。
-  en: |-
-    Celebratory Fanfare Trainer - Stadium
-
-    Once during each player's turn, that player may heal 10 damage from each of their Pokémon. If a player healed any damage in this way, their turn ends.
+  en: Once during each player's turn, that player may heal 10 damage from each of their Pokémon. If a player healed any damage in this way, their turn ends.
 rules_text:
   ja:
   en:

@@ -23,10 +23,7 @@ resistance:
   value:
 body_text:
   ja: おたがいのプレイヤーは、自分の番ごとに1回、自分のバトル場の水ポケモンを、ベンチの水ポケモンと入れ替えてよい。
-  en: |-
-    Surfing Beach Trainer - Stadium
-
-    Once during each player's turn, that player may switch their Active [W] Pokémon with 1 of their Benched [W] Pokémon.
+  en: Once during each player's turn, that player may switch their Active [W] Pokémon with 1 of their Benched [W] Pokémon.
 rules_text:
   ja:
   en:

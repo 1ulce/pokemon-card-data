@@ -23,10 +23,7 @@ resistance:
   value:
 body_text:
   ja: 自分の場のポケモン1匹から進化するカード（特性を持つポケモンをのぞく）を、自分の山札から1枚選び、そのポケモンにのせて進化させる。そして山札を切る。（対戦準備で出したポケモンや、この番出したばかりのポケモンにも使える。）
-  en: |-
-    Salvatore Trainer - Supporter
-
-    Search your deck for a card that has no Abilities and evolves from 1 of your Pokémon, and put it onto that Pokémon to evolve it. Then, shuffle your deck. You can use this card on a Pokémon you put down when you were setting up to play or on a Pokémon that was put into play this turn.
+  en: Search your deck for a card that has no Abilities and evolves from 1 of your Pokémon, and put it onto that Pokémon to evolve it. Then, shuffle your deck. You can use this card on a Pokémon you put down when you were setting up to play or on a Pokémon that was put into play this turn.
 rules_text:
   ja:
   en:

@@ -28,10 +28,7 @@ body_text:
 
 
     このカードをつけている水ポケモンは、特殊状態にならず、受けている特殊状態は、すべて回復する。
-  en: |-
-    Bubbly Water Energy Energy - Special Energy
-
-    As long as this card is attached to a Pokémon, it provides [W] Energy.The [W] Pokémon this card is attached to recovers from all Special Conditions and can't be affected by any Special Conditions.
+  en: As long as this card is attached to a Pokémon, it provides [W] Energy.The [W] Pokémon this card is attached to recovers from all Special Conditions and can't be affected by any Special Conditions.
 rules_text:
   ja:
   en:

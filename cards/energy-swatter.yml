@@ -23,10 +23,7 @@ resistance:
   value:
 body_text:
   ja: 相手の手札を見て、その中からエネルギーを1枚選び、相手の山札の下にもどす。
-  en: |-
-    Energy Swatter Trainer - Item
-
-    Your opponent reveals their hand, and you choose an Energy card you find there and put it on the bottom of their deck.
+  en: Your opponent reveals their hand, and you choose an Energy card you find there and put it on the bottom of their deck.
 rules_text:
   ja:
   en:

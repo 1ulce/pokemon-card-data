@@ -28,10 +28,7 @@ body_text:
 
 
     このカードは、ポケモンについているかぎり、超悪の2つのタイプのエネルギー2個ぶんとしてはたらく。
-  en: |-
-    Team Rocket's Energy Energy - Special Energy
-
-    This card can only be attached to a Team Rocket's Pokémon. If this card is attached to anything other than a Team Rocket's Pokémon, discard this card.As long as this card is attached to a Pokémon, it provides 2 in any combination of [P] Energy and [D] Energy.
+  en: This card can only be attached to a Team Rocket's Pokémon. If this card is attached to anything other than a Team Rocket's Pokémon, discard this card.As long as this card is attached to a Pokémon, it provides 2 in any combination of [P] Energy and [D] Energy.
 rules_text:
   ja:
   en:

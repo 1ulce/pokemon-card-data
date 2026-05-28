@@ -23,10 +23,7 @@ resistance:
   value:
 body_text:
   ja: 自分のトラッシュから基本エネルギーを2枚選び、相手に見せてから、手札に加える。
-  en: |-
-    Energy Retrieval Trainer - Item
-
-    Put up to 2 Basic Energy cards from your discard pile into your hand.
+  en: Put up to 2 Basic Energy cards from your discard pile into your hand.
 rules_text:
   ja:
   en:

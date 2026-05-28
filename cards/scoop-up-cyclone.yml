@@ -24,10 +24,7 @@ resistance:
   value:
 body_text:
   ja: 自分の場のポケモンを1匹選び、そのポケモンと、ついているすべてのカードを、手札にもどす。
-  en: |-
-    Scoop Up Cyclone Trainer - Item
-
-    Put 1 of your Pokémon and all cards attached to it into your hand.
+  en: Put 1 of your Pokémon and all cards attached to it into your hand.
 rules_text:
   ja: ACE SPECのカードは、デッキに1枚しか入れられない。
   en:

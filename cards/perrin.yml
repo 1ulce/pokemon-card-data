@@ -23,10 +23,7 @@ resistance:
   value:
 body_text:
   ja: 自分の手札からポケモンを2枚まで選び、相手に見せて、山札にもどす。その後、もどした枚数ぶんまで、自分の山札からポケモンを選び、相手に見せて、手札に加える。そして山札を切る。
-  en: |-
-    Perrin Trainer - Supporter
-
-    Reveal up to 2 Pokémon in your hand and put them into your deck. If you do, search your deck for up to that many Pokémon, reveal them, and put them into your hand. Then, shuffle your deck.
+  en: Reveal up to 2 Pokémon in your hand and put them into your deck. If you do, search your deck for up to that many Pokémon, reveal them, and put them into your hand. Then, shuffle your deck.
 rules_text:
   ja:
   en:

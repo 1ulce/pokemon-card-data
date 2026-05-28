@@ -26,10 +26,7 @@ body_text:
     このカードは、自分の手札から「基本炎エネルギー」を1枚トラッシュしなければ使えない。
 
     相手の場のポケモンについている「ポケモンのどうぐ」「特殊エネルギー」と場に出ている「スタジアム」の中から1枚選び、トラッシュする。
-  en: |-
-    Blowtorch Trainer - Item
-
-    You can use this card only if you discard a Basic [R] Energy card from your hand.Discard a Pokémon Tool or Special Energy card from 1 of your opponent's Pokémon, or discard a Stadium in play.
+  en: You can use this card only if you discard a Basic [R] Energy card from your hand.Discard a Pokémon Tool or Special Energy card from 1 of your opponent's Pokémon, or discard a Stadium in play.
 rules_text:
   ja:
   en:

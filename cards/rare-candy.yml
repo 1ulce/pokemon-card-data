@@ -23,10 +23,7 @@ resistance:
   value:
 body_text:
   ja: 自分の手札にある2進化ポケモンを1枚、そのポケモンへと進化する自分の場のたねポケモンにのせて進化させる。（最初の自分の番と、この番出したばかりのたねポケモンには使えない。）
-  en: |-
-    Rare Candy Trainer - Item
-
-    Choose 1 of your Basic Pokémon in play. If you have a Stage 2 card in your hand that evolves from that Pokémon, put that card on the Basic Pokémon. (This counts as evolving that Pokémon.) You can't use this card during your first turn or on a Basic Pokémon that was put into play this turn.
+  en: Choose 1 of your Basic Pokémon in play. If you have a Stage 2 card in your hand that evolves from that Pokémon, put that card on the Basic Pokémon. (This counts as evolving that Pokémon.) You can't use this card during your first turn or on a Basic Pokémon that was put into play this turn.
 rules_text:
   ja:
   en:

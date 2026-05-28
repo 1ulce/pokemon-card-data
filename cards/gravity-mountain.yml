@@ -23,10 +23,7 @@ resistance:
   value:
 body_text:
   ja: おたがいの場の2進化ポケモン全員の最大HPは、それぞれ「-30」される。
-  en: |-
-    Gravity Mountain Trainer - Stadium
-
-    Each Stage 2 Pokémon in play (both yours and your opponent's) gets -30 HP.
+  en: Each Stage 2 Pokémon in play (both yours and your opponent's) gets -30 HP.
 rules_text:
   ja:
   en:

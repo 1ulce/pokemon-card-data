@@ -23,10 +23,7 @@ resistance:
   value:
 body_text:
   ja: 自分の山札を上から4枚見て、その中からサポートを好きなだけ選び、相手に見せて、手札に加える。残りのカードは山札にもどして切る。
-  en: |-
-    Roto-Stick Trainer - Item
-
-    Look at the top 4 cards of your deck. You may reveal any number of Supporter cards you find there and put them into your hand. Shuffle the other cards back into your deck.
+  en: Look at the top 4 cards of your deck. You may reveal any number of Supporter cards you find there and put them into your hand. Shuffle the other cards back into your deck.
 rules_text:
   ja:
   en:

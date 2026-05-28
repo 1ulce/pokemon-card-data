@@ -23,10 +23,7 @@ resistance:
   value:
 body_text:
   ja: 自分の手札をすべてトラッシュし、自分の山札から「ポケモン」「サポート」「基本エネルギー」を1枚ずつ選び、相手に見せて、手札に加える。そして山札を切る。
-  en: |-
-    Larry's Skill Trainer - Supporter
-
-    Discard your hand and search your deck for a Pokémon, a Supporter card, and a Basic Energy card, reveal them, and put them into your hand. Then, shuffle your deck.
+  en: Discard your hand and search your deck for a Pokémon, a Supporter card, and a Basic Energy card, reveal them, and put them into your hand. Then, shuffle your deck.
 rules_text:
   ja:
   en:

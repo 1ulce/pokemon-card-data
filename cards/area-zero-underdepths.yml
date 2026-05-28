@@ -26,10 +26,7 @@ body_text:
     自分の場に「テラスタル」のポケモンがいるプレイヤーが、ベンチに出せるポケモンの数は8匹になる。
 
     （このカードがトラッシュされたときか、自分の場に「テラスタル」のポケモンがいなくなったとき、ベンチが5匹になるまでトラッシュする。おたがいにトラッシュするなら、このカードの持ち主から行う。）
-  en: |-
-    Area Zero Underdepths Trainer - Stadium
-
-    Each player who has any Tera Pokémon in play can have up to 8 Pokémon on their Bench.If a player no longer has any Tera Pokémon in play, that player discards Pokémon from their Bench until they have 5. When this card leaves play, both players discard Pokémon from their Bench until they have 5, and the player who played this card discards first.
+  en: Each player who has any Tera Pokémon in play can have up to 8 Pokémon on their Bench.If a player no longer has any Tera Pokémon in play, that player discards Pokémon from their Bench until they have 5. When this card leaves play, both players discard Pokémon from their Bench until they have 5, and the player who played this card discards first.
 rules_text:
   ja:
   en:

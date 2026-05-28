@@ -23,10 +23,7 @@ resistance:
   value:
 body_text:
   ja: 次の相手の番、相手のどくのポケモンは、にげられない。（新しくどくにしたポケモンもふくむ。）
-  en: |-
-    Roxie's Performance Trainer - Supporter
-
-    During your opponent's next turn, their Poisoned Pokémon can't retreat. (This includes newly Poisoned Pokémon.)
+  en: During your opponent's next turn, their Poisoned Pokémon can't retreat. (This includes newly Poisoned Pokémon.)
 rules_text:
   ja:
   en:

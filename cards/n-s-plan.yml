@@ -23,10 +23,7 @@ resistance:
   value:
 body_text:
   ja: 自分のベンチポケモンについているエネルギーを2個まで選び、バトルポケモンにつけ替える。
-  en: |-
-    N's Plan Trainer - Supporter
-
-    Move up to 2 Energy from your Benched Pokémon to your Active Pokémon.
+  en: Move up to 2 Energy from your Benched Pokémon to your Active Pokémon.
 rules_text:
   ja:
   en:

@@ -24,10 +24,7 @@ resistance:
   value:
 body_text:
   ja: 相手のバトルポケモンをやけどとこんらんにする。
-  en: |-
-    Dangerous Laser Trainer - Item
-
-    Your opponent's Active Pokémon is now Burned and Confused.
+  en: Your opponent's Active Pokémon is now Burned and Confused.
 rules_text:
   ja: ACE SPECのカードは、デッキに1枚しか入れられない。
   en:

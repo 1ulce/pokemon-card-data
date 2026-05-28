@@ -23,10 +23,7 @@ resistance:
   value:
 body_text:
   ja: おたがいのポケモン全員についている「ポケモンのどうぐ」の効果は、すべてなくなる。
-  en: |-
-    Jamming Tower Trainer - Stadium
-
-    Pokémon Tools attached to each Pokémon (both yours and your opponent's) have no effect.
+  en: Pokémon Tools attached to each Pokémon (both yours and your opponent's) have no effect.
 rules_text:
   ja:
   en:

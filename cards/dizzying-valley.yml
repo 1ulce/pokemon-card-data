@@ -23,10 +23,7 @@ resistance:
   value:
 body_text:
   ja: おたがいのこんらんのポケモンは、進化・退化してもこんらんが回復しない。
-  en: |-
-    Dizzying Valley Trainer - Stadium
-
-    Confused Pokémon (both yours and your opponent's) don't recover from that Special Condition when they evolve or devolve.
+  en: Confused Pokémon (both yours and your opponent's) don't recover from that Special Condition when they evolve or devolve.
 rules_text:
   ja:
   en:

@@ -23,10 +23,7 @@ resistance:
   value:
 body_text:
   ja: このカードをつけているポケモンの弱点のタイプと、相手のバトルポケモンのタイプが同じなら、このカードをつけているポケモンが、バトル場で相手のポケモンからワザのダメージを受けたとき、自分の山札を3枚引く。
-  en: |-
-    Adversity Policy Trainer - Tool
-
-    If the Pokémon this card is attached to has Weakness to your opponent's Active Pokémon's type, is in the Active Spot, and is damaged by an attack from your opponent's Pokémon (even if this Pokémon is Knocked Out), draw 3 cards.
+  en: If the Pokémon this card is attached to has Weakness to your opponent's Active Pokémon's type, is in the Active Spot, and is damaged by an attack from your opponent's Pokémon (even if this Pokémon is Knocked Out), draw 3 cards.
 rules_text:
   ja:
   en:

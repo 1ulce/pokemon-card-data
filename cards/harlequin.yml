@@ -23,10 +23,7 @@ resistance:
   value:
 body_text:
   ja: おたがいのプレイヤーは、それぞれ手札をすべて山札にもどして切る。その後、自分はコインを1回投げ、オモテなら自分は5枚、相手は3枚、山札を引く。ウラなら自分は3枚、相手は5枚、山札を引く。
-  en: |-
-    Harlequin Trainer - Supporter
-
-    Each player shuffles their hand into their deck. Then, flip a coin. If heads, you draw 5 cards, and your opponent draws 3 cards. If tails, you draw 3 cards, and your opponent draws 5 cards.
+  en: Each player shuffles their hand into their deck. Then, flip a coin. If heads, you draw 5 cards, and your opponent draws 3 cards. If tails, you draw 3 cards, and your opponent draws 5 cards.
 rules_text:
   ja:
   en:

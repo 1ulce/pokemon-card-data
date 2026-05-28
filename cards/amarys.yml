@@ -23,10 +23,7 @@ resistance:
   value:
 body_text:
   ja: 自分の山札を4枚引く。このカードを使った番の終わりに、自分の手札が5枚以上あるなら、自分の手札をすべてトラッシュする。
-  en: |-
-    Amarys Trainer - Supporter
-
-    Draw 4 cards. At the end of this turn, if you have 5 or more cards in your hand, discard your hand.
+  en: Draw 4 cards. At the end of this turn, if you have 5 or more cards in your hand, discard your hand.
 rules_text:
   ja:
   en:

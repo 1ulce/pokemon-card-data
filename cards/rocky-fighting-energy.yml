@@ -28,10 +28,7 @@ body_text:
 
 
     このカードをつけている闘ポケモンは、相手のポケモンが使うワザの効果を受けない。（すでに受けている効果は、なくならない。）
-  en: |-
-    Rocky Fighting Energy Energy - Special Energy
-
-    As long as this card is attached to a Pokémon, it provides [F] Energy.Prevent all effects of attacks used by your opponent's Pokémon done to the [F] Pokémon this card is attached to. (Existing effects are not removed. Damage is not an effect.)
+  en: As long as this card is attached to a Pokémon, it provides [F] Energy.Prevent all effects of attacks used by your opponent's Pokémon done to the [F] Pokémon this card is attached to. (Existing effects are not removed. Damage is not an effect.)
 rules_text:
   ja:
   en:

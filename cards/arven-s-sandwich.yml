@@ -23,10 +23,7 @@ resistance:
   value:
 body_text:
   ja: 自分のバトルポケモンのHPを「30」回復する。そのポケモンが「ペパーのポケモン」なら、回復するHPは「100」になる。
-  en: |-
-    Arven's Sandwich Trainer - Item
-
-    Heal 30 damage from your Active Pokémon. If that Pokémon is an Arven's Pokémon, heal 100 damage from it instead.
+  en: Heal 30 damage from your Active Pokémon. If that Pokémon is an Arven's Pokémon, heal 100 damage from it instead.
 rules_text:
   ja:
   en:

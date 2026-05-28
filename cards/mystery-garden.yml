@@ -23,10 +23,7 @@ resistance:
   value:
 body_text:
   ja: おたがいのプレイヤーは、自分の番ごとに1回、手札からエネルギーを1枚トラッシュするなら、自分の手札の枚数が、自分の場の超ポケモンの数と同じ枚数になるように、山札を引いてよい。
-  en: |-
-    Mystery Garden Trainer - Stadium
-
-    Once during each player's turn, that player may discard an Energy card from their hand in order to draw cards until they have as many cards in their hand as they have [P] Pokémon in play.
+  en: Once during each player's turn, that player may discard an Energy card from their hand in order to draw cards until they have as many cards in their hand as they have [P] Pokémon in play.
 rules_text:
   ja:
   en:

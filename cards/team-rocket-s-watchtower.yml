@@ -23,10 +23,7 @@ resistance:
   value:
 body_text:
   ja: おたがいの場のポケモン全員の特性は、すべてなくなる。
-  en: |-
-    Team Rocket's Watchtower Trainer - Stadium
-
-    [C] Pokémon in play (both yours and your opponent's) have no Abilities.
+  en: "[C] Pokémon in play (both yours and your opponent's) have no Abilities."
 rules_text:
   ja:
   en:

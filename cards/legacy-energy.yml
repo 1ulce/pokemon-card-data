@@ -24,10 +24,7 @@ resistance:
   value:
 body_text:
   ja: "このカードは、ポケモンについているかぎり、すべてのタイプのエネルギー1個ぶんとしてはたらく。\n\n \n\nこのカードをつけているポケモンが、相手のポケモンからワザのダメージを受けてきぜつしたとき、とられるサイドは1枚少なくなる。対戦中、自分の「レガシーエネルギー」のこの効果は、1回しかはたらかない。"
-  en: |-
-    Legacy Energy Energy - Special Energy
-
-    As long as this card is attached to a Pokémon, it provides every type of Energy but provides only 1 Energy at a time.If the Pokémon this card is attached to is Knocked Out by damage from an attack from your opponent's Pokémon, that player takes 1 fewer Prize card. This effect of your Legacy Energy can't be applied more than once per game.
+  en: As long as this card is attached to a Pokémon, it provides every type of Energy but provides only 1 Energy at a time.If the Pokémon this card is attached to is Knocked Out by damage from an attack from your opponent's Pokémon, that player takes 1 fewer Prize card. This effect of your Legacy Energy can't be applied more than once per game.
 rules_text:
   ja: ACE SPECのカードは、デッキに1枚しか入れられない。
   en:

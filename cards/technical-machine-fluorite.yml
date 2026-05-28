@@ -23,10 +23,7 @@ resistance:
   value:
 body_text:
   ja: このカードをつけているポケモンは、このカードに書かれているワザを使える。［ワザを使うためのエネルギーは必要。］ ポケモンについているこのカードは、自分の番の終わりにトラッシュする。
-  en: |-
-    Technical Machine: Fluorite Trainer - Tool
-
-    The Pokémon this card is attached to can use the attack on this card. (You still need the necessary Energy to use this attack.) If this card is attached to 1 of your Pokémon, discard it at the end of your turn. GWP Fluorite Discard all Energy from this Pokémon, and heal all damage from each of your Tera Pokémon.
+  en: The Pokémon this card is attached to can use the attack on this card. (You still need the necessary Energy to use this attack.) If this card is attached to 1 of your Pokémon, discard it at the end of your turn. GWP Fluorite Discard all Energy from this Pokémon, and heal all damage from each of your Tera Pokémon.
 rules_text:
   ja:
   en:

@@ -23,10 +23,7 @@ resistance:
   value:
 body_text:
   ja: 自分のトラッシュから基本エネルギーを1枚選び、ベンチの「Nのポケモン」につける。
-  en: |-
-    N's PP Up Trainer - Item
-
-    Attach a Basic Energy card from your discard pile to 1 of your Benched N's Pokémon.
+  en: Attach a Basic Energy card from your discard pile to 1 of your Benched N's Pokémon.
 rules_text:
   ja:
   en:

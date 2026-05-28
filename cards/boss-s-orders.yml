@@ -23,10 +23,7 @@ resistance:
   value:
 body_text:
   ja: 相手のベンチポケモンを1匹選び、バトルポケモンと入れ替える。
-  en: |-
-    Boss's Orders Trainer - Supporter
-
-    Switch 1 of your opponent's Benched Pokémon with their Active Pokémon.
+  en: Switch 1 of your opponent's Benched Pokémon with their Active Pokémon.
 rules_text:
   ja:
   en:

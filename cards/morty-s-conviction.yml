@@ -26,10 +26,7 @@ body_text:
     このカードは、自分の手札を1枚トラッシュしなければ使えない。
 
     相手のベンチポケモンの数ぶん、自分の山札を引く。
-  en: |-
-    Morty's Conviction Trainer - Supporter
-
-    You can use this card only if you discard another card from your hand.Draw a card for each of your opponent's Benched Pokémon.
+  en: You can use this card only if you discard another card from your hand.Draw a card for each of your opponent's Benched Pokémon.
 rules_text:
   ja:
   en:

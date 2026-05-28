@@ -23,10 +23,7 @@ resistance:
   value:
 body_text:
   ja: 相手は相手自身の手札を、3枚になるようにトラッシュする。
-  en: |-
-    Xerosic's Machinations Trainer - Supporter
-
-    Your opponent discards cards from their hand until they have 3 cards in their hand.
+  en: Your opponent discards cards from their hand until they have 3 cards in their hand.
 rules_text:
   ja:
   en:

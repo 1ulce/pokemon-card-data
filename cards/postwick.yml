@@ -23,10 +23,7 @@ resistance:
   value:
 body_text:
   ja: おたがいの「ホップのポケモン」が使うワザの、相手のバトルポケモンへのダメージは「+30」される。
-  en: |-
-    Postwick Trainer - Stadium
-
-    Attacks used by Hop's Pokémon (both yours and your opponent's) do 30 more damage to the opponent's Active Pokémon (before applying Weakness and Resistance).
+  en: Attacks used by Hop's Pokémon (both yours and your opponent's) do 30 more damage to the opponent's Active Pokémon (before applying Weakness and Resistance).
 rules_text:
   ja:
   en:

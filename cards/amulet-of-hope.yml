@@ -24,10 +24,7 @@ resistance:
   value:
 body_text:
   ja: このカードをつけているポケモンが、相手のポケモンからワザのダメージを受けてきぜつしたとき、自分の山札から好きなカードを3枚まで選び、手札に加える。そして山札を切る。
-  en: |-
-    Amulet of Hope Trainer - Tool
-
-    If the Pokémon this card is attached to is Knocked Out by damage from an attack from your opponent's Pokémon, search your deck for up to 3 cards and put them into your hand. Then, shuffle your deck.
+  en: If the Pokémon this card is attached to is Knocked Out by damage from an attack from your opponent's Pokémon, search your deck for up to 3 cards and put them into your hand. Then, shuffle your deck.
 rules_text:
   ja: ACE SPECのカードは、デッキに1枚しか入れられない。
   en:

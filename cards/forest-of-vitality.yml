@@ -23,10 +23,7 @@ resistance:
   value:
 body_text:
   ja: おたがいの草ポケモン全員は、出したばかりの番（最初の自分の番をのぞく）でも草ポケモンに進化できる。
-  en: |-
-    Forest of Vitality Trainer - Stadium
-
-    Each player's [G] Pokémon can evolve into [G] Pokémon during the turn they play those Pokémon, except during their first turn.
+  en: Each player's [G] Pokémon can evolve into [G] Pokémon during the turn they play those Pokémon, except during their first turn.
 rules_text:
   ja:
   en:

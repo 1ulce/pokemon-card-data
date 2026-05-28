@@ -23,10 +23,7 @@ resistance:
   value:
 body_text:
   ja: この番、手札からサポートを出して使っていたプレイヤーは、自分の番ごとに1回、自分のポケモン全員のHPを、それぞれ「10」回復してよい。
-  en: |-
-    Community Center Trainer - Stadium
-
-    Once during each player's turn, if they played a Supporter card from their hand this turn, they may heal 10 damage from each of their Pokémon.
+  en: Once during each player's turn, if they played a Supporter card from their hand this turn, they may heal 10 damage from each of their Pokémon.
 rules_text:
   ja:
   en:

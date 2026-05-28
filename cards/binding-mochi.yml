@@ -23,10 +23,7 @@ resistance:
   value:
 body_text:
   ja: このカードをつけているどくのポケモンが使うワザの、相手のバトルポケモンへのダメージは「+40」される。
-  en: |-
-    Binding Mochi Trainer - Tool
-
-    Attacks used by the Poisoned Pokémon this card is attached to do 40 more damage to your opponent's Active Pokémon (before applying Weakness and Resistance).
+  en: Attacks used by the Poisoned Pokémon this card is attached to do 40 more damage to your opponent's Active Pokémon (before applying Weakness and Resistance).
 rules_text:
   ja:
   en:

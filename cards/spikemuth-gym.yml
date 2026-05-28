@@ -23,10 +23,7 @@ resistance:
   value:
 body_text:
   ja: おたがいのプレイヤーは、自分の番ごとに1回、自分の山札から「マリィのポケモン」を1枚選び、相手に見せて、手札に加えてよい。そして山札を切る。
-  en: |-
-    Spikemuth Gym Trainer - Stadium
-
-    Once during each player's turn, that player may search their deck for a Marnie's Pokémon, reveal it, and put it into their hand. Then, that player shuffles their deck.
+  en: Once during each player's turn, that player may search their deck for a Marnie's Pokémon, reveal it, and put it into their hand. Then, that player shuffles their deck.
 rules_text:
   ja:
   en:

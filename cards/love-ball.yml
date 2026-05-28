@@ -23,10 +23,7 @@ resistance:
   value:
 body_text:
   ja: 自分の山札から、相手の場のポケモンと同じ名前のポケモンを1枚選び、相手に見せて、手札に加える。そして山札を切る。
-  en: |-
-    Love Ball Trainer - Item
-
-    Search your deck for a Pokémon with the same name as 1 of your opponent's Pokémon in play, reveal it, and put it into your hand. Then, shuffle your deck.
+  en: Search your deck for a Pokémon with the same name as 1 of your opponent's Pokémon in play, reveal it, and put it into your hand. Then, shuffle your deck.
 rules_text:
   ja:
   en:

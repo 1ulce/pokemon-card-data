@@ -23,10 +23,7 @@ resistance:
   value:
 body_text:
   ja: コインを1回投げる。オモテなら4枚、ウラなら2枚、自分の山札を引く。
-  en: |-
-    Picnicker Trainer - Supporter
-
-    Flip a coin. If heads, draw 4 cards. If tails, draw 2 cards.
+  en: Flip a coin. If heads, draw 4 cards. If tails, draw 2 cards.
 rules_text:
   ja:
   en:

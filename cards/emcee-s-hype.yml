@@ -23,10 +23,7 @@ resistance:
   value:
 body_text:
   ja: 自分の山札を2枚引く。相手のサイドの残り枚数が3枚以下なら、さらに2枚引く。
-  en: |-
-    Emcee's Hype Trainer - Supporter
-
-    Draw 2 cards. If your opponent has 3 or fewer Prize cards remaining, draw 2 more cards.
+  en: Draw 2 cards. If your opponent has 3 or fewer Prize cards remaining, draw 2 more cards.
 rules_text:
   ja:
   en:

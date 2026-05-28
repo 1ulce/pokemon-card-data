@@ -23,10 +23,7 @@ resistance:
   value:
 body_text:
   ja: 自分のトラッシュからポケモンを5枚選び、相手に見せてから、山札にもどす。そして山札を切る。
-  en: |-
-    Sacred Ash Trainer - Item
-
-    Shuffle 5 Pokémon from your discard pile into your deck.
+  en: Shuffle 5 Pokémon from your discard pile into your deck.
 rules_text:
   ja:
   en:

@@ -23,10 +23,7 @@ resistance:
   value:
 body_text:
   ja: コインを1回投げる。オモテなら進化ポケモンの「ロケット団のポケモン」、ウラならたねポケモンの「ロケット団のポケモン」を自分の山札から1枚選び、相手に見せて、手札に加える。そして山札を切る。
-  en: |-
-    Team Rocket's Great Ball Trainer - Item
-
-    Flip a coin. If heads, search your deck for an Evolution Team Rocket's Pokémon, reveal it, and put it into your hand. If tails, search your deck for a Basic Team Rocket's Pokémon, reveal it, and put it into your hand. Then, shuffle your deck.
+  en: Flip a coin. If heads, search your deck for an Evolution Team Rocket's Pokémon, reveal it, and put it into your hand. If tails, search your deck for a Basic Team Rocket's Pokémon, reveal it, and put it into your hand. Then, shuffle your deck.
 rules_text:
   ja:
   en:

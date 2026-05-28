@@ -23,10 +23,7 @@ resistance:
   value:
 body_text:
   ja: おたがいの「コダック」全員のにげるためのエネルギーは、それぞれ1個ぶん少なくなる。
-  en: |-
-    Paradise Resort Trainer - Stadium
-
-    The Retreat Cost of each Psyduck in play (both yours and your opponent's) is [C] less.
+  en: The Retreat Cost of each Psyduck in play (both yours and your opponent's) is [C] less.
 rules_text:
   ja:
   en:

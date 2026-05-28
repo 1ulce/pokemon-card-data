@@ -26,10 +26,7 @@ body_text:
     このカードは、相手のサイドの残り枚数が3枚以下のときにしか使えない。
 
     相手は相手自身の手札をすべてウラにして切り、山札の下にもどす。その後、相手は山札を3枚引く。
-  en: |-
-    Special Red Card Trainer - Item
-
-    You can use this card only if your opponent has 3 or fewer Prize cards remaining.Your opponent shuffles their hand and puts it on the bottom of their deck. If they put any cards on the bottom of their deck in this way, they draw 3 cards.
+  en: You can use this card only if your opponent has 3 or fewer Prize cards remaining.Your opponent shuffles their hand and puts it on the bottom of their deck. If they put any cards on the bottom of their deck in this way, they draw 3 cards.
 rules_text:
   ja:
   en:

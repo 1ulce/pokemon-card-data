@@ -23,10 +23,7 @@ resistance:
   value:
 body_text:
   ja: 自分の山札の下からカードを7枚見て、ポケモンを1枚選び、相手プレイヤーに見せてから、手札に加える。その後、山札を切る。
-  en: |-
-    Dusk Ball Trainer - Item
-
-    Look at the 7 cards from the bottom of your deck. Choose 1 Pokémon you find there, show it to your opponent, and put it into your hand. Put the remaining cards back on top of your deck. Shuffle your deck afterward.
+  en: Look at the 7 cards from the bottom of your deck. Choose 1 Pokémon you find there, show it to your opponent, and put it into your hand. Put the remaining cards back on top of your deck. Shuffle your deck afterward.
 rules_text:
   ja:
   en:

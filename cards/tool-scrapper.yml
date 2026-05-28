@@ -23,10 +23,7 @@ resistance:
   value:
 body_text:
   ja: おたがいの場のポケモンについている「ポケモンのどうぐ」を2枚まで選び、トラッシュする。
-  en: |-
-    Tool Scrapper Trainer - Item
-
-    Choose up to 2 Pokémon Tool cards attached to Pokémon in play (yours or your opponent's) and discard them.
+  en: Choose up to 2 Pokémon Tool cards attached to Pokémon in play (yours or your opponent's) and discard them.
 rules_text:
   ja:
   en:

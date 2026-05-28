@@ -24,10 +24,7 @@ resistance:
   value:
 body_text:
   ja: 自分のバトルポケモンをベンチポケモンと入れ替える。その後、入れ替えたポケモンについているエネルギーを好きなだけ選び、新しくバトル場に出したポケモンにつけ替える。
-  en: |-
-    Scramble Switch Trainer - Item
-
-    Switch your Active Pokémon with 1 of your Benched Pokémon. Then, you may move as many Energy attached to the old Active Pokémon to the new Active Pokémon as you like.
+  en: Switch your Active Pokémon with 1 of your Benched Pokémon. Then, you may move as many Energy attached to the old Active Pokémon to the new Active Pokémon as you like.
 rules_text:
   ja: ACE SPECのカードは、デッキに1枚しか入れられない。
   en:

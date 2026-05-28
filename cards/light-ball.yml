@@ -23,10 +23,7 @@ resistance:
   value:
 body_text:
   ja: このカードをつけている「ピカチュウex」が使うワザの、相手のバトル場の「ポケモンex」へのダメージは「+50」される。
-  en: |-
-    Light Ball Trainer - Tool
-
-    Attacks used by the Pikachu ex this card is attached to do 50 more damage to your opponent's Active Pokémon ex (before applying Weakness and Resistance).
+  en: Attacks used by the Pikachu ex this card is attached to do 50 more damage to your opponent's Active Pokémon ex (before applying Weakness and Resistance).
 rules_text:
   ja:
   en:

@@ -23,10 +23,7 @@ resistance:
   value:
 body_text:
   ja: 自分のトラッシュから水ポケモンと「基本水エネルギー」をそれぞれ3枚まで選び、相手に見せて、山札にもどして切る。
-  en: |-
-    Great Haul Net Trainer - Item
-
-    Choose 1 or both:• Shuffle up to 3 [W] Pokémon from your discard pile into your deck.• Shuffle up to 3 Basic [W] Energy cards from your discard pile into your deck.
+  en: Choose 1 or both:• Shuffle up to 3 [W] Pokémon from your discard pile into your deck.• Shuffle up to 3 Basic [W] Energy cards from your discard pile into your deck.
 rules_text:
   ja:
   en:

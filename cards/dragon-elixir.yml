@@ -23,10 +23,7 @@ resistance:
   value:
 body_text:
   ja: 自分のバトル場のドラゴンポケモンのHPを「60」回復する。
-  en: |-
-    Dragon Elixir Trainer - Item
-
-    Heal 60 damage from your Active [N] Pokémon.
+  en: Heal 60 damage from your Active [N] Pokémon.
 rules_text:
   ja:
   en:

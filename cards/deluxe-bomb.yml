@@ -24,10 +24,7 @@ resistance:
   value:
 body_text:
   ja: このカードをつけているポケモンが、バトル場で相手のポケモンからワザのダメージを受けたとき、ワザを使ったポケモンにダメカンを12個のせる。その後、このカードをトラッシュする。
-  en: |-
-    Deluxe Bomb Trainer - Tool
-
-    If the Pokémon this card is attached to is in the Active Spot and is damaged by an attack from your opponent's Pokémon (even if this Pokémon is Knocked Out), put 12 damage counters on the Attacking Pokémon. If you placed any damage counters in this way, discard this card.
+  en: If the Pokémon this card is attached to is in the Active Spot and is damaged by an attack from your opponent's Pokémon (even if this Pokémon is Knocked Out), put 12 damage counters on the Attacking Pokémon. If you placed any damage counters in this way, discard this card.
 rules_text:
   ja: ACE SPECのカードは、デッキに1枚しか入れられない。
   en:

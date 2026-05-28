@@ -23,10 +23,7 @@ resistance:
   value:
 body_text:
   ja: 自分のポケモンを1匹選び、HPを「60」回復する。回復した場合、そのポケモンについているエネルギーを1個選び、トラッシュする。
-  en: |-
-    Super Potion Trainer - Item
-
-    Heal 60 damage from 1 of your Pokémon. If you do, discard an Energy attached to that Pokémon.
+  en: Heal 60 damage from 1 of your Pokémon. If you do, discard an Energy attached to that Pokémon.
 rules_text:
   ja:
   en:

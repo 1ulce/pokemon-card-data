@@ -24,10 +24,7 @@ resistance:
   value:
 body_text:
   ja: 自分の場の「古代」のポケモンの数ぶん、山札を引く。
-  en: |-
-    Awakening Drum Trainer - Item
-
-    Draw a card for each of your Ancient Pokémon in play.
+  en: Draw a card for each of your Ancient Pokémon in play.
 rules_text:
   ja: ACE SPECのカードは、デッキに1枚しか入れられない。
   en:

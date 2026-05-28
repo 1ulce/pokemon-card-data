@@ -23,10 +23,7 @@ resistance:
   value:
 body_text:
   ja: 自分の手札が5枚になるように、山札を引く。のぞむなら、山札を引く前に、自分の手札を好きなだけトラッシュする。
-  en: |-
-    Naveen Trainer - Supporter
-
-    Draw cards until you have 5 cards in your hand. Before drawing cards, you may discard any number of cards from your hand. (If you can't draw any cards in this way, you can't use this card.)
+  en: Draw cards until you have 5 cards in your hand. Before drawing cards, you may discard any number of cards from your hand. (If you can't draw any cards in this way, you can't use this card.)
 rules_text:
   ja:
   en:

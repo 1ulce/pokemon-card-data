@@ -23,10 +23,7 @@ resistance:
   value:
 body_text:
   ja: 自分の手札をすべて山札にもどして切る。その後、山札を4枚引く。相手のサイドの残り枚数が3枚以下なら、引く枚数は8枚になる。
-  en: |-
-    Lacey Trainer - Supporter
-
-    Shuffle your hand into your deck. Then, draw 4 cards. If your opponent has 3 or fewer Prize cards remaining, draw 8 cards instead.
+  en: Shuffle your hand into your deck. Then, draw 4 cards. If your opponent has 3 or fewer Prize cards remaining, draw 8 cards instead.
 rules_text:
   ja:
   en:

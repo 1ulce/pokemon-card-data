@@ -23,10 +23,7 @@ resistance:
   value:
 body_text:
   ja: おたがいのベンチポケモン全員は、相手のワザや特性の効果で、ダメカンがのらない。［ワザのダメージは受ける。］
-  en: |-
-    Battle Cage Trainer - Stadium
-
-    Prevent all damage counters from being placed on Benched Pokémon (both yours and your opponent's) by effects of attacks and Abilities from the opponent's Pokémon. (Damage from attacks is still taken.)
+  en: Prevent all damage counters from being placed on Benched Pokémon (both yours and your opponent's) by effects of attacks and Abilities from the opponent's Pokémon. (Damage from attacks is still taken.)
 rules_text:
   ja:
   en:

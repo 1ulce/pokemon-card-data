@@ -23,10 +23,7 @@ resistance:
   value:
 body_text:
   ja: 相手の手札を見て、その中にあるポケモンの枚数ぶん、自分の山札を引く。
-  en: |-
-    Emma Trainer - Supporter
-
-    Your opponent reveals their hand, and you draw a card for each Pokémon you find there.
+  en: Your opponent reveals their hand, and you draw a card for each Pokémon you find there.
 rules_text:
   ja:
   en:

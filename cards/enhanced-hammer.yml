@@ -23,10 +23,7 @@ resistance:
   value:
 body_text:
   ja: 相手の場のポケモンについている特殊エネルギーを1個選び、トラッシュする。
-  en: |-
-    Enhanced Hammer Trainer - Item
-
-    Discard a Special Energy attached to 1 of your opponent's Pokémon.
+  en: Discard a Special Energy attached to 1 of your opponent's Pokémon.
 rules_text:
   ja:
   en:

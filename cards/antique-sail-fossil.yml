@@ -26,10 +26,7 @@ body_text:
     このカードは、HP60のタイプのたねポケモンとして、場に出せる。このカードは、特殊状態にならず、にげられない。
 
     自分の番の中でなら、場に出ているこのカードをトラッシュできる。
-  en: |-
-    Antique Sail Fossil Trainer - Item
-
-    Play this card as if it were a 60-HP Basic [C] Pokémon. This card can't be affected by any Special Conditions and can't retreat.At any time during your turn, you may discard this card from play. Ability: Protective Sail Whenever your opponent plays a Supporter card from their hand, prevent all effects of that card done to this Pokémon.
+  en: 'Play this card as if it were a 60-HP Basic [C] Pokémon. This card can''t be affected by any Special Conditions and can''t retreat.At any time during your turn, you may discard this card from play. Ability: Protective Sail Whenever your opponent plays a Supporter card from their hand, prevent all effects of that card done to this Pokémon.'
 rules_text:
   ja:
   en:

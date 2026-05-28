@@ -28,10 +28,7 @@ body_text:
     ◆自分のバトルポケモンをベンチポケモンと入れ替える。
 
     ◆この番、自分のポケモンが使うワザの、相手のバトル場の「ポケモンex・V」へのダメージは「+30」される。
-  en: |-
-    Kieran Trainer - Supporter
-
-    Choose 1:• Switch your Active Pokémon with 1 of your Benched Pokémon.• During this turn, attacks used by your Pokémon do 30 more damage to your opponent's Active Pokémon ex and Active Pokémon V (before applying Weakness and Resistance).
+  en: Choose 1:• Switch your Active Pokémon with 1 of your Benched Pokémon.• During this turn, attacks used by your Pokémon do 30 more damage to your opponent's Active Pokémon ex and Active Pokémon V (before applying Weakness and Resistance).
 rules_text:
   ja:
   en:

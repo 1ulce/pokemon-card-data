@@ -23,10 +23,7 @@ resistance:
   value:
 body_text:
   ja: 自分のトラッシュから闘ポケモンと「基本闘エネルギー」を合計4枚まで選び、相手に見せて、手札に加える。
-  en: |-
-    Tarragon Trainer - Supporter
-
-    Put up to 4 in any combination of [F] Pokémon and Basic [F] Energy cards from your discard pile into your hand.
+  en: Put up to 4 in any combination of [F] Pokémon and Basic [F] Energy cards from your discard pile into your hand.
 rules_text:
   ja:
   en:

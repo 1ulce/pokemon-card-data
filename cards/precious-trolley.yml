@@ -24,10 +24,7 @@ resistance:
   value:
 body_text:
   ja: 自分の山札からたねポケモンを好きなだけ選び、ベンチに出す。そして山札を切る。
-  en: |-
-    Precious Trolley Trainer - Item
-
-    Search your deck for any number of Basic Pokémon and put them onto your Bench. Then, shuffle your deck.
+  en: Search your deck for any number of Basic Pokémon and put them onto your Bench. Then, shuffle your deck.
 rules_text:
   ja: ACE SPECのカードは、デッキに1枚しか入れられない。
   en:

@@ -23,10 +23,7 @@ resistance:
   value:
 body_text:
   ja: 自分の手札をすべて山札にもどして切る。その後、コインを1回投げ、オモテなら8枚、ウラなら3枚、山札を引く。
-  en: |-
-    Drasna Trainer - Supporter
-
-    Shuffle your hand into your deck. Then, flip a coin. If heads, draw 8 cards. If tails, draw 3 cards.
+  en: Shuffle your hand into your deck. Then, flip a coin. If heads, draw 8 cards. If tails, draw 3 cards.
 rules_text:
   ja:
   en:

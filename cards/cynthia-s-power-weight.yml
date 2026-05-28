@@ -23,10 +23,7 @@ resistance:
   value:
 body_text:
   ja: このカードをつけている「シロナのポケモン」の最大HPは「＋70」される。
-  en: |-
-    Cynthia's Power Weight Trainer - Tool
-
-    The Cynthia's Pokémon this card is attached to gets +70 HP.
+  en: The Cynthia's Pokémon this card is attached to gets +70 HP.
 rules_text:
   ja:
   en:

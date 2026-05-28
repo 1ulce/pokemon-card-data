@@ -23,10 +23,7 @@ resistance:
   value:
 body_text:
   ja: 自分の山札から、HPが「70」以下のたねポケモンを2枚まで選び、ベンチに出す。そして山札を切る。
-  en: |-
-    Buddy-Buddy Poffin Trainer - Item
-
-    Search your deck for up to 2 Basic Pokémon with 70 HP or less and put them onto your Bench. Then, shuffle your deck.
+  en: Search your deck for up to 2 Basic Pokémon with 70 HP or less and put them onto your Bench. Then, shuffle your deck.
 rules_text:
   ja:
   en:

@@ -26,10 +26,7 @@ body_text:
     このカードは、場に出ている「プリズムタワー」をトラッシュしなければ場に出せず、「プリズムタワー」を出した番でも場に出せる。
 
     おたがいの場の「メガフラエッテex」全員は、それぞれ最大HPが「+150」される。
-  en: |-
-    Ange Floette Trainer - Stadium
-
-    You can put this card into play only if you discard a Prism Tower in play, and you can put this card into play during the same turn you play Prism Tower.Each Mega Floette ex in play (both yours and your opponent's) gets +150 HP.
+  en: You can put this card into play only if you discard a Prism Tower in play, and you can put this card into play during the same turn you play Prism Tower.Each Mega Floette ex in play (both yours and your opponent's) gets +150 HP.
 rules_text:
   ja:
   en:
