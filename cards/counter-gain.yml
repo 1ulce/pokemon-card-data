@@ -22,7 +22,7 @@ resistance:
   type:
   value:
 body_text:
-  ja: 自分のサイドの残り枚数が、相手のサイドの残り枚数より多いなら、このカードをつけているポケモンがワザを使うためのエネルギーは、エネルギー1個ぶん少なくなる。
+  ja: 自分のサイドの残り枚数が、相手のサイドの残り枚数より多いなら、このカードをつけているポケモンがワザを使うためのエネルギーは、無色エネルギー1個ぶん少なくなる。
   en: If you have more Prize cards remaining than your opponent, the attacks of the Pokémon this card is attached to cost [C] less.
 rules_text:
   ja:

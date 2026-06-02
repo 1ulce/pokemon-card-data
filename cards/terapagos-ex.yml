@@ -51,7 +51,7 @@ attacks:
   - Lightning
   damage: '180'
   effect_text:
-    ja: 次の相手の番、このポケモンはたねポケモン（ポケモンをのぞく）からワザのダメージを受けない。
+    ja: 次の相手の番、このポケモンはたねポケモン（無色ポケモンをのぞく）からワザのダメージを受けない。
     en: During your opponent's next turn, prevent all damage done to this Pokémon by attacks from Basic non-[C] Pokémon.
 first_appearance:
   set_name_ja: ステラミラクル

@@ -34,7 +34,7 @@ abilities:
     ja: ろうれんのわざ
     en: Seasoned Skill
   effect_text:
-    ja: 相手がすでにとったサイドの枚数ぶん、このポケモンが「ブラッドムーン」を使うためのエネルギーは少なくなる。
+    ja: 相手がすでにとったサイドの枚数ぶん、このポケモンが「ブラッドムーン」を使うための無色エネルギーは少なくなる。
     en: Blood Moon used by this Pokémon costs [C] less for each Prize card your opponent has taken.
 attacks:
 - position: 0

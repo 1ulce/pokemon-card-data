@@ -37,7 +37,7 @@ attacks:
   - Colorless
   damage:
   effect_text:
-    ja: 次の自分の番の終わりまで、このワザを受けたポケモンの弱点はタイプになる。［弱点は「×2」でダメージ計算をする。］
+    ja: 次の自分の番の終わりまで、このワザを受けたポケモンの弱点は無色タイプになる。［弱点は「×2」でダメージ計算をする。］
     en: Until the end of your next turn, the Defending Pokémon's Weakness is now [C]. (The amount of Weakness doesn't change.)
 - position: 1
   name:

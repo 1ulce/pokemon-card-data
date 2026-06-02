@@ -34,7 +34,7 @@ abilities:
     ja: スナイパーアイ
     en: Sniper's Eye
   effect_text:
-    ja: 相手の手札が4枚なら、このポケモンはワザを使うためのエネルギーが、すべてなくなる。
+    ja: 相手の手札が4枚なら、このポケモンはワザを使うための無色エネルギーが、すべてなくなる。
     en: If your opponent has exactly 4 cards in their hand, ignore all [C] Energy in the costs of attacks used by this Pokémon.
 attacks:
 - position: 0

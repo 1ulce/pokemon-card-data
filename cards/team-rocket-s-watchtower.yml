@@ -22,7 +22,7 @@ resistance:
   type:
   value:
 body_text:
-  ja: おたがいの場のポケモン全員の特性は、すべてなくなる。
+  ja: おたがいの場の無色ポケモン全員の特性は、すべてなくなる。
   en: "[C] Pokémon in play (both yours and your opponent's) have no Abilities."
 rules_text:
   ja:

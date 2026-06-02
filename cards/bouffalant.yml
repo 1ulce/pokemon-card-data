@@ -33,7 +33,7 @@ abilities:
     ja: カーリーウォール
     en: Curly Wall
   effect_text:
-    ja: このポケモンと、自分の別の「バッフロン」がいるかぎり、自分のタイプのたねポケモン全員が、相手のポケモンから受けるワザのダメージは「-60」される。この効果は、この特性を持つポケモンが何匹いても、重ならない。
+    ja: このポケモンと、自分の別の「バッフロン」がいるかぎり、自分の無色タイプのたねポケモン全員が、相手のポケモンから受けるワザのダメージは「-60」される。この効果は、この特性を持つポケモンが何匹いても、重ならない。
     en: As long as you have at least 1 other Bouffalant in play, all of your Basic [C] Pokémon take 60 less damage from attacks from your opponent's Pokémon (after applying Weakness and Resistance). The effect of Curly Wall doesn't stack.
 attacks:
 - position: 0

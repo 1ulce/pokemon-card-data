@@ -33,7 +33,7 @@ abilities:
     ja: アンチプラズマ
     en: Plasma Bane
   effect_text:
-    ja: 相手のトラッシュに、名前に「アクロマ」とつくカードがあるなら、このポケモンが「トライフロスト」を使うためのエネルギーは、エネルギー1個になる。
+    ja: 相手のトラッシュに、名前に「アクロマ」とつくカードがあるなら、このポケモンが「トライフロスト」を使うためのエネルギーは、無色エネルギー1個になる。
     en: If your opponent has any cards in their discard pile that have "Colress" in the name, this Pokémon can use the Trifrost attack for [C].
 attacks:
 - position: 0

@@ -23,7 +23,7 @@ resistance:
   value:
 body_text:
   ja: |-
-    このカードは、ポケモンについているかぎり、エネルギー1個ぶんとしてはたらく。
+    このカードは、ポケモンについているかぎり、無色エネルギー1個ぶんとしてはたらく。
 
 
 
@@ -31,7 +31,7 @@ body_text:
   en: This card provides [C] Energy. If the Pokémon this card is attached to is a Basic Pokémon, this card provides every type of Energy but provides only 1 Energy at a time.
 rules_text:
   ja: |-
-    このカードは、エネルギー1個ぶんとしてはたらく。
+    このカードは、無色エネルギー1個ぶんとしてはたらく。
 
     たねポケモンについているかぎり、すべてのタイプのエネルギー1個ぶんとしてはたらく。
   en:

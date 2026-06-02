@@ -34,7 +34,7 @@ abilities:
     ja: ハッスルプレー
     en: Hustle Play
   effect_text:
-    ja: 相手のベンチポケモンの数ぶん、このポケモンがワザを使うためのエネルギーは少なくなる。
+    ja: 相手のベンチポケモンの数ぶん、このポケモンがワザを使うための無色エネルギーは少なくなる。
     en: Attacks used by this Pokémon cost [C] less for each of your opponent's Benched Pokémon.
 attacks:
 - position: 0

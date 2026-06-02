@@ -37,7 +37,7 @@ attacks:
   - Grass
   damage: '60'
   effect_text:
-    ja: 次の相手の番、このワザを受けたポケモンは、ワザを使うためのエネルギーとにげるためのエネルギーが、それぞれエネルギー1個ぶん多くなる。
+    ja: 次の相手の番、このワザを受けたポケモンは、ワザを使うためのエネルギーとにげるためのエネルギーが、それぞれ無色エネルギー1個ぶん多くなる。
     en: During your opponent's next turn, attacks used by the Defending Pokémon cost [C] more, and its Retreat Cost is [C] more.
 - position: 1
   name:

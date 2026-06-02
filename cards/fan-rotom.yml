@@ -33,7 +33,7 @@ abilities:
     ja: ファンコール
     en: Fan Call
   effect_text:
-    ja: 最初の自分の番にだけ1回使える。自分の山札から、HPが「100」以下のポケモンを3枚まで選び、相手に見せて、手札に加える。そして山札を切る。この番、すでに別の「ファンコール」を使っていたなら、この特性は使えない。
+    ja: 最初の自分の番にだけ1回使える。自分の山札から、HPが「100」以下の無色ポケモンを3枚まで選び、相手に見せて、手札に加える。そして山札を切る。この番、すでに別の「ファンコール」を使っていたなら、この特性は使えない。
     en: Once during your first turn, you may search your deck for up to 3 [C] Pokémon with 100 HP or less, reveal them, and put them into your hand. Then, shuffle your deck. You can't use more than 1 Fan Call Ability during your turn.
 attacks:
 - position: 0
