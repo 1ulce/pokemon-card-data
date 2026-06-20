@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: granbull
+external_link:
+  cabt_id: 763
 name:
   ja: グランブル
   en: Granbull

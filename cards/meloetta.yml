@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: meloetta
+external_link:
+  cabt_id: 765
 name:
   ja: メロエッタ
   en: Meloetta

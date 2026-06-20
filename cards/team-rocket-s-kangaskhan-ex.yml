@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: team-rocket-s-kangaskhan-ex
+external_link:
+  cabt_id: 24
 name:
   ja: ロケット団のガルーラex
   en: Team Rocket's Kangaskhan ex

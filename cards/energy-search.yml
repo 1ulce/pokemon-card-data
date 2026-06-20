@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: energy-search
+external_link:
+  cabt_id: 1119
 name:
   ja: エネルギー転送
   en: Energy Search

@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: melmetal
+external_link:
+  cabt_id: 991
 name:
   ja: メルメタル
   en: Melmetal

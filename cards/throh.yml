@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: throh
+external_link:
+  cabt_id: 531
 name:
   ja: ナゲキ
   en: Throh

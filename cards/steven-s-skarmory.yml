@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: steven-s-skarmory
+external_link:
+  cabt_id: 638
 name:
   ja: ダイゴのエアームド
   en: Steven's Skarmory

@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: mega-signal
+external_link:
+  cabt_id: 1145
 name:
   ja: メガシグナル
   en: Mega Signal

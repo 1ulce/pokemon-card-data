@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: bouffalant-ex
+external_link:
+  cabt_id: 631
 name:
   ja: バッフロンex
   en: Bouffalant ex

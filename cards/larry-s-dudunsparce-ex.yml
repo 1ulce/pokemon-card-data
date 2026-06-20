@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: larry-s-dudunsparce-ex
+external_link:
+  cabt_id: 997
 name:
   ja: アオキのノココッチex
   en: Larry's Dudunsparce ex

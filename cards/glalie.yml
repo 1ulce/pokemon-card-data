@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: glalie
+external_link:
+  cabt_id: 940
 name:
   ja: オニゴーリ
   en: Glalie

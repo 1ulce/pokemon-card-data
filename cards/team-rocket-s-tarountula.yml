@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: team-rocket-s-tarountula
+external_link:
+  cabt_id: 400
 name:
   ja: ロケット団のタマンチュラ
   en: Team Rocket's Tarountula

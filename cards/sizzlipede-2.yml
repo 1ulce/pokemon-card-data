@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: sizzlipede-2
+external_link:
+  cabt_id: 717
 name:
   ja: ヤクデ
   en: Sizzlipede

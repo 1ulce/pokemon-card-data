@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: bug-catching-set
+external_link:
+  cabt_id: 1094
 name:
   ja: むしとりセット
   en: Bug Catching Set

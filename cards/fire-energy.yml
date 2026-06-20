@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: fire-energy
+external_link:
+  cabt_id: 2
 name:
   ja: 基本炎エネルギー
   en: Fire Energy

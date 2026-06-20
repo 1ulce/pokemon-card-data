@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: makuhita
+external_link:
+  cabt_id: 673
 name:
   ja: マクノシタ
   en: Makuhita

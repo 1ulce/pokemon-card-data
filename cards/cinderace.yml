@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: cinderace
+external_link:
+  cabt_id: 666
 name:
   ja: エースバーン
   en: Cinderace

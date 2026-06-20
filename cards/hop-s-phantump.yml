@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: hop-s-phantump
+external_link:
+  cabt_id: 878
 name:
   ja: ホップのボクレー
   en: Hop's Phantump

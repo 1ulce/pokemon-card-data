@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: hop-s-silicobra
+external_link:
+  cabt_id: 288
 name:
   ja: ホップのスナヘビ
   en: Hop's Silicobra

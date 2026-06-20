@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: n-s-plan
+external_link:
+  cabt_id: 1221
 name:
   ja: Nの筋書き
   en: N's Plan

@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: misty-s-lapras
+external_link:
+  cabt_id: 364
 name:
   ja: カスミのラプラス
   en: Misty's Lapras

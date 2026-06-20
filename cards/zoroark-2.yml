@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: zoroark-2
+external_link:
+  cabt_id: 615
 name:
   ja: ゾロアーク
   en: Zoroark

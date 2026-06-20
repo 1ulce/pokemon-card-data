@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: enriching-energy
+external_link:
+  cabt_id: 13
 name:
   ja: リッチエネルギー
   en: Enriching Energy

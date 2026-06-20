@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: water-energy
+external_link:
+  cabt_id: 3
 name:
   ja: 基本水エネルギー
   en: Water Energy

@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: slaking-ex
+external_link:
+  cabt_id: 232
 name:
   ja: ケッキングex
   en: Slaking ex

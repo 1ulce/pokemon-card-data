@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: team-rocket-s-hypno
+external_link:
+  cabt_id: 430
 name:
   ja: ロケット団のスリーパー
   en: Team Rocket's Hypno

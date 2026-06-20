@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: lightning-energy
+external_link:
+  cabt_id: 4
 name:
   ja: 基本雷エネルギー
   en: Lightning Energy

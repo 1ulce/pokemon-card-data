@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: area-zero-underdepths
+external_link:
+  cabt_id: 1250
 name:
   ja: ゼロの大空洞
   en: Area Zero Underdepths

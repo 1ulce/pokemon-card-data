@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: marnie-s-purrloin
+external_link:
+  cabt_id: 642
 name:
   ja: マリィのチョロネコ
   en: Marnie's Purrloin

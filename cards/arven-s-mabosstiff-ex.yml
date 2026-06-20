@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: arven-s-mabosstiff-ex
+external_link:
+  cabt_id: 389
 name:
   ja: ペパーのマフィティフex
   en: Arven's Mabosstiff ex

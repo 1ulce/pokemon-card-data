@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: eelektross
+external_link:
+  cabt_id: 513
 name:
   ja: シビルドン
   en: Eelektross

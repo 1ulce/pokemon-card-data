@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: zacian
+external_link:
+  cabt_id: 816
 name:
   ja: ザシアン
   en: Zacian

@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: klink-2
+external_link:
+  cabt_id: 621
 name:
   ja: ギアル
   en: Klink

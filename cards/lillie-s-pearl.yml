@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: lillie-s-pearl
+external_link:
+  cabt_id: 1172
 name:
   ja: リーリエのしんじゅ
   en: Lillie's Pearl

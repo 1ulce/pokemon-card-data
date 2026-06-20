@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: cynthia-s-feebas
+external_link:
+  cabt_id: 365
 name:
   ja: シロナのヒンバス
   en: Cynthia's Feebas

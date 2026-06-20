@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: dragonair
+external_link:
+  cabt_id: 903
 name:
   ja: ハクリュー
   en: Dragonair

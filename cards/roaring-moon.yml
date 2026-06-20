@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: roaring-moon
+external_link:
+  cabt_id: 61
 name:
   ja: トドロクツキ
   en: Roaring Moon

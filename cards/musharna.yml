@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: musharna
+external_link:
+  cabt_id: 517
 name:
   ja: ムシャーナ
   en: Musharna

@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: chandelure-2
+external_link:
+  cabt_id: 495
 name:
   ja: シャンデラ
   en: Chandelure

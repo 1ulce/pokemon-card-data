@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: virizion-2
+external_link:
+  cabt_id: 566
 name:
   ja: ビリジオン
   en: Virizion

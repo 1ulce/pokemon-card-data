@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: seel
+external_link:
+  cabt_id: 1028
 name:
   ja: パウワウ
   en: Seel

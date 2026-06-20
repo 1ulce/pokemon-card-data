@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: munkidori
+external_link:
+  cabt_id: 112
 name:
   ja: マシマシラ
   en: Munkidori

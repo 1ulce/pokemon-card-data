@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: rufflet
+external_link:
+  cabt_id: 632
 name:
   ja: ワシボン
   en: Rufflet

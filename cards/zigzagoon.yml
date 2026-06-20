@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: zigzagoon
+external_link:
+  cabt_id: 846
 name:
   ja: ジグザグマ
   en: Zigzagoon

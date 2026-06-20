@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: boldore
+external_link:
+  cabt_id: 600
 name:
   ja: ガントル
   en: Boldore

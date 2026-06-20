@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: tangela-2
+external_link:
+  cabt_id: 706
 name:
   ja: モンジャラ
   en: Tangela

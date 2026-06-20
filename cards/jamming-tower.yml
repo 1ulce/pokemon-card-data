@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: jamming-tower
+external_link:
+  cabt_id: 1246
 name:
   ja: ジャミングタワー
   en: Jamming Tower

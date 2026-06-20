@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: ogre-s-mask
+external_link:
+  cabt_id: 1090
 name:
   ja: 鬼の仮面
   en: Ogre's Mask

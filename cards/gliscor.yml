@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: gliscor
+external_link:
+  cabt_id: 821
 name:
   ja: グライオン
   en: Gliscor

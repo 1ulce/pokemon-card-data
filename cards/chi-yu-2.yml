@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: chi-yu-2
+external_link:
+  cabt_id: 719
 name:
   ja: イーユイ
   en: Chi-Yu

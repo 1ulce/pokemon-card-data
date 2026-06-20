@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: bianca-s-devotion
+external_link:
+  cabt_id: 1190
 name:
   ja: ベルのまごころ
   en: Bianca's Devotion

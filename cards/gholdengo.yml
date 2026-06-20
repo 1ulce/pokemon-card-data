@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: gholdengo
+external_link:
+  cabt_id: 191
 name:
   ja: サーフゴー
   en: Gholdengo

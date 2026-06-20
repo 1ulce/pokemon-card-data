@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: capsakid
+external_link:
+  cabt_id: 925
 name:
   ja: カプサイジ
   en: Capsakid

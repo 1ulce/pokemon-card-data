@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: sableye-2
+external_link:
+  cabt_id: 775
 name:
   ja: ヤミラミ
   en: Sableye

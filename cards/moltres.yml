@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: moltres
+external_link:
+  cabt_id: 791
 name:
   ja: ファイヤー
   en: Moltres

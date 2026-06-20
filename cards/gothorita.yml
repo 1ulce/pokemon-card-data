@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: gothorita
+external_link:
+  cabt_id: 595
 name:
   ja: ゴチミル
   en: Gothorita

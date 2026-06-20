@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: snubbull
+external_link:
+  cabt_id: 762
 name:
   ja: ブルー
   en: Snubbull

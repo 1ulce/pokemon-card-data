@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: steven-s-carbink
+external_link:
+  cabt_id: 637
 name:
   ja: ダイゴのメレシー
   en: Steven's Carbink

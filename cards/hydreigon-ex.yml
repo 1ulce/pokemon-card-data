@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: hydreigon-ex
+external_link:
+  cabt_id: 229
 name:
   ja: サザンドラex
   en: Hydreigon ex
@@ -13,6 +15,7 @@ retreat_cost: 3
 regulation_mark: H
 meta_tags:
 - ex
+- tera
 evolves_from:
   ja: ジヘッド
   en: Zweilous

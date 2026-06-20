@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: walrein
+external_link:
+  cabt_id: 943
 name:
   ja: トドゼルガ
   en: Walrein

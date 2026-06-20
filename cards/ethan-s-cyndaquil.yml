@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: ethan-s-cyndaquil
+external_link:
+  cabt_id: 352
 name:
   ja: ヒビキのヒノアラシ
   en: Ethan's Cyndaquil

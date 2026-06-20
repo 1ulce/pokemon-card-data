@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: briar
+external_link:
+  cabt_id: 1201
 name:
   ja: ブライア
   en: Briar

@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: glass-trumpet
+external_link:
+  cabt_id: 1098
 name:
   ja: ガラスのラッパ
   en: Glass Trumpet

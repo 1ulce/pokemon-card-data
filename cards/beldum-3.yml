@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: beldum-3
+external_link:
+  cabt_id: 274
 name:
   ja: ダンバル
   en: Beldum

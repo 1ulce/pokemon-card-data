@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: hippopotas
+external_link:
+  cabt_id: 22
 name:
   ja: ヒポポタス
   en: Hippopotas

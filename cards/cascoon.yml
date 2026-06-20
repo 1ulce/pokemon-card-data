@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: cascoon
+external_link:
+  cabt_id: 853
 name:
   ja: マユルド
   en: Cascoon

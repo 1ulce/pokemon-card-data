@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: dragapult-ex
+external_link:
+  cabt_id: 121
 name:
   ja: ドラパルトex
   en: Dragapult ex
@@ -13,6 +15,7 @@ retreat_cost: 1
 regulation_mark: H
 meta_tags:
 - ex
+- tera
 evolves_from:
   ja: ドロンチ
   en: Drakloak

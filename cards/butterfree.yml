@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: butterfree
+external_link:
+  cabt_id: 254
 name:
   ja: バタフリー
   en: Butterfree

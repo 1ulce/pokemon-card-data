@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: team-rocket-s-hypnotizer
+external_link:
+  cabt_id: 1154
 name:
   ja: ロケット団のさいみん装置
   en: Team Rocket's Hypnotizer

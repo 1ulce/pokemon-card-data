@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: n-s-vanillish
+external_link:
+  cabt_id: 863
 name:
   ja: Nのバニリッチ
   en: N's Vanillish

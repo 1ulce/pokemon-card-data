@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: torracat
+external_link:
+  cabt_id: 78
 name:
   ja: ニャヒート
   en: Torracat

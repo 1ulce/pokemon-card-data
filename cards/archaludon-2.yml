@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: archaludon-2
+external_link:
+  cabt_id: 840
 name:
   ja: ブリジュラス
   en: Archaludon

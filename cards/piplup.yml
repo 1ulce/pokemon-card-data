@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: piplup
+external_link:
+  cabt_id: 804
 name:
   ja: ポッチャマ
   en: Piplup

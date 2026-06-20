@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: oddish
+external_link:
+  cabt_id: 778
 name:
   ja: ナゾノクサ
   en: Oddish

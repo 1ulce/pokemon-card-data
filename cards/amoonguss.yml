@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: amoonguss
+external_link:
+  cabt_id: 489
 name:
   ja: モロバレル
   en: Amoonguss

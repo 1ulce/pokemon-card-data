@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: orthworm-ex
+external_link:
+  cabt_id: 993
 name:
   ja: ミミズズex
   en: Orthworm ex

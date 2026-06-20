@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: chill-teaser-toy
+external_link:
+  cabt_id: 1108
 name:
   ja: のんびりじゃらし
   en: Chill Teaser Toy

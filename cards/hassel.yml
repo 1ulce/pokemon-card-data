@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: hassel
+external_link:
+  cabt_id: 1193
 name:
   ja: ハッサク
   en: Hassel

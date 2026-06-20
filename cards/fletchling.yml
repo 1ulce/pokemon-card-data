@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: fletchling
+external_link:
+  cabt_id: 1075
 name:
   ja: ヤヤコマ
   en: Fletchling

@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: bagon
+external_link:
+  cabt_id: 300
 name:
   ja: タツベイ
   en: Bagon

@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: deduction-kit
+external_link:
+  cabt_id: 1106
 name:
   ja: 推理セット
   en: Deduction Kit

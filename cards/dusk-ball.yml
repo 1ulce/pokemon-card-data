@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: dusk-ball
+external_link:
+  cabt_id: 1102
 name:
   ja: ダークボール
   en: Dusk Ball

@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: switch
+external_link:
+  cabt_id: 1123
 name:
   ja: ポケモンいれかえ
   en: Switch

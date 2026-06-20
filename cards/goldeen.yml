@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: goldeen
+external_link:
+  cabt_id: 100
 name:
   ja: トサキント
   en: Goldeen

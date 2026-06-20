@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: hoopa
+external_link:
+  cabt_id: 985
 name:
   ja: フーパ
   en: Hoopa

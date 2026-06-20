@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: team-rocket-s-honchkrow
+external_link:
+  cabt_id: 891
 name:
   ja: ロケット団のドンカラス
   en: Team Rocket's Honchkrow

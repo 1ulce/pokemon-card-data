@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: arven-s-toedscool
+external_link:
+  cabt_id: 384
 name:
   ja: ペパーのノノクラゲ
   en: Arven's Toedscool

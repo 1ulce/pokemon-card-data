@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: erika-s-weepinbell
+external_link:
+  cabt_id: 913
 name:
   ja: エリカのウツドン
   en: Erika's Weepinbell

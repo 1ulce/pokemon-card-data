@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: black-belt-s-training
+external_link:
+  cabt_id: 1211
 name:
   ja: からておうの稽古
   en: Black Belt's Training

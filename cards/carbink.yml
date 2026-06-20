@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: carbink
+external_link:
+  cabt_id: 976
 name:
   ja: メレシー
   en: Carbink

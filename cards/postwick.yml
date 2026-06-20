@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: postwick
+external_link:
+  cabt_id: 1255
 name:
   ja: ハロンタウン
   en: Postwick

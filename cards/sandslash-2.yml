@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: sandslash-2
+external_link:
+  cabt_id: 670
 name:
   ja: サンドパン
   en: Sandslash

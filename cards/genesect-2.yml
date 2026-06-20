@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: genesect-2
+external_link:
+  cabt_id: 785
 name:
   ja: ゲノセクト
   en: Genesect

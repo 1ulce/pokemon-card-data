@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: snorunt-2
+external_link:
+  cabt_id: 860
 name:
   ja: ユキワラシ
   en: Snorunt

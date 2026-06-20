@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: tapu-koko-ex
+external_link:
+  cabt_id: 329
 name:
   ja: カプ・コケコex
   en: Tapu Koko ex

@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: dunsparce
+external_link:
+  cabt_id: 305
 name:
   ja: ノコッチ
   en: Dunsparce

@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: kyurem
+external_link:
+  cabt_id: 144
 name:
   ja: キュレム
   en: Kyurem

@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: team-rocket-s-articuno
+external_link:
+  cabt_id: 414
 name:
   ja: ロケット団のフリーザー
   en: Team Rocket's Articuno

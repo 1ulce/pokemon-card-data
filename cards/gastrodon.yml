@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: gastrodon
+external_link:
+  cabt_id: 225
 name:
   ja: トリトドン
   en: Gastrodon

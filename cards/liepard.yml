@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: liepard
+external_link:
+  cabt_id: 609
 name:
   ja: レパルダス
   en: Liepard

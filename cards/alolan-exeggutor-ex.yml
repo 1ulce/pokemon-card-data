@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: alolan-exeggutor-ex
+external_link:
+  cabt_id: 193
 name:
   ja: アローラ ナッシーex
   en: Alolan Exeggutor ex
@@ -13,6 +15,7 @@ retreat_cost: 3
 regulation_mark: H
 meta_tags:
 - ex
+- tera
 evolves_from:
   ja: タマタマ
   en: Exeggcute

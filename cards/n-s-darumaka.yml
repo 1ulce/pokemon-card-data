@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: n-s-darumaka
+external_link:
+  cabt_id: 257
 name:
   ja: Nのダルマッカ
   en: N's Darumaka

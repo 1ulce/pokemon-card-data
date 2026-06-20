@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: dewgong
+external_link:
+  cabt_id: 799
 name:
   ja: ジュゴン
   en: Dewgong

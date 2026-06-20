@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: pidove
+external_link:
+  cabt_id: 551
 name:
   ja: マメパト
   en: Pidove

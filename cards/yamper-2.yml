@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: yamper-2
+external_link:
+  cabt_id: 807
 name:
   ja: ワンパチ
   en: Yamper

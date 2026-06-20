@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: alomomola
+external_link:
+  cabt_id: 505
 name:
   ja: ママンボウ
   en: Alomomola

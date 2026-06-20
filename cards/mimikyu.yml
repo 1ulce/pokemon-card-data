@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: mimikyu
+external_link:
+  cabt_id: 767
 name:
   ja: ミミッキュ
   en: Mimikyu

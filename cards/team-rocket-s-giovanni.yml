@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: team-rocket-s-giovanni
+external_link:
+  cabt_id: 1218
 name:
   ja: ロケット団のサカキ
   en: Team Rocket's Giovanni

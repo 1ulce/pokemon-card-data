@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: leafeon
+external_link:
+  cabt_id: 26
 name:
   ja: リーフィア
   en: Leafeon

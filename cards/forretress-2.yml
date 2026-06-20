@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: forretress-2
+external_link:
+  cabt_id: 465
 name:
   ja: フォレトス
   en: Forretress

@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: carmine
+external_link:
+  cabt_id: 1192
 name:
   ja: ゼイユ
   en: Carmine

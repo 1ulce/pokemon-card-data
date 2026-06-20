@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: revavroom-ex
+external_link:
+  cabt_id: 130
 name:
   ja: ブロロロームex
   en: Revavroom ex
@@ -13,6 +15,7 @@ retreat_cost: 1
 regulation_mark: H
 meta_tags:
 - ex
+- tera
 evolves_from:
   ja: ブロロン
   en: Varoom

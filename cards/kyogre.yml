@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: kyogre
+external_link:
+  cabt_id: 721
 name:
   ja: カイオーガ
   en: Kyogre

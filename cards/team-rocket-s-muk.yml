@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: team-rocket-s-muk
+external_link:
+  cabt_id: 460
 name:
   ja: ロケット団のベトベトン
   en: Team Rocket's Muk

@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: handheld-fan
+external_link:
+  cabt_id: 1161
 name:
   ja: ハンディサーキュレーター
   en: Handheld Fan

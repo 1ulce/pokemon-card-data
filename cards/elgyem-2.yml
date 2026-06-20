@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: elgyem-2
+external_link:
+  cabt_id: 521
 name:
   ja: リグレー
   en: Elgyem

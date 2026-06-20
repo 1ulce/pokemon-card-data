@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: call-bell
+external_link:
+  cabt_id: 1101
 name:
   ja: おたすけベル
   en: Call Bell

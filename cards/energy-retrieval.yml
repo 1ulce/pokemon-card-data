@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: energy-retrieval
+external_link:
+  cabt_id: 1118
 name:
   ja: エネルギー回収
   en: Energy Retrieval

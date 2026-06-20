@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: team-rocket-s-exeggutor
+external_link:
+  cabt_id: 874
 name:
   ja: ロケット団のナッシー
   en: Team Rocket's Exeggutor

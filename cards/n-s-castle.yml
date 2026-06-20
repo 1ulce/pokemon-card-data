@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: n-s-castle
+external_link:
+  cabt_id: 1253
 name:
   ja: Nの城
   en: N's Castle

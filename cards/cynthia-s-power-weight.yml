@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: cynthia-s-power-weight
+external_link:
+  cabt_id: 1173
 name:
   ja: シロナのパワーウエイト
   en: Cynthia's Power Weight

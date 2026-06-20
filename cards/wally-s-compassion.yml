@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: wally-s-compassion
+external_link:
+  cabt_id: 1229
 name:
   ja: ミツルの思いやり
   en: Wally's Compassion

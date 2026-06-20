@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: dondozo-ex
+external_link:
+  cabt_id: 369
 name:
   ja: ヘイラッシャex
   en: Dondozo ex

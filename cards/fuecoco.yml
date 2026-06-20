@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: fuecoco
+external_link:
+  cabt_id: 935
 name:
   ja: ホゲータ
   en: Fuecoco

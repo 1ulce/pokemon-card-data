@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: acerola-s-mischief
+external_link:
+  cabt_id: 1228
 name:
   ja: アセロラのいたずら
   en: Acerola's Mischief

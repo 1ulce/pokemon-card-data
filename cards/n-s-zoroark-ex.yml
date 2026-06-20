@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: n-s-zoroark-ex
+external_link:
+  cabt_id: 293
 name:
   ja: Nのゾロアークex
   en: N's Zoroark ex

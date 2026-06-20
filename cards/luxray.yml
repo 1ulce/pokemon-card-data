@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: luxray
+external_link:
+  cabt_id: 1037
 name:
   ja: レントラー
   en: Luxray

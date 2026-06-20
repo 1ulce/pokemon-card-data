@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: sparkling-crystal
+external_link:
+  cabt_id: 1165
 name:
   ja: きらめく結晶
   en: Sparkling Crystal

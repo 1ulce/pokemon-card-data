@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: ethan-s-typhlosion
+external_link:
+  cabt_id: 354
 name:
   ja: ヒビキのバクフーン
   en: Ethan's Typhlosion

@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: abomasnow
+external_link:
+  cabt_id: 419
 name:
   ja: ユキノオー
   en: Abomasnow

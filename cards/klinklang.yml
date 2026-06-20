@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: klinklang
+external_link:
+  cabt_id: 167
 name:
   ja: ギギギアル
   en: Klinklang

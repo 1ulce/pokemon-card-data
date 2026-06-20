@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: buddy-buddy-poffin
+external_link:
+  cabt_id: 1086
 name:
   ja: なかよしポフィン
   en: Buddy-Buddy Poffin

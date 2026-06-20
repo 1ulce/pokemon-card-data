@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: wigglytuff
+external_link:
+  cabt_id: 842
 name:
   ja: プクリン
   en: Wigglytuff

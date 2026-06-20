@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: frogadier-2
+external_link:
+  cabt_id: 34
 name:
   ja: ゲコガシラ
   en: Frogadier

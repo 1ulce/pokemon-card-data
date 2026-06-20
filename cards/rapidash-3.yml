@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: rapidash-3
+external_link:
+  cabt_id: 351
 name:
   ja: ギャロップ
   en: Rapidash

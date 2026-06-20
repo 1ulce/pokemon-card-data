@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: team-rocket-s-diglett
+external_link:
+  cabt_id: 881
 name:
   ja: ロケット団のディグダ
   en: Team Rocket's Diglett

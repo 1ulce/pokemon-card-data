@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: lycanroc-2
+external_link:
+  cabt_id: 287
 name:
   ja: ルガルガン
   en: Lycanroc

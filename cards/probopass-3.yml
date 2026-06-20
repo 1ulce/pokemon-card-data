@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: probopass-3
+external_link:
+  cabt_id: 444
 name:
   ja: ダイノーズ
   en: Probopass

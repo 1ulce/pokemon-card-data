@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: yamask-2
+external_link:
+  cabt_id: 592
 name:
   ja: デスマス
   en: Yamask

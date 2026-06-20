@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: joltik-3
+external_link:
+  cabt_id: 586
 name:
   ja: バチュル
   en: Joltik

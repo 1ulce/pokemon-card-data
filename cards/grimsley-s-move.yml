@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: grimsley-s-move
+external_link:
+  cabt_id: 1230
 name:
   ja: ギーマの一手
   en: Grimsley's Move

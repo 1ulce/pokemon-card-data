@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: scoop-up-cyclone
+external_link:
+  cabt_id: 1093
 name:
   ja: ポケモン回収サイクロン
   en: Scoop Up Cyclone

@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: regigigas
+external_link:
+  cabt_id: 251
 name:
   ja: レジギガス
   en: Regigigas

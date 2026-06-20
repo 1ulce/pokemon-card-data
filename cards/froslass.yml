@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: froslass
+external_link:
+  cabt_id: 104
 name:
   ja: ユキメノコ
   en: Froslass

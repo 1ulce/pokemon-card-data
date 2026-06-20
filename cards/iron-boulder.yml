@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: iron-boulder
+external_link:
+  cabt_id: 971
 name:
   ja: テツノイワオ
   en: Iron Boulder

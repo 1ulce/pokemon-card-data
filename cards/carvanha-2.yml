@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: carvanha-2
+external_link:
+  cabt_id: 827
 name:
   ja: キバニア
   en: Carvanha

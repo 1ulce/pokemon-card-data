@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: blaziken-ex
+external_link:
+  cabt_id: 326
 name:
   ja: バシャーモex
   en: Blaziken ex

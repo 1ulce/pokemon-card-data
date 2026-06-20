@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: chewtle
+external_link:
+  cabt_id: 157
 name:
   ja: カムカメ
   en: Chewtle

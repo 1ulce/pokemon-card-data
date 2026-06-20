@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: absol-2
+external_link:
+  cabt_id: 776
 name:
   ja: アブソル
   en: Absol

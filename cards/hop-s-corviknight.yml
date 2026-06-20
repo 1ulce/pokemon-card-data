@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: hop-s-corviknight
+external_link:
+  cabt_id: 298
 name:
   ja: ホップのアーマーガア
   en: Hop's Corviknight

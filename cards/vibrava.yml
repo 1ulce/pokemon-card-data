@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: vibrava
+external_link:
+  cabt_id: 188
 name:
   ja: ビブラーバ
   en: Vibrava

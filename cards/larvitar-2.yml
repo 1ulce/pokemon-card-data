@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: larvitar-2
+external_link:
+  cabt_id: 284
 name:
   ja: ヨーギラス
   en: Larvitar

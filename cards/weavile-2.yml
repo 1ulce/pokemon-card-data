@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: weavile-2
+external_link:
+  cabt_id: 826
 name:
   ja: マニューラ
   en: Weavile

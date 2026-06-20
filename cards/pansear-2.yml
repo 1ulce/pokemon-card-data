@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: pansear-2
+external_link:
+  cabt_id: 570
 name:
   ja: バオップ
   en: Pansear

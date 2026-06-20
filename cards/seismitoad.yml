@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: seismitoad
+external_link:
+  cabt_id: 502
 name:
   ja: ガマゲロゲ
   en: Seismitoad

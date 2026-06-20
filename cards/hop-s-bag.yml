@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: hop-s-bag
+external_link:
+  cabt_id: 1115
 name:
   ja: ホップのバッグ
   en: Hop's Bag

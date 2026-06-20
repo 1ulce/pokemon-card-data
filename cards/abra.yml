@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: abra
+external_link:
+  cabt_id: 109
 name:
   ja: ケーシィ
   en: Abra

@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: yveltal-ex
+external_link:
+  cabt_id: 1062
 name:
   ja: イベルタルex
   en: Yveltal ex

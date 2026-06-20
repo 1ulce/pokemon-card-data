@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: swanna
+external_link:
+  cabt_id: 579
 name:
   ja: スワンナ
   en: Swanna

@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: payapa-berry
+external_link:
+  cabt_id: 1164
 name:
   ja: ウタンのみ
   en: Payapa Berry

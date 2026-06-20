@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: spritzee
+external_link:
+  cabt_id: 1044
 name:
   ja: シュシュプ
   en: Spritzee

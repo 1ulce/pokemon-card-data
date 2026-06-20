@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: barbaracle
+external_link:
+  cabt_id: 1052
 name:
   ja: ガメノデス
   en: Barbaracle

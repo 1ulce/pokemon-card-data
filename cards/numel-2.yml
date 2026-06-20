@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: numel-2
+external_link:
+  cabt_id: 856
 name:
   ja: ドンメル
   en: Numel

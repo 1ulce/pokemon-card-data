@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: zeraora-2
+external_link:
+  cabt_id: 377
 name:
   ja: ゼラオラ
   en: Zeraora

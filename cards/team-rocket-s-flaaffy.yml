@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: team-rocket-s-flaaffy
+external_link:
+  cabt_id: 427
 name:
   ja: ロケット団のモココ
   en: Team Rocket's Flaaffy

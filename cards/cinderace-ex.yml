@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: cinderace-ex
+external_link:
+  cabt_id: 153
 name:
   ja: エースバーンex
   en: Cinderace ex
@@ -13,6 +15,7 @@ retreat_cost: 0
 regulation_mark: H
 meta_tags:
 - ex
+- tera
 evolves_from:
   ja: ラビフット
   en: Raboot

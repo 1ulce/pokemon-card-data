@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: rayquaza
+external_link:
+  cabt_id: 905
 name:
   ja: レックウザ
   en: Rayquaza

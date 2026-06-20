@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: maractus
+external_link:
+  cabt_id: 255
 name:
   ja: マラカッチ
   en: Maractus

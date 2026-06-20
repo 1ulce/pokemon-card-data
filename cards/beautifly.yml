@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: beautifly
+external_link:
+  cabt_id: 852
 name:
   ja: アゲハント
   en: Beautifly

@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: chien-pao-2
+external_link:
+  cabt_id: 1063
 name:
   ja: パオジアン
   en: Chien-Pao

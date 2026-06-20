@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: arven-s-maschiff
+external_link:
+  cabt_id: 388
 name:
   ja: ペパーのオラチフ
   en: Arven's Maschiff

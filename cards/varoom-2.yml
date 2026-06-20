@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: varoom-2
+external_link:
+  cabt_id: 143
 name:
   ja: ブロロン
   en: Varoom

@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: cornerstone-mask-ogerpon
+external_link:
+  cabt_id: 386
 name:
   ja: オーガポン いしずえのめん
   en: Cornerstone Mask Ogerpon

@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: thick-scale
+external_link:
+  cabt_id: 1179
 name:
   ja: ぶあついうろこ
   en: Thick Scale

@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: bunnelby
+external_link:
+  cabt_id: 1073
 name:
   ja: ホルビー
   en: Bunnelby

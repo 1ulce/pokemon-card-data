@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: crushing-hammer
+external_link:
+  cabt_id: 1120
 name:
   ja: クラッシュハンマー
   en: Crushing Hammer

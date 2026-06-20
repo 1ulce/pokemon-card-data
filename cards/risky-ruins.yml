@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: risky-ruins
+external_link:
+  cabt_id: 1260
 name:
   ja: 危ない廃墟
   en: Risky Ruins

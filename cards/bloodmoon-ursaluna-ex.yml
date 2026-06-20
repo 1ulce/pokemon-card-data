@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: bloodmoon-ursaluna-ex
+external_link:
+  cabt_id: 44
 name:
   ja: ガチグマ アカツキex
   en: Bloodmoon Ursaluna ex

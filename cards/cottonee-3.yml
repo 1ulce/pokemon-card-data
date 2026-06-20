@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: cottonee-3
+external_link:
+  cabt_id: 560
 name:
   ja: モンメン
   en: Cottonee

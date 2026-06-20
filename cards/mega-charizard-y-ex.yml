@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: mega-charizard-y-ex
+external_link:
+  cabt_id: 928
 name:
   ja: メガリザードンYex
   en: Mega Charizard Y ex

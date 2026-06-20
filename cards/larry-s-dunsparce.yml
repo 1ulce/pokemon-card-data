@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: larry-s-dunsparce
+external_link:
+  cabt_id: 996
 name:
   ja: アオキのノコッチ
   en: Larry's Dunsparce

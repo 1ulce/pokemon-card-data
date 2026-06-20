@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: braviary
+external_link:
+  cabt_id: 633
 name:
   ja: ウォーグル
   en: Braviary

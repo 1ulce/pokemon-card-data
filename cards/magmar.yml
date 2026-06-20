@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: magmar
+external_link:
+  cabt_id: 929
 name:
   ja: ブーバー
   en: Magmar

@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: arven-s-skwovet
+external_link:
+  cabt_id: 391
 name:
   ja: ペパーのホシガリス
   en: Arven's Skwovet

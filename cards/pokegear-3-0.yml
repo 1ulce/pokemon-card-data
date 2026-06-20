@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: pokegear-3-0
+external_link:
+  cabt_id: 1122
 name:
   ja: ポケギア3.0
   en: Pokégear 3.0

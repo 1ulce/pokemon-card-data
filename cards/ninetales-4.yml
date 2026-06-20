@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: ninetales-4
+external_link:
+  cabt_id: 660
 name:
   ja: キュウコン
   en: Ninetales

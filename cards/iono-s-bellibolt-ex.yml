@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: iono-s-bellibolt-ex
+external_link:
+  cabt_id: 269
 name:
   ja: ナンジャモのハラバリーex
   en: Iono's Bellibolt ex

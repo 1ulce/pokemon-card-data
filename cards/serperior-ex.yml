@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: serperior-ex
+external_link:
+  cabt_id: 481
 name:
   ja: ジャローダex
   en: Serperior ex

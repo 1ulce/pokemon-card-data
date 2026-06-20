@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: cynthia-s-gabite
+external_link:
+  cabt_id: 380
 name:
   ja: シロナのガバイト
   en: Cynthia's Gabite

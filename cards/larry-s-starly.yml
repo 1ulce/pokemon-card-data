@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: larry-s-starly
+external_link:
+  cabt_id: 1003
 name:
   ja: アオキのムックル
   en: Larry's Starly

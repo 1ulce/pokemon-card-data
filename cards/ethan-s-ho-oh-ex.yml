@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: ethan-s-ho-oh-ex
+external_link:
+  cabt_id: 357
 name:
   ja: ヒビキのホウオウex
   en: Ethan's Ho-Oh ex

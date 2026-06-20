@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: sawk
+external_link:
+  cabt_id: 602
 name:
   ja: ダゲキ
   en: Sawk

@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: emcee-s-hype
+external_link:
+  cabt_id: 1214
 name:
   ja: MCの盛り上げ
   en: Emcee's Hype

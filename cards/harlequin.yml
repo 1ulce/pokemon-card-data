@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: harlequin
+external_link:
+  cabt_id: 1223
 name:
   ja: クラウン
   en: Harlequin

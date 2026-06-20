@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: growing-grass-energy
+external_link:
+  cabt_id: 18
 name:
   ja: グロウ草エネルギー
   en: Growing Grass Energy

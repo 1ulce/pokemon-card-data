@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: ivysaur
+external_link:
+  cabt_id: 651
 name:
   ja: フシギソウ
   en: Ivysaur

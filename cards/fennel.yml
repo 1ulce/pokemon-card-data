@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: fennel
+external_link:
+  cabt_id: 1222
 name:
   ja: マコモ
   en: Fennel

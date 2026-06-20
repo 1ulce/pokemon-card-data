@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: swablu
+external_link:
+  cabt_id: 197
 name:
   ja: チルット
   en: Swablu

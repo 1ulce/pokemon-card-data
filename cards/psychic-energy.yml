@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: psychic-energy
+external_link:
+  cabt_id: 5
 name:
   ja: 基本超エネルギー
   en: Psychic Energy

@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: pawniard-3
+external_link:
+  cabt_id: 544
 name:
   ja: コマタナ
   en: Pawniard

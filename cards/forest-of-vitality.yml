@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: forest-of-vitality
+external_link:
+  cabt_id: 1261
 name:
   ja: 活力の森
   en: Forest of Vitality

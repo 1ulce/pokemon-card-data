@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: brave-bangle
+external_link:
+  cabt_id: 1175
 name:
   ja: ブレイブバングル
   en: Brave Bangle

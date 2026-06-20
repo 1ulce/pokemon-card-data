@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: sprigatito
+external_link:
+  cabt_id: 922
 name:
   ja: ニャオハ
   en: Sprigatito

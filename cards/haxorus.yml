@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: haxorus
+external_link:
+  cabt_id: 995
 name:
   ja: オノノクス
   en: Haxorus

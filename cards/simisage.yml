@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: simisage
+external_link:
+  cabt_id: 483
 name:
   ja: ヤナッキー
   en: Simisage

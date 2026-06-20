@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: smoliv
+external_link:
+  cabt_id: 402
 name:
   ja: ミニーブ
   en: Smoliv

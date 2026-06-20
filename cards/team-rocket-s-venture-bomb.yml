@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: team-rocket-s-venture-bomb
+external_link:
+  cabt_id: 1133
 name:
   ja: ロケット団のびっくりボム
   en: Team Rocket's Venture Bomb

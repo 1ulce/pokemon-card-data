@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: erika-s-tangela
+external_link:
+  cabt_id: 915
 name:
   ja: エリカのモンジャラ
   en: Erika's Tangela

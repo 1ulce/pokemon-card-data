@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: jellicent-ex
+external_link:
+  cabt_id: 598
 name:
   ja: ブルンゲルex
   en: Jellicent ex

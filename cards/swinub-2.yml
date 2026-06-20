@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: swinub-2
+external_link:
+  cabt_id: 800
 name:
   ja: ウリムー
   en: Swinub

@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: mega-sharpedo-ex
+external_link:
+  cabt_id: 828
 name:
   ja: メガサメハダーex
   en: Mega Sharpedo ex

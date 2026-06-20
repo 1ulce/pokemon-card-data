@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: litwick-2
+external_link:
+  cabt_id: 493
 name:
   ja: ヒトモシ
   en: Litwick

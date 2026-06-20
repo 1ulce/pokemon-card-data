@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: dizzying-valley
+external_link:
+  cabt_id: 1265
 name:
   ja: めまいの谷
   en: Dizzying Valley

@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: koraidon
+external_link:
+  cabt_id: 62
 name:
   ja: コライドン
   en: Koraidon

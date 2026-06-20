@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: team-rocket-s-exeggcute
+external_link:
+  cabt_id: 873
 name:
   ja: ロケット団のタマタマ
   en: Team Rocket's Exeggcute

@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: light-ball
+external_link:
+  cabt_id: 1178
 name:
   ja: でんきだま
   en: Light Ball

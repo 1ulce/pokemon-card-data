@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: volbeat
+external_link:
+  cabt_id: 88
 name:
   ja: バルビート
   en: Volbeat

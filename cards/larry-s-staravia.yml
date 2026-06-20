@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: larry-s-staravia
+external_link:
+  cabt_id: 1004
 name:
   ja: アオキのムクバード
   en: Larry's Staravia

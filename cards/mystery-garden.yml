@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: mystery-garden
+external_link:
+  cabt_id: 1263
 name:
   ja: ミステリーガーデン
   en: Mystery Garden

@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: iris-s-fighting-spirit
+external_link:
+  cabt_id: 1208
 name:
   ja: アイリスの闘志
   en: Iris's Fighting Spirit

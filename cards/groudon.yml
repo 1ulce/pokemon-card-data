@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: groudon
+external_link:
+  cabt_id: 973
 name:
   ja: グラードン
   en: Groudon

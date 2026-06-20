@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: cynthia-s-gible
+external_link:
+  cabt_id: 379
 name:
   ja: シロナのフカマル
   en: Cynthia's Gible

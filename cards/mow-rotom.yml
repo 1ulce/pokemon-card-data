@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: mow-rotom
+external_link:
+  cabt_id: 148
 name:
   ja: カットロトム
   en: Mow Rotom

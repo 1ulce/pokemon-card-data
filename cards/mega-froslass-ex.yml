@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: mega-froslass-ex
+external_link:
+  cabt_id: 861
 name:
   ja: メガユキメノコex
   en: Mega Froslass ex

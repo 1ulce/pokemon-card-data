@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: poke-vital-a
+external_link:
+  cabt_id: 1096
 name:
   ja: ポケバイタルA
   en: Poké Vital A

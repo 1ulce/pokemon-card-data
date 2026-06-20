@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: brock-s-scouting
+external_link:
+  cabt_id: 1210
 name:
   ja: タケシのスカウト
   en: Brock's Scouting

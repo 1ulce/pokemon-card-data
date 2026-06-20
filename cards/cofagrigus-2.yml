@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: cofagrigus-2
+external_link:
+  cabt_id: 593
 name:
   ja: デスカーン
   en: Cofagrigus

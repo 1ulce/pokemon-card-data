@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: reuniclus-2
+external_link:
+  cabt_id: 520
 name:
   ja: ランクルス
   en: Reuniclus

@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: colress-s-tenacity
+external_link:
+  cabt_id: 1194
 name:
   ja: アクロマの執念
   en: Colress's Tenacity

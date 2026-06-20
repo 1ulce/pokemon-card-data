@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: raticate
+external_link:
+  cabt_id: 1070
 name:
   ja: ラッタ
   en: Raticate

@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: victini
+external_link:
+  cabt_id: 490
 name:
   ja: ビクティニ
   en: Victini

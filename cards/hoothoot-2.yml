@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: hoothoot-2
+external_link:
+  cabt_id: 172
 name:
   ja: ホーホー
   en: Hoothoot

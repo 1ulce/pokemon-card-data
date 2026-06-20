@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: powerglass
+external_link:
+  cabt_id: 1163
 name:
   ja: 力の砂時計
   en: Powerglass

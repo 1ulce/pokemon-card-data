@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: azumarill-2
+external_link:
+  cabt_id: 315
 name:
   ja: マリルリ
   en: Azumarill

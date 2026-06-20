@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: stoutland
+external_link:
+  cabt_id: 630
 name:
   ja: ムーランド
   en: Stoutland

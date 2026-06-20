@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: team-rocket-s-meowth
+external_link:
+  cabt_id: 470
 name:
   ja: ロケット団のニャース
   en: Team Rocket's Meowth

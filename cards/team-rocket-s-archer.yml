@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: team-rocket-s-archer
+external_link:
+  cabt_id: 1217
 name:
   ja: ロケット団のアポロ
   en: Team Rocket's Archer

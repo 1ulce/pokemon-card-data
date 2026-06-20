@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: team-rocket-s-ekans
+external_link:
+  cabt_id: 448
 name:
   ja: ロケット団のアーボ
   en: Team Rocket's Ekans

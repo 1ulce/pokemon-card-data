@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: turtonator-4
+external_link:
+  cabt_id: 196
 name:
   ja: バクガメス
   en: Turtonator

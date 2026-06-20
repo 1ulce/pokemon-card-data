@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: cobalion
+external_link:
+  cabt_id: 546
 name:
   ja: コバルオン
   en: Cobalion

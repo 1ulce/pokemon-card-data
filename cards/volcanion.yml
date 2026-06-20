@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: volcanion
+external_link:
+  cabt_id: 663
 name:
   ja: ボルケニオン
   en: Volcanion

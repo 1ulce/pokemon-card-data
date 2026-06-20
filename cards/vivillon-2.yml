@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: vivillon-2
+external_link:
+  cabt_id: 1019
 name:
   ja: ビビヨン
   en: Vivillon

@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: crabrawler
+external_link:
+  cabt_id: 977
 name:
   ja: マケンカニ
   en: Crabrawler

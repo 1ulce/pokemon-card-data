@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: servine
+external_link:
+  cabt_id: 480
 name:
   ja: ジャノビー
   en: Servine

@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: erika-s-oddish
+external_link:
+  cabt_id: 909
 name:
   ja: エリカのナゾノクサ
   en: Erika's Oddish

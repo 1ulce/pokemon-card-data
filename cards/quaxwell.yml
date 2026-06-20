@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: quaxwell
+external_link:
+  cabt_id: 181
 name:
   ja: ウェルカモ
   en: Quaxwell

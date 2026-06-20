@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: kofu
+external_link:
+  cabt_id: 1200
 name:
   ja: ハイダイ
   en: Kofu

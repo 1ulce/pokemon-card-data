@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: lotad-2
+external_link:
+  cabt_id: 782
 name:
   ja: ハスボー
   en: Lotad

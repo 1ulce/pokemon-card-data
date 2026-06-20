@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: antique-root-fossil
+external_link:
+  cabt_id: 1099
 name:
   ja: 古びたねっこの化石
   en: Antique Root Fossil

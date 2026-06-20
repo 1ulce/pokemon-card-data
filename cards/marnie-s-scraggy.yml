@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: marnie-s-scraggy
+external_link:
+  cabt_id: 644
 name:
   ja: マリィのズルッグ
   en: Marnie's Scraggy

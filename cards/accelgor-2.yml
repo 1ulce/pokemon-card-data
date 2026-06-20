@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: accelgor-2
+external_link:
+  cabt_id: 565
 name:
   ja: アギルダー
   en: Accelgor

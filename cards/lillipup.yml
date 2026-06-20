@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: lillipup
+external_link:
+  cabt_id: 628
 name:
   ja: ヨーテリー
   en: Lillipup

@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: gorebyss
+external_link:
+  cabt_id: 417
 name:
   ja: サクラビス
   en: Gorebyss

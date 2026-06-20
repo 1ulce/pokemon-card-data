@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: nacli
+external_link:
+  cabt_id: 683
 name:
   ja: コジオ
   en: Nacli

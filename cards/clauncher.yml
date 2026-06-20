@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: clauncher
+external_link:
+  cabt_id: 724
 name:
   ja: ウデッポウ
   en: Clauncher

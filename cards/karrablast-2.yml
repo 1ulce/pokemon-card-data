@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: karrablast-2
+external_link:
+  cabt_id: 487
 name:
   ja: カブルモ
   en: Karrablast

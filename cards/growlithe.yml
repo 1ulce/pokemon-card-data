@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: growlithe
+external_link:
+  cabt_id: 405
 name:
   ja: ガーディ
   en: Growlithe

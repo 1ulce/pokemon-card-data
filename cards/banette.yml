@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: banette
+external_link:
+  cabt_id: 273
 name:
   ja: ジュペッタ
   en: Banette

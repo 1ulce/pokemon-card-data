@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: firebreather
+external_link:
+  cabt_id: 1232
 name:
   ja: ひふきやろう
   en: Firebreather

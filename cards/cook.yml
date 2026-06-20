@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: cook
+external_link:
+  cabt_id: 1212
 name:
   ja: コック
   en: Cook

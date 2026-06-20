@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: medicham-2
+external_link:
+  cabt_id: 884
 name:
   ja: チャーレム
   en: Medicham

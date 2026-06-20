@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: scramble-switch
+external_link:
+  cabt_id: 1107
 name:
   ja: スクランブルスイッチ
   en: Scramble Switch

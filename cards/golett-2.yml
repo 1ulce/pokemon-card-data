@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: golett-2
+external_link:
+  cabt_id: 523
 name:
   ja: ゴビット
   en: Golett

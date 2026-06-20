@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: ho-oh
+external_link:
+  cabt_id: 318
 name:
   ja: ホウオウ
   en: Ho-Oh

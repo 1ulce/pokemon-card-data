@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: lillie-s-determination
+external_link:
+  cabt_id: 1227
 name:
   ja: リーリエの決心
   en: Lillie's Determination

@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: team-rocket-s-great-ball
+external_link:
+  cabt_id: 1132
 name:
   ja: ロケット団のスーパーボール
   en: Team Rocket's Great Ball

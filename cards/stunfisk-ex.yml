@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: stunfisk-ex
+external_link:
+  cabt_id: 975
 name:
   ja: マッギョex
   en: Stunfisk ex

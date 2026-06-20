@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: team-rocket-s-bother-bot
+external_link:
+  cabt_id: 1131
 name:
   ja: ロケット団のおじゃまロボ
   en: Team Rocket's Bother-Bot

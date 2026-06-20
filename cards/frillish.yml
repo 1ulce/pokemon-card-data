@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: frillish
+external_link:
+  cabt_id: 597
 name:
   ja: プルリル
   en: Frillish

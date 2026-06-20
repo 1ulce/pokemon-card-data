@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: darkness-energy
+external_link:
+  cabt_id: 7
 name:
   ja: 基本悪エネルギー
   en: Darkness Energy

@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: rowlet-2
+external_link:
+  cabt_id: 1020
 name:
   ja: モクロー
   en: Rowlet

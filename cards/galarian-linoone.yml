@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: galarian-linoone
+external_link:
+  cabt_id: 893
 name:
   ja: ガラル マッスグマ
   en: Galarian Linoone

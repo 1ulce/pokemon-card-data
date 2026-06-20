@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: energy-recycler
+external_link:
+  cabt_id: 1139
 name:
   ja: エネルギーリサイクル
   en: Energy Recycler

@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: n-s-vanilluxe
+external_link:
+  cabt_id: 864
 name:
   ja: Nのバイバニラ
   en: N's Vanilluxe

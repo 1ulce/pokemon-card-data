@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: erika-s-bellsprout
+external_link:
+  cabt_id: 912
 name:
   ja: エリカのマダツボミ
   en: Erika's Bellsprout

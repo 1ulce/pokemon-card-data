@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: iron-crown
+external_link:
+  cabt_id: 192
 name:
   ja: テツノカシラ
   en: Iron Crown

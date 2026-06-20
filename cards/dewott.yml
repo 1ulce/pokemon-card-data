@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: dewott
+external_link:
+  cabt_id: 575
 name:
   ja: フタチマル
   en: Dewott

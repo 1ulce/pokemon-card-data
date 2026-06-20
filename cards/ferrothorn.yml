@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: ferrothorn
+external_link:
+  cabt_id: 620
 name:
   ja: ナットレイ
   en: Ferrothorn

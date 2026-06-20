@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: aromatisse-2
+external_link:
+  cabt_id: 1045
 name:
   ja: フレフワン
   en: Aromatisse

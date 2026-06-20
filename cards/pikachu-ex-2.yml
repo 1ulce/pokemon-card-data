@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: pikachu-ex-2
+external_link:
+  cabt_id: 210
 name:
   ja: ピカチュウex
   en: Pikachu ex
@@ -13,6 +15,7 @@ retreat_cost: 1
 regulation_mark: H
 meta_tags:
 - ex
+- tera
 evolves_from:
   ja:
   en:

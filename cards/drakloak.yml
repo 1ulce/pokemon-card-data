@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: drakloak
+external_link:
+  cabt_id: 120
 name:
   ja: ドロンチ
   en: Drakloak

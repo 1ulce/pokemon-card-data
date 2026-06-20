@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: togepi
+external_link:
+  cabt_id: 959
 name:
   ja: トゲピー
   en: Togepi

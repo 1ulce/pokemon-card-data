@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: riolu-3
+external_link:
+  cabt_id: 333
 name:
   ja: リオル
   en: Riolu

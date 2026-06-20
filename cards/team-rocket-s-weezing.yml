@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: team-rocket-s-weezing
+external_link:
+  cabt_id: 462
 name:
   ja: ロケット団のマタドガス
   en: Team Rocket's Weezing

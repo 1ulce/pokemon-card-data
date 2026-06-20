@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: metal-energy
+external_link:
+  cabt_id: 8
 name:
   ja: 基本鋼エネルギー
   en: Metal Energy

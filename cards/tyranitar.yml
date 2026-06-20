@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: tyranitar
+external_link:
+  cabt_id: 290
 name:
   ja: バンギラス
   en: Tyranitar

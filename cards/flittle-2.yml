@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: flittle-2
+external_link:
+  cabt_id: 185
 name:
   ja: ヒラヒナ
   en: Flittle

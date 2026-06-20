@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: hydreigon-ex-2
+external_link:
+  cabt_id: 618
 name:
   ja: サザンドラex
   en: Hydreigon ex

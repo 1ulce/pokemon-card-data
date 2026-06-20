@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: thundurus
+external_link:
+  cabt_id: 514
 name:
   ja: ボルトロス
   en: Thundurus

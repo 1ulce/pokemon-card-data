@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: team-rocket-s-wobbuffet
+external_link:
+  cabt_id: 432
 name:
   ja: ロケット団のソーナンス
   en: Team Rocket's Wobbuffet

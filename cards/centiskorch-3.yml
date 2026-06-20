@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: centiskorch-3
+external_link:
+  cabt_id: 718
 name:
   ja: マルヤクデ
   en: Centiskorch

@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: vileplume
+external_link:
+  cabt_id: 780
 name:
   ja: ラフレシア
   en: Vileplume

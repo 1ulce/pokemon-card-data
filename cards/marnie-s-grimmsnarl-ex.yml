@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: marnie-s-grimmsnarl-ex
+external_link:
+  cabt_id: 648
 name:
   ja: マリィのオーロンゲex
   en: Marnie's Grimmsnarl ex

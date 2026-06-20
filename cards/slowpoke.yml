@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: slowpoke
+external_link:
+  cabt_id: 162
 name:
   ja: ヤドン
   en: Slowpoke

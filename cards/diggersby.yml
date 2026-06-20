@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: diggersby
+external_link:
+  cabt_id: 1074
 name:
   ja: ホルード
   en: Diggersby

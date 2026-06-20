@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: lt-surge-s-bargain
+external_link:
+  cabt_id: 1226
 name:
   ja: マチスの取引
   en: Lt. Surge's Bargain

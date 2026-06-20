@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: lana-s-aid
+external_link:
+  cabt_id: 1184
 name:
   ja: スイレンのお世話
   en: Lana's Aid

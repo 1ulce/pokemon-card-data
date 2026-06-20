@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: shelmet-2
+external_link:
+  cabt_id: 564
 name:
   ja: チョボマキ
   en: Shelmet

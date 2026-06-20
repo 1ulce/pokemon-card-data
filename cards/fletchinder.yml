@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: fletchinder
+external_link:
+  cabt_id: 1023
 name:
   ja: ヒノヤコマ
   en: Fletchinder

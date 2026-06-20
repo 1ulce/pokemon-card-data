@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: luxio-2
+external_link:
+  cabt_id: 1036
 name:
   ja: ルクシオ
   en: Luxio

@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: archen
+external_link:
+  cabt_id: 603
 name:
   ja: アーケン
   en: Archen

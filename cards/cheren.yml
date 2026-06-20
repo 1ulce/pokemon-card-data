@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: cheren
+external_link:
+  cabt_id: 1224
 name:
   ja: チェレン
   en: Cheren

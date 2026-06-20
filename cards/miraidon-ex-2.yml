@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: miraidon-ex-2
+external_link:
+  cabt_id: 957
 name:
   ja: ミライドンex
   en: Miraidon ex
@@ -13,6 +15,7 @@ retreat_cost: 1
 regulation_mark: J
 meta_tags:
 - ex
+- tera
 evolves_from:
   ja:
   en:

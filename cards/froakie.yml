@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: froakie
+external_link:
+  cabt_id: 945
 name:
   ja: ケロマツ
   en: Froakie

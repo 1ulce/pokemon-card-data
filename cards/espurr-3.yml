@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: espurr-3
+external_link:
+  cabt_id: 1042
 name:
   ja: ニャスパー
   en: Espurr

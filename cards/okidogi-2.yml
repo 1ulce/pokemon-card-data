@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: okidogi-2
+external_link:
+  cabt_id: 890
 name:
   ja: イイネイヌ
   en: Okidogi

@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: totodile
+external_link:
+  cabt_id: 47
 name:
   ja: ワニノコ
   en: Totodile

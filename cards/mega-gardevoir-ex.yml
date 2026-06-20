@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: mega-gardevoir-ex
+external_link:
+  cabt_id: 747
 name:
   ja: メガサーナイトex
   en: Mega Gardevoir ex

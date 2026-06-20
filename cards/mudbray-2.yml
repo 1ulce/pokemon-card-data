@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: mudbray-2
+external_link:
+  cabt_id: 382
 name:
   ja: ドロバンコ
   en: Mudbray

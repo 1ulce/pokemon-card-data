@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: kirlia
+external_link:
+  cabt_id: 746
 name:
   ja: キルリア
   en: Kirlia

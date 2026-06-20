@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: bronzor-2
+external_link:
+  cabt_id: 836
 name:
   ja: ドーミラー
   en: Bronzor

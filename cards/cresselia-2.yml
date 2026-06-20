@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: cresselia-2
+external_link:
+  cabt_id: 764
 name:
   ja: クレセリア
   en: Cresselia

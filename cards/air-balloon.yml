@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: air-balloon
+external_link:
+  cabt_id: 1174
 name:
   ja: ふうせん
   en: Air Balloon

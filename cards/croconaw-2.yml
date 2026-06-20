@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: croconaw-2
+external_link:
+  cabt_id: 938
 name:
   ja: アリゲイツ
   en: Croconaw

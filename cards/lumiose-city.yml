@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: lumiose-city
+external_link:
+  cabt_id: 1267
 name:
   ja: ミアレシティ
   en: Lumiose City

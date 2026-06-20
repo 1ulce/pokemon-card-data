@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: meddling-memo
+external_link:
+  cabt_id: 1103
 name:
   ja: ぼうがいレター
   en: Meddling Memo

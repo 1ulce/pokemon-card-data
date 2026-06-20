@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: strange-timepiece
+external_link:
+  cabt_id: 1144
 name:
   ja: あやしい時計
   en: Strange Timepiece

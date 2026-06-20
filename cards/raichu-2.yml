@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: raichu-2
+external_link:
+  cabt_id: 949
 name:
   ja: ライチュウ
   en: Raichu

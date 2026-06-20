@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: gimmighoul
+external_link:
+  cabt_id: 186
 name:
   ja: コレクレー
   en: Gimmighoul

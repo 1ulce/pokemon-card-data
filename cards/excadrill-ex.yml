@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: excadrill-ex
+external_link:
+  cabt_id: 527
 name:
   ja: ドリュウズex
   en: Excadrill ex

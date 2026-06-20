@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: simipour
+external_link:
+  cabt_id: 499
 name:
   ja: ヒヤッキー
   en: Simipour

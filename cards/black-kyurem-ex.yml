@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: black-kyurem-ex
+external_link:
+  cabt_id: 179
 name:
   ja: ブラックキュレムex
   en: Black Kyurem ex

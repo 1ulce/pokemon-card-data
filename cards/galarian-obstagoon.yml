@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: galarian-obstagoon
+external_link:
+  cabt_id: 894
 name:
   ja: ガラル タチフサグマ
   en: Galarian Obstagoon

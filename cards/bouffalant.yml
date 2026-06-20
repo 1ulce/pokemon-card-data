@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: bouffalant
+external_link:
+  cabt_id: 175
 name:
   ja: バッフロン
   en: Bouffalant

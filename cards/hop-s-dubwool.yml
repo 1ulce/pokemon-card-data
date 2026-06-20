@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: hop-s-dubwool
+external_link:
+  cabt_id: 310
 name:
   ja: ホップのバイウールー
   en: Hop's Dubwool

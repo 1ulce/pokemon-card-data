@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: thwackey
+external_link:
+  cabt_id: 90
 name:
   ja: バチンキー
   en: Thwackey

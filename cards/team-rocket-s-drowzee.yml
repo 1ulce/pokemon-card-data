@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: team-rocket-s-drowzee
+external_link:
+  cabt_id: 429
 name:
   ja: ロケット団のスリープ
   en: Team Rocket's Drowzee

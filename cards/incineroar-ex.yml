@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: incineroar-ex
+external_link:
+  cabt_id: 79
 name:
   ja: ガオガエンex
   en: Incineroar ex

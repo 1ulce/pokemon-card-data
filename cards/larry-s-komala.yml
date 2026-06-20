@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: larry-s-komala
+external_link:
+  cabt_id: 1009
 name:
   ja: アオキのネッコアラ
   en: Larry's Komala

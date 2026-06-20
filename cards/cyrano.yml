@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: cyrano
+external_link:
+  cabt_id: 1205
 name:
   ja: シアノ
   en: Cyrano

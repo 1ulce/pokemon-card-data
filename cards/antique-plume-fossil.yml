@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: antique-plume-fossil
+external_link:
+  cabt_id: 1138
 name:
   ja: 古びたはねの化石
   en: Antique Plume Fossil

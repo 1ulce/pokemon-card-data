@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: slowking
+external_link:
+  cabt_id: 163
 name:
   ja: ヤドキング
   en: Slowking

@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: huntail
+external_link:
+  cabt_id: 416
 name:
   ja: ハンテール
   en: Huntail

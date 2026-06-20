@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: gurdurr
+external_link:
+  cabt_id: 114
 name:
   ja: ドテッコツ
   en: Gurdurr

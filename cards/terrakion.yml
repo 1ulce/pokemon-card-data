@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: terrakion
+external_link:
+  cabt_id: 607
 name:
   ja: テラキオン
   en: Terrakion

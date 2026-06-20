@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: yveltal-2
+external_link:
+  cabt_id: 689
 name:
   ja: イベルタル
   en: Yveltal

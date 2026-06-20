@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: okidogi-ex
+external_link:
+  cabt_id: 138
 name:
   ja: イイネイヌex
   en: Okidogi ex

@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: marnie-s-scrafty
+external_link:
+  cabt_id: 645
 name:
   ja: マリィのズルズキン
   en: Marnie's Scrafty

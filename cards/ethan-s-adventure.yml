@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: ethan-s-adventure
+external_link:
+  cabt_id: 1215
 name:
   ja: ヒビキの冒険
   en: Ethan's Adventure

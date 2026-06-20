@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: telepathic-psychic-energy
+external_link:
+  cabt_id: 19
 name:
   ja: テレパス超エネルギー
   en: Telepathic Psychic Energy

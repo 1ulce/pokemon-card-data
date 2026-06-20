@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: golurk-2
+external_link:
+  cabt_id: 524
 name:
   ja: ゴルーグ
   en: Golurk

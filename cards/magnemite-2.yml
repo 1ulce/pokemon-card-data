@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: magnemite-2
+external_link:
+  cabt_id: 732
 name:
   ja: コイル
   en: Magnemite

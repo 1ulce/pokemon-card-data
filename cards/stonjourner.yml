@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: stonjourner
+external_link:
+  cabt_id: 682
 name:
   ja: イシヘンジン
   en: Stonjourner

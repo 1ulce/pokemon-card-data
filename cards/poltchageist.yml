@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: poltchageist
+external_link:
+  cabt_id: 28
 name:
   ja: チャデス
   en: Poltchageist

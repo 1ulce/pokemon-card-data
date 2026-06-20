@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: explorer-s-guidance
+external_link:
+  cabt_id: 1185
 name:
   ja: 探検家の先導
   en: Explorer's Guidance

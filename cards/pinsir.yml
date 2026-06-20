@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: pinsir
+external_link:
+  cabt_id: 25
 name:
   ja: カイロス
   en: Pinsir

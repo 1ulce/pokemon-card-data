@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: skarmory-3
+external_link:
+  cabt_id: 466
 name:
   ja: エアームド
   en: Skarmory

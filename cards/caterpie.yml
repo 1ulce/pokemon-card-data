@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: caterpie
+external_link:
+  cabt_id: 252
 name:
   ja: キャタピー
   en: Caterpie

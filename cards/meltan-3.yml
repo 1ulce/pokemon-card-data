@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: meltan-3
+external_link:
+  cabt_id: 168
 name:
   ja: メルタン
   en: Meltan

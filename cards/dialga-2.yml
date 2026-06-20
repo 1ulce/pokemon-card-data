@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: dialga-2
+external_link:
+  cabt_id: 696
 name:
   ja: ディアルガ
   en: Dialga

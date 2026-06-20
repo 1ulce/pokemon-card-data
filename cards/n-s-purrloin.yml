@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: n-s-purrloin
+external_link:
+  cabt_id: 291
 name:
   ja: Nのチョロネコ
   en: N's Purrloin

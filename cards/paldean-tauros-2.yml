@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: paldean-tauros-2
+external_link:
+  cabt_id: 819
 name:
   ja: パルデア ケンタロス
   en: Paldean Tauros

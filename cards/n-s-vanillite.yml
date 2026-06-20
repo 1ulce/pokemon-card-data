@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: n-s-vanillite
+external_link:
+  cabt_id: 862
 name:
   ja: Nのバニプッチ
   en: N's Vanillite

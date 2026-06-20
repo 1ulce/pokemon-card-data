@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: misty-s-staryu
+external_link:
+  cabt_id: 360
 name:
   ja: カスミのヒトデマン
   en: Misty's Staryu

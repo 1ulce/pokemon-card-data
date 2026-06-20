@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: litten
+external_link:
+  cabt_id: 77
 name:
   ja: ニャビー
   en: Litten

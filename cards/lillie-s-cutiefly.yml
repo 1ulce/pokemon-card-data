@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: lillie-s-cutiefly
+external_link:
+  cabt_id: 278
 name:
   ja: リーリエのアブリー
   en: Lillie's Cutiefly

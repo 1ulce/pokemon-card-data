@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: whimsicott-ex
+external_link:
+  cabt_id: 561
 name:
   ja: エルフーンex
   en: Whimsicott ex

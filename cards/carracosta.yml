@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: carracosta
+external_link:
+  cabt_id: 155
 name:
   ja: アバゴーラ
   en: Carracosta

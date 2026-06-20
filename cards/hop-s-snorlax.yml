@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: hop-s-snorlax
+external_link:
+  cabt_id: 304
 name:
   ja: ホップのカビゴン
   en: Hop's Snorlax

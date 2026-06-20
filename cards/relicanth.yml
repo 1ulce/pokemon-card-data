@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: relicanth
+external_link:
+  cabt_id: 57
 name:
   ja: ジーランス
   en: Relicanth

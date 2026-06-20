@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: charmeleon
+external_link:
+  cabt_id: 789
 name:
   ja: リザード
   en: Charmeleon

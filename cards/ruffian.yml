@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: ruffian
+external_link:
+  cabt_id: 1209
 name:
   ja: 怖いお兄さん
   en: Ruffian

@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: deluxe-bomb
+external_link:
+  cabt_id: 1167
 name:
   ja: デラックスボム
   en: Deluxe Bomb

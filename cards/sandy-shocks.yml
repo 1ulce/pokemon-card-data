@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: sandy-shocks
+external_link:
+  cabt_id: 312
 name:
   ja: スナノケガワ
   en: Sandy Shocks

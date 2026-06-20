@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: team-rocket-s-energy
+external_link:
+  cabt_id: 15
 name:
   ja: ロケット団エネルギー
   en: Team Rocket's Energy

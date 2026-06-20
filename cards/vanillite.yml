@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: vanillite
+external_link:
+  cabt_id: 580
 name:
   ja: バニプッチ
   en: Vanillite

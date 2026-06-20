@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: counter-gain
+external_link:
+  cabt_id: 1168
 name:
   ja: カウンターゲイン
   en: Counter Gain

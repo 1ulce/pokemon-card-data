@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: team-rocket-s-houndoom
+external_link:
+  cabt_id: 409
 name:
   ja: ロケット団のヘルガー
   en: Team Rocket's Houndoom

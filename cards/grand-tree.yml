@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: grand-tree
+external_link:
+  cabt_id: 1249
 name:
   ja: 偉大な大樹
   en: Grand Tree

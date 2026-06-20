@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: luxray-ex
+external_link:
+  cabt_id: 954
 name:
   ja: レントラーex
   en: Luxray ex

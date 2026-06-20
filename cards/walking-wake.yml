@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: walking-wake
+external_link:
+  cabt_id: 35
 name:
   ja: ウネルミナモ
   en: Walking Wake

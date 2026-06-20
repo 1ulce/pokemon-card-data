@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: marill-3
+external_link:
+  cabt_id: 961
 name:
   ja: マリル
   en: Marill

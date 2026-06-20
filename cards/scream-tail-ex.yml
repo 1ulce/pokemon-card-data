@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: scream-tail-ex
+external_link:
+  cabt_id: 969
 name:
   ja: サケブシッポex
   en: Scream Tail ex

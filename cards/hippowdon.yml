@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: hippowdon
+external_link:
+  cabt_id: 23
 name:
   ja: カバルドン
   en: Hippowdon

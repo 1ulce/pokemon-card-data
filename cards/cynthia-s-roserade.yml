@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: cynthia-s-roserade
+external_link:
+  cabt_id: 342
 name:
   ja: シロナのロズレイド
   en: Cynthia's Roserade

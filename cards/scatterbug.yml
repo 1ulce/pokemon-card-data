@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: scatterbug
+external_link:
+  cabt_id: 199
 name:
   ja: コフキムシ
   en: Scatterbug

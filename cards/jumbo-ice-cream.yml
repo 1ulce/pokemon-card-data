@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: jumbo-ice-cream
+external_link:
+  cabt_id: 1147
 name:
   ja: ジャンボアイス
   en: Jumbo Ice Cream

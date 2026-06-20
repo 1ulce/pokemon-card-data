@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: foongus-2
+external_link:
+  cabt_id: 488
 name:
   ja: タマゲタケ
   en: Foongus

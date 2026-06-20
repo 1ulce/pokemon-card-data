@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: tarragon
+external_link:
+  cabt_id: 1238
 name:
   ja: タラゴン
   en: Tarragon

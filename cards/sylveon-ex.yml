@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: sylveon-ex
+external_link:
+  cabt_id: 316
 name:
   ja: ニンフィアex
   en: Sylveon ex
@@ -13,6 +15,7 @@ retreat_cost: 2
 regulation_mark: H
 meta_tags:
 - ex
+- tera
 evolves_from:
   ja: イーブイ
   en: Eevee

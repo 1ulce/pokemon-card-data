@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: n-s-joltik
+external_link:
+  cabt_id: 267
 name:
   ja: Nのバチュル
   en: N's Joltik

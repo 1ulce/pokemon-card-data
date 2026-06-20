@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: ethan-s-pichu
+external_link:
+  cabt_id: 373
 name:
   ja: ヒビキのピチュー
   en: Ethan's Pichu

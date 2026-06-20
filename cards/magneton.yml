@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: magneton
+external_link:
+  cabt_id: 211
 name:
   ja: レアコイル
   en: Magneton

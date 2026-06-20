@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: n-s-zorua
+external_link:
+  cabt_id: 292
 name:
   ja: Nのゾロア
   en: N's Zorua

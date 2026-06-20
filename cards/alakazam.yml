@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: alakazam
+external_link:
+  cabt_id: 245
 name:
   ja: フーディン
   en: Alakazam

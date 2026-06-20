@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: team-rocket-s-dottler
+external_link:
+  cabt_id: 435
 name:
   ja: ロケット団のレドームシ
   en: Team Rocket's Dottler

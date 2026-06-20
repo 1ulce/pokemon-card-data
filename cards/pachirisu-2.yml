@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: pachirisu-2
+external_link:
+  cabt_id: 738
 name:
   ja: パチリス
   en: Pachirisu

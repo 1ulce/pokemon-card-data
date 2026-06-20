@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: amarys
+external_link:
+  cabt_id: 1207
 name:
   ja: ネリネ
   en: Amarys

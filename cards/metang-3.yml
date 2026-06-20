@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: metang-3
+external_link:
+  cabt_id: 275
 name:
   ja: メタング
   en: Metang

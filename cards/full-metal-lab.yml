@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: full-metal-lab
+external_link:
+  cabt_id: 1244
 name:
   ja: フルメタルラボ
   en: Full Metal Lab

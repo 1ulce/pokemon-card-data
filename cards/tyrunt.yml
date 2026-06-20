@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: tyrunt
+external_link:
+  cabt_id: 1053
 name:
   ja: チゴラス
   en: Tyrunt

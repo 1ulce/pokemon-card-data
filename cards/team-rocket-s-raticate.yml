@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: team-rocket-s-raticate
+external_link:
+  cabt_id: 469
 name:
   ja: ロケット団のラッタ
   en: Team Rocket's Raticate

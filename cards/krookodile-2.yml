@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: krookodile-2
+external_link:
+  cabt_id: 832
 name:
   ja: ワルビアル
   en: Krookodile

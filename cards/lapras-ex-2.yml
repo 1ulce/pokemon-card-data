@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: lapras-ex-2
+external_link:
+  cabt_id: 154
 name:
   ja: ラプラスex
   en: Lapras ex
@@ -13,6 +15,7 @@ retreat_cost: 2
 regulation_mark: H
 meta_tags:
 - ex
+- tera
 evolves_from:
   ja:
   en:

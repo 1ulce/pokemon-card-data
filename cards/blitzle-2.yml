@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: blitzle-2
+external_link:
+  cabt_id: 584
 name:
   ja: シママ
   en: Blitzle

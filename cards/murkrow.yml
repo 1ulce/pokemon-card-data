@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: murkrow
+external_link:
+  cabt_id: 773
 name:
   ja: ヤミカラス
   en: Murkrow

@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: shuppet
+external_link:
+  cabt_id: 963
 name:
   ja: カゲボウズ
   en: Shuppet

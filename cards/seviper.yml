@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: seviper
+external_link:
+  cabt_id: 829
 name:
   ja: ハブネーク
   en: Seviper

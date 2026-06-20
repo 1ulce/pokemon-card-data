@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: great-tusk-2
+external_link:
+  cabt_id: 58
 name:
   ja: イダイナキバ
   en: Great Tusk

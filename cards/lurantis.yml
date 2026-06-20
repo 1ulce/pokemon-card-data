@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: lurantis
+external_link:
+  cabt_id: 398
 name:
   ja: ラランテス
   en: Lurantis

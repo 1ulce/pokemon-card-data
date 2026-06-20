@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: annihilape
+external_link:
+  cabt_id: 224
 name:
   ja: コノヨザル
   en: Annihilape

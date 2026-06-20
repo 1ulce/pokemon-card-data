@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: premium-power-pro
+external_link:
+  cabt_id: 1141
 name:
   ja: パワープロテイン
   en: Premium Power Pro

@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: clawitzer
+external_link:
+  cabt_id: 725
 name:
   ja: ブロスター
   en: Clawitzer

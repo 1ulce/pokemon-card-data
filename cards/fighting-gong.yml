@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: fighting-gong
+external_link:
+  cabt_id: 1142
 name:
   ja: ファイトゴング
   en: Fighting Gong

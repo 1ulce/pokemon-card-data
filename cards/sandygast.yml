@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: sandygast
+external_link:
+  cabt_id: 111
 name:
   ja: スナバァ
   en: Sandygast

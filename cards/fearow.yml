@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: fearow
+external_link:
+  cabt_id: 702
 name:
   ja: オニドリル
   en: Fearow

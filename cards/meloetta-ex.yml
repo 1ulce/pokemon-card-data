@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: meloetta-ex
+external_link:
+  cabt_id: 525
 name:
   ja: メロエッタex
   en: Meloetta ex

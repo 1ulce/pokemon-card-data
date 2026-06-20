@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: mega-feraligatr-ex
+external_link:
+  cabt_id: 939
 name:
   ja: メガオーダイルex
   en: Mega Feraligatr ex

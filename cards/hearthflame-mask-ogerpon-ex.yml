@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: hearthflame-mask-ogerpon-ex
+external_link:
+  cabt_id: 99
 name:
   ja: オーガポン かまどのめんex
   en: Hearthflame Mask Ogerpon ex
@@ -13,6 +15,7 @@ retreat_cost: 1
 regulation_mark: H
 meta_tags:
 - ex
+- tera
 evolves_from:
   ja:
   en:

@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: kieran
+external_link:
+  cabt_id: 1191
 name:
   ja: スグリ
   en: Kieran

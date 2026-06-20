@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: barraskewda
+external_link:
+  cabt_id: 422
 name:
   ja: カマスジョー
   en: Barraskewda

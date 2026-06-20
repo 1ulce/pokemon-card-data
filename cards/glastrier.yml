@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: glastrier
+external_link:
+  cabt_id: 867
 name:
   ja: ブリザポス
   en: Glastrier

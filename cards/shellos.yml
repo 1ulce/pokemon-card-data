@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: shellos
+external_link:
+  cabt_id: 208
 name:
   ja: カラナクシ
   en: Shellos

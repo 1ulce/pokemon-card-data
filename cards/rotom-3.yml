@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: rotom-3
+external_link:
+  cabt_id: 376
 name:
   ja: ロトム
   en: Rotom

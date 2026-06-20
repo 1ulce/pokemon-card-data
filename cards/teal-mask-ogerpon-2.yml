@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: teal-mask-ogerpon-2
+external_link:
+  cabt_id: 349
 name:
   ja: オーガポン みどりのめん
   en: Teal Mask Ogerpon

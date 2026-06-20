@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: spectrier
+external_link:
+  cabt_id: 880
 name:
   ja: レイスポス
   en: Spectrier

@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: salandit-2
+external_link:
+  cabt_id: 1025
 name:
   ja: ヤトウモリ
   en: Salandit

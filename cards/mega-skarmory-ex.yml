@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: mega-skarmory-ex
+external_link:
+  cabt_id: 1064
 name:
   ja: メガエアームドex
   en: Mega Skarmory ex

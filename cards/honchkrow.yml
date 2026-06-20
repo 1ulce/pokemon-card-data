@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: honchkrow
+external_link:
+  cabt_id: 774
 name:
   ja: ドンカラス
   en: Honchkrow

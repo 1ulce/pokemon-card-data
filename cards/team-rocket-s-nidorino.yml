@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: team-rocket-s-nidorino
+external_link:
+  cabt_id: 454
 name:
   ja: ロケット団のニドリーノ
   en: Team Rocket's Nidorino

@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: tapu-bulu
+external_link:
+  cabt_id: 920
 name:
   ja: カプ・ブルル
   en: Tapu Bulu

@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: nosepass-2
+external_link:
+  cabt_id: 1046
 name:
   ja: ノズパス
   en: Nosepass

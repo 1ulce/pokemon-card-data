@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: iono-s-tadbulb
+external_link:
+  cabt_id: 268
 name:
   ja: ナンジャモのズピカ
   en: Iono's Tadbulb

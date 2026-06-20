@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: night-stretcher
+external_link:
+  cabt_id: 1097
 name:
   ja: 夜のタンカ
   en: Night Stretcher

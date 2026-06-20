@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: fighting-energy
+external_link:
+  cabt_id: 6
 name:
   ja: 基本闘エネルギー
   en: Fighting Energy

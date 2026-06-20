@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: arcanine
+external_link:
+  cabt_id: 406
 name:
   ja: ウインディ
   en: Arcanine

@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: aegislash
+external_link:
+  cabt_id: 1067
 name:
   ja: ギルガルド
   en: Aegislash

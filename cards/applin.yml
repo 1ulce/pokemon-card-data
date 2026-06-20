@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: applin
+external_link:
+  cabt_id: 42
 name:
   ja: カジッチュ
   en: Applin

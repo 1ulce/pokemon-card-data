@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: tool-scrapper
+external_link:
+  cabt_id: 1137
 name:
   ja: ツールスクラッパー
   en: Tool Scrapper

@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: wugtrio-ex
+external_link:
+  cabt_id: 52
 name:
   ja: ウミトリオex
   en: Wugtrio ex
@@ -13,6 +15,7 @@ retreat_cost: 1
 regulation_mark: H
 meta_tags:
 - ex
+- tera
 evolves_from:
   ja: ウミディグダ
   en: Wiglett

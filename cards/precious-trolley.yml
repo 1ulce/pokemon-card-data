@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: precious-trolley
+external_link:
+  cabt_id: 1126
 name:
   ja: プレシャスキャリー
   en: Precious Trolley

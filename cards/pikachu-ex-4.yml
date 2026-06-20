@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: pikachu-ex-4
+external_link:
+  cabt_id: 328
 name:
   ja: ピカチュウex
   en: Pikachu ex

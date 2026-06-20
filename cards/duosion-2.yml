@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: duosion-2
+external_link:
+  cabt_id: 519
 name:
   ja: ダブラン
   en: Duosion

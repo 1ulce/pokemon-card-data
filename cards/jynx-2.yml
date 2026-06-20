@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: jynx-2
+external_link:
+  cabt_id: 744
 name:
   ja: ルージュラ
   en: Jynx

@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: arven-s-greedent
+external_link:
+  cabt_id: 392
 name:
   ja: ペパーのヨクバリス
   en: Arven's Greedent

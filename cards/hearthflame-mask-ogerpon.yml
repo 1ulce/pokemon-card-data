@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: hearthflame-mask-ogerpon
+external_link:
+  cabt_id: 358
 name:
   ja: オーガポン かまどのめん
   en: Hearthflame Mask Ogerpon

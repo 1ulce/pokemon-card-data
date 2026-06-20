@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: altaria
+external_link:
+  cabt_id: 194
 name:
   ja: チルタリス
   en: Altaria

@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: team-rocket-s-grimer
+external_link:
+  cabt_id: 459
 name:
   ja: ロケット団のベトベター
   en: Team Rocket's Grimer

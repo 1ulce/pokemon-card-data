@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: hop-s-rookidee
+external_link:
+  cabt_id: 307
 name:
   ja: ホップのココガラ
   en: Hop's Rookidee

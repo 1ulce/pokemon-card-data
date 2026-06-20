@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: mega-clefable-ex
+external_link:
+  cabt_id: 1040
 name:
   ja: メガピクシーex
   en: Mega Clefable ex

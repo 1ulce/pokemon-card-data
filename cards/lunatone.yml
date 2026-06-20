@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: lunatone
+external_link:
+  cabt_id: 675
 name:
   ja: ルナトーン
   en: Lunatone

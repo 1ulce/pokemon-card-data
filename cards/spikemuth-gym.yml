@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: spikemuth-gym
+external_link:
+  cabt_id: 1259
 name:
   ja: スパイクタウンジム
   en: Spikemuth Gym

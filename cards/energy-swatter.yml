@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: energy-swatter
+external_link:
+  cabt_id: 1149
 name:
   ja: エネはたき
   en: Energy Swatter

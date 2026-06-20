@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: woobat
+external_link:
+  cabt_id: 589
 name:
   ja: コロモリ
   en: Woobat

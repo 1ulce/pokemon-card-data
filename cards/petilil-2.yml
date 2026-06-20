@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: petilil-2
+external_link:
+  cabt_id: 484
 name:
   ja: チュリネ
   en: Petilil

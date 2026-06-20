@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: super-potion
+external_link:
+  cabt_id: 1112
 name:
   ja: いいきずぐすり
   en: Super Potion

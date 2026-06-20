@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: reshiram-ex-2
+external_link:
+  cabt_id: 573
 name:
   ja: レシラムex
   en: Reshiram ex

@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: venipede
+external_link:
+  cabt_id: 980
 name:
   ja: フシデ
   en: Venipede

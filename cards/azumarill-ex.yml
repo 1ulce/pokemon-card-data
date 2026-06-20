@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: azumarill-ex
+external_link:
+  cabt_id: 962
 name:
   ja: マリルリex
   en: Azumarill ex

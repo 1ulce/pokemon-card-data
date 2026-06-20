@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: dipplin-3
+external_link:
+  cabt_id: 93
 name:
   ja: カミッチュ
   en: Dipplin

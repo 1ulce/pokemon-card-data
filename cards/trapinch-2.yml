@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: trapinch-2
+external_link:
+  cabt_id: 822
 name:
   ja: ナックラー
   en: Trapinch

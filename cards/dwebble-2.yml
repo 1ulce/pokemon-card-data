@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: dwebble-2
+external_link:
+  cabt_id: 532
 name:
   ja: イシズマイ
   en: Dwebble

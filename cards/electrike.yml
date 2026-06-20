@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: electrike
+external_link:
+  cabt_id: 374
 name:
   ja: ラクライ
   en: Electrike

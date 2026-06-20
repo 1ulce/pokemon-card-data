@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: pecharunt-2
+external_link:
+  cabt_id: 898
 name:
   ja: モモワロウ
   en: Pecharunt

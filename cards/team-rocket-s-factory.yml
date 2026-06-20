@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: team-rocket-s-factory
+external_link:
+  cabt_id: 1257
 name:
   ja: ロケット団のファクトリー
   en: Team Rocket's Factory

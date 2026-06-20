@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: n-s-zekrom
+external_link:
+  cabt_id: 906
 name:
   ja: Nのゼクロム
   en: N's Zekrom

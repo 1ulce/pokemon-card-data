@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: togedemaru-ex
+external_link:
+  cabt_id: 990
 name:
   ja: トゲデマルex
   en: Togedemaru ex

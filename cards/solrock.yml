@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: solrock
+external_link:
+  cabt_id: 676
 name:
   ja: ソルロック
   en: Solrock

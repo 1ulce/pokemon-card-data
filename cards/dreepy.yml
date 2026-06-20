@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: dreepy
+external_link:
+  cabt_id: 119
 name:
   ja: ドラメシヤ
   en: Dreepy

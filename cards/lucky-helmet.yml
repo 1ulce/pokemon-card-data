@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: lucky-helmet
+external_link:
+  cabt_id: 1156
 name:
   ja: ラッキーメット
   en: Lucky Helmet

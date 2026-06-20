@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: arboliva-ex
+external_link:
+  cabt_id: 404
 name:
   ja: オリーヴァex
   en: Arboliva ex

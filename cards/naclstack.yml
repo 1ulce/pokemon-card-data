@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: naclstack
+external_link:
+  cabt_id: 684
 name:
   ja: ジオヅム
   en: Naclstack

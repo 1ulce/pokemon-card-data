@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: team-rocket-s-nidoran-male
+external_link:
+  cabt_id: 453
 name:
   ja: ロケット団のニドラン♂
   en: Team Rocket's Nidoran♂

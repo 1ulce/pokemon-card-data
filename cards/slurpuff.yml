@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: slurpuff
+external_link:
+  cabt_id: 110
 name:
   ja: ペロリーム
   en: Slurpuff

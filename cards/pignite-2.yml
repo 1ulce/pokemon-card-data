@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: pignite-2
+external_link:
+  cabt_id: 931
 name:
   ja: チャオブー
   en: Pignite

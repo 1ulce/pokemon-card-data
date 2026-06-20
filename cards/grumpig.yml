@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: grumpig
+external_link:
+  cabt_id: 750
 name:
   ja: ブーピッグ
   en: Grumpig

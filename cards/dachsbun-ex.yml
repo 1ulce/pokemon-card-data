@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: dachsbun-ex
+external_link:
+  cabt_id: 968
 name:
   ja: バウッツェルex
   en: Dachsbun ex

@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: team-rocket-s-persian-ex
+external_link:
+  cabt_id: 471
 name:
   ja: ロケット団のペルシアンex
   en: Team Rocket's Persian ex

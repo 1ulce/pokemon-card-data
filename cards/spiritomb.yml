@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: spiritomb
+external_link:
+  cabt_id: 688
 name:
   ja: ミカルゲ
   en: Spiritomb

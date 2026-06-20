@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: salazzle-ex
+external_link:
+  cabt_id: 1026
 name:
   ja: エンニュートex
   en: Salazzle ex

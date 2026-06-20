@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: iono-s-electrode
+external_link:
+  cabt_id: 266
 name:
   ja: ナンジャモのマルマイン
   en: Iono's Electrode

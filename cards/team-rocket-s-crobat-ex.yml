@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: team-rocket-s-crobat-ex
+external_link:
+  cabt_id: 458
 name:
   ja: ロケット団のクロバットex
   en: Team Rocket's Crobat ex

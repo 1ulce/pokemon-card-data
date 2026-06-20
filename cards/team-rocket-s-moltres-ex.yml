@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: team-rocket-s-moltres-ex
+external_link:
+  cabt_id: 407
 name:
   ja: ロケット団のファイヤーex
   en: Team Rocket's Moltres ex

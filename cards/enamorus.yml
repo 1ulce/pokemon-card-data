@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: enamorus
+external_link:
+  cabt_id: 39
 name:
   ja: ラブトロス
   en: Enamorus

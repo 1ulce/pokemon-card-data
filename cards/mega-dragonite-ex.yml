@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: mega-dragonite-ex
+external_link:
+  cabt_id: 904
 name:
   ja: メガカイリューex
   en: Mega Dragonite ex

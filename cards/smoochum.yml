@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: smoochum
+external_link:
+  cabt_id: 183
 name:
   ja: ムチュール
   en: Smoochum

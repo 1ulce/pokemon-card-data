@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: erika-s-victreebel
+external_link:
+  cabt_id: 914
 name:
   ja: エリカのウツボット
   en: Erika's Victreebel

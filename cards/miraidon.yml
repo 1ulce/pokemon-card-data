@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: miraidon
+external_link:
+  cabt_id: 87
 name:
   ja: ミライドン
   en: Miraidon

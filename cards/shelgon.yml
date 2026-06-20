@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: shelgon
+external_link:
+  cabt_id: 301
 name:
   ja: コモルー
   en: Shelgon

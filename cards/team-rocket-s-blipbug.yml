@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: team-rocket-s-blipbug
+external_link:
+  cabt_id: 399
 name:
   ja: ロケット団のサッチムシ
   en: Team Rocket's Blipbug

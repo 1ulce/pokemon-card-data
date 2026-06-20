@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: squawkabilly
+external_link:
+  cabt_id: 478
 name:
   ja: イキリンコ
   en: Squawkabilly

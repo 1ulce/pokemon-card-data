@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: mismagius-ex
+external_link:
+  cabt_id: 813
 name:
   ja: ムウマージex
   en: Mismagius ex

@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: stunfisk-2
+external_link:
+  cabt_id: 869
 name:
   ja: マッギョ
   en: Stunfisk

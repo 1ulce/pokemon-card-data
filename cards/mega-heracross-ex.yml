@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: mega-heracross-ex
+external_link:
+  cabt_id: 781
 name:
   ja: メガヘラクロスex
   en: Mega Heracross ex

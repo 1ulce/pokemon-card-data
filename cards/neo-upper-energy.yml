@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: neo-upper-energy
+external_link:
+  cabt_id: 10
 name:
   ja: ネオアッパーエネルギー
   en: Neo Upper Energy

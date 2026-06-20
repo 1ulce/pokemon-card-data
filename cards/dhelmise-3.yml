@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: dhelmise-3
+external_link:
+  cabt_id: 714
 name:
   ja: ダダリン
   en: Dhelmise

@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: ethan-s-quilava
+external_link:
+  cabt_id: 353
 name:
   ja: ヒビキのマグマラシ
   en: Ethan's Quilava

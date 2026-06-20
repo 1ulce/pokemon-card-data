@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: ciphermaniac-s-codebreaking
+external_link:
+  cabt_id: 1188
 name:
   ja: 暗号マニアの解読
   en: Ciphermaniac's Codebreaking

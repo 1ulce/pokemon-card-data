@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: granite-cave
+external_link:
+  cabt_id: 1258
 name:
   ja: いしのどうくつ
   en: Granite Cave

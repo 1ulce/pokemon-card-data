@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: team-rocket-s-spidops
+external_link:
+  cabt_id: 401
 name:
   ja: ロケット団のワナイダー
   en: Team Rocket's Spidops

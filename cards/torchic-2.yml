@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: torchic-2
+external_link:
+  cabt_id: 410
 name:
   ja: アチャモ
   en: Torchic

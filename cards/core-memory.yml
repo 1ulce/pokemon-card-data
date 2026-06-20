@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: core-memory
+external_link:
+  cabt_id: 1180
 name:
   ja: コアメモリ
   en: Core Memory

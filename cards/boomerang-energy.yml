@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: boomerang-energy
+external_link:
+  cabt_id: 9
 name:
   ja: ブーメランエネルギー
   en: Boomerang Energy

@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: landorus-3
+external_link:
+  cabt_id: 1050
 name:
   ja: ランドロス
   en: Landorus

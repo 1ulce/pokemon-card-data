@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: klang-2
+external_link:
+  cabt_id: 622
 name:
   ja: ギギアル
   en: Klang

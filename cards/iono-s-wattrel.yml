@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: iono-s-wattrel
+external_link:
+  cabt_id: 270
 name:
   ja: ナンジャモのカイデン
   en: Iono's Wattrel

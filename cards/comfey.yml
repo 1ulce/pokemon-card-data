@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: comfey
+external_link:
+  cabt_id: 164
 name:
   ja: キュワワー
   en: Comfey

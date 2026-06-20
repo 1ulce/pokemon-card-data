@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: lumiose-galette
+external_link:
+  cabt_id: 1153
 name:
   ja: ミアレガレット
   en: Lumiose Galette

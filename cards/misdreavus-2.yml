@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: misdreavus-2
+external_link:
+  cabt_id: 875
 name:
   ja: ムウマ
   en: Misdreavus

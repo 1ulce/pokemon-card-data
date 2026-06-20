@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: oricorio-ex
+external_link:
+  cabt_id: 795
 name:
   ja: オドリドリex
   en: Oricorio ex

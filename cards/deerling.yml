@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: deerling
+external_link:
+  cabt_id: 71
 name:
   ja: シキジカ
   en: Deerling

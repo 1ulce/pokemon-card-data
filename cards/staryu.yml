@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: staryu
+external_link:
+  cabt_id: 1030
 name:
   ja: ヒトデマン
   en: Staryu

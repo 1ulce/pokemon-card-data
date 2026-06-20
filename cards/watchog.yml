@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: watchog
+external_link:
+  cabt_id: 627
 name:
   ja: ミルホッグ
   en: Watchog

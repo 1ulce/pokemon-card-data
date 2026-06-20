@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: judge
+external_link:
+  cabt_id: 1213
 name:
   ja: ジャッジマン
   en: Judge

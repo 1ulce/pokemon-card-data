@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: team-rocket-s-zapdos
+external_link:
+  cabt_id: 425
 name:
   ja: ロケット団のサンダー
   en: Team Rocket's Zapdos

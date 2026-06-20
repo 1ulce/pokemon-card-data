@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: pineco-2
+external_link:
+  cabt_id: 393
 name:
   ja: クヌギダマ
   en: Pineco

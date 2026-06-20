@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: sewaddle
+external_link:
+  cabt_id: 557
 name:
   ja: クルミル
   en: Sewaddle

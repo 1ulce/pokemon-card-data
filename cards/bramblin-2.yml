@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: bramblin-2
+external_link:
+  cabt_id: 817
 name:
   ja: アノクサ
   en: Bramblin

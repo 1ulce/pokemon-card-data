@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: escavalier-2
+external_link:
+  cabt_id: 543
 name:
   ja: シュバルゴ
   en: Escavalier

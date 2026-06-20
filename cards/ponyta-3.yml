@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: ponyta-3
+external_link:
+  cabt_id: 350
 name:
   ja: ポニータ
   en: Ponyta

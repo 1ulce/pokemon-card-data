@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: team-rocket-s-watchtower
+external_link:
+  cabt_id: 1256
 name:
   ja: ロケット団の監視塔
   en: Team Rocket's Watchtower

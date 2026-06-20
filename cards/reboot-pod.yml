@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: reboot-pod
+external_link:
+  cabt_id: 1089
 name:
   ja: リブートポッド
   en: Reboot Pod

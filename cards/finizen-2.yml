@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: finizen-2
+external_link:
+  cabt_id: 105
 name:
   ja: ナミイルカ
   en: Finizen

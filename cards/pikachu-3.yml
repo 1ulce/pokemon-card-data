@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: pikachu-3
+external_link:
+  cabt_id: 948
 name:
   ja: ピカチュウ
   en: Pikachu

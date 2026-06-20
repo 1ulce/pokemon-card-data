@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: tynamo
+external_link:
+  cabt_id: 511
 name:
   ja: シビシラス
   en: Tynamo

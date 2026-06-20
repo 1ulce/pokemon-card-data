@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: mega-abomasnow-ex
+external_link:
+  cabt_id: 723
 name:
   ja: メガユキノオーex
   en: Mega Abomasnow ex

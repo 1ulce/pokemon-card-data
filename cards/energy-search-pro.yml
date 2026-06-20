@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: energy-search-pro
+external_link:
+  cabt_id: 1100
 name:
   ja: エネルギー転送PRO
   en: Energy Search Pro

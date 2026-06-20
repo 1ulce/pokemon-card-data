@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: delibird-2
+external_link:
+  cabt_id: 757
 name:
   ja: デリバード
   en: Delibird

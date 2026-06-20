@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: ludicolo
+external_link:
+  cabt_id: 262
 name:
   ja: ルンパッパ
   en: Ludicolo

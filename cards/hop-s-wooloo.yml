@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: hop-s-wooloo
+external_link:
+  cabt_id: 309
 name:
   ja: ホップのウールー
   en: Hop's Wooloo

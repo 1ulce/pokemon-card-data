@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: mega-latias-ex
+external_link:
+  cabt_id: 754
 name:
   ja: メガラティアスex
   en: Mega Latias ex

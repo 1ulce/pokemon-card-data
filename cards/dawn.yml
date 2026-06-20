@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: dawn
+external_link:
+  cabt_id: 1231
 name:
   ja: ヒカリ
   en: Dawn

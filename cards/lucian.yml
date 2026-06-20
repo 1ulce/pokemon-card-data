@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: lucian
+external_link:
+  cabt_id: 1237
 name:
   ja: ゴヨウ
   en: Lucian

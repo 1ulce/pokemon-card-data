@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: team-rocket-s-dugtrio
+external_link:
+  cabt_id: 882
 name:
   ja: ロケット団のダグトリオ
   en: Team Rocket's Dugtrio

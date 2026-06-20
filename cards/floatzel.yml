@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: floatzel
+external_link:
+  cabt_id: 368
 name:
   ja: フローゼル
   en: Floatzel

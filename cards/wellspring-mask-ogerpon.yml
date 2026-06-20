@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: wellspring-mask-ogerpon
+external_link:
+  cabt_id: 370
 name:
   ja: オーガポン いどのめん
   en: Wellspring Mask Ogerpon

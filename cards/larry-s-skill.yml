@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: larry-s-skill
+external_link:
+  cabt_id: 1206
 name:
   ja: アオキの手際
   en: Larry's Skill

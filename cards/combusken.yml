@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: combusken
+external_link:
+  cabt_id: 325
 name:
   ja: ワカシャモ
   en: Combusken

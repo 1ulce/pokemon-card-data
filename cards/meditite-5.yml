@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: meditite-5
+external_link:
+  cabt_id: 445
 name:
   ja: アサナン
   en: Meditite

@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: bronzong
+external_link:
+  cabt_id: 55
 name:
   ja: ドータクン
   en: Bronzong

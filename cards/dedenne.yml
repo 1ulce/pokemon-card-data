@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: dedenne
+external_link:
+  cabt_id: 222
 name:
   ja: デデンネ
   en: Dedenne

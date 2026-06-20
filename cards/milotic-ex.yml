@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: milotic-ex
+external_link:
+  cabt_id: 207
 name:
   ja: ミロカロスex
   en: Milotic ex

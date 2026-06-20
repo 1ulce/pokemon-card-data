@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: raboot-2
+external_link:
+  cabt_id: 665
 name:
   ja: ラビフット
   en: Raboot

@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: iron-thorns-ex
+external_link:
+  cabt_id: 37
 name:
   ja: テツノイバラex
   en: Iron Thorns ex

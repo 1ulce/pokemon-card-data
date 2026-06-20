@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: mega-absol-ex
+external_link:
+  cabt_id: 687
 name:
   ja: メガアブソルex
   en: Mega Absol ex

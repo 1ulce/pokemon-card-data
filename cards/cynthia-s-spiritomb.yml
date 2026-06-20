@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: cynthia-s-spiritomb
+external_link:
+  cabt_id: 387
 name:
   ja: シロナのミカルゲ
   en: Cynthia's Spiritomb

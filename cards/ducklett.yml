@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: ducklett
+external_link:
+  cabt_id: 578
 name:
   ja: コアルヒー
   en: Ducklett

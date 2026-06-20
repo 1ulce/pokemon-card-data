@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: hilda
+external_link:
+  cabt_id: 1225
 name:
   ja: トウコ
   en: Hilda

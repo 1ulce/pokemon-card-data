@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: steven-s-claydol
+external_link:
+  cabt_id: 636
 name:
   ja: ダイゴのネンドール
   en: Steven's Claydol

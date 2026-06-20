@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: n-s-pp-up
+external_link:
+  cabt_id: 1113
 name:
   ja: Nのポイントアップ
   en: N's PP Up

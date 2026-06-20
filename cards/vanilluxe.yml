@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: vanilluxe
+external_link:
+  cabt_id: 582
 name:
   ja: バイバニラ
   en: Vanilluxe

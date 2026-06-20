@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: steelix
+external_link:
+  cabt_id: 694
 name:
   ja: ハガネール
   en: Steelix

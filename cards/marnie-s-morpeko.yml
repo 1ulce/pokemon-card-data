@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: marnie-s-morpeko
+external_link:
+  cabt_id: 649
 name:
   ja: マリィのモルペコ
   en: Marnie's Morpeko

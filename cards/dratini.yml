@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: dratini
+external_link:
+  cabt_id: 902
 name:
   ja: ミニリュウ
   en: Dratini

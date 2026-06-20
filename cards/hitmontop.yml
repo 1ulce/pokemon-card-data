@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: hitmontop
+external_link:
+  cabt_id: 972
 name:
   ja: カポエラー
   en: Hitmontop

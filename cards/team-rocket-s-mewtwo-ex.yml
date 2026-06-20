@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: team-rocket-s-mewtwo-ex
+external_link:
+  cabt_id: 431
 name:
   ja: ロケット団のミュウツーex
   en: Team Rocket's Mewtwo ex

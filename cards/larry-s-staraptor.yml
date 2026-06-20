@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: larry-s-staraptor
+external_link:
+  cabt_id: 1005
 name:
   ja: アオキのムクホーク
   en: Larry's Staraptor

@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: misty-s-gyarados
+external_link:
+  cabt_id: 363
 name:
   ja: カスミのギャラドス
   en: Misty's Gyarados

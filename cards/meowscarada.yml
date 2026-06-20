@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: meowscarada
+external_link:
+  cabt_id: 924
 name:
   ja: マスカーニャ
   en: Meowscarada

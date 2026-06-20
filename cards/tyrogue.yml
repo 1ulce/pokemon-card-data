@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: tyrogue
+external_link:
+  cabt_id: 672
 name:
   ja: バルキー
   en: Tyrogue

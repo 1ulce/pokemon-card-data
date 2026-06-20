@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: palossand-ex
+external_link:
+  cabt_id: 223
 name:
   ja: シロデスナex
   en: Palossand ex
@@ -13,6 +15,7 @@ retreat_cost: 4
 regulation_mark: H
 meta_tags:
 - ex
+- tera
 evolves_from:
   ja: スナバァ
   en: Sandygast

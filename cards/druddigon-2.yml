@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: druddigon-2
+external_link:
+  cabt_id: 625
 name:
   ja: クリムガン
   en: Druddigon

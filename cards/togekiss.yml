@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: togekiss
+external_link:
+  cabt_id: 214
 name:
   ja: トゲキッス
   en: Togekiss

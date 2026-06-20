@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: zamazenta
+external_link:
+  cabt_id: 467
 name:
   ja: ザマゼンタ
   en: Zamazenta

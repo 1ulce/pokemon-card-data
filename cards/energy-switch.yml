@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: energy-switch
+external_link:
+  cabt_id: 1116
 name:
   ja: エネルギーつけかえ
   en: Energy Switch

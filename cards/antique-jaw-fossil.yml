@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: antique-jaw-fossil
+external_link:
+  cabt_id: 1150
 name:
   ja: 古びたアゴの化石
   en: Antique Jaw Fossil

@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: sigilyph-2
+external_link:
+  cabt_id: 591
 name:
   ja: シンボラー
   en: Sigilyph

@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: ultra-ball
+external_link:
+  cabt_id: 1121
 name:
   ja: ハイパーボール
   en: Ultra Ball

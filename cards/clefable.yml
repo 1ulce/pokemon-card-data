@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: clefable
+external_link:
+  cabt_id: 958
 name:
   ja: ピクシー
   en: Clefable

@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: samurott
+external_link:
+  cabt_id: 576
 name:
   ja: ダイケンキ
   en: Samurott

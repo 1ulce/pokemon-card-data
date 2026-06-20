@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: fidough
+external_link:
+  cabt_id: 967
 name:
   ja: パピモッチ
   en: Fidough

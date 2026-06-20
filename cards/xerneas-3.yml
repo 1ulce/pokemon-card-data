@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: xerneas-3
+external_link:
+  cabt_id: 751
 name:
   ja: ゼルネアス
   en: Xerneas

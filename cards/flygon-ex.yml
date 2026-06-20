@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: flygon-ex
+external_link:
+  cabt_id: 189
 name:
   ja: フライゴンex
   en: Flygon ex
@@ -13,6 +15,7 @@ retreat_cost: 1
 regulation_mark: H
 meta_tags:
 - ex
+- tera
 evolves_from:
   ja: ビブラーバ
   en: Vibrava

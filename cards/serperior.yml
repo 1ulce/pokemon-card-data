@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: serperior
+external_link:
+  cabt_id: 1016
 name:
   ja: ジャローダ
   en: Serperior

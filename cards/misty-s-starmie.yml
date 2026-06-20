@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: misty-s-starmie
+external_link:
+  cabt_id: 361
 name:
   ja: カスミのスターミー
   en: Misty's Starmie

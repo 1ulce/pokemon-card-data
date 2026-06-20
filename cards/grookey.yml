@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: grookey
+external_link:
+  cabt_id: 89
 name:
   ja: サルノリ
   en: Grookey

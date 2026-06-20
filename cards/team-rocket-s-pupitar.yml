@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: team-rocket-s-pupitar
+external_link:
+  cabt_id: 441
 name:
   ja: ロケット団のサナギラス
   en: Team Rocket's Pupitar

@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: survival-brace
+external_link:
+  cabt_id: 1155
 name:
   ja: サバイブギプス
   en: Survival Brace

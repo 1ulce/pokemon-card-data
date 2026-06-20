@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: mega-scrafty-ex
+external_link:
+  cabt_id: 896
 name:
   ja: メガズルズキンex
   en: Mega Scrafty ex

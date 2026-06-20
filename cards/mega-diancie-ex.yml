@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: mega-diancie-ex
+external_link:
+  cabt_id: 766
 name:
   ja: メガディアンシーex
   en: Mega Diancie ex

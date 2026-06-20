@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: quaquaval
+external_link:
+  cabt_id: 182
 name:
   ja: ウェーニバル
   en: Quaquaval

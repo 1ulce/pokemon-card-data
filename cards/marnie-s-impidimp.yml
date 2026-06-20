@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: marnie-s-impidimp
+external_link:
+  cabt_id: 646
 name:
   ja: マリィのベロバー
   en: Marnie's Impidimp

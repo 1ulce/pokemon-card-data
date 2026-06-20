@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: sawsbuck
+external_link:
+  cabt_id: 72
 name:
   ja: メブキジカ
   en: Sawsbuck

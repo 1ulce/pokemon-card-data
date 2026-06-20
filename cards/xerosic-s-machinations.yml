@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: xerosic-s-machinations
+external_link:
+  cabt_id: 1197
 name:
   ja: クセロシキのたくらみ
   en: Xerosic's Machinations

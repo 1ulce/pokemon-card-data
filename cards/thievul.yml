@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: thievul
+external_link:
+  cabt_id: 691
 name:
   ja: フォクスライ
   en: Thievul

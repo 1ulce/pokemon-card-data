@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: darmanitan-2
+external_link:
+  cabt_id: 793
 name:
   ja: ヒヒダルマ
   en: Darmanitan

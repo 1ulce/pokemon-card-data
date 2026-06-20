@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: arven-s-sandwich
+external_link:
+  cabt_id: 1130
 name:
   ja: ペパーのサンドウィッチ
   en: Arven's Sandwich

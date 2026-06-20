@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: durant-ex
+external_link:
+  cabt_id: 198
 name:
   ja: アイアントex
   en: Durant ex

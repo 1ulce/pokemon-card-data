@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: gengar
+external_link:
+  cabt_id: 1059
 name:
   ja: ゲンガー
   en: Gengar

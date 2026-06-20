@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: awakening-drum
+external_link:
+  cabt_id: 1085
 name:
   ja: 覚醒のドラム
   en: Awakening Drum

@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: rockruff-2
+external_link:
+  cabt_id: 286
 name:
   ja: イワンコ
   en: Rockruff

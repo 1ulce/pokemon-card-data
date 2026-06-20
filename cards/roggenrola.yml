@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: roggenrola
+external_link:
+  cabt_id: 599
 name:
   ja: ダンゴロ
   en: Roggenrola

@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: wondrous-patch
+external_link:
+  cabt_id: 1146
 name:
   ja: ワンダーパッチ
   en: Wondrous Patch

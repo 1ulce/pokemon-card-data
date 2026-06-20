@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: mega-audino-ex
+external_link:
+  cabt_id: 1006
 name:
   ja: メガタブンネex
   en: Mega Audino ex

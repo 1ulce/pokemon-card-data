@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: scorbunny
+external_link:
+  cabt_id: 151
 name:
   ja: ヒバニー
   en: Scorbunny

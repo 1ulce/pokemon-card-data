@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: spheal
+external_link:
+  cabt_id: 941
 name:
   ja: タマザラシ
   en: Spheal

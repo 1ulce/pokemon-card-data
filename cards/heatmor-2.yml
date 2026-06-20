@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: heatmor-2
+external_link:
+  cabt_id: 572
 name:
   ja: クイタラン
   en: Heatmor

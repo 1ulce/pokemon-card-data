@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: regice-ex
+external_link:
+  cabt_id: 944
 name:
   ja: レジアイスex
   en: Regice ex

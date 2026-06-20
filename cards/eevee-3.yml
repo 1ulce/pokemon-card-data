@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: eevee-3
+external_link:
+  cabt_id: 145
 name:
   ja: イーブイ
   en: Eevee

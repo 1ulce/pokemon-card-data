@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: duraludon-3
+external_link:
+  cabt_id: 992
 name:
   ja: ジュラルドン
   en: Duraludon

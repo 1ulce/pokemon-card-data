@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: larry-s-braviary
+external_link:
+  cabt_id: 1008
 name:
   ja: アオキのウォーグル
   en: Larry's Braviary

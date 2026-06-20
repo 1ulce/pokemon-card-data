@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: gastly-2
+external_link:
+  cabt_id: 770
 name:
   ja: ゴース
   en: Gastly

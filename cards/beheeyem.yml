@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: beheeyem
+external_link:
+  cabt_id: 964
 name:
   ja: オーベム
   en: Beheeyem

@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: tinkatuff
+external_link:
+  cabt_id: 698
 name:
   ja: ナカヌチャン
   en: Tinkatuff

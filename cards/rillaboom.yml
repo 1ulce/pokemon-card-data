@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: rillaboom
+external_link:
+  cabt_id: 91
 name:
   ja: ゴリランダー
   en: Rillaboom

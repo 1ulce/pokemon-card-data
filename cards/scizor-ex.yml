@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: scizor-ex
+external_link:
+  cabt_id: 84
 name:
   ja: ハッサムex
   en: Scizor ex

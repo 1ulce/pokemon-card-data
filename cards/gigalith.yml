@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: gigalith
+external_link:
+  cabt_id: 601
 name:
   ja: ギガイアス
   en: Gigalith

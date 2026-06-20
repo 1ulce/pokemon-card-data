@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: spearow
+external_link:
+  cabt_id: 701
 name:
   ja: オニスズメ
   en: Spearow

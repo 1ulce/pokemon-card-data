@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: tranquill
+external_link:
+  cabt_id: 552
 name:
   ja: ハトーボー
   en: Tranquill

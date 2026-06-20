@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: helioptile-2
+external_link:
+  cabt_id: 870
 name:
   ja: エリキテル
   en: Helioptile

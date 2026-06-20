@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: scrafty
+external_link:
+  cabt_id: 21
 name:
   ja: ズルズキン
   en: Scrafty

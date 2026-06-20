@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: tapu-koko
+external_link:
+  cabt_id: 213
 name:
   ja: カプ・コケコ
   en: Tapu Koko

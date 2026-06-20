@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: feraligatr-2
+external_link:
+  cabt_id: 49
 name:
   ja: オーダイル
   en: Feraligatr

@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: master-ball
+external_link:
+  cabt_id: 1125
 name:
   ja: マスターボール
   en: Master Ball

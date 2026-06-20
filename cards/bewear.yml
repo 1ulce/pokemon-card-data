@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: bewear
+external_link:
+  cabt_id: 761
 name:
   ja: キテルグマ
   en: Bewear

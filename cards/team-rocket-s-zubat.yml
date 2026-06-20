@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: team-rocket-s-zubat
+external_link:
+  cabt_id: 456
 name:
   ja: ロケット団のズバット
   en: Team Rocket's Zubat

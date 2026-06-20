@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: iron-crown-ex
+external_link:
+  cabt_id: 80
 name:
   ja: テツノカシラex
   en: Iron Crown ex

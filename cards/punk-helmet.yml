@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: punk-helmet
+external_link:
+  cabt_id: 1176
 name:
   ja: パンクメット
   en: Punk Helmet

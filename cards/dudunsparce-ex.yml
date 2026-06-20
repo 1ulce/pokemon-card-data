@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: dudunsparce-ex
+external_link:
+  cabt_id: 306
 name:
   ja: ノココッチex
   en: Dudunsparce ex

@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: zweilous
+external_link:
+  cabt_id: 228
 name:
   ja: ジヘッド
   en: Zweilous

@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: hop-s-sandaconda
+external_link:
+  cabt_id: 289
 name:
   ja: ホップのサダイジャ
   en: Hop's Sandaconda

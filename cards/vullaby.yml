@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: vullaby
+external_link:
+  cabt_id: 541
 name:
   ja: バルチャイ
   en: Vullaby

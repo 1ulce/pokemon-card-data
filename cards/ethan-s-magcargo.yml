@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: ethan-s-magcargo
+external_link:
+  cabt_id: 356
 name:
   ja: ヒビキのマグカルゴ
   en: Ethan's Magcargo

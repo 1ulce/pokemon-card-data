@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: mega-mawile-ex
+external_link:
+  cabt_id: 695
 name:
   ja: メガクチートex
   en: Mega Mawile ex

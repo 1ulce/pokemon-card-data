@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: axew-2
+external_link:
+  cabt_id: 548
 name:
   ja: キバゴ
   en: Axew

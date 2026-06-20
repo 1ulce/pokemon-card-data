@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: seedot-2
+external_link:
+  cabt_id: 656
 name:
   ja: タネボー
   en: Seedot

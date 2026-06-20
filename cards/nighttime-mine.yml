@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: nighttime-mine
+external_link:
+  cabt_id: 1266
 name:
   ja: 夜の鉱山
   en: Nighttime Mine

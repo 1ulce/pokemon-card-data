@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: milotic
+external_link:
+  cabt_id: 102
 name:
   ja: ミロカロス
   en: Milotic

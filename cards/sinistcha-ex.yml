@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: sinistcha-ex
+external_link:
+  cabt_id: 29
 name:
   ja: ヤバソチャex
   en: Sinistcha ex

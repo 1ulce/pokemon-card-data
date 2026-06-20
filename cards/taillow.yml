@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: taillow
+external_link:
+  cabt_id: 476
 name:
   ja: スバメ
   en: Taillow

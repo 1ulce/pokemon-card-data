@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: cryogonal-2
+external_link:
+  cabt_id: 508
 name:
   ja: フリージオ
   en: Cryogonal

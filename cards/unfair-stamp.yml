@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: unfair-stamp
+external_link:
+  cabt_id: 1080
 name:
   ja: アンフェアスタンプ
   en: Unfair Stamp

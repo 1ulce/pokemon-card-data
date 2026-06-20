@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: ethan-s-pinsir
+external_link:
+  cabt_id: 338
 name:
   ja: ヒビキのカイロス
   en: Ethan's Pinsir

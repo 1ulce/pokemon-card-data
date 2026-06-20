@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: erika-s-gloom
+external_link:
+  cabt_id: 910
 name:
   ja: エリカのクサイハナ
   en: Erika's Gloom

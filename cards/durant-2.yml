@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: durant-2
+external_link:
+  cabt_id: 624
 name:
   ja: アイアント
   en: Durant

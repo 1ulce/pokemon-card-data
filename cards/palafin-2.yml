@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: palafin-2
+external_link:
+  cabt_id: 106
 name:
   ja: イルカマン
   en: Palafin

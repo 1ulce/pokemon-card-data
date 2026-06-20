@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: iron-leaves
+external_link:
+  cabt_id: 27
 name:
   ja: テツノイサハ
   en: Iron Leaves

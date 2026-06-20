@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: larry-s-rufflet
+external_link:
+  cabt_id: 1007
 name:
   ja: アオキのワシボン
   en: Larry's Rufflet

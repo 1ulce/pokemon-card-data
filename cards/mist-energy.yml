@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: mist-energy
+external_link:
+  cabt_id: 11
 name:
   ja: ミストエネルギー
   en: Mist Energy

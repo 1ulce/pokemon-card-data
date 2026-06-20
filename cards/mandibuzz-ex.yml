@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: mandibuzz-ex
+external_link:
+  cabt_id: 984
 name:
   ja: バルジーナex
   en: Mandibuzz ex

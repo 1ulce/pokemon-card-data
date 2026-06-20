@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: mega-starmie-ex
+external_link:
+  cabt_id: 1031
 name:
   ja: メガスターミーex
   en: Mega Starmie ex

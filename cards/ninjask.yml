@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: ninjask
+external_link:
+  cabt_id: 713
 name:
   ja: テッカニン
   en: Ninjask

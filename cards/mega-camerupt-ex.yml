@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: mega-camerupt-ex
+external_link:
+  cabt_id: 662
 name:
   ja: メガバクーダex
   en: Mega Camerupt ex

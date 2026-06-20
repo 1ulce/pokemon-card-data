@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: miltank
+external_link:
+  cabt_id: 703
 name:
   ja: ミルタンク
   en: Miltank

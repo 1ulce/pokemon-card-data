@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: rellor
+external_link:
+  cabt_id: 73
 name:
   ja: シガロコ
   en: Rellor

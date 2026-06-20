@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: skitty
+external_link:
+  cabt_id: 1000
 name:
   ja: エネコ
   en: Skitty

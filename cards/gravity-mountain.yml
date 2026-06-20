@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: gravity-mountain
+external_link:
+  cabt_id: 1252
 name:
   ja: グラビティーマウンテン
   en: Gravity Mountain

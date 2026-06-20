@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: heliolisk-2
+external_link:
+  cabt_id: 871
 name:
   ja: エレザード
   en: Heliolisk

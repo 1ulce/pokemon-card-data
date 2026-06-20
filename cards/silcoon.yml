@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: silcoon
+external_link:
+  cabt_id: 851
 name:
   ja: カラサリス
   en: Silcoon

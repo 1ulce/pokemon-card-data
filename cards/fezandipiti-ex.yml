@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: fezandipiti-ex
+external_link:
+  cabt_id: 140
 name:
   ja: キチキギスex
   en: Fezandipiti ex

@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: pokemon-catcher
+external_link:
+  cabt_id: 1124
 name:
   ja: ポケモンキャッチャー
   en: Pokémon Catcher

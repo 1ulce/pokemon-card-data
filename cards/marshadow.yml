@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: marshadow
+external_link:
+  cabt_id: 681
 name:
   ja: マーシャドー
   en: Marshadow

@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: haunter-2
+external_link:
+  cabt_id: 771
 name:
   ja: ゴースト
   en: Haunter

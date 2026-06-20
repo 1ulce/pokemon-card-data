@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: gravity-gemstone
+external_link:
+  cabt_id: 1166
 name:
   ja: 重力玉
   en: Gravity Gemstone

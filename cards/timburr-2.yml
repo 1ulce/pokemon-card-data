@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: timburr-2
+external_link:
+  cabt_id: 528
 name:
   ja: ドッコラー
   en: Timburr

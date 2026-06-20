@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: skorupi
+external_link:
+  cabt_id: 1060
 name:
   ja: スコルピ
   en: Skorupi

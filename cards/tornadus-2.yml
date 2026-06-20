@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: tornadus-2
+external_link:
+  cabt_id: 634
 name:
   ja: トルネロス
   en: Tornadus

@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: tepig-2
+external_link:
+  cabt_id: 930
 name:
   ja: ポカブ
   en: Tepig

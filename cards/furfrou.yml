@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: furfrou
+external_link:
+  cabt_id: 1076
 name:
   ja: トリミアン
   en: Furfrou

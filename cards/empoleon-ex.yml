@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: empoleon-ex
+external_link:
+  cabt_id: 835
 name:
   ja: エンペルトex
   en: Empoleon ex

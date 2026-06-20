@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: mega-gengar-ex
+external_link:
+  cabt_id: 772
 name:
   ja: メガゲンガーex
   en: Mega Gengar ex

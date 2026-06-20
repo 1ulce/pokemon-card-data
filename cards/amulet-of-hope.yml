@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: amulet-of-hope
+external_link:
+  cabt_id: 1169
 name:
   ja: 希望のアミュレット
   en: Amulet of Hope

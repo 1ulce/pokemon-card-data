@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: vigoroth
+external_link:
+  cabt_id: 999
 name:
   ja: ヤルキモノ
   en: Vigoroth

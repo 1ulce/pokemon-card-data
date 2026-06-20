@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: rare-candy
+external_link:
+  cabt_id: 1079
 name:
   ja: ふしぎなアメ
   en: Rare Candy

@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: hyper-aroma
+external_link:
+  cabt_id: 1082
 name:
   ja: ハイパーアロマ
   en: Hyper Aroma

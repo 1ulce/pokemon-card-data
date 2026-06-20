@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: hop-s-choice-band
+external_link:
+  cabt_id: 1171
 name:
   ja: ホップのこだわりハチマキ
   en: Hop's Choice Band

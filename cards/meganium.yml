@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: meganium
+external_link:
+  cabt_id: 710
 name:
   ja: メガニウム
   en: Meganium

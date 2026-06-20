@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: team-rocket-s-petrel
+external_link:
+  cabt_id: 1219
 name:
   ja: ロケット団のラムダ
   en: Team Rocket's Petrel

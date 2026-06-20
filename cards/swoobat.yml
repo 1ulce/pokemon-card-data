@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: swoobat
+external_link:
+  cabt_id: 590
 name:
   ja: ココロモリ
   en: Swoobat

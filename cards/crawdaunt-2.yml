@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: crawdaunt-2
+external_link:
+  cabt_id: 686
 name:
   ja: シザリガー
   en: Crawdaunt

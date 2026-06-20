@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: yungoos
+external_link:
+  cabt_id: 704
 name:
   ja: ヤングース
   en: Yungoos

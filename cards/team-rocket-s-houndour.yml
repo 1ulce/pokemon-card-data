@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: team-rocket-s-houndour
+external_link:
+  cabt_id: 408
 name:
   ja: ロケット団のデルビル
   en: Team Rocket's Houndour

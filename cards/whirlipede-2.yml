@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: whirlipede-2
+external_link:
+  cabt_id: 536
 name:
   ja: ホイーガ
   en: Whirlipede

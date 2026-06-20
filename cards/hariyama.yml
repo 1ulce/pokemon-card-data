@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: hariyama
+external_link:
+  cabt_id: 674
 name:
   ja: ハリテヤマ
   en: Hariyama

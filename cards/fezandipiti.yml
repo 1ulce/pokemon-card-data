@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: fezandipiti
+external_link:
+  cabt_id: 970
 name:
   ja: キチキギス
   en: Fezandipiti

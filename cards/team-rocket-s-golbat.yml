@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: team-rocket-s-golbat
+external_link:
+  cabt_id: 457
 name:
   ja: ロケット団のゴルバット
   en: Team Rocket's Golbat

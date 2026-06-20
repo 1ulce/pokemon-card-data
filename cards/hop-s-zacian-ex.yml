@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: hop-s-zacian-ex
+external_link:
+  cabt_id: 299
 name:
   ja: ホップのザシアンex
   en: Hop's Zacian ex

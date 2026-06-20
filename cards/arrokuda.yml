@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: arrokuda
+external_link:
+  cabt_id: 421
 name:
   ja: サシカマス
   en: Arrokuda

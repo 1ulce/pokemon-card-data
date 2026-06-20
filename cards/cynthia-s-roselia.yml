@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: cynthia-s-roselia
+external_link:
+  cabt_id: 341
 name:
   ja: シロナのロゼリア
   en: Cynthia's Roselia

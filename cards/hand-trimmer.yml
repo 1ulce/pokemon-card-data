@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: hand-trimmer
+external_link:
+  cabt_id: 1087
 name:
   ja: ハンドトリマー
   en: Hand Trimmer

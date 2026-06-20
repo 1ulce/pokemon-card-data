@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: sylveon-2
+external_link:
+  cabt_id: 330
 name:
   ja: ニンフィア
   en: Sylveon

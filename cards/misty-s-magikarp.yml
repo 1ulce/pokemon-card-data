@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: misty-s-magikarp
+external_link:
+  cabt_id: 362
 name:
   ja: カスミのコイキング
   en: Misty's Magikarp

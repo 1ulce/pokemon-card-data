@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: blaziken
+external_link:
+  cabt_id: 412
 name:
   ja: バシャーモ
   en: Blaziken

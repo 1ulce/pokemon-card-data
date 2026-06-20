@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: n-s-klinklang
+external_link:
+  cabt_id: 296
 name:
   ja: Nのギギギアル
   en: N's Klinklang

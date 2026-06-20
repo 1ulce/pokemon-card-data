@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: tatsugiri
+external_link:
+  cabt_id: 122
 name:
   ja: シャリタツ
   en: Tatsugiri

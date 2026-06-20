@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: team-rocket-s-mimikyu
+external_link:
+  cabt_id: 434
 name:
   ja: ロケット団のミミッキュ
   en: Team Rocket's Mimikyu

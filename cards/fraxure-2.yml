@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: fraxure-2
+external_link:
+  cabt_id: 549
 name:
   ja: オノンド
   en: Fraxure

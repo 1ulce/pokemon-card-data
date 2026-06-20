@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: salvatore
+external_link:
+  cabt_id: 1189
 name:
   ja: セイジ
   en: Salvatore

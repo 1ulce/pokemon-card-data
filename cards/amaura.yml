@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: amaura
+external_link:
+  cabt_id: 1032
 name:
   ja: アマルス
   en: Amaura

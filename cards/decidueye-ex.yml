@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: decidueye-ex
+external_link:
+  cabt_id: 1022
 name:
   ja: ジュナイパーex
   en: Decidueye ex

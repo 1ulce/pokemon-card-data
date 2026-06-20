@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: iron-leaves-ex
+external_link:
+  cabt_id: 75
 name:
   ja: テツノイサハex
   en: Iron Leaves ex

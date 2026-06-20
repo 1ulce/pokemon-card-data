@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: simisear-2
+external_link:
+  cabt_id: 571
 name:
   ja: バオッキー
   en: Simisear

@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: metagross-3
+external_link:
+  cabt_id: 276
 name:
   ja: メタグロス
   en: Metagross

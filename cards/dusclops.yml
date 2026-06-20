@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: dusclops
+external_link:
+  cabt_id: 132
 name:
   ja: サマヨール
   en: Dusclops

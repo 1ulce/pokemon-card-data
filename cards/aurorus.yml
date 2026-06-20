@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: aurorus
+external_link:
+  cabt_id: 1033
 name:
   ja: アマルルガ
   en: Aurorus

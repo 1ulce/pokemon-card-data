@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: energy-coin
+external_link:
+  cabt_id: 1135
 name:
   ja: エネルギーコイン
   en: Energy Coin

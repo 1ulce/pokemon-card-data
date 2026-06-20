@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: rescue-board
+external_link:
+  cabt_id: 1157
 name:
   ja: 緊急ボード
   en: Rescue Board

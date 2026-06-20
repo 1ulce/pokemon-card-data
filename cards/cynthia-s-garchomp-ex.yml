@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: cynthia-s-garchomp-ex
+external_link:
+  cabt_id: 381
 name:
   ja: シロナのガブリアスex
   en: Cynthia's Garchomp ex

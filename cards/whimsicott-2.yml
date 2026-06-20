@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: whimsicott-2
+external_link:
+  cabt_id: 815
 name:
   ja: エルフーン
   en: Whimsicott

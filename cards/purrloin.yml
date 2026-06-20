@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: purrloin
+external_link:
+  cabt_id: 608
 name:
   ja: チョロネコ
   en: Purrloin

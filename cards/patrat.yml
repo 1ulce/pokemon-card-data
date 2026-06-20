@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: patrat
+external_link:
+  cabt_id: 626
 name:
   ja: ミネズミ
   en: Patrat

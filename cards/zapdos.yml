@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: zapdos
+external_link:
+  cabt_id: 953
 name:
   ja: サンダー
   en: Zapdos

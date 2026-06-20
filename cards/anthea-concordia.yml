@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: anthea-concordia
+external_link:
+  cabt_id: 1234
 name:
   ja: バーベナとヘレナ
   en: Anthea & Concordia

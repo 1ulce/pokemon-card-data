@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: ralts
+external_link:
+  cabt_id: 745
 name:
   ja: ラルトス
   en: Ralts

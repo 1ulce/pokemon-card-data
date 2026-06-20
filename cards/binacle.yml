@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: binacle
+external_link:
+  cabt_id: 1051
 name:
   ja: カメテテ
   en: Binacle

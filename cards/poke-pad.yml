@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: poke-pad
+external_link:
+  cabt_id: 1152
 name:
   ja: ポケパッド
   en: Poké Pad

@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: team-rocket-s-arbok
+external_link:
+  cabt_id: 449
 name:
   ja: ロケット団のアーボック
   en: Team Rocket's Arbok

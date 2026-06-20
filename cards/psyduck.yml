@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: psyduck
+external_link:
+  cabt_id: 858
 name:
   ja: コダック
   en: Psyduck

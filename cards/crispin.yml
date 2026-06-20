@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: crispin
+external_link:
+  cabt_id: 1198
 name:
   ja: アカマツ
   en: Crispin

@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: meowth-ex
+external_link:
+  cabt_id: 1071
 name:
   ja: ニャースex
   en: Meowth ex

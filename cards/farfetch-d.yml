@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: farfetch-d
+external_link:
+  cabt_id: 123
 name:
   ja: カモネギ
   en: Farfetch'd

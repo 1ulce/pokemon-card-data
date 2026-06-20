@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: kangaskhan
+external_link:
+  cabt_id: 472
 name:
   ja: ガルーラ
   en: Kangaskhan

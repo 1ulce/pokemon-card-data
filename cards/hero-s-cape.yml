@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: hero-s-cape
+external_link:
+  cabt_id: 1159
 name:
   ja: ヒーローマント
   en: Hero's Cape

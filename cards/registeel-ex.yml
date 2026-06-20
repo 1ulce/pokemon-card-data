@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: registeel-ex
+external_link:
+  cabt_id: 988
 name:
   ja: レジスチルex
   en: Registeel ex

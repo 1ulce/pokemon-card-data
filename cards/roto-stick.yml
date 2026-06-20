@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: roto-stick
+external_link:
+  cabt_id: 1077
 name:
   ja: ロトりぼう
   en: Roto-Stick

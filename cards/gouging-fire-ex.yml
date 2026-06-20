@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: gouging-fire-ex
+external_link:
+  cabt_id: 46
 name:
   ja: ウガツホムラex
   en: Gouging Fire ex

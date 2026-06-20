@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: sneasel-3
+external_link:
+  cabt_id: 334
 name:
   ja: ニューラ
   en: Sneasel

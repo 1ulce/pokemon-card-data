@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: lilligant
+external_link:
+  cabt_id: 322
 name:
   ja: ドレディア
   en: Lilligant

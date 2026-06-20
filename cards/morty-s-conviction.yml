@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: morty-s-conviction
+external_link:
+  cabt_id: 1187
 name:
   ja: マツバの確信
   en: Morty's Conviction

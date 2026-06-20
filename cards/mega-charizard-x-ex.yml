@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: mega-charizard-x-ex
+external_link:
+  cabt_id: 790
 name:
   ja: メガリザードンXex
   en: Mega Charizard X ex

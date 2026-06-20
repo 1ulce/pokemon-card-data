@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: sacred-ash
+external_link:
+  cabt_id: 1129
 name:
   ja: せいなるはい
   en: Sacred Ash

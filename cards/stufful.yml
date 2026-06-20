@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: stufful
+external_link:
+  cabt_id: 760
 name:
   ja: ヌイコグマ
   en: Stufful

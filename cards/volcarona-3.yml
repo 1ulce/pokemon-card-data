@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: volcarona-3
+external_link:
+  cabt_id: 497
 name:
   ja: ウルガモス
   en: Volcarona

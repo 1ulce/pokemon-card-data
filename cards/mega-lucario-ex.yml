@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: mega-lucario-ex
+external_link:
+  cabt_id: 678
 name:
   ja: メガルカリオex
   en: Mega Lucario ex

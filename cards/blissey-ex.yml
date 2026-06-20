@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: blissey-ex
+external_link:
+  cabt_id: 125
 name:
   ja: ハピナスex
   en: Blissey ex

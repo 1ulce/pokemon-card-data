@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: zekrom-ex
+external_link:
+  cabt_id: 515
 name:
   ja: ゼクロムex
   en: Zekrom ex

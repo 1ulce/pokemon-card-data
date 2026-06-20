@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: drilbur
+external_link:
+  cabt_id: 81
 name:
   ja: モグリュー
   en: Drilbur

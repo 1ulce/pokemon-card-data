@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: n-s-klang
+external_link:
+  cabt_id: 295
 name:
   ja: Nのギギアル
   en: N's Klang

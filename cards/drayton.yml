@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: drayton
+external_link:
+  cabt_id: 1202
 name:
   ja: カキツバタ
   en: Drayton

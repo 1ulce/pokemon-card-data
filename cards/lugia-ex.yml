@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: lugia-ex
+external_link:
+  cabt_id: 337
 name:
   ja: ルギアex
   en: Lugia ex

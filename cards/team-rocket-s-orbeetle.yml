@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: team-rocket-s-orbeetle
+external_link:
+  cabt_id: 436
 name:
   ja: ロケット団のイオルブ
   en: Team Rocket's Orbeetle

@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: krokorok
+external_link:
+  cabt_id: 539
 name:
   ja: ワルビル
   en: Krokorok

@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: snover-2
+external_link:
+  cabt_id: 722
 name:
   ja: ユキカブリ
   en: Snover

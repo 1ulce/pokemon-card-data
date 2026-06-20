@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: bayleef
+external_link:
+  cabt_id: 709
 name:
   ja: ベイリーフ
   en: Bayleef

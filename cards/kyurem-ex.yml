@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: kyurem-ex
+external_link:
+  cabt_id: 509
 name:
   ja: キュレムex
   en: Kyurem ex

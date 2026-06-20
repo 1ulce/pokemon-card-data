@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: piloswine
+external_link:
+  cabt_id: 282
 name:
   ja: イノムー
   en: Piloswine

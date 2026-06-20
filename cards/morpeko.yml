@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: morpeko
+external_link:
+  cabt_id: 36
 name:
   ja: モルペコ
   en: Morpeko

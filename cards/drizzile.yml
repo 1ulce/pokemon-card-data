@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: drizzile
+external_link:
+  cabt_id: 727
 name:
   ja: ジメレオン
   en: Drizzile

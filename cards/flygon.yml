@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: flygon
+external_link:
+  cabt_id: 824
 name:
   ja: フライゴン
   en: Flygon

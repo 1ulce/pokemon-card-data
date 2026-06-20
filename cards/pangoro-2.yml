@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: pangoro-2
+external_link:
+  cabt_id: 897
 name:
   ja: ゴロンダ
   en: Pangoro

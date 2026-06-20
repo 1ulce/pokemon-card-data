@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: repel
+external_link:
+  cabt_id: 1143
 name:
   ja: むしよけスプレー
   en: Repel

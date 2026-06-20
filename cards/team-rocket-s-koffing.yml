@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: team-rocket-s-koffing
+external_link:
+  cabt_id: 461
 name:
   ja: ロケット団のドガース
   en: Team Rocket's Koffing

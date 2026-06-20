@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: zebstrika-3
+external_link:
+  cabt_id: 585
 name:
   ja: ゼブライカ
   en: Zebstrika

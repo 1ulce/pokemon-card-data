@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: darumaka-3
+external_link:
+  cabt_id: 491
 name:
   ja: ダルマッカ
   en: Darumaka

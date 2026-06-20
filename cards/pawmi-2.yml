@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: pawmi-2
+external_link:
+  cabt_id: 809
 name:
   ja: パモ
   en: Pawmi

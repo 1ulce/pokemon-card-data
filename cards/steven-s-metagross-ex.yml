@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: steven-s-metagross-ex
+external_link:
+  cabt_id: 641
 name:
   ja: ダイゴのメタグロスex
   en: Steven's Metagross ex

@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: wailmer
+external_link:
+  cabt_id: 263
 name:
   ja: ホエルコ
   en: Wailmer

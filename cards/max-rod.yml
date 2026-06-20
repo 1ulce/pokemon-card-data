@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: max-rod
+external_link:
+  cabt_id: 1110
 name:
   ja: つりざおMAX
   en: Max Rod

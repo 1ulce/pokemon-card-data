@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: mankey-2
+external_link:
+  cabt_id: 437
 name:
   ja: マンキー
   en: Mankey

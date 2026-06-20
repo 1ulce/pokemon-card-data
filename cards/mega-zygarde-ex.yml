@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: mega-zygarde-ex
+external_link:
+  cabt_id: 1056
 name:
   ja: メガジガルデex
   en: Mega Zygarde ex

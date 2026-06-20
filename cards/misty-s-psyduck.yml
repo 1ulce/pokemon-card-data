@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: misty-s-psyduck
+external_link:
+  cabt_id: 359
 name:
   ja: カスミのコダック
   en: Misty's Psyduck

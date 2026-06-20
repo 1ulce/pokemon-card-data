@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: palpitoad
+external_link:
+  cabt_id: 501
 name:
   ja: ガマガル
   en: Palpitoad

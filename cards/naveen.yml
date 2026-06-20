@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: naveen
+external_link:
+  cabt_id: 1239
 name:
   ja: ピュール
   en: Naveen

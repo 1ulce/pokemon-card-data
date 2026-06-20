@@ -1,6 +1,8 @@
 ---
 schema_version: 1
 slug: wash-rotom
+external_link:
+  cabt_id: 420
 name:
   ja: ウォッシュロトム
   en: Wash Rotom
