@@ -32,13 +32,13 @@ attacks:
 - position: 0
   name:
     ja: かげむすび
-    en:
+    en: Shadowy Knot
   cost:
   - Psychic
   damage: 30×
   effect_text:
     ja: 相手のバトルポケモンのにげるためのエネルギーの数×30ダメージ。
-    en:
+    en: This attack does 30 damage for each [C] in your opponent's Active Pokémon's Retreat Cost.
 first_appearance:
   set_name_ja: アビスアイ
   released_at: '2026-05-22'

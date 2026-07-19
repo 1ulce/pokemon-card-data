@@ -32,13 +32,13 @@ attacks:
 - position: 0
   name:
     ja: うずまくねたみ
-    en:
+    en: Whirling Envy
   cost:
   - Darkness
   damage: 20+
   effect_text:
     ja: このポケモンにダメカンが2個以上のっているなら、90ダメージ追加。このワザのダメージは弱点を計算しない。
-    en:
+    en: If this Pokémon has 2 or more damage counters on it, this attack does 90 more damage. This attack's damage isn't affected by Weakness.
 first_appearance:
   set_name_ja: アビスアイ
   released_at: '2026-05-22'

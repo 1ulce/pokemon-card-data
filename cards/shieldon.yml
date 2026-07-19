@@ -1,0 +1,48 @@
+---
+schema_version: 1
+slug: shieldon
+name:
+  ja: タテトプス
+  en: Shieldon
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Metal
+hp: 100
+retreat_cost: 3
+regulation_mark: J
+meta_tags: []
+evolves_from:
+  ja: 古びたたての化石
+  en:
+weakness:
+  type: Fire
+  value: "×2"
+resistance:
+  type: Grass
+  value: "-30"
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: くだく
+    en: Smithereen Smash
+  cost:
+  - Metal
+  - Colorless
+  damage: '50'
+  effect_text:
+    ja: 相手のバトルポケモンについているエネルギーを1個選び、トラッシュする。
+    en: Discard an Energy from your opponent's Active Pokémon.
+first_appearance:
+  set_name_ja: アビスアイ
+  released_at: '2026-05-22'
+  regulation_mark: J
+  collector_number: '059'
+  image_url:

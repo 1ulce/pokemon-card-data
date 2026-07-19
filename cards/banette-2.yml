@@ -31,21 +31,21 @@ abilities:
 - position: 0
   name:
     ja: ばけがくれ
-    en:
+    en: Hide 'n' Sneak
   effect_text:
     ja: このポケモンは、相手のワザや特性の効果を受けない。
-    en:
+    en: Prevent all effects of your opponent's Pokémon's attacks and Abilities done to this Pokémon. (Damage is not an effect.)
 attacks:
 - position: 0
   name:
     ja: にんぎょうキャッチ
-    en:
+    en: Puppet Pull
   cost:
   - Psychic
   damage: '80'
   effect_text:
     ja: のぞむなら、自分の山札から好きなカードを1枚選び、手札に加える。そして山札を切る。
-    en:
+    en: You may search your deck for a card and put it into your hand. Then, shuffle your deck.
 first_appearance:
   set_name_ja: アビスアイ
   released_at: '2026-05-22'

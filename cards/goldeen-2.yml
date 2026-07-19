@@ -32,7 +32,7 @@ attacks:
 - position: 0
   name:
     ja: つきさす
-    en:
+    en: Pierce
   cost:
   - Colorless
   - Colorless

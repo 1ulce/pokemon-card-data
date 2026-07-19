@@ -32,17 +32,17 @@ attacks:
 - position: 0
   name:
     ja: のやき 
-    en:
+    en: Controlled Burn
   cost:
   - Fire
   damage:
   effect_text:
     ja: 相手の山札を上から1枚トラッシュする。
-    en:
+    en: Discard the top card of your opponent's deck.
 - position: 1
   name:
     ja: バグパニック
-    en:
+    en: Bug Out
   cost:
   - Colorless
   - Colorless
@@ -50,7 +50,7 @@ attacks:
   damage: 50×
   effect_text:
     ja: 自分の山札を下から7枚オモテにして、その中にある、ワザ「バグパニック」を持つポケモンの枚数×50ダメージ。オモテにしたポケモンは山札にもどして切る。残りのカードはトラッシュする。
-    en:
+    en: Reveal the bottom 7 cards of your deck, and this attack does 50 damage for each Pokémon you find there that has the Bug Out attack. Then, shuffle any revealed Pokémon back into your deck. Discard the other cards.
 first_appearance:
   set_name_ja: アビスアイ
   released_at: '2026-05-22'

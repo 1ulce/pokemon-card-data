@@ -32,7 +32,7 @@ attacks:
 - position: 0
   name:
     ja: おにび
-    en:
+    en: Will-O-Wisp
   cost:
   - Psychic
   damage: '20'

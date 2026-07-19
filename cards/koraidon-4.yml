@@ -32,17 +32,17 @@ attacks:
 - position: 0
   name:
     ja: バトルクロー
-    en:
+    en: Battle Claw
   cost:
   - Fighting
   damage: 30+
   effect_text:
     ja: 相手のバトルポケモンが進化ポケモンなら、30ダメージ追加。
-    en:
+    en: If your opponent's Active Pokémon is an Evolution Pokémon, this attack does 30 more damage.
 - position: 1
   name:
     ja: ガイアインパクト
-    en:
+    en: Gaia Impact
   cost:
   - Fighting
   - Fighting
@@ -50,7 +50,7 @@ attacks:
   damage: '190'
   effect_text:
     ja: このポケモンについているエネルギーを、すべてトラッシュする。
-    en:
+    en: Discard all Energy from this Pokémon.
 first_appearance:
   set_name_ja: アビスアイ
   released_at: '2026-05-22'

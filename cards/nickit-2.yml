@@ -32,7 +32,7 @@ attacks:
 - position: 0
   name:
     ja: かじる
-    en:
+    en: Gnaw
   cost:
   - Darkness
   damage: '10'
@@ -42,7 +42,7 @@ attacks:
 - position: 1
   name:
     ja: うしろげり
-    en:
+    en: Rear Kick
   cost:
   - Darkness
   - Colorless

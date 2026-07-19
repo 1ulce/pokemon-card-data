@@ -32,13 +32,13 @@ attacks:
 - position: 0
   name:
     ja: ミラーアタック
-    en:
+    en: Mirror Attack
   cost:
   - Metal
   damage: 10+
   effect_text:
     ja: 相手のバトルポケモンが鋼ポケモンなら、30ダメージ追加。
-    en:
+    en: If your opponent's Active Pokémon is a [M] Pokémon, this attack does 30 more damage.
 first_appearance:
   set_name_ja: アビスアイ
   released_at: '2026-05-22'

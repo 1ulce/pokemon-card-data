@@ -32,17 +32,17 @@ attacks:
 - position: 0
   name:
     ja: ちょうたつ 
-    en:
+    en: Procurement
   cost:
   - Darkness
   damage:
   effect_text:
     ja: 自分の山札からグッズを1枚選び、相手に見せて、手札に加える。そして山札を切る。
-    en:
+    en: Search your deck for an Item card, reveal it, and put it into your hand. Then, shuffle your deck.
 - position: 1
   name:
     ja: かいてんアタック
-    en:
+    en: Spinning Attack
   cost:
   - Darkness
   - Darkness

@@ -32,13 +32,13 @@ attacks:
 - position: 0
   name:
     ja: フレイムレギオン
-    en:
+    en: Flame Legion
   cost:
   - Fire
   damage: 40+
   effect_text:
     ja: 炎エネルギーがついている自分のベンチポケモンの数×40ダメージ追加。
-    en:
+    en: This attack does 40 more damage for each of your Benched Pokémon that has any [R] Energy attached.
 first_appearance:
   set_name_ja: アビスアイ
   released_at: '2026-05-22'

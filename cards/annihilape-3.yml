@@ -31,22 +31,22 @@ abilities:
 - position: 0
   name:
     ja: くちないからだ
-    en:
+    en: Durable Body
   effect_text:
     ja: このポケモンが、ワザのダメージを受けてきぜつするとき、自分はコインを1回投げる。オモテなら、このポケモンはきぜつせず、残りHPが「10」の状態で場に残る。
-    en:
+    en: If this Pokémon would be Knocked Out by damage from an attack, flip a coin. If heads, this Pokémon is not Knocked Out, and its remaining HP becomes 10.
 attacks:
 - position: 0
   name:
     ja: ゴーストブロー
-    en:
+    en: Ghostly Blow
   cost:
   - Psychic
   - Psychic
   damage: '100'
   effect_text:
     ja: 相手のベンチポケモン1匹に、ダメカンを5個のせる。
-    en:
+    en: Place 5 damage counters on 1 of your opponent's Benched Pokémon.
 first_appearance:
   set_name_ja: アビスアイ
   released_at: '2026-05-22'

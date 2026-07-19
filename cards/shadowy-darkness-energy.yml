@@ -1,0 +1,42 @@
+---
+schema_version: 1
+slug: shadowy-darkness-energy
+name:
+  ja: シャドー悪エネルギー
+  en: Shadowy Darkness Energy
+  prefix:
+card_type: Energy
+card_subtype: Special Energy
+energy_type:
+hp:
+retreat_cost:
+regulation_mark: J
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type:
+  value:
+resistance:
+  type:
+  value:
+body_text:
+  ja: |-
+    このカードは、ポケモンについているかぎり、悪エネルギー1個ぶんとしてはたらく。
+
+
+
+    このカードをつけている悪ポケモンは、ベンチにいるかぎり、相手のワザのダメージを受けない。
+  en: As long as this card is attached to a Pokémon, it provides [D] Energy. As long as the [D] Pokémon this card is attached to is on your Bench, prevent all damage done to it by attacks from your opponent's Pokémon.
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks: []
+first_appearance:
+  set_name_ja: アビスアイ
+  released_at: '2026-05-22'
+  regulation_mark: J
+  collector_number: '081'
+  image_url:

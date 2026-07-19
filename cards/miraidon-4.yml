@@ -31,22 +31,22 @@ abilities:
 - position: 0
   name:
     ja: フォトンコード
-    en:
+    en: Photon Cord
   effect_text:
     ja: このポケモンが、バトル場で相手のポケモンからワザのダメージを受けてきぜつしたとき、このポケモンについている「基本雷エネルギー」を2枚まで選び、ベンチポケモン1匹につけ替える。
-    en:
+    en: If this Pokémon is in the Active Spot and is Knocked Out by damage from an attack from your opponent's Pokémon, move up to 2 Basic [L] Energy cards from this Pokémon to 1 of your Benched Pokémon.
 attacks:
 - position: 0
   name:
     ja: かみなり
-    en:
+    en: Thunder
   cost:
   - Lightning
   - Lightning
   damage: '90'
   effect_text:
     ja: このポケモンにも30ダメージ。
-    en:
+    en: This Pokémon also does 30 damage to itself.
 first_appearance:
   set_name_ja: アビスアイ
   released_at: '2026-05-22'

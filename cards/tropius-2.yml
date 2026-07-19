@@ -32,17 +32,17 @@ attacks:
 - position: 0
   name:
     ja: かじつのかおり 
-    en:
+    en: Fruity Aroma
   cost:
   - Colorless
   damage:
   effect_text:
     ja: 自分の山札を上から6枚見て、その中からポケモンを好きなだけ選び、相手に見せて、手札に加える。残りのカードは山札にもどして切る。
-    en:
+    en: Look at the top 6 cards of your deck, and you may reveal any number of Pokémon you find there and put them into your hand. Shuffle the other cards back into your deck.
 - position: 1
   name:
     ja: ソーラービーム
-    en:
+    en: Solar Beam
   cost:
   - Grass
   - Colorless

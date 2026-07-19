@@ -32,14 +32,14 @@ attacks:
 - position: 0
   name:
     ja: ドレインフィン
-    en:
+    en: Draining Fin
   cost:
   - Water
   - Water
   damage: '20'
   effect_text:
     ja: このポケモンのHPを「20」回復する。
-    en:
+    en: Heal 20 damage from this Pokémon.
 first_appearance:
   set_name_ja: アビスアイ
   released_at: '2026-05-22'

@@ -32,13 +32,13 @@ attacks:
 - position: 0
   name:
     ja: スチールカッター
-    en:
+    en: Steel Cutter
   cost:
   - Metal
   damage: 40×
   effect_text:
     ja: 自分の手札から「基本鋼エネルギー」を2枚までトラッシュし、その枚数×40ダメージ。
-    en:
+    en: Discard up to 2 Basic [M] Energy cards from your hand, and this attack does 40 damage for each card you discarded in this way.
 first_appearance:
   set_name_ja: アビスアイ
   released_at: '2026-05-22'

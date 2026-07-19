@@ -32,13 +32,13 @@ attacks:
 - position: 0
   name:
     ja: むねんのイカリ
-    en:
+    en: Vengeful Anchor
   cost:
   - Psychic
   damage: 30+
   effect_text:
     ja: 自分のトラッシュに、特性「ばけがくれ」を持つポケモンが4枚以上あるなら、140ダメージ追加。
-    en:
+    en: If you have 4 or more Pokémon that have the Hide 'n' Sneak Ability in your discard pile, this attack does 140 more damage.
 first_appearance:
   set_name_ja: アビスアイ
   released_at: '2026-05-22'

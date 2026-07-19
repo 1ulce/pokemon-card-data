@@ -32,13 +32,13 @@ attacks:
 - position: 0
   name:
     ja: フォッシルビート
-    en:
+    en: Fossil Beatdown
   cost:
   - Colorless
   damage: 10+
   effect_text:
     ja: 名前に「古びた」とつく自分のベンチポケモンの数×30ダメージ追加。
-    en:
+    en: This attack does 30 more damage for each of your Benched Pokémon that has "Antique" in its name.
 first_appearance:
   set_name_ja: アビスアイ
   released_at: '2026-05-22'

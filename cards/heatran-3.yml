@@ -32,17 +32,17 @@ attacks:
 - position: 0
   name:
     ja: こがす 
-    en:
+    en: Singe
   cost:
   - Fire
   damage:
   effect_text:
     ja: 相手のバトルポケモンをやけどにする。
-    en:
+    en: Your opponent's Active Pokémon is now Burned.
 - position: 1
   name:
     ja: ようがんウォール
-    en:
+    en: Lava Wall
   cost:
   - Fire
   - Fire
@@ -50,7 +50,7 @@ attacks:
   damage: '120'
   effect_text:
     ja: 次の相手の番、このポケモンはやけどのポケモンからワザのダメージを受けない。
-    en:
+    en: During your opponent's next turn, prevent all damage done to this Pokémon by attacks from Burned Pokémon.
 first_appearance:
   set_name_ja: アビスアイ
   released_at: '2026-05-22'

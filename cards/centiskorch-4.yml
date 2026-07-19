@@ -32,17 +32,17 @@ attacks:
 - position: 0
   name:
     ja: のやき 
-    en:
+    en: Controlled Burn
   cost:
   - Fire
   damage:
   effect_text:
     ja: 相手の山札を上から2枚トラッシュする。
-    en:
+    en: Discard the top 2 cards of your opponent's deck.
 - position: 1
   name:
     ja: ヒートタックル
-    en:
+    en: Heat Tackle
   cost:
   - Fire
   - Colorless
@@ -51,7 +51,7 @@ attacks:
   damage: '160'
   effect_text:
     ja: このポケモンにも30ダメージ。
-    en:
+    en: This Pokémon also does 30 damage to itself.
 first_appearance:
   set_name_ja: アビスアイ
   released_at: '2026-05-22'

@@ -1,0 +1,40 @@
+---
+schema_version: 1
+slug: misty-s-vitality
+name:
+  ja: カスミの元気
+  en: Misty's Vitality
+  prefix: Misty's
+card_type: Trainer
+card_subtype: Supporter
+energy_type:
+hp:
+retreat_cost:
+regulation_mark: J
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type:
+  value:
+resistance:
+  type:
+  value:
+body_text:
+  ja: |-
+    このカードを使ったなら、自分の番は終わる。
+
+    自分の山札から「基本水エネルギー」を4枚まで選び、自分のポケモン1匹につける。そして山札を切る。
+  en: Search your deck for up to 4 Basic [W] Energy cards and attach them to 1 of your Pokémon. Then, shuffle your deck. Your turn ends.
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks: []
+first_appearance:
+  set_name_ja: アビスアイ
+  released_at: '2026-05-22'
+  regulation_mark: J
+  collector_number: '075'
+  image_url:

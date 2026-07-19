@@ -1,0 +1,59 @@
+---
+schema_version: 1
+slug: morpeko-ex
+name:
+  ja: モルペコex
+  en: Morpeko ex
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Darkness
+hp: 180
+retreat_cost: 1
+regulation_mark: J
+meta_tags:
+- ex
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Grass
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja: ポケモンexがきぜつしたとき、相手はサイドを2枚とる。
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: ホイールドロー 
+    en: Wheely Draw
+  cost:
+  - Darkness
+  damage:
+  effect_text:
+    ja: 自分の手札をすべて山札にもどして切る。その後、山札を6枚引く。
+    en: Shuffle your hand into your deck. Then, draw 6 cards.
+- position: 1
+  name:
+    ja: はらぺこボンバー
+    en: Hangry Blaster
+  cost:
+  - Darkness
+  - Darkness
+  damage: 40+
+  effect_text:
+    ja: このポケモンにのっているダメカンの数×40ダメージ追加。
+    en: This attack does 40 more damage for each damage counter on this Pokémon.
+first_appearance:
+  set_name_ja: アビスアイ
+  released_at: '2026-05-22'
+  regulation_mark: J
+  collector_number: '053'
+  image_url:

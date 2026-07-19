@@ -32,13 +32,13 @@ attacks:
 - position: 0
   name:
     ja: たましいエンド 
-    en:
+    en: Spiritual End
   cost:
   - Psychic
   damage:
   effect_text:
     ja: 自分のトラッシュに、特性「ばけがくれ」を持つポケモンが13枚以上あるなら、相手のポケモンを2匹選び、それぞれのっているダメカンの数が4倍になるように、ダメカンをのせる。
-    en:
+    en: If you have 13 or more Pokémon that have the Hide 'n' Sneak Ability in your discard pile, choose 2 of your opponent's Pokémon and quadruple the number of damage counters on each of them.
 first_appearance:
   set_name_ja: アビスアイ
   released_at: '2026-05-22'

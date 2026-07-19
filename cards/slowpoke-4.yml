@@ -32,17 +32,17 @@ attacks:
 - position: 0
   name:
     ja: すてほうだい 
-    en:
+    en: All-You-Can-Yeet
   cost:
   - Psychic
   damage:
   effect_text:
     ja: 自分の手札を好きなだけ選び、トラッシュする。
-    en:
+    en: You may discard any number of cards from your hand.
 - position: 1
   name:
     ja: ずつき
-    en:
+    en: Headbutt
   cost:
   - Colorless
   - Colorless

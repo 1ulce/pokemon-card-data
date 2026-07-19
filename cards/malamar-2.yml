@@ -32,23 +32,23 @@ attacks:
 - position: 0
   name:
     ja: まどわす 
-    en:
+    en: Perplex
   cost:
   - Darkness
   damage:
   effect_text:
     ja: 相手のバトルポケモンをこんらんにする。
-    en:
+    en: Your opponent's Active Pokémon is now Confused.
 - position: 1
   name:
     ja: ブレインクラッシュ
-    en:
+    en: Brain Crush
   cost:
   - Darkness
   damage: '130'
   effect_text:
     ja: 相手のバトルポケモンがこんらんでないなら、このワザは失敗。
-    en:
+    en: If your opponent's Active Pokémon isn't Confused, this attack does nothing.
 first_appearance:
   set_name_ja: アビスアイ
   released_at: '2026-05-22'

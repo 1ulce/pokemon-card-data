@@ -32,7 +32,7 @@ attacks:
 - position: 0
   name:
     ja: みずでっぽう
-    en:
+    en: Water Gun
   cost:
   - Water
   - Water
@@ -43,7 +43,7 @@ attacks:
 - position: 1
   name:
     ja: スプラッシュ
-    en:
+    en: Wave Splash
   cost:
   - Water
   - Water

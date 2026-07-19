@@ -32,7 +32,7 @@ attacks:
 - position: 0
   name:
     ja: はさむ
-    en:
+    en: Vise Grip
   cost:
   - Lightning
   damage: '30'
@@ -42,7 +42,7 @@ attacks:
 - position: 1
   name:
     ja: ぶつかる
-    en:
+    en: Ram
   cost:
   - Lightning
   - Lightning

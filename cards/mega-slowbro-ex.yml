@@ -34,7 +34,7 @@ attacks:
 - position: 0
   name:
     ja: シェルネードスピン
-    en:
+    en: Shellnado Spin
   cost:
   - Psychic
   - Psychic
@@ -42,7 +42,7 @@ attacks:
   damage: '180'
   effect_text:
     ja: 次の相手の番、このポケモンがワザのダメージを受けたとき、ワザを使ったポケモンにダメカンを12個のせる。
-    en:
+    en: During your opponent's next turn, if this Pokémon is damaged by an attack (even if this Pokémon is Knocked Out), place 12 damage counters on the Attacking Pokémon.
 first_appearance:
   set_name_ja: ポケモンカードゲーム MEGA　プロモカードパック第3弾
   released_at:

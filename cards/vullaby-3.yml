@@ -32,7 +32,7 @@ attacks:
 - position: 0
   name:
     ja: はばたく
-    en:
+    en: Flap
   cost:
   - Darkness
   damage: '10'
@@ -42,7 +42,7 @@ attacks:
 - position: 1
   name:
     ja: かぜおこし
-    en:
+    en: Gust
   cost:
   - Darkness
   - Colorless

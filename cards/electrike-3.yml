@@ -32,17 +32,17 @@ attacks:
 - position: 0
   name:
     ja: もってくる 
-    en:
+    en: Collect
   cost:
   - Lightning
   damage:
   effect_text:
     ja: 自分の山札を1枚引く。
-    en:
+    en: Draw a card.
 - position: 1
   name:
     ja: たいあたり
-    en:
+    en: Tackle
   cost:
   - Lightning
   - Lightning

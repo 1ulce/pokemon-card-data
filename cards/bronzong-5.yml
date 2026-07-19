@@ -32,7 +32,7 @@ attacks:
 - position: 0
   name:
     ja: ひっぱたく
-    en:
+    en: Gentle Slap
   cost:
   - Metal
   damage: '40'
@@ -42,7 +42,7 @@ attacks:
 - position: 1
   name:
     ja: メタルブロック
-    en:
+    en: Metal Block
   cost:
   - Metal
   - Metal
@@ -50,7 +50,7 @@ attacks:
   damage: '120'
   effect_text:
     ja: 次の相手の番、このポケモンが進化ポケモンから受けるワザのダメージは「-100」される。
-    en:
+    en: During your opponent's next turn, this Pokémon takes 100 less damage from attacks from Evolution Pokémon (after applying Weakness and Resistance).
 first_appearance:
   set_name_ja: アビスアイ
   released_at: '2026-05-22'

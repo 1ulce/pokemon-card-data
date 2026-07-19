@@ -32,24 +32,24 @@ attacks:
 - position: 0
   name:
     ja: きょうれつキッス 
-    en:
+    en: Intense Kiss
   cost:
   - Psychic
   damage:
   effect_text:
     ja: 次の相手の番の終わりに、このワザを受けたポケモンと、ついているすべてのカードを、トラッシュする。
-    en:
+    en: At the end of your opponent's next turn, discard the Defending Pokémon and all attached cards.
 - position: 1
   name:
     ja: ねんりき
-    en:
+    en: Psy Bolt
   cost:
   - Psychic
   - Colorless
   damage: '50'
   effect_text:
     ja: コインを1回投げオモテなら、相手のバトルポケモンをマヒにする。
-    en:
+    en: Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed.
 first_appearance:
   set_name_ja: アビスアイ
   released_at: '2026-05-22'

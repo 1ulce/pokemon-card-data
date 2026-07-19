@@ -31,21 +31,21 @@ abilities:
 - position: 0
   name:
     ja: ばけがくれ
-    en:
+    en: Hide 'n' Sneak
   effect_text:
     ja: このポケモンは、相手のワザや特性の効果を受けない。
-    en:
+    en: Prevent all effects of your opponent's Pokémon's attacks and Abilities done to this Pokémon. (Damage is not an effect.)
 attacks:
 - position: 0
   name:
     ja: ひっそりのせる 
-    en:
+    en: Furtive Drop
   cost:
   - Colorless
   damage:
   effect_text:
     ja: 相手のバトルポケモンに、ダメカンを1個のせる。
-    en:
+    en: Place 1 damage counter on your opponent's Active Pokémon.
 first_appearance:
   set_name_ja: アビスアイ
   released_at: '2026-05-22'

@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-06-02T08:32:20Z",
+  "generated_at": "2026-07-19T03:50:46Z",
   "total_faces": 1941,
   "faces": [
     {
@@ -356,6 +356,14 @@
       "first_set": "MEGAドリームex"
     },
     {
+      "slug": "antique-armor-fossil",
+      "name_ja": "古びたたての化石",
+      "name_en": "Antique Armor Fossil",
+      "card_type": "Trainer",
+      "regulation_mark": "J",
+      "first_set": "アビスアイ"
+    },
+    {
       "slug": "antique-cover-fossil",
       "name_ja": "古びたふたの化石",
       "name_en": "Antique Cover Fossil",
@@ -394,6 +402,14 @@
       "card_type": "Trainer",
       "regulation_mark": "J",
       "first_set": "ムニキスゼロ"
+    },
+    {
+      "slug": "antique-skull-fossil",
+      "name_ja": "古びたずがいの化石",
+      "name_en": "Antique Skull Fossil",
+      "card_type": "Trainer",
+      "regulation_mark": "J",
+      "first_set": "アビスアイ"
     },
     {
       "slug": "appletun",
@@ -764,6 +780,14 @@
       "first_set": "超電ブレイカー"
     },
     {
+      "slug": "backtrack-badge",
+      "name_ja": "リトライバッジ",
+      "name_en": "Backtrack Badge",
+      "card_type": "Trainer",
+      "regulation_mark": "J",
+      "first_set": "アビスアイ"
+    },
+    {
       "slug": "bagon",
       "name_ja": "タツベイ",
       "name_en": "Bagon",
@@ -818,6 +842,14 @@
       "card_type": "Pokémon",
       "regulation_mark": "I",
       "first_set": "ホワイトフレア"
+    },
+    {
+      "slug": "bastiodon",
+      "name_ja": "トリデプス",
+      "name_en": "Bastiodon",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "アビスアイ"
     },
     {
       "slug": "battle-cage",
@@ -1266,6 +1298,14 @@
       "card_type": "Trainer",
       "regulation_mark": "H",
       "first_set": "スターターセット テラスタイプ：ステラ ソウブレイズex"
+    },
+    {
+      "slug": "brionne",
+      "name_ja": "オシャマリ",
+      "name_en": "Brionne",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "アビスアイ"
     },
     {
       "slug": "brock-s-scouting",
@@ -2348,6 +2388,14 @@
       "first_set": "スタートデッキGenerations ザシアンex・マホイップex"
     },
     {
+      "slug": "cranidos",
+      "name_ja": "ズガイドス",
+      "name_en": "Cranidos",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "アビスアイ"
+    },
+    {
       "slug": "crawdaunt",
       "name_ja": "シザリガー",
       "name_en": "Crawdaunt",
@@ -2642,6 +2690,14 @@
       "card_type": "Trainer",
       "regulation_mark": "H",
       "first_set": "ナイトワンダラー"
+    },
+    {
+      "slug": "dark-bell",
+      "name_ja": "ダークベル",
+      "name_en": "Dark Bell",
+      "card_type": "Trainer",
+      "regulation_mark": "J",
+      "first_set": "アビスアイ"
     },
     {
       "slug": "darkness-energy",
@@ -4508,6 +4564,14 @@
       "first_set": "ロケット団の栄光"
     },
     {
+      "slug": "fossil-quarry",
+      "name_ja": "化石採掘場",
+      "name_en": "Fossil Quarry",
+      "card_type": "Trainer",
+      "regulation_mark": "J",
+      "first_set": "アビスアイ"
+    },
+    {
       "slug": "fraxure",
       "name_ja": "オノンド",
       "name_en": "Fraxure",
@@ -4906,6 +4970,14 @@
       "card_type": "Pokémon",
       "regulation_mark": "H",
       "first_set": "テラスタルフェスex"
+    },
+    {
+      "slug": "gladion-s-final-battle",
+      "name_ja": "グラジオの決戦",
+      "name_en": "Gladion's Final Battle",
+      "card_type": "Trainer",
+      "regulation_mark": "J",
+      "first_set": "アビスアイ"
     },
     {
       "slug": "glalie",
@@ -5418,6 +5490,14 @@
       "card_type": "Pokémon",
       "regulation_mark": "I",
       "first_set": "ブラックボルト"
+    },
+    {
+      "slug": "gwynn",
+      "name_ja": "ムク",
+      "name_en": "Gwynn",
+      "card_type": "Trainer",
+      "regulation_mark": "J",
+      "first_set": "アビスアイ"
     },
     {
       "slug": "haban-berry",
@@ -6412,9 +6492,9 @@
       "first_set": "ホワイトフレア"
     },
     {
-      "slug": "jet",
+      "slug": "jett",
       "name_ja": "ジェット",
-      "name_en": "Jet",
+      "name_en": "Jett",
       "card_type": "Trainer",
       "regulation_mark": "J",
       "first_set": "ポケモンカードゲーム MEGA　プロモカードパック第3弾"
@@ -6466,278 +6546,6 @@
       "card_type": "Pokémon",
       "regulation_mark": "I",
       "first_set": "ホワイトフレア"
-    },
-    {
-      "slug": "jp-ごうかいボム",
-      "name_ja": "ごうかいボム",
-      "name_en": null,
-      "card_type": "Trainer",
-      "regulation_mark": "J",
-      "first_set": "アビスアイ"
-    },
-    {
-      "slug": "jp-アシマリ",
-      "name_ja": "アシマリ",
-      "name_en": null,
-      "card_type": "Pokémon",
-      "regulation_mark": "J",
-      "first_set": "アビスアイ"
-    },
-    {
-      "slug": "jp-アシレーヌ",
-      "name_ja": "アシレーヌ",
-      "name_en": null,
-      "card_type": "Pokémon",
-      "regulation_mark": "J",
-      "first_set": "アビスアイ"
-    },
-    {
-      "slug": "jp-オシャマリ",
-      "name_ja": "オシャマリ",
-      "name_en": null,
-      "card_type": "Pokémon",
-      "regulation_mark": "J",
-      "first_set": "アビスアイ"
-    },
-    {
-      "slug": "jp-オラチフ",
-      "name_ja": "オラチフ",
-      "name_en": null,
-      "card_type": "Pokémon",
-      "regulation_mark": "J",
-      "first_set": "アビスアイ"
-    },
-    {
-      "slug": "jp-カスミの元気",
-      "name_ja": "カスミの元気",
-      "name_en": null,
-      "card_type": "Trainer",
-      "regulation_mark": "J",
-      "first_set": "アビスアイ"
-    },
-    {
-      "slug": "jp-グラジオの決戦",
-      "name_ja": "グラジオの決戦",
-      "name_en": null,
-      "card_type": "Trainer",
-      "regulation_mark": "J",
-      "first_set": "アビスアイ"
-    },
-    {
-      "slug": "jp-ケララッパ",
-      "name_ja": "ケララッパ",
-      "name_en": null,
-      "card_type": "Pokémon",
-      "regulation_mark": "J",
-      "first_set": "アビスアイ"
-    },
-    {
-      "slug": "jp-サビ組のしたっぱ",
-      "name_ja": "サビ組のしたっぱ",
-      "name_en": null,
-      "card_type": "Trainer",
-      "regulation_mark": "J",
-      "first_set": "アビスアイ"
-    },
-    {
-      "slug": "jp-シャドー悪エネルギー",
-      "name_ja": "シャドー悪エネルギー",
-      "name_en": null,
-      "card_type": "Energy",
-      "regulation_mark": "J",
-      "first_set": "アビスアイ"
-    },
-    {
-      "slug": "jp-シルヴァディ",
-      "name_ja": "シルヴァディ",
-      "name_en": null,
-      "card_type": "Pokémon",
-      "regulation_mark": "J",
-      "first_set": "アビスアイ"
-    },
-    {
-      "slug": "jp-ズガイドス",
-      "name_ja": "ズガイドス",
-      "name_en": null,
-      "card_type": "Pokémon",
-      "regulation_mark": "J",
-      "first_set": "アビスアイ"
-    },
-    {
-      "slug": "jp-タイプ：ヌル",
-      "name_ja": "タイプ：ヌル",
-      "name_en": null,
-      "card_type": "Pokémon",
-      "regulation_mark": "J",
-      "first_set": "アビスアイ"
-    },
-    {
-      "slug": "jp-タテトプス",
-      "name_ja": "タテトプス",
-      "name_en": null,
-      "card_type": "Pokémon",
-      "regulation_mark": "J",
-      "first_set": "アビスアイ"
-    },
-    {
-      "slug": "jp-ダークベル",
-      "name_ja": "ダークベル",
-      "name_en": null,
-      "card_type": "Trainer",
-      "regulation_mark": "J",
-      "first_set": "アビスアイ"
-    },
-    {
-      "slug": "jp-ツツケラ",
-      "name_ja": "ツツケラ",
-      "name_en": null,
-      "card_type": "Pokémon",
-      "regulation_mark": "J",
-      "first_set": "アビスアイ"
-    },
-    {
-      "slug": "jp-トリデプス",
-      "name_ja": "トリデプス",
-      "name_en": null,
-      "card_type": "Pokémon",
-      "regulation_mark": "J",
-      "first_set": "アビスアイ"
-    },
-    {
-      "slug": "jp-ドデカバシ",
-      "name_ja": "ドデカバシ",
-      "name_en": null,
-      "card_type": "Pokémon",
-      "regulation_mark": "J",
-      "first_set": "アビスアイ"
-    },
-    {
-      "slug": "jp-ホエルオーex",
-      "name_ja": "ホエルオーex",
-      "name_en": null,
-      "card_type": "Pokémon",
-      "regulation_mark": "J",
-      "first_set": "アビスアイ"
-    },
-    {
-      "slug": "jp-ボルト雷エネルギー",
-      "name_ja": "ボルト雷エネルギー",
-      "name_en": null,
-      "card_type": "Energy",
-      "regulation_mark": "J",
-      "first_set": "アビスアイ"
-    },
-    {
-      "slug": "jp-マフィティフ",
-      "name_ja": "マフィティフ",
-      "name_en": null,
-      "card_type": "Pokémon",
-      "regulation_mark": "J",
-      "first_set": "アビスアイ"
-    },
-    {
-      "slug": "jp-ムク",
-      "name_ja": "ムク",
-      "name_en": null,
-      "card_type": "Trainer",
-      "regulation_mark": "J",
-      "first_set": "アビスアイ"
-    },
-    {
-      "slug": "jp-メガシャンデラex",
-      "name_ja": "メガシャンデラex",
-      "name_en": null,
-      "card_type": "Pokémon",
-      "regulation_mark": "J",
-      "first_set": "アビスアイ"
-    },
-    {
-      "slug": "jp-メガゼラオラex",
-      "name_ja": "メガゼラオラex",
-      "name_en": null,
-      "card_type": "Pokémon",
-      "regulation_mark": "J",
-      "first_set": "アビスアイ"
-    },
-    {
-      "slug": "jp-メガダークライex",
-      "name_ja": "メガダークライex",
-      "name_en": null,
-      "card_type": "Pokémon",
-      "regulation_mark": "J",
-      "first_set": "アビスアイ"
-    },
-    {
-      "slug": "jp-メガドリュウズex",
-      "name_ja": "メガドリュウズex",
-      "name_en": null,
-      "card_type": "Pokémon",
-      "regulation_mark": "J",
-      "first_set": "アビスアイ"
-    },
-    {
-      "slug": "jp-モルペコex",
-      "name_ja": "モルペコex",
-      "name_en": null,
-      "card_type": "Pokémon",
-      "regulation_mark": "J",
-      "first_set": "アビスアイ"
-    },
-    {
-      "slug": "jp-ヤドラン",
-      "name_ja": "ヤドラン",
-      "name_en": null,
-      "card_type": "Pokémon",
-      "regulation_mark": "J",
-      "first_set": "アビスアイ"
-    },
-    {
-      "slug": "jp-ラムパルドex",
-      "name_ja": "ラムパルドex",
-      "name_en": null,
-      "card_type": "Pokémon",
-      "regulation_mark": "J",
-      "first_set": "アビスアイ"
-    },
-    {
-      "slug": "jp-ラランテスex",
-      "name_ja": "ラランテスex",
-      "name_en": null,
-      "card_type": "Pokémon",
-      "regulation_mark": "J",
-      "first_set": "アビスアイ"
-    },
-    {
-      "slug": "jp-リトライバッジ",
-      "name_ja": "リトライバッジ",
-      "name_en": null,
-      "card_type": "Trainer",
-      "regulation_mark": "J",
-      "first_set": "アビスアイ"
-    },
-    {
-      "slug": "jp-化石採掘場",
-      "name_ja": "化石採掘場",
-      "name_en": null,
-      "card_type": "Trainer",
-      "regulation_mark": "J",
-      "first_set": "アビスアイ"
-    },
-    {
-      "slug": "jp-古びたずがいの化石",
-      "name_ja": "古びたずがいの化石",
-      "name_en": null,
-      "card_type": "Trainer",
-      "regulation_mark": "J",
-      "first_set": "アビスアイ"
-    },
-    {
-      "slug": "jp-古びたたての化石",
-      "name_ja": "古びたたての化石",
-      "name_en": null,
-      "card_type": "Trainer",
-      "regulation_mark": "J",
-      "first_set": "アビスアイ"
     },
     {
       "slug": "judge",
@@ -7868,6 +7676,14 @@
       "first_set": "ロケット団の栄光"
     },
     {
+      "slug": "lurantis-ex",
+      "name_ja": "ラランテスex",
+      "name_en": "Lurantis ex",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "アビスアイ"
+    },
+    {
       "slug": "luxio",
       "name_ja": "ルクシオ",
       "name_en": "Luxio",
@@ -7914,6 +7730,14 @@
       "card_type": "Pokémon",
       "regulation_mark": "I",
       "first_set": "バトルパートナーズ"
+    },
+    {
+      "slug": "mabosstiff",
+      "name_ja": "マフィティフ",
+      "name_en": "Mabosstiff",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "アビスアイ"
     },
     {
       "slug": "magcargo",
@@ -8284,6 +8108,14 @@
       "first_set": "アビスアイ"
     },
     {
+      "slug": "maschiff",
+      "name_ja": "オラチフ",
+      "name_en": "Maschiff",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "アビスアイ"
+    },
+    {
       "slug": "master-ball",
       "name_ja": "マスターボール",
       "name_en": "Master Ball",
@@ -8460,6 +8292,14 @@
       "first_set": "メガブレイブ"
     },
     {
+      "slug": "mega-chandelure-ex",
+      "name_ja": "メガシャンデラex",
+      "name_en": "Mega Chandelure ex",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "アビスアイ"
+    },
+    {
       "slug": "mega-charizard-x-ex",
       "name_ja": "メガリザードンXex",
       "name_en": "Mega Charizard X ex",
@@ -8482,6 +8322,14 @@
       "card_type": "Pokémon",
       "regulation_mark": "J",
       "first_set": "ムニキスゼロ"
+    },
+    {
+      "slug": "mega-darkrai-ex",
+      "name_ja": "メガダークライex",
+      "name_en": "Mega Darkrai ex",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "アビスアイ"
     },
     {
       "slug": "mega-delphox-ex",
@@ -8530,6 +8378,14 @@
       "card_type": "Pokémon",
       "regulation_mark": "J",
       "first_set": "スタートデッキ100 バトルコレクション"
+    },
+    {
+      "slug": "mega-excadrill-ex",
+      "name_ja": "メガドリュウズex",
+      "name_en": "Mega Excadrill ex",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "アビスアイ"
     },
     {
       "slug": "mega-feraligatr-ex",
@@ -8722,6 +8578,14 @@
       "card_type": "Pokémon",
       "regulation_mark": "I",
       "first_set": "メガブレイブ"
+    },
+    {
+      "slug": "mega-zeraora-ex",
+      "name_ja": "メガゼラオラex",
+      "name_en": "Mega Zeraora ex",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "アビスアイ"
     },
     {
       "slug": "mega-zygarde-ex",
@@ -9236,6 +9100,14 @@
       "first_set": "熱風のアリーナ"
     },
     {
+      "slug": "misty-s-vitality",
+      "name_ja": "カスミの元気",
+      "name_en": "Misty's Vitality",
+      "card_type": "Trainer",
+      "regulation_mark": "J",
+      "first_set": "アビスアイ"
+    },
+    {
       "slug": "moltres",
       "name_ja": "ファイヤー",
       "name_en": "Moltres",
@@ -9282,6 +9154,14 @@
       "card_type": "Pokémon",
       "regulation_mark": "H",
       "first_set": "クリムゾンヘイズ"
+    },
+    {
+      "slug": "morpeko-ex",
+      "name_ja": "モルペコex",
+      "name_en": "Morpeko ex",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "アビスアイ"
     },
     {
       "slug": "morty-s-conviction",
@@ -10508,6 +10388,14 @@
       "first_set": "スタートデッキGenerations ピカチュウex・カビゴンex"
     },
     {
+      "slug": "pikipek",
+      "name_ja": "ツツケラ",
+      "name_en": "Pikipek",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "アビスアイ"
+    },
+    {
       "slug": "piloswine",
       "name_ja": "イノムー",
       "name_en": "Piloswine",
@@ -10700,6 +10588,14 @@
       "first_set": "変幻の仮面"
     },
     {
+      "slug": "popplio",
+      "name_ja": "アシマリ",
+      "name_en": "Popplio",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "アビスアイ"
+    },
+    {
       "slug": "postwick",
       "name_ja": "ハロンタウン",
       "name_en": "Postwick",
@@ -10738,6 +10634,14 @@
       "card_type": "Trainer",
       "regulation_mark": "I",
       "first_set": "メガブレイブ"
+    },
+    {
+      "slug": "primarina",
+      "name_ja": "アシレーヌ",
+      "name_en": "Primarina",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "アビスアイ"
     },
     {
       "slug": "prime-catcher",
@@ -11034,6 +10938,14 @@
       "card_type": "Pokémon",
       "regulation_mark": "I",
       "first_set": "メガシンフォニア"
+    },
+    {
+      "slug": "rampardos-ex",
+      "name_ja": "ラムパルドex",
+      "name_en": "Rampardos ex",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "アビスアイ"
     },
     {
       "slug": "rapidash",
@@ -11540,6 +11452,14 @@
       "first_set": "楽園ドラゴーナ"
     },
     {
+      "slug": "rust-syndicate-grunt",
+      "name_ja": "サビ組のしたっぱ",
+      "name_en": "Rust Syndicate Grunt",
+      "card_type": "Trainer",
+      "regulation_mark": "J",
+      "first_set": "アビスアイ"
+    },
+    {
       "slug": "sableye",
       "name_ja": "ヤミラミ",
       "name_en": "Sableye",
@@ -12012,6 +11932,14 @@
       "first_set": "ホワイトフレア"
     },
     {
+      "slug": "shadowy-darkness-energy",
+      "name_ja": "シャドー悪エネルギー",
+      "name_en": "Shadowy Darkness Energy",
+      "card_type": "Energy",
+      "regulation_mark": "J",
+      "first_set": "アビスアイ"
+    },
+    {
       "slug": "sharpedo",
       "name_ja": "サメハダー",
       "name_en": "Sharpedo",
@@ -12090,6 +12018,14 @@
       "card_type": "Pokémon",
       "regulation_mark": "I",
       "first_set": "ホワイトフレア"
+    },
+    {
+      "slug": "shieldon",
+      "name_ja": "タテトプス",
+      "name_en": "Shieldon",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "アビスアイ"
     },
     {
       "slug": "shiftry",
@@ -12210,6 +12146,14 @@
       "card_type": "Pokémon",
       "regulation_mark": "I",
       "first_set": "MEGAドリームex"
+    },
+    {
+      "slug": "silvally",
+      "name_ja": "シルヴァディ",
+      "name_en": "Silvally",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "アビスアイ"
     },
     {
       "slug": "simipour",
@@ -12418,6 +12362,14 @@
       "card_type": "Pokémon",
       "regulation_mark": "H",
       "first_set": "ナイトワンダラー"
+    },
+    {
+      "slug": "slowbro",
+      "name_ja": "ヤドラン",
+      "name_en": "Slowbro",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "アビスアイ"
     },
     {
       "slug": "slowking",
@@ -14276,6 +14228,14 @@
       "first_set": "スタートデッキ100 バトルコレクション"
     },
     {
+      "slug": "toucannon",
+      "name_ja": "ドデカバシ",
+      "name_en": "Toucannon",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "アビスアイ"
+    },
+    {
       "slug": "toxel",
       "name_ja": "エレズン",
       "name_en": "Toxel",
@@ -14364,6 +14324,14 @@
       "first_set": "テラスタルフェスex"
     },
     {
+      "slug": "tremendous-bomb",
+      "name_ja": "ごうかいボム",
+      "name_en": "Tremendous Bomb",
+      "card_type": "Trainer",
+      "regulation_mark": "J",
+      "first_set": "アビスアイ"
+    },
+    {
       "slug": "trevenant",
       "name_ja": "オーロット",
       "name_en": "Trevenant",
@@ -14410,6 +14378,14 @@
       "card_type": "Pokémon",
       "regulation_mark": "J",
       "first_set": "ニンジャスピナー"
+    },
+    {
+      "slug": "trumbeak",
+      "name_ja": "ケララッパ",
+      "name_en": "Trumbeak",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "アビスアイ"
     },
     {
       "slug": "turtonator",
@@ -14474,6 +14450,14 @@
       "card_type": "Pokémon",
       "regulation_mark": "I",
       "first_set": "ブラックボルト"
+    },
+    {
+      "slug": "type-null",
+      "name_ja": "タイプ：ヌル",
+      "name_en": "Type: Null",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "アビスアイ"
     },
     {
       "slug": "tyranitar",
@@ -14836,6 +14820,14 @@
       "first_set": "ブラックボルト"
     },
     {
+      "slug": "voltaic-lightning-energy",
+      "name_ja": "ボルト雷エネルギー",
+      "name_en": "Voltaic Lightning Energy",
+      "card_type": "Energy",
+      "regulation_mark": "J",
+      "first_set": "アビスアイ"
+    },
+    {
       "slug": "voltorb-ex",
       "name_ja": "ビリリダマex",
       "name_en": "Voltorb ex",
@@ -14922,6 +14914,14 @@
       "card_type": "Pokémon",
       "regulation_mark": "I",
       "first_set": "バトルパートナーズ"
+    },
+    {
+      "slug": "wailord-ex",
+      "name_ja": "ホエルオーex",
+      "name_en": "Wailord ex",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "アビスアイ"
     },
     {
       "slug": "waitress",

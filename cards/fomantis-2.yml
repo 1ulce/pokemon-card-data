@@ -32,13 +32,13 @@ attacks:
 - position: 0
   name:
     ja: とつげき
-    en:
+    en: Reckless Charge
   cost:
   - Grass
   damage: '30'
   effect_text:
     ja: このポケモンにも10ダメージ。
-    en:
+    en: This Pokémon also does 10 damage to itself.
 first_appearance:
   set_name_ja: アビスアイ
   released_at: '2026-05-22'

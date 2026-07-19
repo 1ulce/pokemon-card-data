@@ -32,17 +32,17 @@ attacks:
 - position: 0
   name:
     ja: なかまをよぶ 
-    en:
+    en: Call for Family
   cost:
   - Colorless
   damage:
   effect_text:
     ja: 自分の山札からたねポケモンを2枚まで選び、ベンチに出す。そして山札を切る。
-    en:
+    en: Search your deck for up to 2 Basic Pokémon and put them onto your Bench. Then, shuffle your deck.
 - position: 1
   name:
     ja: ツメをたてる
-    en:
+    en: Dig Claws
   cost:
   - Colorless
   - Colorless

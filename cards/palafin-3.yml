@@ -32,14 +32,14 @@ attacks:
 - position: 0
   name:
     ja: ジャスティスナックル
-    en:
+    en: Knuckle Justice
   cost:
   - Water
   - Water
   damage: 80+
   effect_text:
     ja: 相手のサイドの残り枚数が1枚なら、200ダメージ追加。
-    en:
+    en: If your opponent has exactly 1 Prize card remaining, this attack does 200 more damage.
 first_appearance:
   set_name_ja: アビスアイ
   released_at: '2026-05-22'

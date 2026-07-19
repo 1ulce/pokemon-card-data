@@ -32,18 +32,18 @@ attacks:
 - position: 0
   name:
     ja: スキルシーフ 
-    en:
+    en: Skill Thief
   cost:
   - Colorless
   - Colorless
   damage:
   effect_text:
     ja: 自分の手札が1枚もないなら、相手の場のポケモンが持つワザを1つ選び、このワザとして使う。
-    en:
+    en: If you have no cards in your hand, choose an attack from 1 of your opponent's Pokémon in play and use it as this attack.
 - position: 1
   name:
     ja: するどいキバ
-    en:
+    en: Sharp Fang
   cost:
   - Darkness
   - Colorless

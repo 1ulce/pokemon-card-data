@@ -32,7 +32,7 @@ attacks:
 - position: 0
   name:
     ja: けたぐり
-    en:
+    en: Low Kick
   cost:
   - Colorless
   damage: '20'

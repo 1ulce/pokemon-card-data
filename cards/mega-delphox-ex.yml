@@ -34,17 +34,17 @@ attacks:
 - position: 0
   name:
     ja: トリックポータル 
-    en:
+    en: Trick Portal
   cost:
   - Fire
   damage:
   effect_text:
     ja: 自分の山札を上から9枚見て、その中からポケモンを好きなだけ選び、ベンチに出す。残りのカードは山札にもどして切る。
-    en:
+    en: Look at the top 9 cards of your deck, and you may put any number of Pokémon you find there onto your Bench. Shuffle the other cards back into your deck.
 - position: 1
   name:
     ja: あやしいともしび
-    en:
+    en: Eerie Glow
   cost:
   - Fire
   - Colorless
@@ -52,7 +52,7 @@ attacks:
   damage: '200'
   effect_text:
     ja: 相手のバトルポケモンをやけどとこんらんにする。
-    en:
+    en: Your opponent's Active Pokémon is now Burned and Confused.
 first_appearance:
   set_name_ja: ポケモンカードゲーム MEGA　プロモカードパック第4弾
   released_at:

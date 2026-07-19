@@ -31,21 +31,21 @@ abilities:
 - position: 0
   name:
     ja: ばけがくれ
-    en:
+    en: Hide 'n' Sneak
   effect_text:
     ja: このポケモンは、相手のワザや特性の効果を受けない。
-    en:
+    en: Prevent all effects of your opponent's Pokémon's attacks and Abilities done to this Pokémon. (Damage is not an effect.)
 attacks:
 - position: 0
   name:
     ja: まっちゃスピン 
-    en:
+    en: Matcha Spin
   cost:
   - Colorless
   damage:
   effect_text:
     ja: 自分のトラッシュに、特性「ばけがくれ」を持つポケモンが6枚以上あるなら、相手のポケモン全員に、それぞれダメカンを4個のせる。
-    en:
+    en: If you have 6 or more Pokémon that have the Hide 'n' Sneak Ability in your discard pile, place 4 damage counters on each of your opponent's Pokémon.
 first_appearance:
   set_name_ja: アビスアイ
   released_at: '2026-05-22'

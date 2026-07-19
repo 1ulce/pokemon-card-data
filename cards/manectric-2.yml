@@ -32,18 +32,18 @@ attacks:
 - position: 0
   name:
     ja: フラッシュバリア
-    en:
+    en: Flashing Barrier
   cost:
   - Lightning
   - Lightning
   damage: '50'
   effect_text:
     ja: 次の相手の番、このポケモンは進化ポケモンからワザのダメージを受けない。
-    en:
+    en: During your opponent's next turn, prevent all damage done to this Pokémon by attacks from Evolution Pokémon.
 - position: 1
   name:
     ja: ソニックエッジ
-    en:
+    en: Sonic Edge
   cost:
   - Lightning
   - Lightning
@@ -51,7 +51,7 @@ attacks:
   damage: '110'
   effect_text:
     ja: このワザのダメージは、相手のバトルポケモンにかかっている効果を計算しない。
-    en:
+    en: This attack's damage isn't affected by any effects on your opponent's Active Pokémon.
 first_appearance:
   set_name_ja: アビスアイ
   released_at: '2026-05-22'

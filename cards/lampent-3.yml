@@ -32,13 +32,13 @@ attacks:
 - position: 0
   name:
     ja: ふえるあかり 
-    en:
+    en: Spreading Light
   cost:
   - Psychic
   damage:
   effect_text:
     ja: 自分の山札から「ランプラー」を3枚まで選び、ベンチに出す。そして山札を切る。
-    en:
+    en: Search your deck for up to 3 Lampent and put them onto your Bench. Then, shuffle your deck.
 first_appearance:
   set_name_ja: アビスアイ
   released_at: '2026-05-22'

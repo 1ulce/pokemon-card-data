@@ -32,18 +32,18 @@ attacks:
 - position: 0
   name:
     ja: おとどけチャレンジ 
-    en:
+    en: Challenging Delivery
   cost:
   - Colorless
   - Colorless
   damage:
   effect_text:
     ja: コインを2回投げ、すべてオモテなら、自分の山札からポケモンを1枚選び、ベンチに出す。そして山札を切る。
-    en:
+    en: Flip 2 coins. If both of them are heads, search your deck for a Pokémon and put it onto your Bench. Then, shuffle your deck.
 - position: 1
   name:
     ja: スピードウイング
-    en:
+    en: Speed Wing
   cost:
   - Colorless
   - Colorless

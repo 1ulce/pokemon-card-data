@@ -1,0 +1,42 @@
+---
+schema_version: 1
+slug: voltaic-lightning-energy
+name:
+  ja: ボルト雷エネルギー
+  en: Voltaic Lightning Energy
+  prefix:
+card_type: Energy
+card_subtype: Special Energy
+energy_type:
+hp:
+retreat_cost:
+regulation_mark: J
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type:
+  value:
+resistance:
+  type:
+  value:
+body_text:
+  ja: |-
+    このカードは、ポケモンについているかぎり、雷エネルギー1個ぶんとしてはたらく。
+
+
+
+    このカードをつけている雷ポケモンが使うワザの、相手のバトルポケモンへのダメージは「+20」される。
+  en: As long as this card is attached to a Pokémon, it provides [L] Energy. Attacks used by the [L] Pokémon this card is attached to do 20 more damage to your opponent's Active Pokémon (before applying Weakness and Resistance).
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks: []
+first_appearance:
+  set_name_ja: アビスアイ
+  released_at: '2026-05-22'
+  regulation_mark: J
+  collector_number: '080'
+  image_url:

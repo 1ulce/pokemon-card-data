@@ -1,0 +1,60 @@
+---
+schema_version: 1
+slug: mabosstiff
+name:
+  ja: マフィティフ
+  en: Mabosstiff
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Darkness
+hp: 140
+retreat_cost: 3
+regulation_mark: J
+meta_tags: []
+evolves_from:
+  ja: オラチフ
+  en:
+weakness:
+  type: Grass
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: かみつく
+    en: Bite
+  cost:
+  - Darkness
+  - Darkness
+  damage: '60'
+  effect_text:
+    ja:
+    en:
+- position: 1
+  name:
+    ja: とびこみヘッド
+    en: Plunging Headbutt
+  cost:
+  - Darkness
+  - Darkness
+  - Darkness
+  damage: '210'
+  effect_text:
+    ja: 次の相手の番、このポケモンが受けるワザのダメージは「+100」される。
+    en: During your opponent's next turn, this Pokémon takes 100 more damage from attacks (after applying Weakness and Resistance).
+first_appearance:
+  set_name_ja: アビスアイ
+  released_at: '2026-05-22'
+  regulation_mark: J
+  collector_number: '056'
+  image_url:

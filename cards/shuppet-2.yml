@@ -31,15 +31,15 @@ abilities:
 - position: 0
   name:
     ja: ばけがくれ
-    en:
+    en: Hide 'n' Sneak
   effect_text:
     ja: このポケモンは、相手のワザや特性の効果を受けない。
-    en:
+    en: Prevent all effects of your opponent's Pokémon's attacks and Abilities done to this Pokémon. (Damage is not an effect.)
 attacks:
 - position: 0
   name:
     ja: ぶらさがる
-    en:
+    en: Hang Down
   cost:
   - Psychic
   damage: '10'

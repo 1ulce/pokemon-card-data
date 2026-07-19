@@ -1,0 +1,64 @@
+---
+schema_version: 1
+slug: wailord-ex
+name:
+  ja: ホエルオーex
+  en: Wailord ex
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Water
+hp: 380
+retreat_cost: 4
+regulation_mark: J
+meta_tags:
+- ex
+evolves_from:
+  ja: ホエルコ
+  en: Wailmer
+weakness:
+  type: Lightning
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja: ポケモンexがきぜつしたとき、相手はサイドを2枚とる。
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: なみのり
+    en: Surf
+  cost:
+  - Water
+  - Water
+  - Water
+  damage: '120'
+  effect_text:
+    ja:
+    en:
+- position: 1
+  name:
+    ja: フォーリングダウン
+    en: Falling Down
+  cost:
+  - Water
+  - Water
+  - Water
+  - Water
+  - Water
+  damage: '270'
+  effect_text:
+    ja: このポケモンをねむりにする。
+    en: This Pokémon is now Asleep.
+first_appearance:
+  set_name_ja: アビスアイ
+  released_at: '2026-05-22'
+  regulation_mark: J
+  collector_number: '015'
+  image_url:
