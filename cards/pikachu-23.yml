@@ -1,0 +1,48 @@
+---
+schema_version: 1
+slug: pikachu-23
+name:
+  ja: ピカチュウ
+  en: Pikachu
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Lightning
+hp: 70
+retreat_cost: 2
+regulation_mark: J
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Fighting
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: なんごくきぶん 
+    en: Tropical Vibes
+  cost:
+  - Colorless
+  - Colorless
+  damage:
+  effect_text:
+    ja: このポケモンをねむりにする。自分の手札が6枚になるように、山札を引く。
+    en: This Pokémon is now Asleep. Draw cards until you have 6 cards in your hand.
+first_appearance:
+  set_name_ja: 拡張パック 30th CELEBRATION
+  released_at: '2026-09-16'
+  regulation_mark: J
+  collector_number: '037'
+  image_url:

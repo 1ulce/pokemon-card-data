@@ -1,0 +1,48 @@
+---
+schema_version: 1
+slug: floragato-2
+name:
+  ja: ニャローテ
+  en: Floragato
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Grass
+hp: 90
+retreat_cost: 1
+regulation_mark:
+meta_tags: []
+evolves_from:
+  ja: ニャオハ
+  en: Sprigatito
+weakness:
+  type: Fire
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: きりさく
+    en:
+  cost:
+  - Grass
+  - Grass
+  damage: '60'
+  effect_text:
+    ja:
+    en:
+first_appearance:
+  set_name_ja: スターターセットex ニャオハ＆マスカーニャex
+  released_at:
+  regulation_mark:
+  collector_number: '004'
+  image_url:

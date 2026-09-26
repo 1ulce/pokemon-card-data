@@ -1,0 +1,56 @@
+---
+schema_version: 1
+slug: articuno-2
+name:
+  ja: フリーザー
+  en: Articuno
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Water
+hp: 120
+retreat_cost: 1
+regulation_mark: J
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Metal
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities:
+- position: 0
+  name:
+    ja: いてつくはばたき
+    en: Frosty Flapping
+  effect_text:
+    ja: 自分の場に「ファイヤー」「サンダー」がいるなら、自分の番に1回使える。自分の手札から「基本水エネルギー」を1枚選び、このポケモンにつける。
+    en: Once during your turn, if you have Moltres and Zapdos in play, you may use this Ability. Attach a Basic [W] Energy card from your hand to this Pokémon.
+attacks:
+- position: 0
+  name:
+    ja: あられ 
+    en: Hail
+  cost:
+  - Water
+  - Water
+  - Colorless
+  damage:
+  effect_text:
+    ja: 相手のポケモン全員に、それぞれ30ダメージ。［ベンチは弱点・抵抗力を計算しない。］
+    en: This attack does 30 damage to each of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)
+first_appearance:
+  set_name_ja: 拡張パック 30th CELEBRATION
+  released_at: '2026-09-16'
+  regulation_mark: J
+  collector_number: '012'
+  image_url:

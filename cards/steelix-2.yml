@@ -1,0 +1,57 @@
+---
+schema_version: 1
+slug: steelix-2
+name:
+  ja: ハガネール
+  en: Steelix
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Fighting
+hp: 190
+retreat_cost: 4
+regulation_mark: J
+meta_tags: []
+evolves_from:
+  ja: イワーク
+  en: Onix
+weakness:
+  type: Grass
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities:
+- position: 0
+  name:
+    ja: こうみつどアーマー
+    en:
+  effect_text:
+    ja: このポケモンのHPがまんたんの状態なら、このポケモンが相手のポケモンから受けるワザのダメージは「-60」される。
+    en:
+attacks:
+- position: 0
+  name:
+    ja: ハードスイング
+    en:
+  cost:
+  - Fighting
+  - Fighting
+  - Colorless
+  - Colorless
+  damage: '150'
+  effect_text:
+    ja: このワザのダメージは抵抗力を計算しない。
+    en:
+first_appearance:
+  set_name_ja: ストームエメラルダ
+  released_at: '2026-07-31'
+  regulation_mark: J
+  collector_number: '038'
+  image_url:

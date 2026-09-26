@@ -15,7 +15,7 @@ meta_tags:
 - ex
 evolves_from:
   ja: ズガイドス
-  en:
+  en: Cranidos
 weakness:
   type: Grass
   value: "×2"

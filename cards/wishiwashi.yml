@@ -1,0 +1,54 @@
+---
+schema_version: 1
+slug: wishiwashi
+name:
+  ja: ヨワシ
+  en: Wishiwashi
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Water
+hp: 30
+retreat_cost: 1
+regulation_mark: J
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Lightning
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities:
+- position: 0
+  name:
+    ja: むれのはんげき
+    en: Counterattack Grouping
+  effect_text:
+    ja: このポケモンがいるかぎり、自分のバトル場の「ヨワシ（『ポケモンex』をふくむ）」が、相手のポケモンからワザのダメージを受けたとき、ワザを使ったポケモンにダメカンを3個のせる。
+    en: If your Wishiwashi or Wishiwashi ex is in the Active Spot and is damaged by an attack from your opponent's Pokémon (even if your Pokémon is Knocked Out), place 3 damage counters on the Attacking Pokémon.
+attacks:
+- position: 0
+  name:
+    ja: ふいをつく
+    en: Surprise Attack
+  cost:
+  - Water
+  damage: '30'
+  effect_text:
+    ja: コインを1回投げウラなら、このワザは失敗。
+    en: Flip a coin. If tails, this attack does nothing.
+first_appearance:
+  set_name_ja: 拡張パック 30th CELEBRATION
+  released_at: '2026-09-16'
+  regulation_mark: J
+  collector_number: '016'
+  image_url:

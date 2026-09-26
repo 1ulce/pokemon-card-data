@@ -1,0 +1,37 @@
+---
+schema_version: 1
+slug: jp-ヒガナの信頼
+name:
+  ja: ヒガナの信頼
+  en:
+  prefix:
+card_type: Trainer
+card_subtype: Supporter
+energy_type:
+hp:
+retreat_cost:
+regulation_mark: J
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type:
+  value:
+resistance:
+  type:
+  value:
+body_text:
+  ja: 自分のバトルポケモンをベンチポケモンと入れ替える。その後、ベンチに入れ替えたポケモンについているエネルギーを1個選び、新しいバトルポケモンにつけ替える。
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks: []
+first_appearance:
+  set_name_ja: ストームエメラルダ
+  released_at: '2026-07-31'
+  regulation_mark: J
+  collector_number: '069'
+  image_url:

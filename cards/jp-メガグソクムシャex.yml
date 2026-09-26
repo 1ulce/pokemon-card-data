@@ -1,0 +1,61 @@
+---
+schema_version: 1
+slug: jp-メガグソクムシャex
+name:
+  ja: メガグソクムシャex
+  en:
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Grass
+hp: 340
+retreat_cost: 3
+regulation_mark: J
+meta_tags:
+- ex
+- mega
+evolves_from:
+  ja: コソクムシ
+  en: Wimpod
+weakness:
+  type: Fire
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja: メガシンカexがきぜつしたとき、相手はサイドを3枚とる。
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: とどめをさす
+    en:
+  cost:
+  - Grass
+  damage: 60+
+  effect_text:
+    ja: 相手のバトルポケモンにダメカンがのっているなら、160ダメージ追加。
+    en:
+- position: 1
+  name:
+    ja: クワトロホールド
+    en:
+  cost:
+  - Colorless
+  - Colorless
+  - Colorless
+  damage: '160'
+  effect_text:
+    ja: 次の相手の番、このワザを受けたポケモンは、にげられない。
+    en:
+first_appearance:
+  set_name_ja: ストームエメラルダ
+  released_at: '2026-07-31'
+  regulation_mark: J
+  collector_number: '009'
+  image_url:

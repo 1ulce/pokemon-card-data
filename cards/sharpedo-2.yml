@@ -1,0 +1,48 @@
+---
+schema_version: 1
+slug: sharpedo-2
+name:
+  ja: サメハダー
+  en: Sharpedo
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Darkness
+hp: 120
+retreat_cost: 1
+regulation_mark:
+meta_tags: []
+evolves_from:
+  ja: キバニア
+  en: Carvanha
+weakness:
+  type: Grass
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: かみくだく
+    en:
+  cost:
+  - Darkness
+  - Colorless
+  damage: '60'
+  effect_text:
+    ja: コインを1回投げオモテなら、相手のバトルポケモンについているエネルギーを1個選び、トラッシュする。
+    en:
+first_appearance:
+  set_name_ja: スターターセットex ゾロア＆ゾロアークex
+  released_at:
+  regulation_mark:
+  collector_number: '002'
+  image_url:

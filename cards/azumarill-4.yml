@@ -1,0 +1,49 @@
+---
+schema_version: 1
+slug: azumarill-4
+name:
+  ja: マリルリ
+  en: Azumarill
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Psychic
+hp: 130
+retreat_cost: 2
+regulation_mark: J
+meta_tags: []
+evolves_from:
+  ja: マリル
+  en: Marill
+weakness:
+  type: Metal
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: のしかかり
+    en: Body Slam
+  cost:
+  - Psychic
+  - Psychic
+  - Colorless
+  damage: '90'
+  effect_text:
+    ja: コインを1回投げオモテなら、相手のバトルポケモンをマヒにする。
+    en: Flip a coin. If heads, your opponent's Active Pokémon is now paralyzed.
+first_appearance:
+  set_name_ja: 30th CELEBRATION プレミアムデッキセット エーフィ・ブラッキー
+  released_at: '2026-09-16'
+  regulation_mark: J
+  collector_number: '013'
+  image_url:

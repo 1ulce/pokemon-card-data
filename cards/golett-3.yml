@@ -1,0 +1,48 @@
+---
+schema_version: 1
+slug: golett-3
+name:
+  ja: ゴビット
+  en: Golett
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Psychic
+hp: 90
+retreat_cost: 3
+regulation_mark: J
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Darkness
+  value: "×2"
+resistance:
+  type: Fighting
+  value: "-30"
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: なぐる
+    en:
+  cost:
+  - Psychic
+  - Psychic
+  damage: '50'
+  effect_text:
+    ja:
+    en:
+first_appearance:
+  set_name_ja: ストームエメラルダ
+  released_at: '2026-07-31'
+  regulation_mark: J
+  collector_number: '032'
+  image_url:

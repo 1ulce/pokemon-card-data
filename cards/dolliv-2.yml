@@ -1,0 +1,47 @@
+---
+schema_version: 1
+slug: dolliv-2
+name:
+  ja: オリーニョ
+  en: Dolliv
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Grass
+hp: 90
+retreat_cost: 1
+regulation_mark:
+meta_tags: []
+evolves_from:
+  ja: ミニーブ
+  en: Smoliv
+weakness:
+  type: Fire
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: リーフステップ
+    en:
+  cost:
+  - Grass
+  damage: '40'
+  effect_text:
+    ja:
+    en:
+first_appearance:
+  set_name_ja: スターターセットex ニャオハ＆マスカーニャex
+  released_at:
+  regulation_mark:
+  collector_number: '007'
+  image_url:

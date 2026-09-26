@@ -1,0 +1,61 @@
+---
+schema_version: 1
+slug: electivire-3
+name:
+  ja: エレキブル
+  en: Electivire
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Lightning
+hp: 140
+retreat_cost: 3
+regulation_mark: J
+meta_tags: []
+evolves_from:
+  ja: エレブー
+  en: Electabuzz
+weakness:
+  type: Fighting
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: のしかかり
+    en:
+  cost:
+  - Colorless
+  - Colorless
+  damage: '30'
+  effect_text:
+    ja: コインを1回投げオモテなら、相手のバトルポケモンをマヒにする。
+    en:
+- position: 1
+  name:
+    ja: ボルテージハンマー
+    en:
+  cost:
+  - Lightning
+  - Lightning
+  - Colorless
+  - Colorless
+  damage: 60×
+  effect_text:
+    ja: このポケモンについている基本エネルギーを好きなだけトラッシュし、その枚数×60ダメージ。
+    en:
+first_appearance:
+  set_name_ja: ストームエメラルダ
+  released_at: '2026-07-31'
+  regulation_mark: J
+  collector_number: '023'
+  image_url:

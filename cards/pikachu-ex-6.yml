@@ -1,0 +1,60 @@
+---
+schema_version: 1
+slug: pikachu-ex-6
+name:
+  ja: ピカチュウex
+  en: Pikachu ex
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Lightning
+hp: 190
+retreat_cost: 1
+regulation_mark: J
+meta_tags:
+- ex
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Fighting
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja: ポケモンexがきぜつしたとき、相手はサイドを2枚とる。
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: ビリビリフィーバー 
+    en: Zip-Zap Frenzy
+  cost:
+  - Lightning
+  damage:
+  effect_text:
+    ja: 自分の手札から基本エネルギーを好きなだけ選び、自分のポケモンに好きなようにつける。
+    en: You may attach any number of Basic Energy cards from your hand to your Pokémon in any way you like.
+- position: 1
+  name:
+    ja: かみなり
+    en: Thunder
+  cost:
+  - Lightning
+  - Lightning
+  - Colorless
+  damage: '200'
+  effect_text:
+    ja: このポケモンにも30ダメージ。
+    en: This Pokémon also does 30 damage to itself.
+first_appearance:
+  set_name_ja: 拡張パック 30th CELEBRATION
+  released_at: '2026-09-16'
+  regulation_mark: J
+  collector_number: '048'
+  image_url:

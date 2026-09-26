@@ -1,0 +1,59 @@
+---
+schema_version: 1
+slug: miraidon-5
+name:
+  ja: ミライドン
+  en: Miraidon
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Lightning
+hp: 120
+retreat_cost: 1
+regulation_mark: J
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Fighting
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: マッハボルト
+    en: Mach Bolt
+  cost:
+  - Lightning
+  damage: '20'
+  effect_text:
+    ja:
+    en:
+- position: 1
+  name:
+    ja: イナズマドライブ
+    en: Electro Drift
+  cost:
+  - Lightning
+  - Lightning
+  - Colorless
+  damage: '140'
+  effect_text:
+    ja: このポケモンについている雷エネルギーを2個選び、トラッシュする。
+    en: Discard 2 [L] Energy from this Pokémon.
+first_appearance:
+  set_name_ja: 拡張パック 30th CELEBRATION
+  released_at: '2026-09-16'
+  regulation_mark: J
+  collector_number: '053'
+  image_url:

@@ -1,0 +1,55 @@
+---
+schema_version: 1
+slug: jp-オリーヴァ
+name:
+  ja: オリーヴァ
+  en:
+  prefix:
+card_type: Pokémon
+card_subtype: 2進化
+energy_type: Grass
+hp: 150
+retreat_cost: 2
+regulation_mark:
+meta_tags: []
+evolves_from:
+  ja: オリーニョ
+  en: Dolliv
+weakness:
+  type: Fire
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities:
+- position: 0
+  name:
+    ja: オイルスリップ
+    en:
+  effect_text:
+    ja: 自分の番に1回使える。相手のバトルポケモンをベンチポケモンと入れ替える。［バトル場に出すポケモンは相手が選ぶ。］
+    en:
+attacks:
+- position: 0
+  name:
+    ja: メガドレイン
+    en:
+  cost:
+  - Grass
+  - Colorless
+  damage: '100'
+  effect_text:
+    ja: このポケモンのHPを「30」回復する。
+    en:
+first_appearance:
+  set_name_ja: スターターセットex ニャオハ＆マスカーニャex
+  released_at:
+  regulation_mark:
+  collector_number: '008'
+  image_url:

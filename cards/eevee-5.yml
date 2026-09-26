@@ -1,0 +1,57 @@
+---
+schema_version: 1
+slug: eevee-5
+name:
+  ja: イーブイ
+  en: Eevee
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Colorless
+hp: 70
+retreat_cost: 1
+regulation_mark: J
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Fighting
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: くわえてかくす 
+    en: Fetch and Hide
+  cost:
+  - Colorless
+  damage:
+  effect_text:
+    ja: 相手の手札を見て、その中からグッズを1枚選び、相手の山札の下にもどす。
+    en: Your opponent reveals their hand, and you put an Item card you find there on the bottom of your opponent's deck.
+- position: 1
+  name:
+    ja: たいあたり
+    en: Tackle
+  cost:
+  - Colorless
+  damage: '10'
+  effect_text:
+    ja:
+    en:
+first_appearance:
+  set_name_ja: 拡張パック 30th CELEBRATION
+  released_at: '2026-09-16'
+  regulation_mark: J
+  collector_number: '094'
+  image_url:

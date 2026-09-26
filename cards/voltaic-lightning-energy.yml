@@ -25,8 +25,6 @@ body_text:
   ja: |-
     このカードは、ポケモンについているかぎり、雷エネルギー1個ぶんとしてはたらく。
 
-
-
     このカードをつけている雷ポケモンが使うワザの、相手のバトルポケモンへのダメージは「+20」される。
   en: As long as this card is attached to a Pokémon, it provides [L] Energy. Attacks used by the [L] Pokémon this card is attached to do 20 more damage to your opponent's Active Pokémon (before applying Weakness and Resistance).
 rules_text:

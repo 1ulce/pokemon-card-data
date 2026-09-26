@@ -1,0 +1,55 @@
+---
+schema_version: 1
+slug: mew-ex
+name:
+  ja: ミュウex
+  en: Mew ex
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Psychic
+hp: 160
+retreat_cost: 0
+regulation_mark: J
+meta_tags:
+- ex
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Darkness
+  value: "×2"
+resistance:
+  type: Fighting
+  value: "-30"
+body_text:
+  ja:
+  en:
+rules_text:
+  ja: ポケモンexがきぜつしたとき、相手はサイドを2枚とる。
+  en:
+abilities:
+- position: 0
+  name:
+    ja: きおくのらせん
+    en: Memory Helix
+  effect_text:
+    ja: このポケモンは、自分のベンチポケモンが持つワザを、すべて使える。［ワザを使うためのエネルギーは必要。］
+    en: This Pokémon can use the attacks of any of your Benched Pokémon. (You still need the necessary Energy to use each attack.)
+attacks:
+- position: 0
+  name:
+    ja: テレポートブレイク
+    en: Teleportation Burst
+  cost:
+  - Psychic
+  damage: '30'
+  effect_text:
+    ja: のぞむなら、このポケモンをベンチポケモンと入れ替える。
+    en: You may switch this Pokémon with 1 of your Benched Pokémon.
+first_appearance:
+  set_name_ja: 拡張パック 30th CELEBRATION
+  released_at: '2026-09-16'
+  regulation_mark: J
+  collector_number: '057'
+  image_url:

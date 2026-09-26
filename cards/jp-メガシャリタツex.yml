@@ -1,0 +1,51 @@
+---
+schema_version: 1
+slug: jp-メガシャリタツex
+name:
+  ja: メガシャリタツex
+  en:
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Water
+hp: 260
+retreat_cost: 1
+regulation_mark:
+meta_tags:
+- ex
+- mega
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Lightning
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja: メガシンカexがきぜつしたとき、相手はサイドを3枚とる。
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: サンカンヘッド
+    en:
+  cost:
+  - Water
+  - Water
+  - Water
+  damage: 150×
+  effect_text:
+    ja: コインを3回投げ、オモテの数×150ダメージ。
+    en:
+first_appearance:
+  set_name_ja: ポケモンカードゲーム MEGA　プロモカードパック第5弾
+  released_at:
+  regulation_mark:
+  collector_number: '50471'
+  image_url:

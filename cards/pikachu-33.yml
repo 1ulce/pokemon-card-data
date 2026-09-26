@@ -1,0 +1,47 @@
+---
+schema_version: 1
+slug: pikachu-33
+name:
+  ja: ピカチュウ
+  en: Pikachu
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Lightning
+hp: 80
+retreat_cost: 2
+regulation_mark: J
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Fighting
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: うわがきボルト
+    en: Overwriting Bolt
+  cost:
+  - Lightning
+  damage: '10'
+  effect_text:
+    ja: 次の自分の番の終わりまで、このワザを受けたポケモンの弱点は雷タイプになる。［弱点は「×2」でダメージ計算をする。］
+    en: The Defending Pokémon's Weakness is now [L] until the end of your next turn. (Apply Weakness as x2.)
+first_appearance:
+  set_name_ja: 拡張パック 30th CELEBRATION
+  released_at: '2026-09-16'
+  regulation_mark: J
+  collector_number: '034'
+  image_url:

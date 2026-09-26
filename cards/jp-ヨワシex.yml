@@ -1,0 +1,58 @@
+---
+schema_version: 1
+slug: jp-ヨワシex
+name:
+  ja: ヨワシex
+  en:
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Water
+hp: 260
+retreat_cost: 3
+regulation_mark: J
+meta_tags:
+- ex
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Lightning
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja: ポケモンexがきぜつしたとき、相手はサイドを2枚とる。
+  en:
+abilities:
+- position: 0
+  name:
+    ja: オーシャンゲイン
+    en:
+  effect_text:
+    ja: このポケモンがバトル場にいるなら、自分の番に1回使える。このポケモンのHPを「50」回復する。
+    en:
+attacks:
+- position: 0
+  name:
+    ja: ハイドロスプラッシュ
+    en:
+  cost:
+  - Water
+  - Water
+  - Water
+  - Colorless
+  damage: '220'
+  effect_text:
+    ja:
+    en:
+first_appearance:
+  set_name_ja: ストームエメラルダ
+  released_at: '2026-07-31'
+  regulation_mark: J
+  collector_number: '021'
+  image_url:

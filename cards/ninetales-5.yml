@@ -1,0 +1,47 @@
+---
+schema_version: 1
+slug: ninetales-5
+name:
+  ja: キュウコン
+  en: Ninetales
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Fire
+hp: 110
+retreat_cost: 1
+regulation_mark: J
+meta_tags: []
+evolves_from:
+  ja: ロコン
+  en: Vulpix
+weakness:
+  type: Water
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: ほのおのしっぽ
+    en: Flame Tail
+  cost:
+  - Fire
+  damage: '60'
+  effect_text:
+    ja:
+    en:
+first_appearance:
+  set_name_ja: 30th CELEBRATION プレミアムデッキセット エーフィ・ブラッキー
+  released_at: '2026-09-16'
+  regulation_mark: J
+  collector_number: '005'
+  image_url:

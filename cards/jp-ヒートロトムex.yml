@@ -1,0 +1,61 @@
+---
+schema_version: 1
+slug: jp-ヒートロトムex
+name:
+  ja: ヒートロトムex
+  en:
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Fire
+hp: 190
+retreat_cost: 1
+regulation_mark: J
+meta_tags:
+- ex
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Water
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja: ポケモンexがきぜつしたとき、相手はサイドを2枚とる。
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: さいかねつ
+    en:
+  cost:
+  - Colorless
+  - Colorless
+  damage: 30×
+  effect_text:
+    ja: 自分のトラッシュにある「基本炎エネルギー」をすべて相手に見せて、その枚数×30ダメージ。その後、見せたエネルギーを山札にもどして切る。
+    en:
+- position: 1
+  name:
+    ja: ストロングフレア
+    en:
+  cost:
+  - Fire
+  - Fire
+  - Colorless
+  damage: '170'
+  effect_text:
+    ja: このポケモンについているエネルギーを2個選び、トラッシュする。
+    en:
+first_appearance:
+  set_name_ja: ストームエメラルダ
+  released_at: '2026-07-31'
+  regulation_mark: J
+  collector_number: '015'
+  image_url:

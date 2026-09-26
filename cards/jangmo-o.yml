@@ -1,0 +1,58 @@
+---
+schema_version: 1
+slug: jangmo-o
+name:
+  ja: ジャラコ
+  en: Jangmo-o
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Dragon
+hp: 70
+retreat_cost: 1
+regulation_mark: J
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type:
+  value:
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: いやなおと 
+    en: Screech
+  cost:
+  - Colorless
+  damage:
+  effect_text:
+    ja: 次の自分の番、このワザを受けたポケモンが受けるワザのダメージは「+30」される。
+    en: During your next turn, the Defending Pokémon takes 30 more damage from attacks (after applying Weakness and Resistance).
+- position: 1
+  name:
+    ja: ドラゴンクロー
+    en: Dragon Claw
+  cost:
+  - Lightning
+  - Fighting
+  damage: '40'
+  effect_text:
+    ja:
+    en:
+first_appearance:
+  set_name_ja: 拡張パック 30th CELEBRATION
+  released_at: '2026-09-16'
+  regulation_mark: J
+  collector_number: '089'
+  image_url:

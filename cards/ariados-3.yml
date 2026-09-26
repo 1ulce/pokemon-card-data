@@ -1,0 +1,59 @@
+---
+schema_version: 1
+slug: ariados-3
+name:
+  ja: アリアドス
+  en: Ariados
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Darkness
+hp: 100
+retreat_cost: 1
+regulation_mark: J
+meta_tags: []
+evolves_from:
+  ja: イトマル
+  en: Spinarak
+weakness:
+  type: Fighting
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: げきつうどく 
+    en:
+  cost:
+  - Darkness
+  damage:
+  effect_text:
+    ja: 相手のバトルポケモンをどくにする。このどくでのせるダメカンの数は4個になる。
+    en:
+- position: 1
+  name:
+    ja: おんみつばり
+    en:
+  cost:
+  - Colorless
+  - Colorless
+  - Colorless
+  damage: '80'
+  effect_text:
+    ja: 次の相手の番、このポケモンはたねポケモンからワザのダメージを受けない。
+    en:
+first_appearance:
+  set_name_ja: ストームエメラルダ
+  released_at: '2026-07-31'
+  regulation_mark: J
+  collector_number: '045'
+  image_url:

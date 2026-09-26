@@ -1,0 +1,60 @@
+---
+schema_version: 1
+slug: jirachi-ex
+name:
+  ja: ジラーチex
+  en: Jirachi ex
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Metal
+hp: 160
+retreat_cost: 1
+regulation_mark: J
+meta_tags:
+- ex
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Fire
+  value: "×2"
+resistance:
+  type: Grass
+  value: "-30"
+body_text:
+  ja:
+  en:
+rules_text:
+  ja: ポケモンexがきぜつしたとき、相手はサイドを2枚とる。
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: ねがいをかなえる 
+    en: Wish Granter
+  cost:
+  - Colorless
+  damage:
+  effect_text:
+    ja: 自分の手札が7枚になるように、山札を引く。
+    en: Draw cards until you have 7 cards in your hand.
+- position: 1
+  name:
+    ja: スピードスター
+    en: Swift
+  cost:
+  - Colorless
+  - Colorless
+  - Colorless
+  damage: '150'
+  effect_text:
+    ja: このワザのダメージは、弱点・抵抗力と、相手のバトルポケモンにかかっている効果を計算しない。
+    en: This attack's damage isn't affected by Weakness or Resistance, or by any effects on your opponent's Active Pokémon.
+first_appearance:
+  set_name_ja: 拡張パック 30th CELEBRATION
+  released_at: '2026-09-16'
+  regulation_mark: J
+  collector_number: '081'
+  image_url:

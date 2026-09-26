@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-07-19T03:50:46Z",
-  "total_faces": 1941,
+  "generated_at": "2026-09-26T02:51:44Z",
+  "total_faces": 2166,
   "faces": [
     {
       "slug": "abomasnow",
@@ -188,6 +188,14 @@
       "first_set": "超電ブレイカー"
     },
     {
+      "slug": "alolan-exeggutor",
+      "name_ja": "アローラ ナッシー",
+      "name_en": "Alolan Exeggutor",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "拡張パック 30th CELEBRATION"
+    },
+    {
       "slug": "alolan-exeggutor-ex",
       "name_ja": "アローラ ナッシーex",
       "name_en": "Alolan Exeggutor ex",
@@ -228,6 +236,14 @@
       "first_set": "スタートデッキGenerations カプ・コケコex・ミミッキュex"
     },
     {
+      "slug": "alolan-meowth",
+      "name_ja": "アローラ ニャース",
+      "name_en": "Alolan Meowth",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "拡張パック 30th CELEBRATION"
+    },
+    {
       "slug": "alomomola",
       "name_ja": "ママンボウ",
       "name_en": "Alomomola",
@@ -242,6 +258,14 @@
       "card_type": "Pokémon",
       "regulation_mark": "H",
       "first_set": "楽園ドラゴーナ"
+    },
+    {
+      "slug": "altaria-2",
+      "name_ja": "チルタリス",
+      "name_en": "Altaria",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "ストームエメラルダ"
     },
     {
       "slug": "amarys",
@@ -484,6 +508,14 @@
       "first_set": "ロケット団の栄光"
     },
     {
+      "slug": "arcanine-2",
+      "name_ja": "ウインディ",
+      "name_en": "Arcanine",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "ストームエメラルダ"
+    },
+    {
       "slug": "archaludon",
       "name_ja": "ブリジュラス",
       "name_en": "Archaludon",
@@ -548,6 +580,14 @@
       "first_set": "ムニキスゼロ"
     },
     {
+      "slug": "ariados-3",
+      "name_ja": "アリアドス",
+      "name_en": "Ariados",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "ストームエメラルダ"
+    },
+    {
       "slug": "armarouge",
       "name_ja": "グレンアルマ",
       "name_en": "Armarouge",
@@ -610,6 +650,14 @@
       "card_type": "Pokémon",
       "regulation_mark": "I",
       "first_set": "バトルパートナーズ"
+    },
+    {
+      "slug": "articuno-2",
+      "name_ja": "フリーザー",
+      "name_en": "Articuno",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "拡張パック 30th CELEBRATION"
     },
     {
       "slug": "arven-s-greedent",
@@ -762,6 +810,14 @@
       "card_type": "Pokémon",
       "regulation_mark": "H",
       "first_set": "バトルアカデミー"
+    },
+    {
+      "slug": "azumarill-4",
+      "name_ja": "マリルリ",
+      "name_en": "Azumarill",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "30th CELEBRATION プレミアムデッキセット エーフィ・ブラッキー"
     },
     {
       "slug": "azumarill-ex",
@@ -1620,6 +1676,14 @@
       "first_set": "インフェルノX"
     },
     {
+      "slug": "carvanha-3",
+      "name_ja": "キバニア",
+      "name_en": "Carvanha",
+      "card_type": "Pokémon",
+      "regulation_mark": null,
+      "first_set": "スターターセットex ゾロア＆ゾロアークex"
+    },
+    {
       "slug": "cascoon",
       "name_ja": "マユルド",
       "name_en": "Cascoon",
@@ -1780,6 +1844,14 @@
       "first_set": "ブラックボルト"
     },
     {
+      "slug": "chandelure-3",
+      "name_ja": "シャンデラ",
+      "name_en": "Chandelure",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "拡張パック 30th CELEBRATION"
+    },
+    {
       "slug": "chansey",
       "name_ja": "ラッキー",
       "name_en": "Chansey",
@@ -1898,6 +1970,22 @@
       "card_type": "Trainer",
       "regulation_mark": "I",
       "first_set": "ホワイトフレア"
+    },
+    {
+      "slug": "cherrim",
+      "name_ja": "チェリム",
+      "name_en": "Cherrim",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "30th CELEBRATION プレミアムデッキセット エーフィ・ブラッキー"
+    },
+    {
+      "slug": "cherubi",
+      "name_ja": "チェリンボ",
+      "name_en": "Cherubi",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "30th CELEBRATION プレミアムデッキセット エーフィ・ブラッキー"
     },
     {
       "slug": "chesnaught",
@@ -2228,6 +2316,14 @@
       "first_set": "ステラミラクル"
     },
     {
+      "slug": "comfey-2",
+      "name_ja": "キュワワー",
+      "name_en": "Comfey",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "30th CELEBRATION プレミアムデッキセット エーフィ・ブラッキー"
+    },
+    {
       "slug": "community-center",
       "name_ja": "公民館",
       "name_en": "Community Center",
@@ -2314,6 +2410,22 @@
       "card_type": "Pokémon",
       "regulation_mark": "I",
       "first_set": "メガブレイブ"
+    },
+    {
+      "slug": "cosmoem",
+      "name_ja": "コスモウム",
+      "name_en": "Cosmoem",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "拡張パック 30th CELEBRATION"
+    },
+    {
+      "slug": "cosmog",
+      "name_ja": "コスモッグ",
+      "name_en": "Cosmog",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "拡張パック 30th CELEBRATION"
     },
     {
       "slug": "cottonee",
@@ -2426,6 +2538,14 @@
       "card_type": "Pokémon",
       "regulation_mark": "I",
       "first_set": "スターターセットMEGA メガディアンシーex"
+    },
+    {
+      "slug": "cresselia-3",
+      "name_ja": "クレセリア",
+      "name_en": "Cresselia",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "30th CELEBRATION プレミアムデッキセット エーフィ・ブラッキー"
     },
     {
       "slug": "crispin",
@@ -2586,6 +2706,14 @@
       "card_type": "Pokémon",
       "regulation_mark": "J",
       "first_set": "スタートデッキ100 バトルコレクション"
+    },
+    {
+      "slug": "cyclizar-2",
+      "name_ja": "モトトカゲ",
+      "name_en": "Cyclizar",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "ストームエメラルダ"
     },
     {
       "slug": "cyclizar-ex",
@@ -2860,6 +2988,14 @@
       "first_set": "ホワイトフレア"
     },
     {
+      "slug": "deino-3",
+      "name_ja": "モノズ",
+      "name_en": "Deino",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "30th CELEBRATION プレミアムデッキセット エーフィ・ブラッキー"
+    },
+    {
       "slug": "delcatty",
       "name_ja": "エネコロロ",
       "name_en": "Delcatty",
@@ -2890,6 +3026,14 @@
       "card_type": "Pokémon",
       "regulation_mark": "I",
       "first_set": "メガシンフォニア"
+    },
+    {
+      "slug": "delibird-3",
+      "name_ja": "デリバード",
+      "name_en": "Delibird",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "スターターセットex イーブイex"
     },
     {
       "slug": "delphox",
@@ -3020,6 +3164,14 @@
       "first_set": "メガブレイブ"
     },
     {
+      "slug": "dialga-3",
+      "name_ja": "ディアルガ",
+      "name_en": "Dialga",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "拡張パック 30th CELEBRATION"
+    },
+    {
       "slug": "dialga-ex",
       "name_ja": "ディアルガex",
       "name_en": "Dialga ex",
@@ -3076,6 +3228,14 @@
       "first_set": "熱風のアリーナ"
     },
     {
+      "slug": "ditto",
+      "name_ja": "メタモン",
+      "name_en": "Ditto",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "拡張パック 30th CELEBRATION"
+    },
+    {
       "slug": "dizzying-valley",
       "name_ja": "めまいの谷",
       "name_en": "Dizzying Valley",
@@ -3090,6 +3250,14 @@
       "card_type": "Pokémon",
       "regulation_mark": "I",
       "first_set": "ロケット団の栄光"
+    },
+    {
+      "slug": "dolliv-2",
+      "name_ja": "オリーニョ",
+      "name_en": "Dolliv",
+      "card_type": "Pokémon",
+      "regulation_mark": null,
+      "first_set": "スターターセットex ニャオハ＆マスカーニャex"
     },
     {
       "slug": "dondozo-ex",
@@ -3260,6 +3428,14 @@
       "first_set": "ステラミラクル"
     },
     {
+      "slug": "drifloon-3",
+      "name_ja": "フワンテ",
+      "name_en": "Drifloon",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "拡張パック 30th CELEBRATION"
+    },
+    {
       "slug": "drilbur",
       "name_ja": "モグリュー",
       "name_en": "Drilbur",
@@ -3308,6 +3484,14 @@
       "first_set": "ナイトワンダラー"
     },
     {
+      "slug": "drowzee-2",
+      "name_ja": "スリープ",
+      "name_en": "Drowzee",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "ストームエメラルダ"
+    },
+    {
       "slug": "druddigon",
       "name_ja": "クリムガン",
       "name_en": "Druddigon",
@@ -3322,6 +3506,14 @@
       "card_type": "Pokémon",
       "regulation_mark": "I",
       "first_set": "ホワイトフレア"
+    },
+    {
+      "slug": "druddigon-3",
+      "name_ja": "クリムガン",
+      "name_en": "Druddigon",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "ストームエメラルダ"
     },
     {
       "slug": "dubwool",
@@ -3548,12 +3740,44 @@
       "first_set": "クリムゾンヘイズ"
     },
     {
+      "slug": "eevee-5",
+      "name_ja": "イーブイ",
+      "name_en": "Eevee",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "拡張パック 30th CELEBRATION"
+    },
+    {
+      "slug": "eevee-6",
+      "name_ja": "イーブイ",
+      "name_en": "Eevee",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "30th CELEBRATION プレミアムデッキセット エーフィ・ブラッキー"
+    },
+    {
+      "slug": "eevee-7",
+      "name_ja": "イーブイ",
+      "name_en": "Eevee",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "スターターセットex イーブイex"
+    },
+    {
       "slug": "eevee-ex",
       "name_ja": "イーブイex",
       "name_en": "Eevee ex",
       "card_type": "Pokémon",
       "regulation_mark": "H",
       "first_set": "テラスタルフェスex"
+    },
+    {
+      "slug": "eevee-ex-2",
+      "name_ja": "イーブイex",
+      "name_en": "Eevee ex",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "スターターセットex イーブイex"
     },
     {
       "slug": "eiscue",
@@ -3604,6 +3828,14 @@
       "first_set": "ステラミラクル"
     },
     {
+      "slug": "electabuzz-4",
+      "name_ja": "エレブー",
+      "name_en": "Electabuzz",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "ストームエメラルダ"
+    },
+    {
       "slug": "electivire",
       "name_ja": "エレキブル",
       "name_en": "Electivire",
@@ -3618,6 +3850,14 @@
       "card_type": "Pokémon",
       "regulation_mark": "H",
       "first_set": "ステラミラクル"
+    },
+    {
+      "slug": "electivire-3",
+      "name_ja": "エレキブル",
+      "name_en": "Electivire",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "ストームエメラルダ"
     },
     {
       "slug": "electivire-ex",
@@ -3730,6 +3970,14 @@
       "card_type": "Pokémon",
       "regulation_mark": "H",
       "first_set": "クリムゾンヘイズ"
+    },
+    {
+      "slug": "enamorus-2",
+      "name_ja": "ラブトロス",
+      "name_en": "Enamorus",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "ストームエメラルダ"
     },
     {
       "slug": "energy-coin",
@@ -3908,12 +4156,28 @@
       "first_set": "楽園ドラゴーナ"
     },
     {
+      "slug": "espeon",
+      "name_ja": "エーフィ",
+      "name_en": "Espeon",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "拡張パック 30th CELEBRATION"
+    },
+    {
       "slug": "espeon-ex",
       "name_ja": "エーフィex",
       "name_en": "Espeon ex",
       "card_type": "Pokémon",
       "regulation_mark": "H",
       "first_set": "テラスタルフェスex"
+    },
+    {
+      "slug": "espeon-ex-2",
+      "name_ja": "エーフィex",
+      "name_en": "Espeon ex",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "30th CELEBRATION プレミアムデッキセット エーフィ・ブラッキー"
     },
     {
       "slug": "espurr",
@@ -4092,6 +4356,14 @@
       "first_set": "超電ブレイカー"
     },
     {
+      "slug": "exeggcute-5",
+      "name_ja": "タマタマ",
+      "name_en": "Exeggcute",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "拡張パック 30th CELEBRATION"
+    },
+    {
       "slug": "exeggutor",
       "name_ja": "ナッシー",
       "name_en": "Exeggutor",
@@ -4250,6 +4522,14 @@
       "card_type": "Pokémon",
       "regulation_mark": "J",
       "first_set": "ニンジャスピナー"
+    },
+    {
+      "slug": "ferrothorn-3",
+      "name_ja": "ナットレイ",
+      "name_en": "Ferrothorn",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "拡張パック 30th CELEBRATION"
     },
     {
       "slug": "festival-grounds",
@@ -4412,6 +4692,14 @@
       "first_set": "ステラミラクル"
     },
     {
+      "slug": "fletchinder-3",
+      "name_ja": "ヒノヤコマ",
+      "name_en": "Fletchinder",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "ストームエメラルダ"
+    },
+    {
       "slug": "fletchling",
       "name_ja": "ヤヤコマ",
       "name_en": "Fletchling",
@@ -4426,6 +4714,14 @@
       "card_type": "Pokémon",
       "regulation_mark": "H",
       "first_set": "ステラミラクル"
+    },
+    {
+      "slug": "fletchling-3",
+      "name_ja": "ヤヤコマ",
+      "name_en": "Fletchling",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "ストームエメラルダ"
     },
     {
       "slug": "flittle",
@@ -4466,6 +4762,14 @@
       "card_type": "Pokémon",
       "regulation_mark": "I",
       "first_set": "バトルパートナーズ"
+    },
+    {
+      "slug": "floragato-2",
+      "name_ja": "ニャローテ",
+      "name_en": "Floragato",
+      "card_type": "Pokémon",
+      "regulation_mark": null,
+      "first_set": "スターターセットex ニャオハ＆マスカーニャex"
     },
     {
       "slug": "florges",
@@ -4604,6 +4908,14 @@
       "first_set": "ホワイトフレア"
     },
     {
+      "slug": "frillish-2",
+      "name_ja": "プルリル",
+      "name_en": "Frillish",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "ストームエメラルダ"
+    },
+    {
       "slug": "froakie",
       "name_ja": "ケロマツ",
       "name_en": "Froakie",
@@ -4692,6 +5004,14 @@
       "first_set": "超電ブレイカー"
     },
     {
+      "slug": "fuecoco-ex",
+      "name_ja": "ホゲータex",
+      "name_en": "Fuecoco ex",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "拡張パック 30th CELEBRATION"
+    },
+    {
       "slug": "fukuoka-pikachu",
       "name_ja": "フクオカのピカチュウ",
       "name_en": "Fukuoka Pikachu",
@@ -4746,6 +5066,14 @@
       "card_type": "Pokémon",
       "regulation_mark": "I",
       "first_set": "MEGAドリームex"
+    },
+    {
+      "slug": "galarian-meowth",
+      "name_ja": "ガラル ニャース",
+      "name_en": "Galarian Meowth",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "拡張パック 30th CELEBRATION"
     },
     {
       "slug": "galarian-obstagoon",
@@ -4900,6 +5228,14 @@
       "first_set": "ワイルドフォース"
     },
     {
+      "slug": "gengar-ex-2",
+      "name_ja": "ゲンガーex",
+      "name_en": "Gengar ex",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "拡張パック 30th CELEBRATION"
+    },
+    {
       "slug": "gholdengo",
       "name_ja": "サーフゴー",
       "name_en": "Gholdengo",
@@ -4914,6 +5250,14 @@
       "card_type": "Pokémon",
       "regulation_mark": "I",
       "first_set": "メガブレイブ"
+    },
+    {
+      "slug": "gholdengo-3",
+      "name_ja": "サーフゴー",
+      "name_en": "Gholdengo",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "拡張パック 30th CELEBRATION"
     },
     {
       "slug": "gigalith",
@@ -4938,6 +5282,14 @@
       "card_type": "Pokémon",
       "regulation_mark": "I",
       "first_set": "メガブレイブ"
+    },
+    {
+      "slug": "gimmighoul-3",
+      "name_ja": "コレクレー",
+      "name_en": "Gimmighoul",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "拡張パック 30th CELEBRATION"
     },
     {
       "slug": "girafarig",
@@ -5122,6 +5474,14 @@
       "card_type": "Pokémon",
       "regulation_mark": "I",
       "first_set": "ブラックボルト"
+    },
+    {
+      "slug": "golett-3",
+      "name_ja": "ゴビット",
+      "name_en": "Golett",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "ストームエメラルダ"
     },
     {
       "slug": "golisopod",
@@ -5364,6 +5724,14 @@
       "first_set": "クリムゾンヘイズ"
     },
     {
+      "slug": "greninja-ex-3",
+      "name_ja": "ゲッコウガex",
+      "name_en": "Greninja ex",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "拡張パック 30th CELEBRATION"
+    },
+    {
       "slug": "grimmsnarl",
       "name_ja": "オーロンゲ",
       "name_en": "Grimmsnarl",
@@ -5412,6 +5780,22 @@
       "first_set": "スタートデッキ100 バトルコレクション"
     },
     {
+      "slug": "groudon-2",
+      "name_ja": "グラードン",
+      "name_en": "Groudon",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "拡張パック 30th CELEBRATION"
+    },
+    {
+      "slug": "groudon-3",
+      "name_ja": "グラードン",
+      "name_en": "Groudon",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "ストームエメラルダ"
+    },
+    {
       "slug": "growing-grass-energy",
       "name_ja": "グロウ草エネルギー",
       "name_en": "Growing Grass Energy",
@@ -5426,6 +5810,14 @@
       "card_type": "Pokémon",
       "regulation_mark": "I",
       "first_set": "ロケット団の栄光"
+    },
+    {
+      "slug": "growlithe-2",
+      "name_ja": "ガーディ",
+      "name_en": "Growlithe",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "ストームエメラルダ"
     },
     {
       "slug": "grubbin",
@@ -5506,6 +5898,14 @@
       "card_type": "Trainer",
       "regulation_mark": "H",
       "first_set": "テラスタルフェスex"
+    },
+    {
+      "slug": "hakamo-o",
+      "name_ja": "ジャランゴ",
+      "name_en": "Hakamo-o",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "拡張パック 30th CELEBRATION"
     },
     {
       "slug": "hand-trimmer",
@@ -5652,6 +6052,14 @@
       "first_set": "ホワイトフレア"
     },
     {
+      "slug": "heatmor-3",
+      "name_ja": "クイタラン",
+      "name_en": "Heatmor",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "ストームエメラルダ"
+    },
+    {
       "slug": "heatran",
       "name_ja": "ヒードラン",
       "name_en": "Heatran",
@@ -5756,6 +6164,14 @@
       "first_set": "変幻の仮面"
     },
     {
+      "slug": "heracross-2",
+      "name_ja": "ヘラクロス",
+      "name_en": "Heracross",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "ストームエメラルダ"
+    },
+    {
       "slug": "herdier",
       "name_ja": "ハーデリア",
       "name_en": "Herdier",
@@ -5852,6 +6268,22 @@
       "first_set": "クリムゾンヘイズ"
     },
     {
+      "slug": "hisuian-zoroark",
+      "name_ja": "ヒスイ ゾロアーク",
+      "name_en": "Hisuian Zoroark",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "拡張パック 30th CELEBRATION"
+    },
+    {
+      "slug": "hisuian-zorua",
+      "name_ja": "ヒスイ ゾロア",
+      "name_en": "Hisuian Zorua",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "拡張パック 30th CELEBRATION"
+    },
+    {
       "slug": "hitmontop",
       "name_ja": "カポエラー",
       "name_en": "Hitmontop",
@@ -5874,6 +6306,14 @@
       "card_type": "Pokémon",
       "regulation_mark": "J",
       "first_set": "ニンジャスピナー"
+    },
+    {
+      "slug": "ho-oh-3",
+      "name_ja": "ホウオウ",
+      "name_en": "Ho-Oh",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "拡張パック 30th CELEBRATION"
     },
     {
       "slug": "hole-digging-shovel",
@@ -6132,6 +6572,14 @@
       "first_set": "ステラミラクル"
     },
     {
+      "slug": "hydreigon",
+      "name_ja": "サザンドラ",
+      "name_en": "Hydreigon",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "30th CELEBRATION プレミアムデッキセット エーフィ・ブラッキー"
+    },
+    {
       "slug": "hydreigon-ex",
       "name_ja": "サザンドラex",
       "name_en": "Hydreigon ex",
@@ -6164,6 +6612,22 @@
       "first_set": "ナイトワンダラー"
     },
     {
+      "slug": "hypno-2",
+      "name_ja": "スリーパー",
+      "name_en": "Hypno",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "ストームエメラルダ"
+    },
+    {
+      "slug": "igglybuff",
+      "name_ja": "ププリン",
+      "name_en": "Igglybuff",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "拡張パック 30th CELEBRATION"
+    },
+    {
       "slug": "ignition-energy",
       "name_ja": "イグニッションエネルギー",
       "name_en": "Ignition Energy",
@@ -6178,6 +6642,14 @@
       "card_type": "Pokémon",
       "regulation_mark": "H",
       "first_set": "変幻の仮面"
+    },
+    {
+      "slug": "illumise-2",
+      "name_ja": "イルミーゼ",
+      "name_en": "Illumise",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "拡張パック 30th CELEBRATION"
     },
     {
       "slug": "impidimp",
@@ -6242,6 +6714,14 @@
       "card_type": "Pokémon",
       "regulation_mark": "J",
       "first_set": "アビスアイ"
+    },
+    {
+      "slug": "inkay-3",
+      "name_ja": "マーイーカ",
+      "name_en": "Inkay",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "ストームエメラルダ"
     },
     {
       "slug": "inteleon",
@@ -6468,6 +6948,14 @@
       "first_set": "変幻の仮面"
     },
     {
+      "slug": "jangmo-o",
+      "name_ja": "ジャラコ",
+      "name_en": "Jangmo-o",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "拡張パック 30th CELEBRATION"
+    },
+    {
       "slug": "janine-s-secret-art",
       "name_ja": "アンズの秘技",
       "name_en": "Janine's Secret Art",
@@ -6516,6 +7004,14 @@
       "first_set": "バトルアカデミー"
     },
     {
+      "slug": "jirachi-ex",
+      "name_ja": "ジラーチex",
+      "name_en": "Jirachi ex",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "拡張パック 30th CELEBRATION"
+    },
+    {
       "slug": "jolteon-ex",
       "name_ja": "サンダースex",
       "name_en": "Jolteon ex",
@@ -6546,6 +7042,334 @@
       "card_type": "Pokémon",
       "regulation_mark": "I",
       "first_set": "ホワイトフレア"
+    },
+    {
+      "slug": "jp-おいしいおむすび",
+      "name_ja": "おいしいおむすび",
+      "name_en": null,
+      "card_type": "Trainer",
+      "regulation_mark": "J",
+      "first_set": "ストームエメラルダ"
+    },
+    {
+      "slug": "jp-とくちゅうチョッキ",
+      "name_ja": "とくちゅうチョッキ",
+      "name_en": null,
+      "card_type": "Trainer",
+      "regulation_mark": "J",
+      "first_set": "ストームエメラルダ"
+    },
+    {
+      "slug": "jp-ぼうけんのランタン",
+      "name_ja": "ぼうけんのランタン",
+      "name_en": null,
+      "card_type": "Trainer",
+      "regulation_mark": "J",
+      "first_set": "ストームエメラルダ"
+    },
+    {
+      "slug": "jp-アメタマ",
+      "name_ja": "アメタマ",
+      "name_en": null,
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "ストームエメラルダ"
+    },
+    {
+      "slug": "jp-アメモース",
+      "name_ja": "アメモース",
+      "name_en": null,
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "ストームエメラルダ"
+    },
+    {
+      "slug": "jp-オリーヴァ",
+      "name_ja": "オリーヴァ",
+      "name_en": null,
+      "card_type": "Pokémon",
+      "regulation_mark": null,
+      "first_set": "スターターセットex ニャオハ＆マスカーニャex"
+    },
+    {
+      "slug": "jp-ギラティナ",
+      "name_ja": "ギラティナ",
+      "name_en": null,
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "ストームエメラルダ"
+    },
+    {
+      "slug": "jp-ギリー",
+      "name_ja": "ギリー",
+      "name_en": null,
+      "card_type": "Trainer",
+      "regulation_mark": "J",
+      "first_set": "ストームエメラルダ"
+    },
+    {
+      "slug": "jp-サボネア",
+      "name_ja": "サボネア",
+      "name_en": null,
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "ストームエメラルダ"
+    },
+    {
+      "slug": "jp-サンダース",
+      "name_ja": "サンダース",
+      "name_en": null,
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "スターターセットex イーブイex"
+    },
+    {
+      "slug": "jp-ジャラコ-2",
+      "name_ja": "ジャラコ",
+      "name_en": null,
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "ストームエメラルダ"
+    },
+    {
+      "slug": "jp-ジャラランガ-2",
+      "name_ja": "ジャラランガ",
+      "name_en": null,
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "ストームエメラルダ"
+    },
+    {
+      "slug": "jp-ジャランゴ-2",
+      "name_ja": "ジャランゴ",
+      "name_en": null,
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "ストームエメラルダ"
+    },
+    {
+      "slug": "jp-ゾロアークex",
+      "name_ja": "ゾロアークex",
+      "name_en": null,
+      "card_type": "Pokémon",
+      "regulation_mark": null,
+      "first_set": "スターターセットex ゾロア＆ゾロアークex"
+    },
+    {
+      "slug": "jp-ダークライ",
+      "name_ja": "ダークライ",
+      "name_en": null,
+      "card_type": "Pokémon",
+      "regulation_mark": null,
+      "first_set": "スターターセットex ゾロア＆ゾロアークex"
+    },
+    {
+      "slug": "jp-デウロ",
+      "name_ja": "デウロ",
+      "name_en": null,
+      "card_type": "Trainer",
+      "regulation_mark": null,
+      "first_set": "ポケモンカードゲーム MEGA　プロモカードパック第5弾"
+    },
+    {
+      "slug": "jp-ニドクイン",
+      "name_ja": "ニドクイン",
+      "name_en": null,
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "ストームエメラルダ"
+    },
+    {
+      "slug": "jp-ニドラン♀-2",
+      "name_ja": "ニドラン♀",
+      "name_en": null,
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "ストームエメラルダ"
+    },
+    {
+      "slug": "jp-ニドリーナ-2",
+      "name_ja": "ニドリーナ",
+      "name_en": null,
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "ストームエメラルダ"
+    },
+    {
+      "slug": "jp-ノクタス",
+      "name_ja": "ノクタス",
+      "name_en": null,
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "ストームエメラルダ"
+    },
+    {
+      "slug": "jp-バチンウニ",
+      "name_ja": "バチンウニ",
+      "name_en": null,
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "ストームエメラルダ"
+    },
+    {
+      "slug": "jp-ヒガナの信頼",
+      "name_ja": "ヒガナの信頼",
+      "name_en": null,
+      "card_type": "Trainer",
+      "regulation_mark": "J",
+      "first_set": "ストームエメラルダ"
+    },
+    {
+      "slug": "jp-ヒートロトムex",
+      "name_ja": "ヒートロトムex",
+      "name_en": null,
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "ストームエメラルダ"
+    },
+    {
+      "slug": "jp-ビークイン",
+      "name_ja": "ビークイン",
+      "name_en": null,
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "ストームエメラルダ"
+    },
+    {
+      "slug": "jp-ファイアローex",
+      "name_ja": "ファイアローex",
+      "name_en": null,
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "ストームエメラルダ"
+    },
+    {
+      "slug": "jp-フウとランの修行",
+      "name_ja": "フウとランの修行",
+      "name_en": null,
+      "card_type": "Trainer",
+      "regulation_mark": "J",
+      "first_set": "ストームエメラルダ"
+    },
+    {
+      "slug": "jp-ブルンゲル",
+      "name_ja": "ブルンゲル",
+      "name_en": null,
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "ストームエメラルダ"
+    },
+    {
+      "slug": "jp-マスカーニャex",
+      "name_ja": "マスカーニャex",
+      "name_en": null,
+      "card_type": "Pokémon",
+      "regulation_mark": null,
+      "first_set": "スターターセットex ニャオハ＆マスカーニャex"
+    },
+    {
+      "slug": "jp-ミツハニー",
+      "name_ja": "ミツハニー",
+      "name_en": null,
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "ストームエメラルダ"
+    },
+    {
+      "slug": "jp-メガカラマネロex",
+      "name_ja": "メガカラマネロex",
+      "name_en": null,
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "ストームエメラルダ"
+    },
+    {
+      "slug": "jp-メガグソクムシャex",
+      "name_ja": "メガグソクムシャex",
+      "name_en": null,
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "ストームエメラルダ"
+    },
+    {
+      "slug": "jp-メガゴルーグex",
+      "name_ja": "メガゴルーグex",
+      "name_en": null,
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "ストームエメラルダ"
+    },
+    {
+      "slug": "jp-メガシャリタツex",
+      "name_ja": "メガシャリタツex",
+      "name_en": null,
+      "card_type": "Pokémon",
+      "regulation_mark": null,
+      "first_set": "ポケモンカードゲーム MEGA　プロモカードパック第5弾"
+    },
+    {
+      "slug": "jp-メガレックウザex",
+      "name_ja": "メガレックウザex",
+      "name_en": null,
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "ストームエメラルダ"
+    },
+    {
+      "slug": "jp-メガレックウザキャップ",
+      "name_ja": "メガレックウザキャップ",
+      "name_en": null,
+      "card_type": "Trainer",
+      "regulation_mark": "J",
+      "first_set": "ストームエメラルダ"
+    },
+    {
+      "slug": "jp-ヨワシex",
+      "name_ja": "ヨワシex",
+      "name_en": null,
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "ストームエメラルダ"
+    },
+    {
+      "slug": "jp-ライコウex",
+      "name_ja": "ライコウex",
+      "name_en": null,
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "ストームエメラルダ"
+    },
+    {
+      "slug": "jp-ルリリ",
+      "name_ja": "ルリリ",
+      "name_en": null,
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "ストームエメラルダ"
+    },
+    {
+      "slug": "jp-伝説の山頂",
+      "name_ja": "伝説の山頂",
+      "name_en": null,
+      "card_type": "Trainer",
+      "regulation_mark": "J",
+      "first_set": "ストームエメラルダ"
+    },
+    {
+      "slug": "jp-伝説の海溝",
+      "name_ja": "伝説の海溝",
+      "name_en": null,
+      "card_type": "Trainer",
+      "regulation_mark": "J",
+      "first_set": "ストームエメラルダ"
+    },
+    {
+      "slug": "jp-伝説の溶岩洞",
+      "name_ja": "伝説の溶岩洞",
+      "name_en": null,
+      "card_type": "Trainer",
+      "regulation_mark": "J",
+      "first_set": "ストームエメラルダ"
     },
     {
       "slug": "judge",
@@ -6628,6 +7452,14 @@
       "first_set": "コロコロイチバン！ 2024年10月号付録"
     },
     {
+      "slug": "kangaskhan-3",
+      "name_ja": "ガルーラ",
+      "name_en": "Kangaskhan",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "30th CELEBRATION プレミアムデッキセット エーフィ・ブラッキー"
+    },
+    {
       "slug": "karrablast",
       "name_ja": "カブルモ",
       "name_en": "Karrablast",
@@ -6658,6 +7490,14 @@
       "card_type": "Pokémon",
       "regulation_mark": "H",
       "first_set": "超電ブレイカー"
+    },
+    {
+      "slug": "kecleon-3",
+      "name_ja": "カクレオン",
+      "name_en": "Kecleon",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "ストームエメラルダ"
     },
     {
       "slug": "keldeo",
@@ -6706,6 +7546,14 @@
       "card_type": "Pokémon",
       "regulation_mark": "H",
       "first_set": "超電ブレイカー"
+    },
+    {
+      "slug": "kilowattrel-3",
+      "name_ja": "タイカイデン",
+      "name_en": "Kilowattrel",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "ストームエメラルダ"
     },
     {
       "slug": "kilowattrel-ex",
@@ -6844,6 +7692,14 @@
       "first_set": "バトルパートナーズ"
     },
     {
+      "slug": "kommo-o",
+      "name_ja": "ジャラランガ",
+      "name_en": "Kommo-o",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "拡張パック 30th CELEBRATION"
+    },
+    {
       "slug": "koraidon",
       "name_ja": "コライドン",
       "name_en": "Koraidon",
@@ -6874,6 +7730,14 @@
       "card_type": "Pokémon",
       "regulation_mark": "J",
       "first_set": "アビスアイ"
+    },
+    {
+      "slug": "koraidon-5",
+      "name_ja": "コライドン",
+      "name_en": "Koraidon",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "拡張パック 30th CELEBRATION"
     },
     {
       "slug": "koraidon-ex",
@@ -6946,6 +7810,22 @@
       "card_type": "Pokémon",
       "regulation_mark": "I",
       "first_set": "メガシンフォニア"
+    },
+    {
+      "slug": "kyogre-2",
+      "name_ja": "カイオーガ",
+      "name_en": "Kyogre",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "拡張パック 30th CELEBRATION"
+    },
+    {
+      "slug": "kyogre-3",
+      "name_ja": "カイオーガ",
+      "name_en": "Kyogre",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "ストームエメラルダ"
     },
     {
       "slug": "kyogre-ex",
@@ -7044,6 +7924,14 @@
       "first_set": "ムニキスゼロ"
     },
     {
+      "slug": "landorus-4",
+      "name_ja": "ランドロス",
+      "name_en": "Landorus",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "ストームエメラルダ"
+    },
+    {
       "slug": "lanturn",
       "name_ja": "ランターン",
       "name_en": "Lanturn",
@@ -7058,6 +7946,14 @@
       "card_type": "Pokémon",
       "regulation_mark": "H",
       "first_set": "バトルアカデミー"
+    },
+    {
+      "slug": "lapras-2",
+      "name_ja": "ラプラス",
+      "name_en": "Lapras",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "拡張パック 30th CELEBRATION"
     },
     {
       "slug": "lapras-ex",
@@ -7314,6 +8210,14 @@
       "card_type": "Pokémon",
       "regulation_mark": "I",
       "first_set": "ホワイトフレア"
+    },
+    {
+      "slug": "liepard-2",
+      "name_ja": "レパルダス",
+      "name_en": "Liepard",
+      "card_type": "Pokémon",
+      "regulation_mark": null,
+      "first_set": "スターターセットex ゾロア＆ゾロアークex"
     },
     {
       "slug": "light-ball",
@@ -7580,6 +8484,14 @@
       "first_set": "メガブレイブ"
     },
     {
+      "slug": "lucario",
+      "name_ja": "ルカリオ",
+      "name_en": "Lucario",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "拡張パック 30th CELEBRATION"
+    },
+    {
       "slug": "lucario-ex",
       "name_ja": "ルカリオex",
       "name_en": "Lucario ex",
@@ -7628,6 +8540,14 @@
       "first_set": "インフェルノX"
     },
     {
+      "slug": "lugia",
+      "name_ja": "ルギア",
+      "name_en": "Lugia",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "拡張パック 30th CELEBRATION"
+    },
+    {
       "slug": "lugia-ex",
       "name_ja": "ルギアex",
       "name_en": "Lugia ex",
@@ -7658,6 +8578,14 @@
       "card_type": "Trainer",
       "regulation_mark": "J",
       "first_set": "ムニキスゼロ"
+    },
+    {
+      "slug": "lunala",
+      "name_ja": "ルナアーラ",
+      "name_en": "Lunala",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "拡張パック 30th CELEBRATION"
     },
     {
       "slug": "lunatone",
@@ -7732,6 +8660,14 @@
       "first_set": "バトルパートナーズ"
     },
     {
+      "slug": "lycanroc-3",
+      "name_ja": "ルガルガン",
+      "name_en": "Lycanroc",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "拡張パック 30th CELEBRATION"
+    },
+    {
       "slug": "mabosstiff",
       "name_ja": "マフィティフ",
       "name_en": "Mabosstiff",
@@ -7772,12 +8708,28 @@
       "first_set": "バトルパートナーズ"
     },
     {
+      "slug": "magmar-2",
+      "name_ja": "ブーバー",
+      "name_en": "Magmar",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "ストームエメラルダ"
+    },
+    {
       "slug": "magmortar",
       "name_ja": "ブーバーン",
       "name_en": "Magmortar",
       "card_type": "Pokémon",
       "regulation_mark": "I",
       "first_set": "バトルパートナーズ"
+    },
+    {
+      "slug": "magmortar-2",
+      "name_ja": "ブーバーン",
+      "name_en": "Magmortar",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "ストームエメラルダ"
     },
     {
       "slug": "magnemite",
@@ -7956,6 +8908,14 @@
       "first_set": "メガシンフォニア"
     },
     {
+      "slug": "mantine-3",
+      "name_ja": "マンタイン",
+      "name_en": "Mantine",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "ストームエメラルダ"
+    },
+    {
       "slug": "maractus",
       "name_ja": "マラカッチ",
       "name_en": "Maractus",
@@ -8018,6 +8978,14 @@
       "card_type": "Pokémon",
       "regulation_mark": "H",
       "first_set": "バトルアカデミー"
+    },
+    {
+      "slug": "marill-5",
+      "name_ja": "マリル",
+      "name_en": "Marill",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "30th CELEBRATION プレミアムデッキセット エーフィ・ブラッキー"
     },
     {
       "slug": "marnie-s-grimmsnarl-ex",
@@ -8130,6 +9098,14 @@
       "card_type": "Pokémon",
       "regulation_mark": "H",
       "first_set": "超電ブレイカー"
+    },
+    {
+      "slug": "maushold-2",
+      "name_ja": "イッカネズミ",
+      "name_en": "Maushold",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "拡張パック 30th CELEBRATION"
     },
     {
       "slug": "mawile",
@@ -8716,6 +9692,14 @@
       "first_set": "ナイトワンダラー"
     },
     {
+      "slug": "meowth-2",
+      "name_ja": "ニャース",
+      "name_en": "Meowth",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "拡張パック 30th CELEBRATION"
+    },
+    {
       "slug": "meowth-ex",
       "name_ja": "ニャースex",
       "name_en": "Meowth ex",
@@ -8796,12 +9780,44 @@
       "first_set": "バトルパートナーズ"
     },
     {
+      "slug": "mew",
+      "name_ja": "ミュウ",
+      "name_en": "Mew",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "30th CELEBRATION プレミアムデッキセット エーフィ・ブラッキー"
+    },
+    {
+      "slug": "mew-ex",
+      "name_ja": "ミュウex",
+      "name_en": "Mew ex",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "拡張パック 30th CELEBRATION"
+    },
+    {
       "slug": "mewtwo",
       "name_ja": "ミュウツー",
       "name_en": "Mewtwo",
       "card_type": "Pokémon",
       "regulation_mark": "H",
       "first_set": "いつでもどこでも バトルアカデミー"
+    },
+    {
+      "slug": "mewtwo-2",
+      "name_ja": "ミュウツー",
+      "name_en": "Mewtwo",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "30th CELEBRATION プレミアムデッキセット エーフィ・ブラッキー"
+    },
+    {
+      "slug": "mewtwo-ex",
+      "name_ja": "ミュウツーex",
+      "name_en": "Mewtwo ex",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "拡張パック 30th CELEBRATION"
     },
     {
       "slug": "mienfoo",
@@ -8956,6 +9972,14 @@
       "first_set": "ニンジャスピナー"
     },
     {
+      "slug": "minior",
+      "name_ja": "メテノ",
+      "name_en": "Minior",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "30th CELEBRATION プレミアムデッキセット エーフィ・ブラッキー"
+    },
+    {
       "slug": "miracle-headset",
       "name_ja": "ミラクルインカム",
       "name_en": "Miracle Headset",
@@ -8994,6 +10018,22 @@
       "card_type": "Pokémon",
       "regulation_mark": "J",
       "first_set": "アビスアイ"
+    },
+    {
+      "slug": "miraidon-5",
+      "name_ja": "ミライドン",
+      "name_en": "Miraidon",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "拡張パック 30th CELEBRATION"
+    },
+    {
+      "slug": "miraidon-6",
+      "name_ja": "ミライドン",
+      "name_en": "Miraidon",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "スターターセットex イーブイex"
     },
     {
       "slug": "miraidon-ex",
@@ -9116,6 +10156,14 @@
       "first_set": "インフェルノX"
     },
     {
+      "slug": "moltres-2",
+      "name_ja": "ファイヤー",
+      "name_en": "Moltres",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "拡張パック 30th CELEBRATION"
+    },
+    {
       "slug": "monferno",
       "name_ja": "モウカザル",
       "name_en": "Monferno",
@@ -9154,6 +10202,22 @@
       "card_type": "Pokémon",
       "regulation_mark": "H",
       "first_set": "クリムゾンヘイズ"
+    },
+    {
+      "slug": "morpeko-2",
+      "name_ja": "モルペコ",
+      "name_en": "Morpeko",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "拡張パック 30th CELEBRATION"
+    },
+    {
+      "slug": "morpeko-3",
+      "name_ja": "モルペコ",
+      "name_en": "Morpeko",
+      "card_type": "Pokémon",
+      "regulation_mark": null,
+      "first_set": "スターターセットex ゾロア＆ゾロアークex"
     },
     {
       "slug": "morpeko-ex",
@@ -9266,6 +10330,14 @@
       "card_type": "Pokémon",
       "regulation_mark": "I",
       "first_set": "スターターセットMEGA メガゲンガーex"
+    },
+    {
+      "slug": "murkrow-2",
+      "name_ja": "ヤミカラス",
+      "name_en": "Murkrow",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "30th CELEBRATION プレミアムデッキセット エーフィ・ブラッキー"
     },
     {
       "slug": "musharna",
@@ -9484,6 +10556,22 @@
       "first_set": "アビスアイ"
     },
     {
+      "slug": "nidoran-female",
+      "name_ja": "ニドラン♀",
+      "name_en": "Nidoran♀",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "拡張パック 30th CELEBRATION"
+    },
+    {
+      "slug": "nidorina",
+      "name_ja": "ニドリーナ",
+      "name_en": "Nidorina",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "拡張パック 30th CELEBRATION"
+    },
+    {
       "slug": "night-stretcher",
       "name_ja": "夜のタンカ",
       "name_en": "Night Stretcher",
@@ -9538,6 +10626,14 @@
       "card_type": "Pokémon",
       "regulation_mark": "I",
       "first_set": "メガブレイブ"
+    },
+    {
+      "slug": "ninetales-5",
+      "name_ja": "キュウコン",
+      "name_en": "Ninetales",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "30th CELEBRATION プレミアムデッキセット エーフィ・ブラッキー"
     },
     {
       "slug": "ninjask",
@@ -9780,6 +10876,14 @@
       "first_set": "メガブレイブ"
     },
     {
+      "slug": "onix-2",
+      "name_ja": "イワーク",
+      "name_en": "Onix",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "ストームエメラルダ"
+    },
+    {
       "slug": "oranguru",
       "name_ja": "ヤレユータン",
       "name_en": "Oranguru",
@@ -9938,6 +11042,14 @@
       "card_type": "Pokémon",
       "regulation_mark": "H",
       "first_set": "楽園ドラゴーナ"
+    },
+    {
+      "slug": "palkia-2",
+      "name_ja": "パルキア",
+      "name_en": "Palkia",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "拡張パック 30th CELEBRATION"
     },
     {
       "slug": "palossand",
@@ -10116,6 +11228,14 @@
       "first_set": "インフェルノX"
     },
     {
+      "slug": "pawmi-3",
+      "name_ja": "パモ",
+      "name_en": "Pawmi",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "スターターセットex イーブイex"
+    },
+    {
       "slug": "pawmo",
       "name_ja": "パモット",
       "name_en": "Pawmo",
@@ -10124,12 +11244,28 @@
       "first_set": "インフェルノX"
     },
     {
+      "slug": "pawmo-2",
+      "name_ja": "パモット",
+      "name_en": "Pawmo",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "スターターセットex イーブイex"
+    },
+    {
       "slug": "pawmot",
       "name_ja": "パーモット",
       "name_en": "Pawmot",
       "card_type": "Pokémon",
       "regulation_mark": "I",
       "first_set": "インフェルノX"
+    },
+    {
+      "slug": "pawmot-2",
+      "name_ja": "パーモット",
+      "name_en": "Pawmot",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "スターターセットex イーブイex"
     },
     {
       "slug": "pawniard",
@@ -10332,12 +11468,172 @@
       "first_set": "Pokémon Trading Card Game イラストレーションコンテスト 2024"
     },
     {
+      "slug": "pikachu-10",
+      "name_ja": "ピカチュウ",
+      "name_en": "Pikachu",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "拡張パック 30th CELEBRATION"
+    },
+    {
+      "slug": "pikachu-11",
+      "name_ja": "ピカチュウ",
+      "name_en": "Pikachu",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "拡張パック 30th CELEBRATION"
+    },
+    {
+      "slug": "pikachu-12",
+      "name_ja": "ピカチュウ",
+      "name_en": "Pikachu",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "拡張パック 30th CELEBRATION"
+    },
+    {
+      "slug": "pikachu-13",
+      "name_ja": "ピカチュウ",
+      "name_en": "Pikachu",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "拡張パック 30th CELEBRATION"
+    },
+    {
+      "slug": "pikachu-14",
+      "name_ja": "ピカチュウ",
+      "name_en": "Pikachu",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "拡張パック 30th CELEBRATION"
+    },
+    {
+      "slug": "pikachu-15",
+      "name_ja": "ピカチュウ",
+      "name_en": "Pikachu",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "拡張パック 30th CELEBRATION"
+    },
+    {
+      "slug": "pikachu-16",
+      "name_ja": "ピカチュウ",
+      "name_en": "Pikachu",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "拡張パック 30th CELEBRATION"
+    },
+    {
+      "slug": "pikachu-17",
+      "name_ja": "ピカチュウ",
+      "name_en": "Pikachu",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "拡張パック 30th CELEBRATION"
+    },
+    {
+      "slug": "pikachu-18",
+      "name_ja": "ピカチュウ",
+      "name_en": "Pikachu",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "拡張パック 30th CELEBRATION"
+    },
+    {
+      "slug": "pikachu-19",
+      "name_ja": "ピカチュウ",
+      "name_en": "Pikachu",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "拡張パック 30th CELEBRATION"
+    },
+    {
       "slug": "pikachu-2",
       "name_ja": "ピカチュウ",
       "name_en": "Pikachu",
       "card_type": "Pokémon",
       "regulation_mark": "H",
       "first_set": "サイバージャッジ"
+    },
+    {
+      "slug": "pikachu-20",
+      "name_ja": "ピカチュウ",
+      "name_en": "Pikachu",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "拡張パック 30th CELEBRATION"
+    },
+    {
+      "slug": "pikachu-21",
+      "name_ja": "ピカチュウ",
+      "name_en": "Pikachu",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "拡張パック 30th CELEBRATION"
+    },
+    {
+      "slug": "pikachu-22",
+      "name_ja": "ピカチュウ",
+      "name_en": "Pikachu",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "拡張パック 30th CELEBRATION"
+    },
+    {
+      "slug": "pikachu-23",
+      "name_ja": "ピカチュウ",
+      "name_en": "Pikachu",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "拡張パック 30th CELEBRATION"
+    },
+    {
+      "slug": "pikachu-24",
+      "name_ja": "ピカチュウ",
+      "name_en": "Pikachu",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "拡張パック 30th CELEBRATION"
+    },
+    {
+      "slug": "pikachu-25",
+      "name_ja": "ピカチュウ",
+      "name_en": "Pikachu",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "拡張パック 30th CELEBRATION"
+    },
+    {
+      "slug": "pikachu-26",
+      "name_ja": "ピカチュウ",
+      "name_en": "Pikachu",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "拡張パック 30th CELEBRATION"
+    },
+    {
+      "slug": "pikachu-27",
+      "name_ja": "ピカチュウ",
+      "name_en": "Pikachu",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "拡張パック 30th CELEBRATION"
+    },
+    {
+      "slug": "pikachu-28",
+      "name_ja": "ピカチュウ",
+      "name_en": "Pikachu",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "拡張パック 30th CELEBRATION"
+    },
+    {
+      "slug": "pikachu-29",
+      "name_ja": "ピカチュウ",
+      "name_en": "Pikachu",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "拡張パック 30th CELEBRATION"
     },
     {
       "slug": "pikachu-3",
@@ -10348,12 +11644,92 @@
       "first_set": "スタートデッキ100 バトルコレクション"
     },
     {
+      "slug": "pikachu-30",
+      "name_ja": "ピカチュウ",
+      "name_en": "Pikachu",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "拡張パック 30th CELEBRATION"
+    },
+    {
+      "slug": "pikachu-31",
+      "name_ja": "ピカチュウ",
+      "name_en": "Pikachu",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "拡張パック 30th CELEBRATION"
+    },
+    {
+      "slug": "pikachu-32",
+      "name_ja": "ピカチュウ",
+      "name_en": "Pikachu",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "拡張パック 30th CELEBRATION"
+    },
+    {
+      "slug": "pikachu-33",
+      "name_ja": "ピカチュウ",
+      "name_en": "Pikachu",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "拡張パック 30th CELEBRATION"
+    },
+    {
+      "slug": "pikachu-34",
+      "name_ja": "ピカチュウ",
+      "name_en": "Pikachu",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "拡張パック 30th CELEBRATION"
+    },
+    {
       "slug": "pikachu-4",
       "name_ja": "ピカチュウ",
       "name_en": "Pikachu",
       "card_type": "Pokémon",
       "regulation_mark": null,
       "first_set": "ピカチュウ"
+    },
+    {
+      "slug": "pikachu-5",
+      "name_ja": "ピカチュウ",
+      "name_en": "Pikachu",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "拡張パック 30th CELEBRATION"
+    },
+    {
+      "slug": "pikachu-6",
+      "name_ja": "ピカチュウ",
+      "name_en": "Pikachu",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "拡張パック 30th CELEBRATION"
+    },
+    {
+      "slug": "pikachu-7",
+      "name_ja": "ピカチュウ",
+      "name_en": "Pikachu",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "拡張パック 30th CELEBRATION"
+    },
+    {
+      "slug": "pikachu-8",
+      "name_ja": "ピカチュウ",
+      "name_en": "Pikachu",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "拡張パック 30th CELEBRATION"
+    },
+    {
+      "slug": "pikachu-9",
+      "name_ja": "ピカチュウ",
+      "name_en": "Pikachu",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "拡張パック 30th CELEBRATION"
     },
     {
       "slug": "pikachu-ex",
@@ -10386,6 +11762,22 @@
       "card_type": "Pokémon",
       "regulation_mark": "H",
       "first_set": "スタートデッキGenerations ピカチュウex・カビゴンex"
+    },
+    {
+      "slug": "pikachu-ex-5",
+      "name_ja": "ピカチュウex",
+      "name_en": "Pikachu ex",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "拡張パック 30th CELEBRATION"
+    },
+    {
+      "slug": "pikachu-ex-6",
+      "name_ja": "ピカチュウex",
+      "name_en": "Pikachu ex",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "拡張パック 30th CELEBRATION"
     },
     {
       "slug": "pikipek",
@@ -10780,6 +12172,14 @@
       "first_set": "ホワイトフレア"
     },
     {
+      "slug": "purrloin-2",
+      "name_ja": "チョロネコ",
+      "name_en": "Purrloin",
+      "card_type": "Pokémon",
+      "regulation_mark": null,
+      "first_set": "スターターセットex ゾロア＆ゾロアークex"
+    },
+    {
       "slug": "purugly",
       "name_ja": "ブニャット",
       "name_en": "Purugly",
@@ -11156,6 +12556,14 @@
       "first_set": "インフェルノX"
     },
     {
+      "slug": "reshiram-3",
+      "name_ja": "レシラム",
+      "name_en": "Reshiram",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "拡張パック 30th CELEBRATION"
+    },
+    {
       "slug": "reshiram-ex",
       "name_ja": "レシラムex",
       "name_en": "Reshiram ex",
@@ -11396,6 +12804,14 @@
       "first_set": "熱風のアリーナ"
     },
     {
+      "slug": "rotom-4",
+      "name_ja": "ロトム",
+      "name_en": "Rotom",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "スターターセットex イーブイex"
+    },
+    {
       "slug": "rotom-ex",
       "name_ja": "ロトムex",
       "name_en": "Rotom ex",
@@ -11476,6 +12892,14 @@
       "first_set": "スターターセットMEGA メガゲンガーex"
     },
     {
+      "slug": "sableye-3",
+      "name_ja": "ヤミラミ",
+      "name_en": "Sableye",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "ストームエメラルダ"
+    },
+    {
       "slug": "sacred-ash",
       "name_ja": "せいなるはい",
       "name_en": "Sacred Ash",
@@ -11498,6 +12922,14 @@
       "card_type": "Pokémon",
       "regulation_mark": "I",
       "first_set": "バトルパートナーズ"
+    },
+    {
+      "slug": "salamence-ex-2",
+      "name_ja": "ボーマンダex",
+      "name_en": "Salamence ex",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "拡張パック 30th CELEBRATION"
     },
     {
       "slug": "salandit",
@@ -11580,6 +13012,14 @@
       "first_set": "メガブレイブ"
     },
     {
+      "slug": "sandshrew-3",
+      "name_ja": "サンド",
+      "name_en": "Sandshrew",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "ストームエメラルダ"
+    },
+    {
       "slug": "sandslash",
       "name_ja": "サンドパン",
       "name_en": "Sandslash",
@@ -11594,6 +13034,14 @@
       "card_type": "Pokémon",
       "regulation_mark": "I",
       "first_set": "メガブレイブ"
+    },
+    {
+      "slug": "sandslash-3",
+      "name_ja": "サンドパン",
+      "name_en": "Sandslash",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "ストームエメラルダ"
     },
     {
       "slug": "sandy-shocks",
@@ -11756,6 +13204,14 @@
       "first_set": "ホワイトフレア"
     },
     {
+      "slug": "scraggy-4",
+      "name_ja": "ズルッグ",
+      "name_en": "Scraggy",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "拡張パック 30th CELEBRATION"
+    },
+    {
       "slug": "scramble-switch",
       "name_ja": "スクランブルスイッチ",
       "name_en": "Scramble Switch",
@@ -11876,6 +13332,14 @@
       "first_set": "ブラックボルト"
     },
     {
+      "slug": "seismitoad-2",
+      "name_ja": "ガマゲロゲ",
+      "name_en": "Seismitoad",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "拡張パック 30th CELEBRATION"
+    },
+    {
       "slug": "sentret",
       "name_ja": "オタチ",
       "name_en": "Sentret",
@@ -11948,6 +13412,14 @@
       "first_set": "ワイルドフォース"
     },
     {
+      "slug": "sharpedo-2",
+      "name_ja": "サメハダー",
+      "name_en": "Sharpedo",
+      "card_type": "Pokémon",
+      "regulation_mark": null,
+      "first_set": "スターターセットex ゾロア＆ゾロアークex"
+    },
+    {
       "slug": "shaymin",
       "name_ja": "シェイミ",
       "name_en": "Shaymin",
@@ -11978,6 +13450,14 @@
       "card_type": "Pokémon",
       "regulation_mark": "H",
       "first_set": "スタートデッキGenerations ディアルガex・ルカリオex"
+    },
+    {
+      "slug": "shaymin-5",
+      "name_ja": "シェイミ",
+      "name_en": "Shaymin",
+      "card_type": "Pokémon",
+      "regulation_mark": null,
+      "first_set": "スターターセットex ニャオハ＆マスカーニャex"
     },
     {
       "slug": "shedinja",
@@ -12420,6 +13900,14 @@
       "first_set": "アビスアイ"
     },
     {
+      "slug": "slowpoke-5",
+      "name_ja": "ヤドン",
+      "name_en": "Slowpoke",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "拡張パック 30th CELEBRATION"
+    },
+    {
       "slug": "slugma",
       "name_ja": "マグマッグ",
       "name_en": "Slugma",
@@ -12466,6 +13954,14 @@
       "card_type": "Pokémon",
       "regulation_mark": "I",
       "first_set": "ロケット団の栄光"
+    },
+    {
+      "slug": "smoliv-2",
+      "name_ja": "ミニーブ",
+      "name_en": "Smoliv",
+      "card_type": "Pokémon",
+      "regulation_mark": null,
+      "first_set": "スターターセットex ニャオハ＆マスカーニャex"
     },
     {
       "slug": "smoochum",
@@ -12572,6 +14068,14 @@
       "first_set": "バトルアカデミー"
     },
     {
+      "slug": "snorlax-5",
+      "name_ja": "カビゴン",
+      "name_en": "Snorlax",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "拡張パック 30th CELEBRATION"
+    },
+    {
       "slug": "snorlax-ex",
       "name_ja": "カビゴンex",
       "name_en": "Snorlax ex",
@@ -12626,6 +14130,14 @@
       "card_type": "Pokémon",
       "regulation_mark": "I",
       "first_set": "メガシンフォニア"
+    },
+    {
+      "slug": "solgaleo",
+      "name_ja": "ソルガレオ",
+      "name_en": "Solgaleo",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "拡張パック 30th CELEBRATION"
     },
     {
       "slug": "solosis",
@@ -12740,6 +14252,14 @@
       "first_set": "ムニキスゼロ"
     },
     {
+      "slug": "spinarak-3",
+      "name_ja": "イトマル",
+      "name_en": "Spinarak",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "ストームエメラルダ"
+    },
+    {
       "slug": "spiritomb",
       "name_ja": "ミカルゲ",
       "name_en": "Spiritomb",
@@ -12770,6 +14290,14 @@
       "card_type": "Pokémon",
       "regulation_mark": "I",
       "first_set": "バトルパートナーズ"
+    },
+    {
+      "slug": "sprigatito-2",
+      "name_ja": "ニャオハ",
+      "name_en": "Sprigatito",
+      "card_type": "Pokémon",
+      "regulation_mark": null,
+      "first_set": "スターターセットex ニャオハ＆マスカーニャex"
     },
     {
       "slug": "sprigatito-ex",
@@ -12826,6 +14354,14 @@
       "card_type": "Pokémon",
       "regulation_mark": "I",
       "first_set": "メガブレイブ"
+    },
+    {
+      "slug": "steelix-2",
+      "name_ja": "ハガネール",
+      "name_en": "Steelix",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "ストームエメラルダ"
     },
     {
       "slug": "steven-s-baltoy",
@@ -13044,6 +14580,14 @@
       "first_set": "楽園ドラゴーナ"
     },
     {
+      "slug": "swablu-2",
+      "name_ja": "チルット",
+      "name_en": "Swablu",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "ストームエメラルダ"
+    },
+    {
       "slug": "swadloon",
       "name_ja": "クルマユ",
       "name_en": "Swadloon",
@@ -13154,6 +14698,14 @@
       "card_type": "Pokémon",
       "regulation_mark": "H",
       "first_set": "テラスタルフェスex"
+    },
+    {
+      "slug": "sylveon-ex-2",
+      "name_ja": "ニンフィアex",
+      "name_en": "Sylveon ex",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "拡張パック 30th CELEBRATION"
     },
     {
       "slug": "tadbulb",
@@ -13314,6 +14866,14 @@
       "card_type": "Pokémon",
       "regulation_mark": "J",
       "first_set": "ニンジャスピナー"
+    },
+    {
+      "slug": "tauros-4",
+      "name_ja": "ケンタロス",
+      "name_en": "Tauros",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "スターターセットex イーブイex"
     },
     {
       "slug": "teal-mask-ogerpon",
@@ -13964,6 +15524,14 @@
       "first_set": "ブラックボルト"
     },
     {
+      "slug": "thundurus-2",
+      "name_ja": "ボルトロス",
+      "name_en": "Thundurus",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "ストームエメラルダ"
+    },
+    {
       "slug": "thwackey",
       "name_ja": "バチンキー",
       "name_en": "Thwackey",
@@ -14180,6 +15748,14 @@
       "first_set": "スタートデッキGenerations カイオーガex・バシャーモex"
     },
     {
+      "slug": "torkoal-3",
+      "name_ja": "コータス",
+      "name_en": "Torkoal",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "ストームエメラルダ"
+    },
+    {
       "slug": "tornadus",
       "name_ja": "トルネロス",
       "name_en": "Tornadus",
@@ -14194,6 +15770,14 @@
       "card_type": "Pokémon",
       "regulation_mark": "I",
       "first_set": "ホワイトフレア"
+    },
+    {
+      "slug": "tornadus-3",
+      "name_ja": "トルネロス",
+      "name_en": "Tornadus",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "ストームエメラルダ"
     },
     {
       "slug": "torracat",
@@ -14244,6 +15828,14 @@
       "first_set": "インフェルノX"
     },
     {
+      "slug": "toxel-2",
+      "name_ja": "エレズン",
+      "name_en": "Toxel",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "30th CELEBRATION プレミアムデッキセット エーフィ・ブラッキー"
+    },
+    {
       "slug": "toxicroak",
       "name_ja": "ドクロッグ",
       "name_en": "Toxicroak",
@@ -14266,6 +15858,22 @@
       "card_type": "Pokémon",
       "regulation_mark": "I",
       "first_set": "インフェルノX"
+    },
+    {
+      "slug": "toxtricity-2",
+      "name_ja": "ストリンダー",
+      "name_en": "Toxtricity",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "拡張パック 30th CELEBRATION"
+    },
+    {
+      "slug": "toxtricity-3",
+      "name_ja": "ストリンダー",
+      "name_en": "Toxtricity",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "30th CELEBRATION プレミアムデッキセット エーフィ・ブラッキー"
     },
     {
       "slug": "toxtricity-ex",
@@ -14362,6 +15970,14 @@
       "card_type": "Pokémon",
       "regulation_mark": "J",
       "first_set": "アビスアイ"
+    },
+    {
+      "slug": "tropius-3",
+      "name_ja": "トロピウス",
+      "name_en": "Tropius",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "30th CELEBRATION プレミアムデッキセット エーフィ・ブラッキー"
     },
     {
       "slug": "trubbish",
@@ -14508,12 +16124,28 @@
       "first_set": "バイオレットex"
     },
     {
+      "slug": "umbreon",
+      "name_ja": "ブラッキー",
+      "name_en": "Umbreon",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "拡張パック 30th CELEBRATION"
+    },
+    {
       "slug": "umbreon-ex",
       "name_ja": "ブラッキーex",
       "name_en": "Umbreon ex",
       "card_type": "Pokémon",
       "regulation_mark": "H",
       "first_set": "テラスタルフェスex"
+    },
+    {
+      "slug": "umbreon-ex-2",
+      "name_ja": "ブラッキーex",
+      "name_en": "Umbreon ex",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "30th CELEBRATION プレミアムデッキセット エーフィ・ブラッキー"
     },
     {
       "slug": "unfair-stamp",
@@ -14538,6 +16170,14 @@
       "card_type": "Pokémon",
       "regulation_mark": "H",
       "first_set": "サイバージャッジ"
+    },
+    {
+      "slug": "unown",
+      "name_ja": "アンノーン",
+      "name_en": "Unown",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "拡張パック 30th CELEBRATION"
     },
     {
       "slug": "urbain",
@@ -14684,6 +16324,14 @@
       "first_set": "超電ブレイカー"
     },
     {
+      "slug": "victini-4",
+      "name_ja": "ビクティニ",
+      "name_en": "Victini",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "30th CELEBRATION プレミアムデッキセット エーフィ・ブラッキー"
+    },
+    {
       "slug": "victory-symbol",
       "name_ja": "勝利のしるし",
       "name_en": "Victory Symbol",
@@ -14748,6 +16396,14 @@
       "first_set": "ホワイトフレア"
     },
     {
+      "slug": "virizion-3",
+      "name_ja": "ビリジオン",
+      "name_en": "Virizion",
+      "card_type": "Pokémon",
+      "regulation_mark": null,
+      "first_set": "スターターセットex ニャオハ＆マスカーニャex"
+    },
+    {
       "slug": "vivillon",
       "name_ja": "ビビヨン",
       "name_en": "Vivillon",
@@ -14764,12 +16420,28 @@
       "first_set": "ムニキスゼロ"
     },
     {
+      "slug": "vivillon-3",
+      "name_ja": "ビビヨン",
+      "name_en": "Vivillon",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "拡張パック 30th CELEBRATION"
+    },
+    {
       "slug": "volbeat",
       "name_ja": "バルビート",
       "name_en": "Volbeat",
       "card_type": "Pokémon",
       "regulation_mark": "H",
       "first_set": "変幻の仮面"
+    },
+    {
+      "slug": "volbeat-2",
+      "name_ja": "バルビート",
+      "name_en": "Volbeat",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "拡張パック 30th CELEBRATION"
     },
     {
       "slug": "volcanion",
@@ -14892,6 +16564,14 @@
       "first_set": "メガブレイブ"
     },
     {
+      "slug": "vulpix-5",
+      "name_ja": "ロコン",
+      "name_en": "Vulpix",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "30th CELEBRATION プレミアムデッキセット エーフィ・ブラッキー"
+    },
+    {
       "slug": "wailmer",
       "name_ja": "ホエルコ",
       "name_en": "Wailmer",
@@ -15012,6 +16692,14 @@
       "first_set": "超電ブレイカー"
     },
     {
+      "slug": "wattrel-3",
+      "name_ja": "カイデン",
+      "name_en": "Wattrel",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "ストームエメラルダ"
+    },
+    {
       "slug": "weavile",
       "name_ja": "マニューラ",
       "name_en": "Weavile",
@@ -15124,12 +16812,28 @@
       "first_set": "ニンジャスピナー"
     },
     {
+      "slug": "wimpod-2",
+      "name_ja": "コソクムシ",
+      "name_en": "Wimpod",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "ストームエメラルダ"
+    },
+    {
       "slug": "wingull",
       "name_ja": "キャモメ",
       "name_en": "Wingull",
       "card_type": "Pokémon",
       "regulation_mark": "H",
       "first_set": "スタートデッキGenerations カイオーガex・バシャーモex"
+    },
+    {
+      "slug": "wishiwashi",
+      "name_ja": "ヨワシ",
+      "name_en": "Wishiwashi",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "拡張パック 30th CELEBRATION"
     },
     {
       "slug": "wo-chien",
@@ -15210,6 +16914,14 @@
       "card_type": "Pokémon",
       "regulation_mark": "I",
       "first_set": "メガシンフォニア"
+    },
+    {
+      "slug": "xerneas-4",
+      "name_ja": "ゼルネアス",
+      "name_en": "Xerneas",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "拡張パック 30th CELEBRATION"
     },
     {
       "slug": "xerneas-ex",
@@ -15316,6 +17028,14 @@
       "first_set": "メガブレイブ"
     },
     {
+      "slug": "yveltal-3",
+      "name_ja": "イベルタル",
+      "name_en": "Yveltal",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "拡張パック 30th CELEBRATION"
+    },
+    {
       "slug": "yveltal-ex",
       "name_ja": "イベルタルex",
       "name_en": "Yveltal ex",
@@ -15332,6 +17052,14 @@
       "first_set": "インフェルノX"
     },
     {
+      "slug": "zacian-2",
+      "name_ja": "ザシアン",
+      "name_en": "Zacian",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "拡張パック 30th CELEBRATION"
+    },
+    {
       "slug": "zacian-ex",
       "name_ja": "ザシアンex",
       "name_en": "Zacian ex",
@@ -15346,6 +17074,14 @@
       "card_type": "Pokémon",
       "regulation_mark": "I",
       "first_set": "ロケット団の栄光"
+    },
+    {
+      "slug": "zamazenta-2",
+      "name_ja": "ザマゼンタ",
+      "name_en": "Zamazenta",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "拡張パック 30th CELEBRATION"
     },
     {
       "slug": "zangoose",
@@ -15380,6 +17116,14 @@
       "first_set": "スタートデッキ100 バトルコレクション"
     },
     {
+      "slug": "zapdos-3",
+      "name_ja": "サンダー",
+      "name_en": "Zapdos",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "拡張パック 30th CELEBRATION"
+    },
+    {
       "slug": "zarude",
       "name_ja": "ザルード",
       "name_en": "Zarude",
@@ -15404,6 +17148,14 @@
       "first_set": "アビスアイ"
     },
     {
+      "slug": "zarude-4",
+      "name_ja": "ザルード",
+      "name_en": "Zarude",
+      "card_type": "Pokémon",
+      "regulation_mark": null,
+      "first_set": "スターターセットex ゾロア＆ゾロアークex"
+    },
+    {
       "slug": "zebstrika",
       "name_ja": "ゼブライカ",
       "name_en": "Zebstrika",
@@ -15426,6 +17178,14 @@
       "card_type": "Pokémon",
       "regulation_mark": "I",
       "first_set": "ホワイトフレア"
+    },
+    {
+      "slug": "zekrom",
+      "name_ja": "ゼクロム",
+      "name_en": "Zekrom",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "拡張パック 30th CELEBRATION"
     },
     {
       "slug": "zekrom-ex",
@@ -15460,6 +17220,14 @@
       "first_set": "ステラミラクル"
     },
     {
+      "slug": "zeraora-4",
+      "name_ja": "ゼラオラ",
+      "name_en": "Zeraora",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "30th CELEBRATION プレミアムデッキセット エーフィ・ブラッキー"
+    },
+    {
       "slug": "zigzagoon",
       "name_ja": "ジグザグマ",
       "name_en": "Zigzagoon",
@@ -15484,6 +17252,14 @@
       "first_set": "ホワイトフレア"
     },
     {
+      "slug": "zoroark-3",
+      "name_ja": "ゾロアーク",
+      "name_en": "Zoroark",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "30th CELEBRATION プレミアムデッキセット エーフィ・ブラッキー"
+    },
+    {
       "slug": "zorua",
       "name_ja": "ゾロア",
       "name_en": "Zorua",
@@ -15498,6 +17274,22 @@
       "card_type": "Pokémon",
       "regulation_mark": "I",
       "first_set": "ホワイトフレア"
+    },
+    {
+      "slug": "zorua-3",
+      "name_ja": "ゾロア",
+      "name_en": "Zorua",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "30th CELEBRATION プレミアムデッキセット エーフィ・ブラッキー"
+    },
+    {
+      "slug": "zorua-4",
+      "name_ja": "ゾロア",
+      "name_en": "Zorua",
+      "card_type": "Pokémon",
+      "regulation_mark": null,
+      "first_set": "スターターセットex ゾロア＆ゾロアークex"
     },
     {
       "slug": "zubat",
@@ -15530,6 +17322,14 @@
       "card_type": "Pokémon",
       "regulation_mark": "I",
       "first_set": "ホワイトフレア"
+    },
+    {
+      "slug": "zweilous-3",
+      "name_ja": "ジヘッド",
+      "name_en": "Zweilous",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "30th CELEBRATION プレミアムデッキセット エーフィ・ブラッキー"
     }
   ]
 }

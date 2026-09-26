@@ -1,0 +1,60 @@
+---
+schema_version: 1
+slug: cresselia-3
+name:
+  ja: クレセリア
+  en: Cresselia
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Psychic
+hp: 120
+retreat_cost: 1
+regulation_mark: J
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Darkness
+  value: "×2"
+resistance:
+  type: Fighting
+  value: "-30"
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: オーロラゲイン
+    en: Aurora Gain
+  cost:
+  - Psychic
+  - Colorless
+  damage: '30'
+  effect_text:
+    ja: このポケモンのHPを「30」回復する。
+    en: Heal 30 damage from this Pokémon.
+- position: 1
+  name:
+    ja: ルナブラスト
+    en: Lunar Blast
+  cost:
+  - Psychic
+  - Colorless
+  - Colorless
+  damage: '100'
+  effect_text:
+    ja:
+    en:
+first_appearance:
+  set_name_ja: 30th CELEBRATION プレミアムデッキセット エーフィ・ブラッキー
+  released_at: '2026-09-16'
+  regulation_mark: J
+  collector_number: '015'
+  image_url:

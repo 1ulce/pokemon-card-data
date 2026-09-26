@@ -1,0 +1,60 @@
+---
+schema_version: 1
+slug: groudon-3
+name:
+  ja: グラードン
+  en: Groudon
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Fighting
+hp: 150
+retreat_cost: 4
+regulation_mark: J
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Grass
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: かいりき
+    en:
+  cost:
+  - Fighting
+  - Colorless
+  damage: '40'
+  effect_text:
+    ja:
+    en:
+- position: 1
+  name:
+    ja: あらぶるだいち
+    en:
+  cost:
+  - Fighting
+  - Fighting
+  - Colorless
+  damage: 100+
+  effect_text:
+    ja: 名前に「伝説」とつくスタジアムが場に出ているなら、170ダメージ追加。
+    en:
+first_appearance:
+  set_name_ja: ストームエメラルダ
+  released_at: '2026-07-31'
+  regulation_mark: J
+  collector_number: '039'
+  image_url:

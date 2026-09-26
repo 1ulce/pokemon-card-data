@@ -1,0 +1,50 @@
+---
+schema_version: 1
+slug: pikachu-30
+name:
+  ja: ピカチュウ
+  en: Pikachu
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Lightning
+hp: 80
+retreat_cost: 3
+regulation_mark: J
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Fighting
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: まんぞくスパーク
+    en: Satisfied Spark
+  cost:
+  - Lightning
+  - Lightning
+  - Colorless
+  - Colorless
+  damage: '100'
+  effect_text:
+    ja:
+    en:
+first_appearance:
+  set_name_ja: 拡張パック 30th CELEBRATION
+  released_at: '2026-09-16'
+  regulation_mark: J
+  collector_number: '044'
+  image_url:

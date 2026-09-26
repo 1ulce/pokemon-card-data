@@ -1,0 +1,60 @@
+---
+schema_version: 1
+slug: seismitoad-2
+name:
+  ja: ガマゲロゲ
+  en: Seismitoad
+  prefix:
+card_type: Pokémon
+card_subtype: 2進化
+energy_type: Fighting
+hp: 160
+retreat_cost: 3
+regulation_mark: J
+meta_tags: []
+evolves_from:
+  ja: ガマガル
+  en: Palpitoad
+weakness:
+  type: Grass
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: ゆさぶるこぶし
+    en: Quaking Fist
+  cost:
+  - Fighting
+  damage: '60'
+  effect_text:
+    ja: 次の相手の番、相手は手札からトレーナーズを出して使うたび、使う前にコインを1回投げる。ウラなら、そのカードは使ったことにならず、トラッシュする。
+    en: During your opponent's next turn, whenever they try to use a Trainer card from their hand, they flip a coin. If tails, your opponent discards that Trainer card instead of using it.
+- position: 1
+  name:
+    ja: メガトンパンチ
+    en: Mega Punch
+  cost:
+  - Fighting
+  - Colorless
+  - Colorless
+  - Colorless
+  damage: '180'
+  effect_text:
+    ja:
+    en:
+first_appearance:
+  set_name_ja: 拡張パック 30th CELEBRATION
+  released_at: '2026-09-16'
+  regulation_mark: J
+  collector_number: '070'
+  image_url:

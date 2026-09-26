@@ -1,0 +1,59 @@
+---
+schema_version: 1
+slug: pikachu-22
+name:
+  ja: ピカチュウ
+  en: Pikachu
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Lightning
+hp: 60
+retreat_cost: 1
+regulation_mark: J
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Fighting
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: じゅうでんダッシュ 
+    en: Charge-Up Dash
+  cost:
+  - Colorless
+  damage:
+  effect_text:
+    ja: ウラが出るまでコインを投げ、オモテの数ぶんまで、自分の山札から「基本雷エネルギー」を選び、このポケモンにつける。そして山札を切る。
+    en: Flip a coin until you get tails. Search your deck for an amount of Basic [L] Energy up to the number of heads and attach it to this Pokémon. Then, shuffle your deck.
+- position: 1
+  name:
+    ja: ピカボルト
+    en: Pika Bolt
+  cost:
+  - Lightning
+  - Lightning
+  - Colorless
+  damage: '50'
+  effect_text:
+    ja:
+    en:
+first_appearance:
+  set_name_ja: 拡張パック 30th CELEBRATION
+  released_at: '2026-09-16'
+  regulation_mark: J
+  collector_number: '036'
+  image_url:

@@ -1,0 +1,55 @@
+---
+schema_version: 1
+slug: illumise-2
+name:
+  ja: イルミーゼ
+  en: Illumise
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Grass
+hp: 80
+retreat_cost: 1
+regulation_mark: J
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Fire
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities:
+- position: 0
+  name:
+    ja: ばつぐんフェロモン
+    en: Supereffective Pheromones
+  effect_text:
+    ja: 自分の場に「バルビート」がいるなら、はたらく。このポケモンがいるかぎり、おたがいのバトルポケモンの弱点は「×3」で計算する。
+    en: If you have Volbeat in play, apply Weakness for both Active Pokémon as x3
+attacks:
+- position: 0
+  name:
+    ja: ぶつかる
+    en: Ram
+  cost:
+  - Grass
+  - Colorless
+  damage: '30'
+  effect_text:
+    ja:
+    en:
+first_appearance:
+  set_name_ja: 拡張パック 30th CELEBRATION
+  released_at: '2026-09-16'
+  regulation_mark: J
+  collector_number: '004'
+  image_url:

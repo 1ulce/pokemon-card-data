@@ -1,0 +1,47 @@
+---
+schema_version: 1
+slug: sprigatito-2
+name:
+  ja: ニャオハ
+  en: Sprigatito
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Grass
+hp: 70
+retreat_cost: 1
+regulation_mark:
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Fire
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: じゃれつく
+    en:
+  cost:
+  - Grass
+  damage: 10+
+  effect_text:
+    ja: コインを1回投げオモテなら、20ダメージ追加。
+    en:
+first_appearance:
+  set_name_ja: スターターセットex ニャオハ＆マスカーニャex
+  released_at:
+  regulation_mark:
+  collector_number: '003'
+  image_url:

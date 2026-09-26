@@ -1,0 +1,48 @@
+---
+schema_version: 1
+slug: zorua-3
+name:
+  ja: ゾロア
+  en: Zorua
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Darkness
+hp: 70
+retreat_cost: 1
+regulation_mark: J
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Grass
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: やみのキバ
+    en: Darkness Fang
+  cost:
+  - Darkness
+  - Darkness
+  damage: '40'
+  effect_text:
+    ja:
+    en:
+first_appearance:
+  set_name_ja: 30th CELEBRATION プレミアムデッキセット エーフィ・ブラッキー
+  released_at: '2026-09-16'
+  regulation_mark: J
+  collector_number: '019'
+  image_url:

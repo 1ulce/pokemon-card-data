@@ -1,0 +1,47 @@
+---
+schema_version: 1
+slug: pikachu-9
+name:
+  ja: ピカチュウ
+  en: Pikachu
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Lightning
+hp: 80
+retreat_cost: 3
+regulation_mark: J
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Fighting
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: ひとやすみ 
+    en: Nap
+  cost:
+  - Colorless
+  damage:
+  effect_text:
+    ja: このポケモンのHPを「30」回復する。
+    en: Heal 30 damage from this Pokémon.
+first_appearance:
+  set_name_ja: 拡張パック 30th CELEBRATION
+  released_at: '2026-09-16'
+  regulation_mark: J
+  collector_number: '021'
+  image_url:

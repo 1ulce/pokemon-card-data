@@ -1,0 +1,49 @@
+---
+schema_version: 1
+slug: espeon-ex-2
+name:
+  ja: エーフィex
+  en: Espeon ex
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Psychic
+hp: 260
+retreat_cost: 1
+regulation_mark: J
+meta_tags:
+- ex
+evolves_from:
+  ja: イーブイ
+  en: Eevee
+weakness:
+  type: Darkness
+  value: "×2"
+resistance:
+  type: Fighting
+  value: "-30"
+body_text:
+  ja:
+  en:
+rules_text:
+  ja: ポケモンexがきぜつしたとき、相手はサイドを2枚とる。
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: サンシャインビート
+    en: Solar Beatdown
+  cost:
+  - Psychic
+  - Colorless
+  damage: 30×
+  effect_text:
+    ja: 自分の場のポケモンの数×30ダメージ。
+    en: This attack does 30 damage for each of your Pokémon in play.
+first_appearance:
+  set_name_ja: 30th CELEBRATION プレミアムデッキセット エーフィ・ブラッキー
+  released_at: '2026-09-16'
+  regulation_mark: J
+  collector_number: '014'
+  image_url:

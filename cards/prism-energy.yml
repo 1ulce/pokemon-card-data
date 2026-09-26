@@ -27,8 +27,6 @@ body_text:
   ja: |-
     このカードは、ポケモンについているかぎり、無色エネルギー1個ぶんとしてはたらく。
 
-
-
     たねポケモンについているなら、すべてのタイプのエネルギー1個ぶんとしてはたらく。
   en: This card provides [C] Energy. If the Pokémon this card is attached to is a Basic Pokémon, this card provides every type of Energy but provides only 1 Energy at a time.
 rules_text:

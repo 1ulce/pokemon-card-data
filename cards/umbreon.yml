@@ -1,0 +1,59 @@
+---
+schema_version: 1
+slug: umbreon
+name:
+  ja: ブラッキー
+  en: Umbreon
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Darkness
+hp: 110
+retreat_cost: 1
+regulation_mark: J
+meta_tags: []
+evolves_from:
+  ja: イーブイ
+  en: Eevee
+weakness:
+  type: Grass
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: かたきうち
+    en: Retaliate
+  cost:
+  - Darkness
+  damage: 30+
+  effect_text:
+    ja: 前の相手の番に、ワザのダメージで、自分のポケモンがきぜつしていたなら、100ダメージ追加。
+    en: If any of your Pokémon were Knocked Out by damage from an attack during your opponent's last turn, this attack does 100 more damage.
+- position: 1
+  name:
+    ja: やみのキバ
+    en: Darkness Fang
+  cost:
+  - Darkness
+  - Colorless
+  - Colorless
+  damage: '100'
+  effect_text:
+    ja:
+    en:
+first_appearance:
+  set_name_ja: 拡張パック 30th CELEBRATION
+  released_at: '2026-09-16'
+  regulation_mark: J
+  collector_number: '077'
+  image_url:

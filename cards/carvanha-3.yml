@@ -1,0 +1,48 @@
+---
+schema_version: 1
+slug: carvanha-3
+name:
+  ja: キバニア
+  en: Carvanha
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Darkness
+hp: 70
+retreat_cost: 1
+regulation_mark:
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Grass
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: おそいかかる
+    en:
+  cost:
+  - Darkness
+  - Colorless
+  damage: 20+
+  effect_text:
+    ja: コインを1回投げオモテなら、20ダメージ追加。
+    en:
+first_appearance:
+  set_name_ja: スターターセットex ゾロア＆ゾロアークex
+  released_at:
+  regulation_mark:
+  collector_number: '001'
+  image_url:

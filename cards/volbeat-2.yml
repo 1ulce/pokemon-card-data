@@ -1,0 +1,59 @@
+---
+schema_version: 1
+slug: volbeat-2
+name:
+  ja: バルビート
+  en: Volbeat
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Grass
+hp: 80
+retreat_cost: 1
+regulation_mark: J
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Fire
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: さそうひかり 
+    en: Luring Glow
+  cost:
+  - Grass
+  damage:
+  effect_text:
+    ja: 相手のベンチポケモンを1匹選び、バトルポケモンと入れ替える。
+    en: Switch in 1 of your opponent's Benched Pokémon to the Active Spot.
+- position: 1
+  name:
+    ja: むしのさざめき
+    en: Bug Buzz
+  cost:
+  - Colorless
+  - Colorless
+  - Colorless
+  damage: '90'
+  effect_text:
+    ja:
+    en:
+first_appearance:
+  set_name_ja: 拡張パック 30th CELEBRATION
+  released_at: '2026-09-16'
+  regulation_mark: J
+  collector_number: '003'
+  image_url:

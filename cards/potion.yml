@@ -24,7 +24,7 @@ resistance:
   type:
   value:
 body_text:
-  ja: 自分のポケモンを1匹選び、HPを「30」回復する。
+  ja: 自分のポケモン1匹のHPを「30」回復する。
   en: Heal 30 damage from 1 of your Pokémon.
 rules_text:
   ja:

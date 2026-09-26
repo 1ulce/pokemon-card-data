@@ -1,0 +1,57 @@
+---
+schema_version: 1
+slug: cherubi
+name:
+  ja: チェリンボ
+  en: Cherubi
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Grass
+hp: 40
+retreat_cost: 1
+regulation_mark: J
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Fire
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: かくれる 
+    en: Hide
+  cost:
+  - Colorless
+  damage:
+  effect_text:
+    ja: コインを1回投げオモテなら、次の相手の番、このポケモンはワザのダメージや効果を受けない。
+    en: Flip a coin. If heads, during your opponent's next turn, prevent all damage from and effects of attacks done to this Pokémon.
+- position: 1
+  name:
+    ja: はねまわる
+    en: Flop
+  cost:
+  - Grass
+  damage: '10'
+  effect_text:
+    ja:
+    en:
+first_appearance:
+  set_name_ja: 30th CELEBRATION プレミアムデッキセット エーフィ・ブラッキー
+  released_at: '2026-09-16'
+  regulation_mark: J
+  collector_number: '002'
+  image_url:

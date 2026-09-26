@@ -25,8 +25,6 @@ body_text:
   ja: |-
     このカードは、ポケモンについているかぎり、水エネルギー1個ぶんとしてはたらく。
 
-
-
     このカードをつけている水ポケモンは、特殊状態にならず、受けている特殊状態は、すべて回復する。
   en: As long as this card is attached to a Pokémon, it provides [W] Energy.The [W] Pokémon this card is attached to recovers from all Special Conditions and can't be affected by any Special Conditions.
 rules_text:

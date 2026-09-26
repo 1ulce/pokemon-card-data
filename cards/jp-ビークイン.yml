@@ -1,0 +1,59 @@
+---
+schema_version: 1
+slug: jp-ビークイン
+name:
+  ja: ビークイン
+  en:
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Grass
+hp: 120
+retreat_cost: 1
+regulation_mark: J
+meta_tags: []
+evolves_from:
+  ja: ミツハニー
+  en:
+weakness:
+  type: Fire
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: つきさす
+    en:
+  cost:
+  - Grass
+  damage: '40'
+  effect_text:
+    ja:
+    en:
+- position: 1
+  name:
+    ja: クリーンヒット
+    en:
+  cost:
+  - Colorless
+  - Colorless
+  - Colorless
+  damage: 80+
+  effect_text:
+    ja: 相手のバトルポケモンが進化ポケモンなら、80ダメージ追加。
+    en:
+first_appearance:
+  set_name_ja: ストームエメラルダ
+  released_at: '2026-07-31'
+  regulation_mark: J
+  collector_number: '007'
+  image_url:

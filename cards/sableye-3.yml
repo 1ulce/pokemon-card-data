@@ -1,0 +1,58 @@
+---
+schema_version: 1
+slug: sableye-3
+name:
+  ja: ヤミラミ
+  en: Sableye
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Darkness
+hp: 80
+retreat_cost: 1
+regulation_mark: J
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Grass
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: おびきだす 
+    en:
+  cost:
+  - Darkness
+  damage:
+  effect_text:
+    ja: 相手の山札を上から5枚オモテにして、その中からたねポケモンを好きなだけ選び、相手のベンチに出す。残りのカードは山札にもどして切る。
+    en:
+- position: 1
+  name:
+    ja: ふきつなめ 
+    en:
+  cost:
+  - Darkness
+  - Colorless
+  damage:
+  effect_text:
+    ja: 相手のポケモン1匹に、ダメカンを5個のせる。
+    en:
+first_appearance:
+  set_name_ja: ストームエメラルダ
+  released_at: '2026-07-31'
+  regulation_mark: J
+  collector_number: '046'
+  image_url:

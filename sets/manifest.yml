@@ -1,6 +1,6 @@
 ---
 schema_version: 1
-generated_at: '2026-07-19T03:50:46Z'
+generated_at: '2026-09-26T02:51:44Z'
 sets:
   スカーレットex:
     released_at: '2023-01-20'
@@ -160,4 +160,16 @@ sets:
     regulation_mark: J
   アビスアイ:
     released_at: '2026-05-22'
+    regulation_mark: J
+  スターターセットex イーブイex:
+    released_at: '2026-07-31'
+    regulation_mark: J
+  ストームエメラルダ:
+    released_at: '2026-07-31'
+    regulation_mark: J
+  30th CELEBRATION プレミアムデッキセット エーフィ・ブラッキー:
+    released_at: '2026-09-16'
+    regulation_mark: J
+  拡張パック 30th CELEBRATION:
+    released_at: '2026-09-16'
     regulation_mark: J

@@ -1,0 +1,60 @@
+---
+schema_version: 1
+slug: kyogre-3
+name:
+  ja: カイオーガ
+  en: Kyogre
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Water
+hp: 150
+retreat_cost: 3
+regulation_mark: J
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Lightning
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: たきのぼり
+    en:
+  cost:
+  - Water
+  - Colorless
+  damage: '40'
+  effect_text:
+    ja:
+    en:
+- position: 1
+  name:
+    ja: あらぶるうず
+    en:
+  cost:
+  - Water
+  - Water
+  - Colorless
+  damage: '100'
+  effect_text:
+    ja: 名前に「伝説」とつくスタジアムが場に出ているなら、相手のベンチポケモン全員にも、それぞれ50ダメージ。［ベンチは弱点・抵抗力を計算しない。］
+    en:
+first_appearance:
+  set_name_ja: ストームエメラルダ
+  released_at: '2026-07-31'
+  regulation_mark: J
+  collector_number: '018'
+  image_url:

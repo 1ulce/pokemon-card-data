@@ -1,0 +1,59 @@
+---
+schema_version: 1
+slug: jp-ミツハニー
+name:
+  ja: ミツハニー
+  en:
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Grass
+hp: 50
+retreat_cost: 1
+regulation_mark: J
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Fire
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: ぱっときえる
+    en:
+  cost:
+  - Grass
+  damage: '10'
+  effect_text:
+    ja: このポケモンと、ついているすべてのカードを、手札にもどす。
+    en:
+- position: 1
+  name:
+    ja: バグパニック
+    en:
+  cost:
+  - Colorless
+  - Colorless
+  - Colorless
+  damage: 50×
+  effect_text:
+    ja: 自分の山札を下から7枚オモテにして、その中にある、ワザ「バグパニック」を持つポケモンの枚数×50ダメージ。オモテにしたポケモンは山札にもどして切る。残りのカードはトラッシュする。
+    en:
+first_appearance:
+  set_name_ja: ストームエメラルダ
+  released_at: '2026-07-31'
+  regulation_mark: J
+  collector_number: '006'
+  image_url:

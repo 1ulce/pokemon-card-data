@@ -1,0 +1,49 @@
+---
+schema_version: 1
+slug: pikachu-6
+name:
+  ja: ピカチュウ
+  en: Pikachu
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Lightning
+hp: 70
+retreat_cost: 1
+regulation_mark: J
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Fighting
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: ボルテッカー
+    en: Volt Tackle
+  cost:
+  - Lightning
+  - Colorless
+  - Colorless
+  damage: '80'
+  effect_text:
+    ja: このポケモンにも30ダメージ。
+    en: This Pokémon also does 30 damage to itself.
+first_appearance:
+  set_name_ja: 拡張パック 30th CELEBRATION
+  released_at: '2026-09-16'
+  regulation_mark: J
+  collector_number: '018'
+  image_url:

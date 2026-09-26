@@ -1,0 +1,48 @@
+---
+schema_version: 1
+slug: unown
+name:
+  ja: アンノーン
+  en: Unown
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Psychic
+hp: 80
+retreat_cost: 1
+regulation_mark: J
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Darkness
+  value: "×2"
+resistance:
+  type: Fighting
+  value: "-30"
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: ミステリーシグナル
+    en: Mysterious Signal
+  cost:
+  - Psychic
+  - Psychic
+  damage: '40'
+  effect_text:
+    ja: このワザのダメージで、相手のポケモンがきぜつしたなら、サイドを1枚多くとる。
+    en: If your opponent's Pokémon is Knocked Out by damage from this attack, take 1 more Prize card.
+first_appearance:
+  set_name_ja: 拡張パック 30th CELEBRATION
+  released_at: '2026-09-16'
+  regulation_mark: J
+  collector_number: '060'
+  image_url:

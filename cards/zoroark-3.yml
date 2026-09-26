@@ -1,0 +1,56 @@
+---
+schema_version: 1
+slug: zoroark-3
+name:
+  ja: ゾロアーク
+  en: Zoroark
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Darkness
+hp: 120
+retreat_cost: 1
+regulation_mark: J
+meta_tags: []
+evolves_from:
+  ja: ゾロア
+  en: Zorua
+weakness:
+  type: Grass
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities:
+- position: 0
+  name:
+    ja: よるのぬけみち
+    en: Nighttime Byway
+  effect_text:
+    ja: このポケモンがベンチにいるかぎり、自分のバトルポケモンのにげるためのエネルギーは、2個ぶん少なくなる。
+    en: As long as this Pokémon is on your Bench, your Active Pokémon's Retreat Cost is 2 less.
+attacks:
+- position: 0
+  name:
+    ja: スラッシュクロー
+    en: Slashing Claw
+  cost:
+  - Darkness
+  - Darkness
+  - Colorless
+  damage: '90'
+  effect_text:
+    ja:
+    en:
+first_appearance:
+  set_name_ja: 30th CELEBRATION プレミアムデッキセット エーフィ・ブラッキー
+  released_at: '2026-09-16'
+  regulation_mark: J
+  collector_number: '020'
+  image_url:

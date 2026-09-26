@@ -1,0 +1,59 @@
+---
+schema_version: 1
+slug: xerneas-4
+name:
+  ja: ゼルネアス
+  en: Xerneas
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Psychic
+hp: 120
+retreat_cost: 2
+regulation_mark: J
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Metal
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: ジオナビゲート 
+    en: Geonavigation
+  cost:
+  - Colorless
+  damage:
+  effect_text:
+    ja: 自分の山札からスタジアムを2枚まで選び、相手に見せて、手札に加える。そして山札を切る。
+    en: Search your deck for up to 2 Stadium card, reveal them, and put them into your hand. Then, shuffle your deck.
+- position: 1
+  name:
+    ja: オーロラホーン
+    en: Aurora Horns
+  cost:
+  - Psychic
+  - Psychic
+  - Colorless
+  damage: '100'
+  effect_text:
+    ja:
+    en:
+first_appearance:
+  set_name_ja: 拡張パック 30th CELEBRATION
+  released_at: '2026-09-16'
+  regulation_mark: J
+  collector_number: '063'
+  image_url:

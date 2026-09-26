@@ -1,0 +1,57 @@
+---
+schema_version: 1
+slug: maushold-2
+name:
+  ja: イッカネズミ
+  en: Maushold
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Colorless
+hp: 80
+retreat_cost: 1
+regulation_mark: J
+meta_tags: []
+evolves_from:
+  ja: ワッカネズミ
+  en: Tandemaus
+weakness:
+  type: Fighting
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: みんなでかじる 
+    en: Gnaw Together
+  cost:
+  - Colorless
+  damage:
+  effect_text:
+    ja: 自分の場の「イッカネズミ」の数ぶんコインを投げ、オモテの数×2枚ぶん、相手の山札を上からトラッシュする。
+    en: Flip a coin for each Maushold you have in play. For each heads, discard the top 2 cards of your opponent's deck.
+- position: 1
+  name:
+    ja: はたく
+    en: Pound
+  cost:
+  - Colorless
+  damage: '40'
+  effect_text:
+    ja:
+    en:
+first_appearance:
+  set_name_ja: 拡張パック 30th CELEBRATION
+  released_at: '2026-09-16'
+  regulation_mark: J
+  collector_number: '100'
+  image_url:

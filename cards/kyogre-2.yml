@@ -1,0 +1,50 @@
+---
+schema_version: 1
+slug: kyogre-2
+name:
+  ja: カイオーガ
+  en: Kyogre
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Water
+hp: 140
+retreat_cost: 4
+regulation_mark: J
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Lightning
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: ハイドロポンプ
+    en: Hydro Pump
+  cost:
+  - Colorless
+  - Colorless
+  - Colorless
+  - Colorless
+  damage: 60+
+  effect_text:
+    ja: このポケモンについている水エネルギーの数×30ダメージ追加。
+    en: This attack does 30 more damage for each [W] Energy attached to this Pokémon.
+first_appearance:
+  set_name_ja: 拡張パック 30th CELEBRATION
+  released_at: '2026-09-16'
+  regulation_mark: J
+  collector_number: '013'
+  image_url:

@@ -1,0 +1,47 @@
+---
+schema_version: 1
+slug: drifloon-3
+name:
+  ja: フワンテ
+  en: Drifloon
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Psychic
+hp: 70
+retreat_cost: 1
+regulation_mark: J
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Darkness
+  value: "×2"
+resistance:
+  type: Fighting
+  value: "-30"
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: まいあがる
+    en: Float Up
+  cost:
+  - Psychic
+  damage: '20'
+  effect_text:
+    ja: のぞむなら、このポケモンと、ついているすべてのカードを、山札にもどして切る。
+    en: You may shuffle this Pokémon and all attached cards into your deck.
+first_appearance:
+  set_name_ja: 拡張パック 30th CELEBRATION
+  released_at: '2026-09-16'
+  regulation_mark: J
+  collector_number: '061'
+  image_url:

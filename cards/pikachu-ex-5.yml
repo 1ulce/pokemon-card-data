@@ -1,0 +1,60 @@
+---
+schema_version: 1
+slug: pikachu-ex-5
+name:
+  ja: ピカチュウex
+  en: Pikachu ex
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Lightning
+hp: 190
+retreat_cost: 1
+regulation_mark: J
+meta_tags:
+- ex
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Fighting
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja: ポケモンexがきぜつしたとき、相手はサイドを2枚とる。
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: ピカピカパレード 
+    en: Pika-Pika Parade
+  cost:
+  - Colorless
+  damage:
+  effect_text:
+    ja: 自分の山札からたねポケモンを好きなだけ選び、ベンチに出す。そして山札を切る。
+    en: Search your deck for any number of Basic Pokémon and put them onto your Bench. Then, shuffle your deck.
+- position: 1
+  name:
+    ja: 10まんボルト
+    en: Thunderbolt
+  cost:
+  - Lightning
+  - Lightning
+  - Colorless
+  damage: '200'
+  effect_text:
+    ja: このポケモンについているエネルギーを、すべてトラッシュする。
+    en: Discard all Energy from this Pokémon.
+first_appearance:
+  set_name_ja: 拡張パック 30th CELEBRATION
+  released_at: '2026-09-16'
+  regulation_mark: J
+  collector_number: '047'
+  image_url:

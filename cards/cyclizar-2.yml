@@ -1,0 +1,60 @@
+---
+schema_version: 1
+slug: cyclizar-2
+name:
+  ja: モトトカゲ
+  en: Cyclizar
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Dragon
+hp: 120
+retreat_cost: 1
+regulation_mark: J
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type:
+  value:
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: かみつく
+    en:
+  cost:
+  - Colorless
+  - Colorless
+  damage: '30'
+  effect_text:
+    ja:
+    en:
+- position: 1
+  name:
+    ja: ブレイクスルー
+    en:
+  cost:
+  - Grass
+  - Darkness
+  - Colorless
+  damage: '110'
+  effect_text:
+    ja: 相手のベンチポケモン1匹にも、30ダメージ。［ベンチは弱点・抵抗力を計算しない。］
+    en:
+first_appearance:
+  set_name_ja: ストームエメラルダ
+  released_at: '2026-07-31'
+  regulation_mark: J
+  collector_number: '053'
+  image_url:

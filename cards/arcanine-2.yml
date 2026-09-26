@@ -1,0 +1,62 @@
+---
+schema_version: 1
+slug: arcanine-2
+name:
+  ja: ウインディ
+  en: Arcanine
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Fire
+hp: 150
+retreat_cost: 4
+regulation_mark: J
+meta_tags: []
+evolves_from:
+  ja: ガーディ
+  en: Growlithe
+weakness:
+  type: Water
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: はりきりファング
+    en:
+  cost:
+  - Fire
+  - Colorless
+  - Colorless
+  damage: 90+
+  effect_text:
+    ja: 相手のサイドの残り枚数が4枚以下なら、90ダメージ追加。
+    en:
+- position: 1
+  name:
+    ja: ヒートタックル
+    en:
+  cost:
+  - Fire
+  - Fire
+  - Colorless
+  - Colorless
+  damage: '200'
+  effect_text:
+    ja: このポケモンにも50ダメージ。
+    en:
+first_appearance:
+  set_name_ja: ストームエメラルダ
+  released_at: '2026-07-31'
+  regulation_mark: J
+  collector_number: '011'
+  image_url:

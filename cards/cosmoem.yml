@@ -1,0 +1,48 @@
+---
+schema_version: 1
+slug: cosmoem
+name:
+  ja: コスモウム
+  en: Cosmoem
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Psychic
+hp: 100
+retreat_cost: 3
+regulation_mark: J
+meta_tags: []
+evolves_from:
+  ja: コスモッグ
+  en: Cosmog
+weakness:
+  type: Darkness
+  value: "×2"
+resistance:
+  type: Fighting
+  value: "-30"
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: かたまる 
+    en: Stiffen
+  cost:
+  - Colorless
+  - Colorless
+  damage:
+  effect_text:
+    ja: 次の相手の番、このポケモンが受けるワザのダメージは「-60」される。
+    en: During your opponent's next turn, this Pokémon takes 60 less damage from attacks (after applying Weakness and Resistance).
+first_appearance:
+  set_name_ja: 拡張パック 30th CELEBRATION
+  released_at: '2026-09-16'
+  regulation_mark: J
+  collector_number: '065'
+  image_url:

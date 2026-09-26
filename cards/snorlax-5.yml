@@ -1,0 +1,56 @@
+---
+schema_version: 1
+slug: snorlax-5
+name:
+  ja: カビゴン
+  en: Snorlax
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Colorless
+hp: 160
+retreat_cost: 4
+regulation_mark: J
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Fighting
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities:
+- position: 0
+  name:
+    ja: グッドスリープ
+    en: Good Sleep
+  effect_text:
+    ja: このポケモンがねむりのとき、ポケモンチェックで、このポケモンがねむりから回復しなかったなら、このポケモンのHPを、すべて回復する。
+    en: If this Pokémon remains Asleep during Pokémon Checkup, heal all damage from this Pokémon.
+attacks:
+- position: 0
+  name:
+    ja: たおれこむ
+    en: Collapse
+  cost:
+  - Colorless
+  - Colorless
+  - Colorless
+  damage: '130'
+  effect_text:
+    ja: このポケモンをねむりにする。
+    en: This Pokémon is now Asleep.
+first_appearance:
+  set_name_ja: 拡張パック 30th CELEBRATION
+  released_at: '2026-09-16'
+  regulation_mark: J
+  collector_number: '095'
+  image_url:

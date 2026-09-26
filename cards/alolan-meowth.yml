@@ -1,0 +1,46 @@
+---
+schema_version: 1
+slug: alolan-meowth
+name:
+  ja: アローラ ニャース
+  en: Alolan Meowth
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Darkness
+hp: 60
+retreat_cost: 1
+regulation_mark: J
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Grass
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: ネコにこばん
+    en: Pay Day
+  cost: []
+  damage: '10'
+  effect_text:
+    ja: 自分の山札を1枚引く。
+    en: Draw a card.
+first_appearance:
+  set_name_ja: 拡張パック 30th CELEBRATION
+  released_at: '2026-09-16'
+  regulation_mark: J
+  collector_number: '075'
+  image_url:

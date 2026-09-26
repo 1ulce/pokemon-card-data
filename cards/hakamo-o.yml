@@ -1,0 +1,58 @@
+---
+schema_version: 1
+slug: hakamo-o
+name:
+  ja: ジャランゴ
+  en: Hakamo-o
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Dragon
+hp: 90
+retreat_cost: 2
+regulation_mark: J
+meta_tags: []
+evolves_from:
+  ja: ジャラコ
+  en: Jangmo-o
+weakness:
+  type:
+  value:
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: するどいキバ
+    en: Sharp Fang
+  cost:
+  - Colorless
+  damage: '20'
+  effect_text:
+    ja:
+    en:
+- position: 1
+  name:
+    ja: ドラゴンクロー
+    en: Dragon Claw
+  cost:
+  - Lightning
+  - Fighting
+  damage: '70'
+  effect_text:
+    ja:
+    en:
+first_appearance:
+  set_name_ja: 拡張パック 30th CELEBRATION
+  released_at: '2026-09-16'
+  regulation_mark: J
+  collector_number: '090'
+  image_url:
