@@ -1,8 +1,6 @@
 ---
-schema_version: 1
+schema_version: 2
 slug: legacy-energy
-external_link:
-  cabt_id: 12
 name:
   ja: レガシーエネルギー
   en: Legacy Energy
@@ -25,7 +23,10 @@ resistance:
   type:
   value:
 body_text:
-  ja: "このカードは、ポケモンについているかぎり、すべてのタイプのエネルギー1個ぶんとしてはたらく。\n\n \n\nこのカードをつけているポケモンが、相手のポケモンからワザのダメージを受けてきぜつしたとき、とられるサイドは1枚少なくなる。対戦中、自分の「レガシーエネルギー」のこの効果は、1回しかはたらかない。"
+  ja: |-
+    このカードは、ポケモンについているかぎり、すべてのタイプのエネルギー1個ぶんとしてはたらく。
+
+    このカードをつけているポケモンが、相手のポケモンからワザのダメージを受けてきぜつしたとき、とられるサイドは1枚少なくなる。対戦中、自分の「レガシーエネルギー」のこの効果は、1回しかはたらかない。
   en: As long as this card is attached to a Pokémon, it provides every type of Energy but provides only 1 Energy at a time.If the Pokémon this card is attached to is Knocked Out by damage from an attack from your opponent's Pokémon, that player takes 1 fewer Prize card. This effect of your Legacy Energy can't be applied more than once per game.
 rules_text:
   ja: ACE SPECのカードは、デッキに1枚しか入れられない。
@@ -38,3 +39,69 @@ first_appearance:
   regulation_mark: H
   collector_number: '101'
   image_url:
+printings:
+- language: ja
+  set_code: SV6
+  set_mark: SV6
+  set_name: 変幻の仮面
+  collector_number: '101'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: false
+  illustrator:
+  illustrator_unprinted: true
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code: SV8a
+  set_mark: SV8a
+  set_name: テラスタルフェスex
+  collector_number: '187'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator:
+  illustrator_unprinted: true
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: MC
+  set_name: スタートデッキ100 バトルコレクション
+  collector_number: '741'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator:
+  illustrator_unprinted: true
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: SVN
+  set_name: デッキビルドBOX「バトルパートナーズ」
+  collector_number: '045'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator:
+  illustrator_unprinted: true
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url:
+- language: en
+  set_code: TWM
+  set_mark: TWM
+  set_name: TWM
+  collector_number: '167'
+  collector_number_unprinted: false
+  rarity: SR
+  rarity_unprinted: false
+  illustrator:
+  illustrator_unprinted: true
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TWM/TWM_167_R_EN_XS.png

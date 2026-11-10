@@ -1,0 +1,83 @@
+---
+schema_version: 2
+slug: jellicent
+name:
+  ja: ブルンゲル
+  en: Jellicent
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Water
+hp: 120
+retreat_cost: 2
+regulation_mark: J
+meta_tags: []
+evolves_from:
+  ja: プルリル
+  en: Frillish
+weakness:
+  type: Lightning
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities:
+- position: 0
+  name:
+    ja: しんかいドロー
+    en: Deep Sea Draw
+  effect_text:
+    ja: 自分の番に1回使える。自分の山札を1枚引く。その後、のぞむなら、自分の手札を1枚選び、山札の下にもどす。
+    en: Once during your turn, you may use this Ability. Draw a card. If you do, you may put a card from your hand on the bottom of your deck.
+attacks:
+- position: 0
+  name:
+    ja: ひっぱたく
+    en: Gentle Slap
+  cost:
+  - Water
+  - Colorless
+  - Colorless
+  damage: '100'
+  effect_text:
+    ja:
+    en:
+first_appearance:
+  set_name_ja: ストームエメラルダ
+  released_at: '2026-07-31'
+  regulation_mark: J
+  collector_number: '020'
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/M6/050358_P_BURUNGERU.jpg
+printings:
+- language: ja
+  set_code: M6
+  set_mark: M6
+  set_name: ストームエメラルダ
+  collector_number: '020'
+  collector_number_unprinted: false
+  rarity: U
+  rarity_unprinted: false
+  illustrator: Nurikabe
+  illustrator_unprinted: false
+  regulation_mark: J
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/M6/050358_P_BURUNGERU.jpg
+- language: en
+  set_code: DLR
+  set_mark: DLR
+  set_name: Mega Evolution—Delta Reign
+  collector_number: '28'
+  collector_number_unprinted: false
+  rarity: U
+  rarity_unprinted: false
+  illustrator:
+  illustrator_unprinted: false
+  regulation_mark: J
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DLR/DLR_028_R_EN_XS.png

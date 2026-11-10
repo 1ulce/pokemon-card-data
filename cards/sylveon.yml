@@ -1,8 +1,6 @@
 ---
-schema_version: 1
+schema_version: 2
 slug: sylveon
-external_link:
-  cabt_id: 134
 name:
   ja: ニンフィア
   en: Sylveon
@@ -58,4 +56,57 @@ first_appearance:
   released_at: '2024-06-07'
   regulation_mark: H
   collector_number: '022'
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV6a/045897_P_NINFUIA.jpg
+printings:
+- language: ja
+  set_code: SV6a
+  set_mark: SV6a
+  set_name: ナイトワンダラー
+  collector_number: '022'
+  collector_number_unprinted: false
+  rarity: U
+  rarity_unprinted: false
+  illustrator: Kuroimori
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV6a/045897_P_NINFUIA.jpg
+- language: ja
+  set_code: SV8a
+  set_mark: SV8a
+  set_name: テラスタルフェスex
+  collector_number: '068'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: Susumu Maeya
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
   image_url:
+- language: en
+  set_code: SFA
+  set_mark: SFA
+  set_name: SFA
+  collector_number: '22'
+  collector_number_unprinted: false
+  rarity: U
+  rarity_unprinted: false
+  illustrator: Kuroimori
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SFA/SFA_022_R_EN_XS.png
+- language: en
+  set_code: SVP
+  set_mark: SVP
+  set_name: SVP
+  collector_number: '172'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: Susumu Maeya
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVP/SVP_172_R_EN_XS.png

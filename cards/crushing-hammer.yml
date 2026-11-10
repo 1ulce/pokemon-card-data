@@ -1,8 +1,6 @@
 ---
-schema_version: 1
+schema_version: 2
 slug: crushing-hammer
-external_link:
-  cabt_id: 1120
 name:
   ja: クラッシュハンマー
   en: Crushing Hammer
@@ -34,6 +32,397 @@ attacks: []
 first_appearance:
   set_name_ja: バトルアカデミー
   released_at: '2024-03-08'
-  regulation_mark: H
+  regulation_mark: G
   collector_number: '051'
   image_url:
+printings:
+- language: ja
+  set_code:
+  set_mark: SVI
+  set_name: バトルアカデミー
+  collector_number: '051'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: Ayaka Yoshida
+  illustrator_unprinted: false
+  regulation_mark: G
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: SVM
+  set_name: スタートデッキGenerations ルギアex・バンギラスex
+  collector_number: '131'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: Ayaka Yoshida
+  illustrator_unprinted: false
+  regulation_mark: G
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: MC
+  set_name: スタートデッキ100 バトルコレクション
+  collector_number: '644'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: Ayaka Yoshida
+  illustrator_unprinted: false
+  regulation_mark: J
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code: M5
+  set_mark: M5
+  set_name: アビスアイ
+  collector_number: '104'
+  collector_number_unprinted: false
+  rarity: SR
+  rarity_unprinted: false
+  illustrator: Ayaka Yoshida
+  illustrator_unprinted: false
+  regulation_mark: J
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/M5/050324_T_KURASSHIXYUHANMA.jpg
+- language: ja
+  set_code:
+  set_mark: MF
+  set_name: 30th CELEBRATION プレミアムデッキセット エーフィ・ブラッキー
+  collector_number: '029'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: Ayaka Yoshida
+  illustrator_unprinted: false
+  regulation_mark: J
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: SMN
+  set_name: TAG TEAM GX
+  collector_number: '004'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: false
+  illustrator: Yoshinobu Saito
+  illustrator_unprinted: false
+  regulation_mark: A
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: Y30
+  set_name: イベルタルデッキ30
+  collector_number: '008'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: false
+  illustrator: 5ban Graphics
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: MEZ
+  set_name: スターターセットex ゾロア＆ゾロアークex
+  collector_number: '011'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: Ayaka Yoshida
+  illustrator_unprinted: false
+  regulation_mark: J
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: SEK
+  set_name: スターターセットVMAX カメックス
+  collector_number: '012'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: false
+  illustrator: sadaji
+  illustrator_unprinted: false
+  regulation_mark: D
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: SA
+  set_name: スターターセットV　炎
+  collector_number: '012'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: sadaji
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: SVAW
+  set_name: スターターセットex クワッス＆ミミッキュex
+  collector_number: '013'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: false
+  illustrator: Ayaka Yoshida
+  illustrator_unprinted: false
+  regulation_mark: G
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: SA
+  set_name: スターターセットV　水
+  collector_number: '013'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: sadaji
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: SMD
+  set_name: サトシVSロケット団
+  collector_number: '021'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: Yoshinobu Saito
+  illustrator_unprinted: false
+  regulation_mark: A
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: HXY
+  set_name: ポケモンカードゲームXY はじめてセット
+  collector_number: '035'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: 5ban Graphics
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: SML
+  set_name: ファミリーポケモンカードゲーム
+  collector_number: '040'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: Yoshinobu Saito
+  illustrator_unprinted: false
+  regulation_mark: A
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: SMA
+  set_name: スターターセット草 ジュナイパーGX
+  collector_number: '040'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: Yoshinobu Saito
+  illustrator_unprinted: false
+  regulation_mark: A
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: SH
+  set_name: ファミリーポケモンカードゲーム
+  collector_number: '041'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: sadaji
+  illustrator_unprinted: false
+  regulation_mark: D
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: 20th
+  set_name: ポケットモンスターカードゲーム スターターパック
+  collector_number: '051'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: 5ban Graphics
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: SM1S
+  set_name: コレクション サン
+  collector_number: '053'
+  collector_number_unprinted: false
+  rarity: U
+  rarity_unprinted: false
+  illustrator: Yoshinobu Saito
+  illustrator_unprinted: false
+  regulation_mark: A
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: SM5M
+  set_name: ウルトラムーン
+  collector_number: '054'
+  collector_number_unprinted: false
+  rarity: U
+  rarity_unprinted: false
+  illustrator: Yoshinobu Saito
+  illustrator_unprinted: false
+  regulation_mark: A
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SM5M/034502_T_KURASSHUHANMA.jpg
+- language: ja
+  set_code:
+  set_mark: SD
+  set_name: Vスタートデッキ水　ホエルオー
+  collector_number: '089'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: sadaji
+  illustrator_unprinted: false
+  regulation_mark: D
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: SMH
+  set_name: 悪イベルタル
+  collector_number: '108'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: false
+  illustrator: Yoshinobu Saito
+  illustrator_unprinted: false
+  regulation_mark: A
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: SVD
+  set_name: exスタートデッキ 水 ゲッコウガ
+  collector_number: '116'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: Ayaka Yoshida
+  illustrator_unprinted: false
+  regulation_mark: G
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: SI
+  set_name: スタートデッキ100
+  collector_number: '372'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: sadaji
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: SI
+  set_name: スタートデッキ100
+  collector_number: '372'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: sadaji
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: SV-P
+  set_name: オーガナイザー プロモカード
+  collector_number: '43118'
+  collector_number_unprinted: true
+  rarity:
+  rarity_unprinted: true
+  illustrator: Ayaka Yoshida
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: SV-P
+  set_name: ビクティニBWR争奪戦プロモカードパック
+  collector_number: '47711'
+  collector_number_unprinted: true
+  rarity:
+  rarity_unprinted: true
+  illustrator: Ayaka Yoshida
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url:
+- language: en
+  set_code: UPR
+  set_mark: UPR
+  set_name: UPR
+  collector_number: '166'
+  collector_number_unprinted: false
+  rarity: UR
+  rarity_unprinted: false
+  illustrator: Yoshinobu Saito
+  illustrator_unprinted: false
+  regulation_mark:
+  regulation_mark_unprinted: true
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/UPR/UPR_166_R_EN_XS.png
+- language: en
+  set_code: POR
+  set_mark: POR
+  set_name: POR
+  collector_number: '71'
+  collector_number_unprinted: false
+  rarity: C
+  rarity_unprinted: false
+  illustrator: Ayaka Yoshida
+  illustrator_unprinted: false
+  regulation_mark: J
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/POR/POR_071_R_EN_XS.png
+- language: en
+  set_code: PBL
+  set_mark: PBL
+  set_name: PBL
+  collector_number: '105'
+  collector_number_unprinted: false
+  rarity: SR
+  rarity_unprinted: false
+  illustrator: Ayaka Yoshida
+  illustrator_unprinted: false
+  regulation_mark: J
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PBL/PBL_105_R_EN_XS.png

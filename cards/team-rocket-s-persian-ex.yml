@@ -1,8 +1,6 @@
 ---
-schema_version: 1
+schema_version: 2
 slug: team-rocket-s-persian-ex
-external_link:
-  cabt_id: 471
 name:
   ja: ロケット団のペルシアンex
   en: Team Rocket's Persian ex
@@ -60,4 +58,83 @@ first_appearance:
   released_at: '2025-04-18'
   regulation_mark: I
   collector_number: '079'
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV10/047472_P_ROKETTODANNOPERUSHIANEX.jpg
+printings:
+- language: ja
+  set_code: SV10
+  set_mark: SV10
+  set_name: ロケット団の栄光
+  collector_number: '079'
+  collector_number_unprinted: false
+  rarity: RR
+  rarity_unprinted: false
+  illustrator: 5ban Graphics
+  illustrator_unprinted: false
+  regulation_mark: I
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV10/047472_P_ROKETTODANNOPERUSHIANEX.jpg
+- language: ja
+  set_code: SV10
+  set_mark: SV10
+  set_name: ロケット団の栄光
+  collector_number: '118'
+  collector_number_unprinted: false
+  rarity: SR
+  rarity_unprinted: false
+  illustrator: 5ban Graphics
+  illustrator_unprinted: false
+  regulation_mark: I
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV10/047522_P_ROKETTODANNOPERUSHIANEX.jpg
+- language: ja
+  set_code:
+  set_mark: MC
+  set_name: スタートデッキ100 バトルコレクション
+  collector_number: '560'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: 5ban Graphics
+  illustrator_unprinted: false
+  regulation_mark: I
+  regulation_mark_unprinted: false
   image_url:
+- language: en
+  set_code: DRI
+  set_mark: DRI
+  set_name: DRI
+  collector_number: '150'
+  collector_number_unprinted: false
+  rarity: RR
+  rarity_unprinted: false
+  illustrator: 5ban Graphics
+  illustrator_unprinted: false
+  regulation_mark: I
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRI/DRI_150_R_EN_XS.png
+- language: en
+  set_code: DRI
+  set_mark: DRI
+  set_name: DRI
+  collector_number: '219'
+  collector_number_unprinted: false
+  rarity: SR
+  rarity_unprinted: false
+  illustrator: 5ban Graphics
+  illustrator_unprinted: false
+  regulation_mark: I
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRI/DRI_219_R_EN_XS.png
+- language: en
+  set_code: SVP
+  set_mark: SVP
+  set_name: SVP
+  collector_number: '218'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: 5ban Graphics
+  illustrator_unprinted: false
+  regulation_mark: I
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVP/SVP_218_R_EN_XS.png

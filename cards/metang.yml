@@ -1,8 +1,6 @@
 ---
-schema_version: 1
+schema_version: 2
 slug: metang
-external_link:
-  cabt_id: 86
 name:
   ja: メタング
   en: Metang
@@ -55,4 +53,70 @@ first_appearance:
   released_at: '2024-01-26'
   regulation_mark: H
   collector_number: '047'
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV5M/045264_P_METANGU.jpg
+printings:
+- language: ja
+  set_code: SV5M
+  set_mark: SV5M
+  set_name: サイバージャッジ
+  collector_number: '047'
+  collector_number_unprinted: false
+  rarity: C
+  rarity_unprinted: false
+  illustrator: Nobuhiro Imagawa
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV5M/045264_P_METANGU.jpg
+- language: ja
+  set_code: SV8a
+  set_mark: SV8a
+  set_name: テラスタルフェスex
+  collector_number: '107'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: Uta
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
   image_url:
+- language: ja
+  set_code:
+  set_mark: MC
+  set_name: スタートデッキ100 バトルコレクション
+  collector_number: '497'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: Nobuhiro Imagawa
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url:
+- language: en
+  set_code: TEF
+  set_mark: TEF
+  set_name: TEF
+  collector_number: '114'
+  collector_number_unprinted: false
+  rarity: C
+  rarity_unprinted: false
+  illustrator: Nobuhiro Imagawa
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TEF/TEF_114_R_EN_XS.png
+- language: en
+  set_code: SVP
+  set_mark: SVP
+  set_name: SVP
+  collector_number: '90'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: Uta
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVP/SVP_090_R_EN_XS.png

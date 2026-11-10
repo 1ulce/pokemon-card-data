@@ -1,0 +1,75 @@
+---
+schema_version: 2
+slug: hakamo-o-2
+name:
+  ja: ジャランゴ
+  en: Hakamo-o
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Dragon
+hp: 100
+retreat_cost: 2
+regulation_mark: J
+meta_tags: []
+evolves_from:
+  ja: ジャラコ
+  en:
+weakness:
+  type:
+  value:
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: ダブルスマッシュ
+    en: Double Smash
+  cost:
+  - Lightning
+  - Fighting
+  damage: 70×
+  effect_text:
+    ja: コインを2回投げ、オモテの数×70ダメージ。
+    en: Flip 2 coins. This attack does 70 damage for each heads.
+first_appearance:
+  set_name_ja: ストームエメラルダ
+  released_at: '2026-07-31'
+  regulation_mark: J
+  collector_number: '051'
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/M6/050389_P_JIXYARANGO.jpg
+printings:
+- language: ja
+  set_code: M6
+  set_mark: M6
+  set_name: ストームエメラルダ
+  collector_number: '051'
+  collector_number_unprinted: false
+  rarity: C
+  rarity_unprinted: false
+  illustrator: Scav
+  illustrator_unprinted: false
+  regulation_mark: J
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/M6/050389_P_JIXYARANGO.jpg
+- language: en
+  set_code: DLR
+  set_mark: DLR
+  set_name: Mega Evolution—Delta Reign
+  collector_number: '74'
+  collector_number_unprinted: false
+  rarity: C
+  rarity_unprinted: false
+  illustrator:
+  illustrator_unprinted: false
+  regulation_mark: J
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DLR/DLR_074_R_EN_XS.png

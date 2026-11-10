@@ -1,5 +1,5 @@
 ---
-schema_version: 1
+schema_version: 2
 slug: veluza-ex
 name:
   ja: ミガルーサex
@@ -57,4 +57,31 @@ first_appearance:
   released_at:
   regulation_mark: H
   collector_number: '46126'
-  image_url:
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV-P/046126_P_MIGARUSAEX.jpg
+printings:
+- language: ja
+  set_code:
+  set_mark: SV-P
+  set_name: スカーレット＆バイオレット プロモカードパック第7弾
+  collector_number: '46126'
+  collector_number_unprinted: true
+  rarity:
+  rarity_unprinted: true
+  illustrator: 5ban Graphics
+  illustrator_unprinted: false
+  regulation_mark:
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV-P/046126_P_MIGARUSAEX.jpg
+- language: en
+  set_code: JTG
+  set_mark: JTG
+  set_name: JTG
+  collector_number: '43'
+  collector_number_unprinted: false
+  rarity: RR
+  rarity_unprinted: false
+  illustrator: 5ban Graphics
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/JTG/JTG_043_R_EN_XS.png

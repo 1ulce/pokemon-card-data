@@ -1,5 +1,5 @@
 ---
-schema_version: 1
+schema_version: 2
 slug: jp-デウロ
 name:
   ja: デウロ
@@ -37,4 +37,18 @@ first_appearance:
   released_at:
   regulation_mark:
   collector_number: '50475'
+  image_url:
+printings:
+- language: ja
+  set_code:
+  set_mark: M-P
+  set_name: ポケモンカードゲーム MEGA　プロモカードパック第5弾
+  collector_number: '50475'
+  collector_number_unprinted: true
+  rarity:
+  rarity_unprinted: true
+  illustrator: En Morikura
+  illustrator_unprinted: false
+  regulation_mark:
+  regulation_mark_unprinted: false
   image_url:

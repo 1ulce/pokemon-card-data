@@ -1,5 +1,5 @@
 ---
-schema_version: 1
+schema_version: 2
 slug: vivillon
 name:
   ja: ビビヨン
@@ -54,4 +54,57 @@ first_appearance:
   released_at: '2024-10-18'
   regulation_mark: H
   collector_number: '006'
-  image_url:
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV8/046346_P_BIBIYON.jpg
+printings:
+- language: ja
+  set_code: SV8
+  set_mark: SV8
+  set_name: 超電ブレイカー
+  collector_number: '006'
+  collector_number_unprinted: false
+  rarity: U
+  rarity_unprinted: false
+  illustrator: Amelicart
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV8/046346_P_BIBIYON.jpg
+- language: ja
+  set_code: SV8
+  set_mark: SV8
+  set_name: 超電ブレイカー
+  collector_number: '107'
+  collector_number_unprinted: false
+  rarity: AR
+  rarity_unprinted: false
+  illustrator: REND
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV8/046630_P_BIBIYON.jpg
+- language: en
+  set_code: SSP
+  set_mark: SSP
+  set_name: SSP
+  collector_number: '7'
+  collector_number_unprinted: false
+  rarity: U
+  rarity_unprinted: false
+  illustrator: Amelicart
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SSP/SSP_007_R_EN_XS.png
+- language: en
+  set_code: SSP
+  set_mark: SSP
+  set_name: SSP
+  collector_number: '193'
+  collector_number_unprinted: false
+  rarity: AR
+  rarity_unprinted: false
+  illustrator: REND
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SSP/SSP_193_R_EN_XS.png

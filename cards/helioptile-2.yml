@@ -1,8 +1,6 @@
 ---
-schema_version: 1
+schema_version: 2
 slug: helioptile-2
-external_link:
-  cabt_id: 870
 name:
   ja: エリキテル
   en: Helioptile
@@ -47,4 +45,31 @@ first_appearance:
   released_at: '2025-11-28'
   regulation_mark: I
   collector_number: '052'
-  image_url:
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/M2a/048574_P_ERIKITERU.jpg
+printings:
+- language: ja
+  set_code: M2a
+  set_mark: M2a
+  set_name: MEGAドリームex
+  collector_number: '052'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: Tika Matsuno
+  illustrator_unprinted: false
+  regulation_mark: I
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/M2a/048574_P_ERIKITERU.jpg
+- language: en
+  set_code: ASC
+  set_mark: ASC
+  set_name: ASC
+  collector_number: '63'
+  collector_number_unprinted: false
+  rarity: C
+  rarity_unprinted: false
+  illustrator: Tika Matsuno
+  illustrator_unprinted: false
+  regulation_mark: I
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/ASC/ASC_063_R_EN_XS.png

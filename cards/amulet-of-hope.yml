@@ -1,8 +1,6 @@
 ---
-schema_version: 1
+schema_version: 2
 slug: amulet-of-hope
-external_link:
-  cabt_id: 1169
 name:
   ja: 希望のアミュレット
   en: Amulet of Hope
@@ -38,3 +36,30 @@ first_appearance:
   regulation_mark: H
   collector_number: '098'
   image_url:
+printings:
+- language: ja
+  set_code: SV8
+  set_mark: SV8
+  set_name: 超電ブレイカー
+  collector_number: '098'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: false
+  illustrator: Toyste Beach
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url:
+- language: en
+  set_code: SSP
+  set_mark: SSP
+  set_name: SSP
+  collector_number: '162'
+  collector_number_unprinted: false
+  rarity: SR
+  rarity_unprinted: false
+  illustrator: Toyste Beach
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SSP/SSP_162_R_EN_XS.png

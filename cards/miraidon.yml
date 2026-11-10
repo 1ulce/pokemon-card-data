@@ -1,8 +1,6 @@
 ---
-schema_version: 1
+schema_version: 2
 slug: miraidon
-external_link:
-  cabt_id: 87
 name:
   ja: ミライドン
   en: Miraidon
@@ -58,4 +56,96 @@ first_appearance:
   released_at: '2024-01-26'
   regulation_mark: H
   collector_number: '052'
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV5M/045269_P_MIRAIDON.jpg
+printings:
+- language: ja
+  set_code: SV5M
+  set_mark: SV5M
+  set_name: サイバージャッジ
+  collector_number: '052'
+  collector_number_unprinted: false
+  rarity: R
+  rarity_unprinted: false
+  illustrator: GOSSAN
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV5M/045269_P_MIRAIDON.jpg
+- language: ja
+  set_code: SV8a
+  set_mark: SV8a
+  set_name: テラスタルフェスex
+  collector_number: '123'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: akagi
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
   image_url:
+- language: ja
+  set_code:
+  set_mark: MC
+  set_name: スタートデッキ100 バトルコレクション
+  collector_number: '552'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: GOSSAN
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: SV-P
+  set_name: ファーストエントリーキャンペーン
+  collector_number: '45404'
+  collector_number_unprinted: true
+  rarity:
+  rarity_unprinted: true
+  illustrator: GOSSAN
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url:
+- language: en
+  set_code: TEF
+  set_mark: TEF
+  set_name: TEF
+  collector_number: '121'
+  collector_number_unprinted: false
+  rarity: R
+  rarity_unprinted: false
+  illustrator: GOSSAN
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TEF/TEF_121_R_EN_XS.png
+- language: en
+  set_code: SVALT
+  set_mark: SVALT
+  set_name: SVALT
+  collector_number: '123'
+  collector_number_unprinted: false
+  rarity: R
+  rarity_unprinted: false
+  illustrator: GOSSAN
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TEF/TEF_121_R_EN_XS.png
+- language: en
+  set_code: SVP
+  set_mark: SVP
+  set_name: SVP
+  collector_number: '92'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: akagi
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVP/SVP_092_R_EN_XS.png

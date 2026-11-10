@@ -1,8 +1,6 @@
 ---
-schema_version: 1
+schema_version: 2
 slug: rattata
-external_link:
-  cabt_id: 1069
 name:
   ja: コラッタ
   en: Rattata
@@ -46,4 +44,31 @@ first_appearance:
   released_at: '2026-01-23'
   regulation_mark: J
   collector_number: '059'
-  image_url:
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/M3/049692_P_KORATTA.jpg
+printings:
+- language: ja
+  set_code: M3
+  set_mark: M3
+  set_name: ムニキスゼロ
+  collector_number: '059'
+  collector_number_unprinted: false
+  rarity: C
+  rarity_unprinted: false
+  illustrator: Shinya Komatsu
+  illustrator_unprinted: false
+  regulation_mark: J
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/M3/049692_P_KORATTA.jpg
+- language: en
+  set_code: POR
+  set_mark: POR
+  set_name: POR
+  collector_number: '60'
+  collector_number_unprinted: false
+  rarity: C
+  rarity_unprinted: false
+  illustrator: Shinya Komatsu
+  illustrator_unprinted: false
+  regulation_mark: J
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/POR/POR_060_R_EN_XS.png

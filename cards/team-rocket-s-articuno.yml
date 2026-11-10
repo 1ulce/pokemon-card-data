@@ -1,8 +1,6 @@
 ---
-schema_version: 1
+schema_version: 2
 slug: team-rocket-s-articuno
-external_link:
-  cabt_id: 414
 name:
   ja: ロケット団のフリーザー
   en: Team Rocket's Articuno
@@ -55,4 +53,44 @@ first_appearance:
   released_at: '2025-04-18'
   regulation_mark: I
   collector_number: '022'
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV10/047415_P_ROKETTODANNOFURIZA.jpg
+printings:
+- language: ja
+  set_code: SV10
+  set_mark: SV10
+  set_name: ロケット団の栄光
+  collector_number: '022'
+  collector_number_unprinted: false
+  rarity: R
+  rarity_unprinted: false
+  illustrator: Mitsuhiro Arita
+  illustrator_unprinted: false
+  regulation_mark: I
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV10/047415_P_ROKETTODANNOFURIZA.jpg
+- language: ja
+  set_code: M2a
+  set_mark: M2a
+  set_name: MEGAドリームex
+  collector_number: '034'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: Mitsuhiro Arita
+  illustrator_unprinted: false
+  regulation_mark: I
+  regulation_mark_unprinted: false
   image_url:
+- language: en
+  set_code: DRI
+  set_mark: DRI
+  set_name: DRI
+  collector_number: '51'
+  collector_number_unprinted: false
+  rarity: R
+  rarity_unprinted: false
+  illustrator: Mitsuhiro Arita
+  illustrator_unprinted: false
+  regulation_mark: I
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRI/DRI_051_R_EN_XS.png

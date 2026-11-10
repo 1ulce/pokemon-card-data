@@ -1,8 +1,6 @@
 ---
-schema_version: 1
+schema_version: 2
 slug: billy-o-nare
-external_link:
-  cabt_id: 1181
 name:
   ja: ビリオとネア
   en: Billy & O'Nare
@@ -36,4 +34,31 @@ first_appearance:
   released_at:
   regulation_mark: H
   collector_number: '46131'
-  image_url:
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV-P/046131_T_BIRIOTONEA.jpg
+printings:
+- language: ja
+  set_code:
+  set_mark: SV-P
+  set_name: スカーレット＆バイオレット プロモカードパック第7弾
+  collector_number: '46131'
+  collector_number_unprinted: true
+  rarity:
+  rarity_unprinted: true
+  illustrator: Sanosuke Sakuma
+  illustrator_unprinted: false
+  regulation_mark:
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV-P/046131_T_BIRIOTONEA.jpg
+- language: en
+  set_code: JTG
+  set_mark: JTG
+  set_name: JTG
+  collector_number: '142'
+  collector_number_unprinted: false
+  rarity: C
+  rarity_unprinted: false
+  illustrator: Sanosuke Sakuma
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/JTG/JTG_142_R_EN_XS.png

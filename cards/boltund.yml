@@ -1,5 +1,5 @@
 ---
-schema_version: 1
+schema_version: 2
 slug: boltund
 name:
   ja: パルスワン
@@ -45,3 +45,56 @@ first_appearance:
   regulation_mark: H
   collector_number: '005'
   image_url:
+printings:
+- language: ja
+  set_code:
+  set_mark: SVHM
+  set_name: 未来のミライドンex
+  collector_number: '005'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: Oswaldo KATO
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: MP1
+  set_name: スタートデッキ100 バトルコレクション コロちゃおVer.
+  collector_number: '009'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: Oswaldo KATO
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/M-P/049595_P_PARUSUWAN.jpg
+- language: ja
+  set_code:
+  set_mark: MC
+  set_name: スタートデッキ100 バトルコレクション
+  collector_number: '269'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: Oswaldo KATO
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url:
+- language: en
+  set_code: TEF
+  set_mark: TEF
+  set_name: TEF
+  collector_number: '59'
+  collector_number_unprinted: false
+  rarity: U
+  rarity_unprinted: false
+  illustrator: Oswaldo KATO
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TEF/TEF_059_R_EN_XS.png

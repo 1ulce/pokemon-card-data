@@ -1,0 +1,109 @@
+---
+schema_version: 2
+slug: talonflame-ex
+name:
+  ja: ファイアローex
+  en: Talonflame ex
+  prefix:
+card_type: Pokémon
+card_subtype: 2進化
+energy_type: Colorless
+hp: 280
+retreat_cost: 0
+regulation_mark: J
+meta_tags:
+- ex
+evolves_from:
+  ja: ヒノヤコマ
+  en: Fletchinder
+weakness:
+  type: Lightning
+  value: "×2"
+resistance:
+  type: Fighting
+  value: "-30"
+body_text:
+  ja:
+  en:
+rules_text:
+  ja: ポケモンexがきぜつしたとき、相手はサイドを2枚とる。
+  en:
+abilities:
+- position: 0
+  name:
+    ja: エキサイトダイブ
+    en: Excited Dive
+  effect_text:
+    ja: 自分の番に、このカードが手札にあり、自分の場に無色タイプの「メガシンカex」がいるなら、1回使える。このカードをベンチに出す。
+    en: Once during your turn, if this Pokémon is in your hand, and if you have any [C] Mega Evolution Pokémon ex in play, you may use this Ability. Put this Pokémon onto your Bench.
+attacks:
+- position: 0
+  name:
+    ja: かぎづめハント
+    en: Talon Hunt
+  cost:
+  - Colorless
+  - Colorless
+  damage: '150'
+  effect_text:
+    ja: のぞむなら、自分の山札から好きなカードを2枚まで選び、手札に加える。そして山札を切る。
+    en: You may search your deck for up to 2 cards and put them into your hand. Then, shuffle your deck.
+first_appearance:
+  set_name_ja: ストームエメラルダ
+  released_at: '2026-07-31'
+  regulation_mark: J
+  collector_number: '062'
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/M6/050400_P_FUAIAROIEKKUSU.jpg
+printings:
+- language: ja
+  set_code: M6
+  set_mark: M6
+  set_name: ストームエメラルダ
+  collector_number: '062'
+  collector_number_unprinted: false
+  rarity: RR
+  rarity_unprinted: false
+  illustrator: 5ban Graphics
+  illustrator_unprinted: false
+  regulation_mark: J
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/M6/050400_P_FUAIAROIEKKUSU.jpg
+- language: ja
+  set_code: M6
+  set_mark: M6
+  set_name: ストームエメラルダ
+  collector_number: '096'
+  collector_number_unprinted: false
+  rarity: SR
+  rarity_unprinted: false
+  illustrator: 5ban Graphics
+  illustrator_unprinted: false
+  regulation_mark: J
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/M6/050537_P_FUAIAROIEKKUSU.jpg
+- language: en
+  set_code: DLR
+  set_mark: DLR
+  set_name: Mega Evolution—Delta Reign
+  collector_number: '88'
+  collector_number_unprinted: false
+  rarity: RR
+  rarity_unprinted: false
+  illustrator:
+  illustrator_unprinted: false
+  regulation_mark: J
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DLR/DLR_088_R_EN_XS.png
+- language: en
+  set_code: DLR
+  set_mark: DLR
+  set_name: Mega Evolution—Delta Reign
+  collector_number: '124'
+  collector_number_unprinted: false
+  rarity: SR
+  rarity_unprinted: false
+  illustrator:
+  illustrator_unprinted: false
+  regulation_mark: J
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DLR/DLR_124_R_EN_XS.png

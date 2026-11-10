@@ -1,8 +1,6 @@
 ---
-schema_version: 1
+schema_version: 2
 slug: antique-jaw-fossil
-external_link:
-  cabt_id: 1150
 name:
   ja: 古びたアゴの化石
   en: Antique Jaw Fossil
@@ -46,4 +44,31 @@ first_appearance:
   released_at: '2026-01-23'
   regulation_mark: J
   collector_number: '068'
-  image_url:
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/M3/049701_T_FURUBITAAGONOKASEKI.jpg
+printings:
+- language: ja
+  set_code: M3
+  set_mark: M3
+  set_name: ムニキスゼロ
+  collector_number: '068'
+  collector_number_unprinted: false
+  rarity: C
+  rarity_unprinted: false
+  illustrator: AYUMI ODASHIMA
+  illustrator_unprinted: false
+  regulation_mark: J
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/M3/049701_T_FURUBITAAGONOKASEKI.jpg
+- language: en
+  set_code: POR
+  set_mark: POR
+  set_name: POR
+  collector_number: '68'
+  collector_number_unprinted: false
+  rarity: C
+  rarity_unprinted: false
+  illustrator: AYUMI ODASHIMA
+  illustrator_unprinted: false
+  regulation_mark: J
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/POR/POR_068_R_EN_XS.png

@@ -1,8 +1,6 @@
 ---
-schema_version: 1
+schema_version: 2
 slug: cassiopeia
-external_link:
-  cabt_id: 1196
 name:
   ja: カシオペア
   en: Cassiopeia
@@ -39,4 +37,83 @@ first_appearance:
   released_at: '2024-06-07'
   regulation_mark: H
   collector_number: '061'
-  image_url:
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV6a/045936_T_KASHIOPEA.jpg
+printings:
+- language: ja
+  set_code: SV6a
+  set_mark: SV6a
+  set_name: ナイトワンダラー
+  collector_number: '061'
+  collector_number_unprinted: false
+  rarity: U
+  rarity_unprinted: false
+  illustrator: Atsushi Furusawa
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV6a/045936_T_KASHIOPEA.jpg
+- language: ja
+  set_code: SV6a
+  set_mark: SV6a
+  set_name: ナイトワンダラー
+  collector_number: '085'
+  collector_number_unprinted: false
+  rarity: SR
+  rarity_unprinted: false
+  illustrator: Atsushi Furusawa
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV6a/046062_T_KASHIOPEA.jpg
+- language: ja
+  set_code: SV6a
+  set_mark: SV6a
+  set_name: ナイトワンダラー
+  collector_number: '091'
+  collector_number_unprinted: false
+  rarity: SAR
+  rarity_unprinted: false
+  illustrator: burari
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV6a/046068_T_KASHIOPEA.jpg
+- language: en
+  set_code: SFA
+  set_mark: SFA
+  set_name: SFA
+  collector_number: '56'
+  collector_number_unprinted: false
+  rarity: U
+  rarity_unprinted: false
+  illustrator: Atsushi Furusawa
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SFA/SFA_056_R_EN_XS.png
+- language: en
+  set_code: SFA
+  set_mark: SFA
+  set_name: SFA
+  collector_number: '86'
+  collector_number_unprinted: false
+  rarity: SR
+  rarity_unprinted: false
+  illustrator: Atsushi Furusawa
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SFA/SFA_086_R_EN_XS.png
+- language: en
+  set_code: SFA
+  set_mark: SFA
+  set_name: SFA
+  collector_number: '94'
+  collector_number_unprinted: false
+  rarity: SAR
+  rarity_unprinted: false
+  illustrator: burari
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SFA/SFA_094_R_EN_XS.png

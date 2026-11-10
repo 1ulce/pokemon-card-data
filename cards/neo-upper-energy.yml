@@ -1,8 +1,6 @@
 ---
-schema_version: 1
+schema_version: 2
 slug: neo-upper-energy
-external_link:
-  cabt_id: 10
 name:
   ja: ネオアッパーエネルギー
   en: Neo Upper Energy
@@ -41,3 +39,30 @@ first_appearance:
   regulation_mark: H
   collector_number: '071'
   image_url:
+printings:
+- language: ja
+  set_code: SV5K
+  set_mark: SV5K
+  set_name: ワイルドフォース
+  collector_number: '071'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: false
+  illustrator:
+  illustrator_unprinted: true
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url:
+- language: en
+  set_code: TEF
+  set_mark: TEF
+  set_name: TEF
+  collector_number: '162'
+  collector_number_unprinted: false
+  rarity: SR
+  rarity_unprinted: false
+  illustrator:
+  illustrator_unprinted: true
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TEF/TEF_162_R_EN_XS.png

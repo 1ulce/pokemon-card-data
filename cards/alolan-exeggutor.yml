@@ -1,5 +1,5 @@
 ---
-schema_version: 1
+schema_version: 2
 slug: alolan-exeggutor
 name:
   ja: アローラ ナッシー
@@ -54,4 +54,70 @@ first_appearance:
   released_at: '2026-09-16'
   regulation_mark: J
   collector_number: '002'
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/M6a/050614_P_ARORANASSHI.jpg
+printings:
+- language: ja
+  set_code: M6a
+  set_mark: M6a
+  set_name: 拡張パック 30th CELEBRATION
+  collector_number: '002'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: Oswaldo KATO
+  illustrator_unprinted: false
+  regulation_mark: J
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/M6a/050614_P_ARORANASSHI.jpg
+- language: ja
+  set_code:
+  set_mark: M-P
+  set_name: ポケモンカードゲーム 30thプロモカードパック
+  collector_number: '50557'
+  collector_number_unprinted: true
+  rarity:
+  rarity_unprinted: true
+  illustrator: yuu
+  illustrator_unprinted: false
+  regulation_mark: J
+  regulation_mark_unprinted: false
   image_url:
+- language: en
+  set_code: 30C
+  set_mark: 30C
+  set_name: 30C
+  collector_number: '2'
+  collector_number_unprinted: false
+  rarity: C
+  rarity_unprinted: false
+  illustrator: Oswaldo KATO
+  illustrator_unprinted: false
+  regulation_mark: J
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/30C/30C_002_R_EN_XS.png
+- language: en
+  set_code: 30C
+  set_mark: 30C
+  set_name: 30C
+  collector_number: '129'
+  collector_number_unprinted: false
+  rarity: AR
+  rarity_unprinted: false
+  illustrator: AYUMI ODASHIMA
+  illustrator_unprinted: false
+  regulation_mark: J
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/30C/30C_129_R_EN_XS.png
+- language: en
+  set_code: MEP
+  set_mark: MEP
+  set_name: MEP
+  collector_number: '94'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: yuu
+  illustrator_unprinted: false
+  regulation_mark: J
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/MEP/MEP_094_R_EN_XS.png

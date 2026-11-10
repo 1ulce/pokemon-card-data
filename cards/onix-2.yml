@@ -1,5 +1,5 @@
 ---
-schema_version: 1
+schema_version: 2
 slug: onix-2
 name:
   ja: イワーク
@@ -32,7 +32,7 @@ attacks:
 - position: 0
   name:
     ja: ガードプレス
-    en:
+    en: Guard Press
   cost:
   - Colorless
   - Colorless
@@ -40,10 +40,37 @@ attacks:
   damage: '80'
   effect_text:
     ja: 次の相手の番、このポケモンが受けるワザのダメージは「-30」される。
-    en:
+    en: During your opponent's next turn, this Pokémon takes 30 less damage from attacks (after applying Weakness and Resistance).
 first_appearance:
   set_name_ja: ストームエメラルダ
   released_at: '2026-07-31'
   regulation_mark: J
   collector_number: '037'
-  image_url:
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/M6/050375_P_IWAKU.jpg
+printings:
+- language: ja
+  set_code: M6
+  set_mark: M6
+  set_name: ストームエメラルダ
+  collector_number: '037'
+  collector_number_unprinted: false
+  rarity: C
+  rarity_unprinted: false
+  illustrator: Kedamahadaitai Yawarakai
+  illustrator_unprinted: false
+  regulation_mark: J
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/M6/050375_P_IWAKU.jpg
+- language: en
+  set_code: DLR
+  set_mark: DLR
+  set_name: Mega Evolution—Delta Reign
+  collector_number: '51'
+  collector_number_unprinted: false
+  rarity: C
+  rarity_unprinted: false
+  illustrator:
+  illustrator_unprinted: false
+  regulation_mark: J
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DLR/DLR_051_R_EN_XS.png

@@ -1,8 +1,6 @@
 ---
-schema_version: 1
+schema_version: 2
 slug: greavard-2
-external_link:
-  cabt_id: 752
 name:
   ja: ボチ
   en: Greavard
@@ -57,4 +55,44 @@ first_appearance:
   released_at: '2025-08-01'
   regulation_mark: I
   collector_number: '047'
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/M1S/047843_P_BOCHI.jpg
+printings:
+- language: ja
+  set_code: M1S
+  set_mark: M1S
+  set_name: メガシンフォニア
+  collector_number: '047'
+  collector_number_unprinted: false
+  rarity: C
+  rarity_unprinted: false
+  illustrator: Narumi Sato
+  illustrator_unprinted: false
+  regulation_mark: I
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/M1S/047843_P_BOCHI.jpg
+- language: ja
+  set_code:
+  set_mark: MC
+  set_name: スタートデッキ100 バトルコレクション
+  collector_number: '349'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: Narumi Sato
+  illustrator_unprinted: false
+  regulation_mark: I
+  regulation_mark_unprinted: false
   image_url:
+- language: en
+  set_code: MEG
+  set_mark: MEG
+  set_name: MEG
+  collector_number: '65'
+  collector_number_unprinted: false
+  rarity: C
+  rarity_unprinted: false
+  illustrator: Narumi Sato
+  illustrator_unprinted: false
+  regulation_mark: I
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/MEG/MEG_065_R_EN_XS.png

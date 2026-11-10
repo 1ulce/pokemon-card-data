@@ -1,5 +1,5 @@
 ---
-schema_version: 1
+schema_version: 2
 slug: sprigatito-2
 name:
   ja: ニャオハ
@@ -10,7 +10,7 @@ card_subtype: たねポケモン
 energy_type: Grass
 hp: 70
 retreat_cost: 1
-regulation_mark:
+regulation_mark: J
 meta_tags: []
 evolves_from:
   ja:
@@ -32,16 +32,69 @@ attacks:
 - position: 0
   name:
     ja: じゃれつく
-    en:
+    en: Play Rough
   cost:
   - Grass
   damage: 10+
   effect_text:
     ja: コインを1回投げオモテなら、20ダメージ追加。
-    en:
+    en: Flip a coin. If heads, this attack does 20 more damage.
 first_appearance:
   set_name_ja: スターターセットex ニャオハ＆マスカーニャex
   released_at:
-  regulation_mark:
+  regulation_mark: J
   collector_number: '003'
   image_url:
+printings:
+- language: ja
+  set_code:
+  set_mark: MEM
+  set_name: スターターセットex ニャオハ＆マスカーニャex
+  collector_number: '003'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: Makura Tami
+  illustrator_unprinted: false
+  regulation_mark: J
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: MEM
+  set_name: スターターセットex ニャオハ＆マスカーニャex
+  collector_number: '018'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: Jiro Sasumo
+  illustrator_unprinted: false
+  regulation_mark: I
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/MEM/050469_P_NIXYAOHA.jpg
+- language: en
+  set_code: DLR
+  set_mark: DLR
+  set_name: Mega Evolution—Delta Reign
+  collector_number: '12'
+  collector_number_unprinted: false
+  rarity: C
+  rarity_unprinted: false
+  illustrator:
+  illustrator_unprinted: false
+  regulation_mark: J
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DLR/DLR_012_R_EN_XS.png
+- language: en
+  set_code: DLR
+  set_mark: DLR
+  set_name: Mega Evolution—Delta Reign
+  collector_number: '105'
+  collector_number_unprinted: false
+  rarity: AR
+  rarity_unprinted: false
+  illustrator:
+  illustrator_unprinted: false
+  regulation_mark: J
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DLR/DLR_105_R_EN_XS.png

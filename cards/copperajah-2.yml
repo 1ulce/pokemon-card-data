@@ -1,5 +1,5 @@
 ---
-schema_version: 1
+schema_version: 2
 slug: copperajah-2
 name:
   ja: ダイオウドウ
@@ -60,3 +60,43 @@ first_appearance:
   regulation_mark: H
   collector_number: '087'
   image_url:
+printings:
+- language: ja
+  set_code:
+  set_mark: SVM
+  set_name: スタートデッキGenerations ザシアンex・マホイップex
+  collector_number: '087'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: Ryuta Fuse
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: MC
+  set_name: スタートデッキ100 バトルコレクション
+  collector_number: '522'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: Ryuta Fuse
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/MC/049238_P_DAIOUDOU.jpg
+- language: en
+  set_code: JTG
+  set_mark: JTG
+  set_name: JTG
+  collector_number: '110'
+  collector_number_unprinted: false
+  rarity: U
+  rarity_unprinted: false
+  illustrator: Ryuta Fuse
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/JTG/JTG_110_R_EN_XS.png

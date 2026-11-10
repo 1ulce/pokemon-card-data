@@ -1,8 +1,6 @@
 ---
-schema_version: 1
+schema_version: 2
 slug: iron-thorns-ex
-external_link:
-  cabt_id: 37
 name:
   ja: テツノイバラex
   en: Iron Thorns ex
@@ -57,3 +55,95 @@ first_appearance:
   regulation_mark: H
   collector_number: '033'
   image_url:
+printings:
+- language: ja
+  set_code: SV5a
+  set_mark: SV5a
+  set_name: クリムゾンヘイズ
+  collector_number: '033'
+  collector_number_unprinted: false
+  rarity: RR
+  rarity_unprinted: false
+  illustrator: PLANETA Mochizuki
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code: SV5a
+  set_mark: SV5a
+  set_name: クリムゾンヘイズ
+  collector_number: '081'
+  collector_number_unprinted: false
+  rarity: SR
+  rarity_unprinted: false
+  illustrator: PLANETA Mochizuki
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV5a/045676_P_TETSUNOIBARAEX.jpg
+- language: ja
+  set_code: SV8a
+  set_mark: SV8a
+  set_name: テラスタルフェスex
+  collector_number: '056'
+  collector_number_unprinted: false
+  rarity: RR
+  rarity_unprinted: false
+  illustrator: PLANETA Mochizuki
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV8a/046717_P_TETSUNOIBARAEX.jpg
+- language: ja
+  set_code:
+  set_mark: MC
+  set_name: スタートデッキ100 バトルコレクション
+  collector_number: '282'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: PLANETA Mochizuki
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url:
+- language: en
+  set_code: TWM
+  set_mark: TWM
+  set_name: TWM
+  collector_number: '77'
+  collector_number_unprinted: false
+  rarity: RR
+  rarity_unprinted: false
+  illustrator: PLANETA Mochizuki
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TWM/TWM_077_R_EN_XS.png
+- language: en
+  set_code: TWM
+  set_mark: TWM
+  set_name: TWM
+  collector_number: '196'
+  collector_number_unprinted: false
+  rarity: SR
+  rarity_unprinted: false
+  illustrator: PLANETA Mochizuki
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TWM/TWM_196_R_EN_XS.png
+- language: en
+  set_code: PRE
+  set_mark: PRE
+  set_name: PRE
+  collector_number: '32'
+  collector_number_unprinted: false
+  rarity: RR
+  rarity_unprinted: false
+  illustrator: PLANETA Mochizuki
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PRE/PRE_032_R_EN_XS.png

@@ -1,8 +1,6 @@
 ---
-schema_version: 1
+schema_version: 2
 slug: whimsicott-2
-external_link:
-  cabt_id: 815
 name:
   ja: エルフーン
   en: Whimsicott
@@ -56,4 +54,31 @@ first_appearance:
   released_at: '2025-09-26'
   regulation_mark: I
   collector_number: '038'
-  image_url:
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/M2/048378_P_ERUFUN.jpg
+printings:
+- language: ja
+  set_code: M2
+  set_mark: M2
+  set_name: インフェルノX
+  collector_number: '038'
+  collector_number_unprinted: false
+  rarity: U
+  rarity_unprinted: false
+  illustrator: Yuka Tanaka
+  illustrator_unprinted: false
+  regulation_mark: I
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/M2/048378_P_ERUFUN.jpg
+- language: en
+  set_code: MEP
+  set_mark: MEP
+  set_name: MEP
+  collector_number: '19'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: Yuka Tanaka
+  illustrator_unprinted: false
+  regulation_mark: I
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/MEP/MEP_019_R_EN_XS.png

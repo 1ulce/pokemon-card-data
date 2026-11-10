@@ -1,5 +1,5 @@
 ---
-schema_version: 1
+schema_version: 2
 slug: skarmory-2
 name:
   ja: エアームド
@@ -45,4 +45,70 @@ first_appearance:
   released_at: '2024-09-13'
   regulation_mark: H
   collector_number: '034'
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV7a/046263_P_EAMUDO.jpg
+printings:
+- language: ja
+  set_code: SV7a
+  set_mark: SV7a
+  set_name: 楽園ドラゴーナ
+  collector_number: '034'
+  collector_number_unprinted: false
+  rarity: C
+  rarity_unprinted: false
+  illustrator: kawayoo
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV7a/046263_P_EAMUDO.jpg
+- language: ja
+  set_code: SV7a
+  set_mark: SV7a
+  set_name: 楽園ドラゴーナ
+  collector_number: '073'
+  collector_number_unprinted: false
+  rarity: AR
+  rarity_unprinted: false
+  illustrator: Takumi Wada
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV7a/046319_P_EAMUDO.jpg
+- language: ja
+  set_code:
+  set_mark: MC
+  set_name: スタートデッキ100 バトルコレクション
+  collector_number: '493'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: kawayoo
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
   image_url:
+- language: en
+  set_code: SSP
+  set_mark: SSP
+  set_name: SSP
+  collector_number: '124'
+  collector_number_unprinted: false
+  rarity: C
+  rarity_unprinted: false
+  illustrator: kawayoo
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SSP/SSP_124_R_EN_XS.png
+- language: en
+  set_code: SSP
+  set_mark: SSP
+  set_name: SSP
+  collector_number: '209'
+  collector_number_unprinted: false
+  rarity: AR
+  rarity_unprinted: false
+  illustrator: Takumi Wada
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SSP/SSP_209_R_EN_XS.png

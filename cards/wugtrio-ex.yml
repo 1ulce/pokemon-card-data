@@ -1,8 +1,6 @@
 ---
-schema_version: 1
+schema_version: 2
 slug: wugtrio-ex
-external_link:
-  cabt_id: 52
 name:
   ja: ウミトリオex
   en: Wugtrio ex
@@ -15,7 +13,6 @@ retreat_cost: 1
 regulation_mark: H
 meta_tags:
 - ex
-- tera
 evolves_from:
   ja: ウミディグダ
   en: Wiglett
@@ -59,4 +56,57 @@ first_appearance:
   released_at: '2024-01-26'
   regulation_mark: H
   collector_number: '025'
-  image_url:
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV5K/045171_P_UMITORIOEX.jpg
+printings:
+- language: ja
+  set_code: SV5K
+  set_mark: SV5K
+  set_name: ワイルドフォース
+  collector_number: '025'
+  collector_number_unprinted: false
+  rarity: RR
+  rarity_unprinted: false
+  illustrator: 5ban Graphics
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV5K/045171_P_UMITORIOEX.jpg
+- language: ja
+  set_code: SV5K
+  set_mark: SV5K
+  set_name: ワイルドフォース
+  collector_number: '087'
+  collector_number_unprinted: false
+  rarity: SR
+  rarity_unprinted: false
+  illustrator: 5ban Graphics
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV5K/045530_P_UMITORIOEX.jpg
+- language: en
+  set_code: TEF
+  set_mark: TEF
+  set_name: TEF
+  collector_number: '60'
+  collector_number_unprinted: false
+  rarity: RR
+  rarity_unprinted: false
+  illustrator: 5ban Graphics
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TEF/TEF_060_R_EN_XS.png
+- language: en
+  set_code: TEF
+  set_mark: TEF
+  set_name: TEF
+  collector_number: '190'
+  collector_number_unprinted: false
+  rarity: SR
+  rarity_unprinted: false
+  illustrator: 5ban Graphics
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TEF/TEF_190_R_EN_XS.png

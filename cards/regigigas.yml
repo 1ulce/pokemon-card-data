@@ -1,8 +1,6 @@
 ---
-schema_version: 1
+schema_version: 2
 slug: regigigas
-external_link:
-  cabt_id: 251
 name:
   ja: レジギガス
   en: Regigigas
@@ -49,4 +47,31 @@ first_appearance:
   released_at: '2024-12-06'
   regulation_mark: H
   collector_number: '132'
-  image_url:
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV8a/046793_P_REJIGIGASU.jpg
+printings:
+- language: ja
+  set_code: SV8a
+  set_mark: SV8a
+  set_name: テラスタルフェスex
+  collector_number: '132'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: chibi
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV8a/046793_P_REJIGIGASU.jpg
+- language: en
+  set_code: PRE
+  set_mark: PRE
+  set_name: PRE
+  collector_number: '86'
+  collector_number_unprinted: false
+  rarity: U
+  rarity_unprinted: false
+  illustrator: chibi
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PRE/PRE_086_R_EN_XS.png

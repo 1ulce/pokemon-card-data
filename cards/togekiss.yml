@@ -1,8 +1,6 @@
 ---
-schema_version: 1
+schema_version: 2
 slug: togekiss
-external_link:
-  cabt_id: 214
 name:
   ja: トゲキッス
   en: Togekiss
@@ -55,4 +53,109 @@ first_appearance:
   released_at: '2024-10-18'
   regulation_mark: H
   collector_number: '047'
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV8/046387_P_TOGEKISSU.jpg
+printings:
+- language: ja
+  set_code: SV8
+  set_mark: SV8
+  set_name: 超電ブレイカー
+  collector_number: '047'
+  collector_number_unprinted: false
+  rarity: R
+  rarity_unprinted: false
+  illustrator: Narano
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV8/046387_P_TOGEKISSU.jpg
+- language: ja
+  set_code: M2a
+  set_mark: M2a
+  set_name: MEGAドリームex
+  collector_number: '066'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: Narano
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
   image_url:
+- language: ja
+  set_code: M2a
+  set_mark: M2a
+  set_name: MEGAドリームex
+  collector_number: '203'
+  collector_number_unprinted: false
+  rarity: AR
+  rarity_unprinted: false
+  illustrator: satoma
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/M2a/049963_P_TOGEKISSU.jpg
+- language: ja
+  set_code:
+  set_mark: MC
+  set_name: スタートデッキ100 バトルコレクション
+  collector_number: '293'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: Narano
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url:
+- language: en
+  set_code: SSP
+  set_mark: SSP
+  set_name: SSP
+  collector_number: '72'
+  collector_number_unprinted: false
+  rarity: R
+  rarity_unprinted: false
+  illustrator: Narano
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SSP/SSP_072_R_EN_XS.png
+- language: en
+  set_code: ASC
+  set_mark: ASC
+  set_name: ASC
+  collector_number: '82'
+  collector_number_unprinted: false
+  rarity: R
+  rarity_unprinted: false
+  illustrator: Narano
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/ASC/ASC_082_R_EN_XS.png
+- language: en
+  set_code: ASC
+  set_mark: ASC
+  set_name: ASC
+  collector_number: '235'
+  collector_number_unprinted: false
+  rarity: AR
+  rarity_unprinted: false
+  illustrator: satoma
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/ASC/ASC_235_R_EN_XS.png
+- language: en
+  set_code: SVALT
+  set_mark: SVALT
+  set_name: SVALT
+  collector_number: '188'
+  collector_number_unprinted: false
+  rarity: R
+  rarity_unprinted: false
+  illustrator: Narano
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SSP/SSP_072_R_EN_XS.png

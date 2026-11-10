@@ -1,8 +1,6 @@
 ---
-schema_version: 1
+schema_version: 2
 slug: litten
-external_link:
-  cabt_id: 77
 name:
   ja: ニャビー
   en: Litten
@@ -46,4 +44,70 @@ first_appearance:
   released_at: '2024-01-26'
   regulation_mark: H
   collector_number: '020'
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV5M/045237_P_NIXYABI.jpg
+printings:
+- language: ja
+  set_code: SV5M
+  set_mark: SV5M
+  set_name: サイバージャッジ
+  collector_number: '020'
+  collector_number_unprinted: false
+  rarity: C
+  rarity_unprinted: false
+  illustrator: REND
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV5M/045237_P_NIXYABI.jpg
+- language: ja
+  set_code: SV5M
+  set_mark: SV5M
+  set_name: サイバージャッジ
+  collector_number: '075'
+  collector_number_unprinted: false
+  rarity: AR
+  rarity_unprinted: false
+  illustrator: Makura Tami
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV5M/045547_P_NIXYABI.jpg
+- language: ja
+  set_code:
+  set_mark: MC
+  set_name: スタートデッキ100 バトルコレクション
+  collector_number: '130'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: REND
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
   image_url:
+- language: en
+  set_code: TEF
+  set_mark: TEF
+  set_name: TEF
+  collector_number: '32'
+  collector_number_unprinted: false
+  rarity: C
+  rarity_unprinted: false
+  illustrator: REND
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TEF/TEF_032_R_EN_XS.png
+- language: en
+  set_code: TEF
+  set_mark: TEF
+  set_name: TEF
+  collector_number: '167'
+  collector_number_unprinted: false
+  rarity: AR
+  rarity_unprinted: false
+  illustrator: Makura Tami
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TEF/TEF_167_R_EN_XS.png

@@ -1,5 +1,5 @@
 ---
-schema_version: 1
+schema_version: 2
 slug: florges
 name:
   ja: フラージェス
@@ -52,4 +52,44 @@ first_appearance:
   released_at: '2024-03-22'
   regulation_mark: H
   collector_number: '038'
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV5a/045614_P_FURAJIESU.jpg
+printings:
+- language: ja
+  set_code: SV5a
+  set_mark: SV5a
+  set_name: クリムゾンヘイズ
+  collector_number: '038'
+  collector_number_unprinted: false
+  rarity: U
+  rarity_unprinted: false
+  illustrator: Ligton
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV5a/045614_P_FURAJIESU.jpg
+- language: ja
+  set_code:
+  set_mark: MC
+  set_name: スタートデッキ100 バトルコレクション
+  collector_number: '330'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: Ligton
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
   image_url:
+- language: en
+  set_code: TWM
+  set_mark: TWM
+  set_name: TWM
+  collector_number: '88'
+  collector_number_unprinted: false
+  rarity: U
+  rarity_unprinted: false
+  illustrator: Ligton
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TWM/TWM_088_R_EN_XS.png

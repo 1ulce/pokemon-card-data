@@ -1,8 +1,6 @@
 ---
-schema_version: 1
+schema_version: 2
 slug: pikachu-3
-external_link:
-  cabt_id: 948
 name:
   ja: ピカチュウ
   en: Pikachu
@@ -57,4 +55,31 @@ first_appearance:
   released_at: '2025-12-19'
   regulation_mark: J
   collector_number: '225'
-  image_url:
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/MC/048941_P_PIKACHIXYUU.jpg
+printings:
+- language: ja
+  set_code:
+  set_mark: MC
+  set_name: スタートデッキ100 バトルコレクション
+  collector_number: '225'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: kamonabe
+  illustrator_unprinted: false
+  regulation_mark: J
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/MC/048941_P_PIKACHIXYUU.jpg
+- language: en
+  set_code: ASC
+  set_mark: ASC
+  set_name: ASC
+  collector_number: '55'
+  collector_number_unprinted: false
+  rarity: C
+  rarity_unprinted: false
+  illustrator: kamonabe
+  illustrator_unprinted: false
+  regulation_mark: J
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/ASC/ASC_055_R_EN_XS.png

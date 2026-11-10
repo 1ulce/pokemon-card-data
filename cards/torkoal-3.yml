@@ -1,5 +1,5 @@
 ---
-schema_version: 1
+schema_version: 2
 slug: torkoal-3
 name:
   ja: コータス
@@ -32,18 +32,18 @@ attacks:
 - position: 0
   name:
     ja: やきこがす
-    en:
+    en: Searing Flame
   cost:
   - Fire
   - Colorless
   damage: '30'
   effect_text:
     ja: 相手のバトルポケモンをやけどにする。
-    en:
+    en: Your opponent's Active Pokémon is now Burned.
 - position: 1
   name:
     ja: かえんばく
-    en:
+    en: Combustion Blast
   cost:
   - Fire
   - Fire
@@ -51,10 +51,37 @@ attacks:
   damage: '120'
   effect_text:
     ja: 次の自分の番、このポケモンは「かえんばく」が使えない。
-    en:
+    en: During your next turn, this Pokémon can't use Combustion Blast.
 first_appearance:
   set_name_ja: ストームエメラルダ
   released_at: '2026-07-31'
   regulation_mark: J
   collector_number: '014'
-  image_url:
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/M6/050352_P_KOTASU.jpg
+printings:
+- language: ja
+  set_code: M6
+  set_mark: M6
+  set_name: ストームエメラルダ
+  collector_number: '014'
+  collector_number_unprinted: false
+  rarity: C
+  rarity_unprinted: false
+  illustrator: Tonji Matsuno
+  illustrator_unprinted: false
+  regulation_mark: J
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/M6/050352_P_KOTASU.jpg
+- language: en
+  set_code: DLR
+  set_mark: DLR
+  set_name: Mega Evolution—Delta Reign
+  collector_number: '22'
+  collector_number_unprinted: false
+  rarity: C
+  rarity_unprinted: false
+  illustrator:
+  illustrator_unprinted: false
+  regulation_mark: J
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DLR/DLR_022_R_EN_XS.png

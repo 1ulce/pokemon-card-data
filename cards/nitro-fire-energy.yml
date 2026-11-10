@@ -1,5 +1,5 @@
 ---
-schema_version: 1
+schema_version: 2
 slug: nitro-fire-energy
 name:
   ja: ニトロ炎エネルギー
@@ -38,3 +38,56 @@ first_appearance:
   regulation_mark: J
   collector_number: '081'
   image_url: https://www.pokemon-card.com/assets/images/card_images/large/M4/050165_E_NITOROHONOOENERUGI.jpg
+printings:
+- language: ja
+  set_code: M4
+  set_mark: M4
+  set_name: ニンジャスピナー
+  collector_number: '081'
+  collector_number_unprinted: false
+  rarity: R
+  rarity_unprinted: false
+  illustrator:
+  illustrator_unprinted: true
+  regulation_mark: J
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/M4/050165_E_NITOROHONOOENERUGI.jpg
+- language: ja
+  set_code: M6
+  set_mark: M6
+  set_name: ストームエメラルダ
+  collector_number: '105'
+  collector_number_unprinted: false
+  rarity: SR
+  rarity_unprinted: false
+  illustrator:
+  illustrator_unprinted: true
+  regulation_mark: J
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/M6/050546_E_NITOROHONOOENERUGI.jpg
+- language: en
+  set_code: CRI
+  set_mark: CRI
+  set_name: CRI
+  collector_number: '86'
+  collector_number_unprinted: false
+  rarity: R
+  rarity_unprinted: false
+  illustrator:
+  illustrator_unprinted: true
+  regulation_mark: J
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CRI/CRI_086_R_EN_XS.png
+- language: en
+  set_code: DLR
+  set_mark: DLR
+  set_name: Mega Evolution—Delta Reign
+  collector_number: '134'
+  collector_number_unprinted: false
+  rarity: SR
+  rarity_unprinted: false
+  illustrator:
+  illustrator_unprinted: true
+  regulation_mark: J
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DLR/DLR_134_R_EN_XS.png

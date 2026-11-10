@@ -1,8 +1,6 @@
 ---
-schema_version: 1
+schema_version: 2
 slug: lapras-ex-2
-external_link:
-  cabt_id: 154
 name:
   ja: ラプラスex
   en: Lapras ex
@@ -15,7 +13,6 @@ retreat_cost: 2
 regulation_mark: H
 meta_tags:
 - ex
-- tera
 evolves_from:
   ja:
   en:
@@ -60,4 +57,70 @@ first_appearance:
   released_at: '2024-07-19'
   regulation_mark: H
   collector_number: '019'
-  image_url:
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV7/045958_P_RAPURASUEX.jpg
+printings:
+- language: ja
+  set_code: SV7
+  set_mark: SV7
+  set_name: ステラミラクル
+  collector_number: '019'
+  collector_number_unprinted: false
+  rarity: RR
+  rarity_unprinted: false
+  illustrator: 5ban Graphics
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV7/045958_P_RAPURASUEX.jpg
+- language: ja
+  set_code: SV7
+  set_mark: SV7
+  set_name: ステラミラクル
+  collector_number: '117'
+  collector_number_unprinted: false
+  rarity: SR
+  rarity_unprinted: false
+  illustrator: 5ban Graphics
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV7/046165_P_RAPURASUEX.jpg
+- language: en
+  set_code: SCR
+  set_mark: SCR
+  set_name: SCR
+  collector_number: '32'
+  collector_number_unprinted: false
+  rarity: RR
+  rarity_unprinted: false
+  illustrator: 5ban Graphics
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SCR/SCR_032_R_EN_XS.png
+- language: en
+  set_code: SCR
+  set_mark: SCR
+  set_name: SCR
+  collector_number: '158'
+  collector_number_unprinted: false
+  rarity: SR
+  rarity_unprinted: false
+  illustrator: 5ban Graphics
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SCR/SCR_158_R_EN_XS.png
+- language: en
+  set_code: SVP
+  set_mark: SVP
+  set_name: SVP
+  collector_number: '164'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: 5ban Graphics
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVP/SVP_164_R_EN_XS.png

@@ -1,5 +1,5 @@
 ---
-schema_version: 1
+schema_version: 2
 slug: toxtricity-ex
 name:
   ja: ストリンダーex
@@ -47,4 +47,18 @@ first_appearance:
   released_at:
   regulation_mark:
   collector_number: '47364'
+  image_url:
+printings:
+- language: ja
+  set_code:
+  set_mark: SV-P
+  set_name: Pokémon Trading Card Game イラストレーションコンテスト 2024
+  collector_number: '47364'
+  collector_number_unprinted: true
+  rarity:
+  rarity_unprinted: true
+  illustrator: Anderson
+  illustrator_unprinted: false
+  regulation_mark:
+  regulation_mark_unprinted: false
   image_url:

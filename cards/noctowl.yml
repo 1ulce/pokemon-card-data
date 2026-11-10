@@ -1,8 +1,6 @@
 ---
-schema_version: 1
+schema_version: 2
 slug: noctowl
-external_link:
-  cabt_id: 173
 name:
   ja: ヨルノズク
   en: Noctowl
@@ -54,4 +52,174 @@ first_appearance:
   released_at: '2024-07-19'
   regulation_mark: H
   collector_number: '077'
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV7/046016_P_YORUNOZUKU.jpg
+printings:
+- language: ja
+  set_code: SV7
+  set_mark: SV7
+  set_name: ステラミラクル
+  collector_number: '077'
+  collector_number_unprinted: false
+  rarity: R
+  rarity_unprinted: false
+  illustrator: matazo
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV7/046016_P_YORUNOZUKU.jpg
+- language: ja
+  set_code: SV7
+  set_mark: SV7
+  set_name: ステラミラクル
+  collector_number: '114'
+  collector_number_unprinted: false
+  rarity: AR
+  rarity_unprinted: false
+  illustrator: Tetsu Kayama
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
   image_url:
+- language: ja
+  set_code: SV8a
+  set_mark: SV8a
+  set_name: テラスタルフェスex
+  collector_number: '128'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: matazo
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code: M2a
+  set_mark: M2a
+  set_name: MEGAドリームex
+  collector_number: '138'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: matazo
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: MC
+  set_name: スタートデッキ100 バトルコレクション
+  collector_number: '573'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: matazo
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: SVN
+  set_name: デッキビルドBOX「バトルパートナーズ」
+  collector_number: '008'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: matazo
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: MA
+  set_name: プレミアムトレーナーボックスMEGA
+  collector_number: '009'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: matazo
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: SVLS
+  set_name: スターターセット テラスタイプ：ステラ ソウブレイズex
+  collector_number: '010'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: matazo
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: SV-P
+  set_name: ファーストエントリーキャンペーン
+  collector_number: '46133'
+  collector_number_unprinted: true
+  rarity:
+  rarity_unprinted: true
+  illustrator: matazo
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url:
+- language: en
+  set_code: SCR
+  set_mark: SCR
+  set_name: SCR
+  collector_number: '115'
+  collector_number_unprinted: false
+  rarity: R
+  rarity_unprinted: false
+  illustrator: matazo
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SCR/SCR_115_R_EN_XS.png
+- language: en
+  set_code: PRE
+  set_mark: PRE
+  set_name: PRE
+  collector_number: '78'
+  collector_number_unprinted: false
+  rarity: R
+  rarity_unprinted: false
+  illustrator: matazo
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PRE/PRE_078_R_EN_XS.png
+- language: en
+  set_code: SVALT
+  set_mark: SVALT
+  set_name: SVALT
+  collector_number: '126'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: false
+  illustrator: Tetsu Kayama
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVP/SVP_141_R_EN_XS.png
+- language: en
+  set_code: SVP
+  set_mark: SVP
+  set_name: SVP
+  collector_number: '141'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: Tetsu Kayama
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVP/SVP_141_R_EN_XS.png

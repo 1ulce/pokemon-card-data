@@ -1,8 +1,6 @@
 ---
-schema_version: 1
+schema_version: 2
 slug: larvesta
-external_link:
-  cabt_id: 933
 name:
   ja: メラルバ
   en: Larvesta
@@ -57,4 +55,70 @@ first_appearance:
   released_at: '2024-10-18'
   regulation_mark: H
   collector_number: '013'
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV8/046353_P_MERARUBA.jpg
+printings:
+- language: ja
+  set_code: SV8
+  set_mark: SV8
+  set_name: 超電ブレイカー
+  collector_number: '013'
+  collector_number_unprinted: false
+  rarity: C
+  rarity_unprinted: false
+  illustrator: MARINA Chikazawa
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV8/046353_P_MERARUBA.jpg
+- language: ja
+  set_code: SV8
+  set_mark: SV8
+  set_name: 超電ブレイカー
+  collector_number: '108'
+  collector_number_unprinted: false
+  rarity: AR
+  rarity_unprinted: false
+  illustrator: Whisker
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV8/046631_P_MERARUBA.jpg
+- language: ja
+  set_code:
+  set_mark: MC
+  set_name: スタートデッキ100 バトルコレクション
+  collector_number: '121'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: MARINA Chikazawa
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
   image_url:
+- language: en
+  set_code: SSP
+  set_mark: SSP
+  set_name: SSP
+  collector_number: '24'
+  collector_number_unprinted: false
+  rarity: C
+  rarity_unprinted: false
+  illustrator: MARINA Chikazawa
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SSP/SSP_024_R_EN_XS.png
+- language: en
+  set_code: SSP
+  set_mark: SSP
+  set_name: SSP
+  collector_number: '196'
+  collector_number_unprinted: false
+  rarity: AR
+  rarity_unprinted: false
+  illustrator: Whisker
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SSP/SSP_196_R_EN_XS.png

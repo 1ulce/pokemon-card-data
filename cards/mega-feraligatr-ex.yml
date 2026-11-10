@@ -1,8 +1,6 @@
 ---
-schema_version: 1
+schema_version: 2
 slug: mega-feraligatr-ex
-external_link:
-  cabt_id: 939
 name:
   ja: メガオーダイルex
   en: Mega Feraligatr ex
@@ -51,3 +49,69 @@ first_appearance:
   regulation_mark: J
   collector_number: '169'
   image_url:
+printings:
+- language: ja
+  set_code:
+  set_mark: MC
+  set_name: スタートデッキ100 バトルコレクション
+  collector_number: '169'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: 5ban Graphics
+  illustrator_unprinted: false
+  regulation_mark: J
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: MC
+  set_name: スタートデッキ100 バトルコレクション
+  collector_number: '763'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: Souichirou Gunjima
+  illustrator_unprinted: false
+  regulation_mark: J
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/MC/050031_P_MODAIRUEX.jpg
+- language: en
+  set_code: ASC
+  set_mark: ASC
+  set_name: ASC
+  collector_number: '43'
+  collector_number_unprinted: false
+  rarity: RR
+  rarity_unprinted: false
+  illustrator: 5ban Graphics
+  illustrator_unprinted: false
+  regulation_mark: J
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/ASC/ASC_043_R_EN_XS.png
+- language: en
+  set_code: ASC
+  set_mark: ASC
+  set_name: ASC
+  collector_number: '274'
+  collector_number_unprinted: false
+  rarity: SAR
+  rarity_unprinted: false
+  illustrator: Souichirou Gunjima
+  illustrator_unprinted: false
+  regulation_mark: J
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/ASC/ASC_274_R_EN_XS.png
+- language: en
+  set_code: MEP
+  set_mark: MEP
+  set_name: MEP
+  collector_number: '36'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: 5ban Graphics
+  illustrator_unprinted: false
+  regulation_mark: J
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/MEP/MEP_036_R_EN_XS.png

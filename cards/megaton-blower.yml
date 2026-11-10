@@ -1,8 +1,6 @@
 ---
-schema_version: 1
+schema_version: 2
 slug: megaton-blower
-external_link:
-  cabt_id: 1104
 name:
   ja: メガトンブロアー
   en: Megaton Blower
@@ -38,3 +36,30 @@ first_appearance:
   regulation_mark: H
   collector_number: '056'
   image_url:
+printings:
+- language: ja
+  set_code: SV7a
+  set_mark: SV7a
+  set_name: 楽園ドラゴーナ
+  collector_number: '056'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: false
+  illustrator: Toyste Beach
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url:
+- language: en
+  set_code: SSP
+  set_mark: SSP
+  set_name: SSP
+  collector_number: '182'
+  collector_number_unprinted: false
+  rarity: SR
+  rarity_unprinted: false
+  illustrator: Toyste Beach
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SSP/SSP_182_R_EN_XS.png

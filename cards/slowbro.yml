@@ -1,5 +1,5 @@
 ---
-schema_version: 1
+schema_version: 2
 slug: slowbro
 name:
   ja: ヤドラン
@@ -56,4 +56,70 @@ first_appearance:
   released_at: '2026-05-22'
   regulation_mark: J
   collector_number: '029'
-  image_url:
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/M5/050248_P_YADORAN.jpg
+printings:
+- language: ja
+  set_code: M5
+  set_mark: M5
+  set_name: アビスアイ
+  collector_number: '029'
+  collector_number_unprinted: false
+  rarity: U
+  rarity_unprinted: false
+  illustrator: CHORISO
+  illustrator_unprinted: false
+  regulation_mark: J
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/M5/050248_P_YADORAN.jpg
+- language: ja
+  set_code: M5
+  set_mark: M5
+  set_name: アビスアイ
+  collector_number: '087'
+  collector_number_unprinted: false
+  rarity: AR
+  rarity_unprinted: false
+  illustrator: Mékayu
+  illustrator_unprinted: false
+  regulation_mark: J
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/M5/050307_P_YADORAN.jpg
+- language: en
+  set_code: PBL
+  set_mark: PBL
+  set_name: PBL
+  collector_number: '30'
+  collector_number_unprinted: false
+  rarity: U
+  rarity_unprinted: false
+  illustrator: CHORISO
+  illustrator_unprinted: false
+  regulation_mark: J
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PBL/PBL_030_R_EN_XS.png
+- language: en
+  set_code: PBL
+  set_mark: PBL
+  set_name: PBL
+  collector_number: '90'
+  collector_number_unprinted: false
+  rarity: AR
+  rarity_unprinted: false
+  illustrator: Mékayu
+  illustrator_unprinted: false
+  regulation_mark: J
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PBL/PBL_090_R_EN_XS.png
+- language: en
+  set_code: MEP
+  set_mark: MEP
+  set_name: MEP
+  collector_number: '83'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: Yuriko Akase
+  illustrator_unprinted: false
+  regulation_mark: J
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/MEP/MEP_083_R_EN_XS.png

@@ -1,8 +1,6 @@
 ---
-schema_version: 1
+schema_version: 2
 slug: totodile-2
-external_link:
-  cabt_id: 937
 name:
   ja: ワニノコ
   en: Totodile
@@ -47,4 +45,31 @@ first_appearance:
   released_at: '2025-12-19'
   regulation_mark: J
   collector_number: '165'
-  image_url:
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/MC/048881_P_WANINOKO.jpg
+printings:
+- language: ja
+  set_code:
+  set_mark: MC
+  set_name: スタートデッキ100 バトルコレクション
+  collector_number: '165'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: REND
+  illustrator_unprinted: false
+  regulation_mark: J
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/MC/048881_P_WANINOKO.jpg
+- language: en
+  set_code: ASC
+  set_mark: ASC
+  set_name: ASC
+  collector_number: '41'
+  collector_number_unprinted: false
+  rarity: C
+  rarity_unprinted: false
+  illustrator: REND
+  illustrator_unprinted: false
+  regulation_mark: J
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/ASC/ASC_041_R_EN_XS.png

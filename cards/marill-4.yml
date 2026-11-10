@@ -1,8 +1,6 @@
 ---
-schema_version: 1
+schema_version: 2
 slug: marill-4
-external_link:
-  cabt_id: 314
 name:
   ja: マリル
   en: Marill
@@ -46,4 +44,31 @@ first_appearance:
   released_at: '2024-03-08'
   regulation_mark: H
   collector_number: '013'
-  image_url:
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SVI/045467_P_MARIRU.jpg
+printings:
+- language: ja
+  set_code:
+  set_mark: SVI
+  set_name: バトルアカデミー
+  collector_number: '013'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: MARINA Chikazawa
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SVI/045467_P_MARIRU.jpg
+- language: en
+  set_code: SCR
+  set_mark: SCR
+  set_name: SCR
+  collector_number: '33'
+  collector_number_unprinted: false
+  rarity: C
+  rarity_unprinted: false
+  illustrator: MARINA Chikazawa
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SCR/SCR_033_R_EN_XS.png

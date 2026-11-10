@@ -1,8 +1,6 @@
 ---
-schema_version: 1
+schema_version: 2
 slug: pecharunt-ex
-external_link:
-  cabt_id: 141
 name:
   ja: モモワロウex
   en: Pecharunt ex
@@ -56,3 +54,160 @@ first_appearance:
   regulation_mark: H
   collector_number: '039'
   image_url:
+printings:
+- language: ja
+  set_code: SV6a
+  set_mark: SV6a
+  set_name: ナイトワンダラー
+  collector_number: '039'
+  collector_number_unprinted: false
+  rarity: RR
+  rarity_unprinted: false
+  illustrator: aky CG Works
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code: SV6a
+  set_mark: SV6a
+  set_name: ナイトワンダラー
+  collector_number: '082'
+  collector_number_unprinted: false
+  rarity: SR
+  rarity_unprinted: false
+  illustrator: aky CG Works
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV6a/046059_P_MOMOWAROUEX.jpg
+- language: ja
+  set_code: SV6a
+  set_mark: SV6a
+  set_name: ナイトワンダラー
+  collector_number: '090'
+  collector_number_unprinted: false
+  rarity: SAR
+  rarity_unprinted: false
+  illustrator: kantaro
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code: SV6a
+  set_mark: SV6a
+  set_name: ナイトワンダラー
+  collector_number: '092'
+  collector_number_unprinted: false
+  rarity: UR
+  rarity_unprinted: false
+  illustrator: aky CG Works
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV6a/046069_P_MOMOWAROUEX.jpg
+- language: ja
+  set_code: SV8a
+  set_mark: SV8a
+  set_name: テラスタルフェスex
+  collector_number: '105'
+  collector_number_unprinted: false
+  rarity: RR
+  rarity_unprinted: false
+  illustrator: aky CG Works
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV8a/046766_P_MOMOWAROUEX.jpg
+- language: ja
+  set_code: SV8a
+  set_mark: SV8a
+  set_name: テラスタルフェスex
+  collector_number: '219'
+  collector_number_unprinted: false
+  rarity: SAR
+  rarity_unprinted: false
+  illustrator: osare
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV8a/047140_P_MOMOWAROUEX.jpg
+- language: ja
+  set_code:
+  set_mark: MC
+  set_name: スタートデッキ100 バトルコレクション
+  collector_number: '491'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: aky CG Works
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url:
+- language: en
+  set_code: SFA
+  set_mark: SFA
+  set_name: SFA
+  collector_number: '39'
+  collector_number_unprinted: false
+  rarity: RR
+  rarity_unprinted: false
+  illustrator: aky CG Works
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SFA/SFA_039_R_EN_XS.png
+- language: en
+  set_code: SFA
+  set_mark: SFA
+  set_name: SFA
+  collector_number: '85'
+  collector_number_unprinted: false
+  rarity: SR
+  rarity_unprinted: false
+  illustrator: aky CG Works
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SFA/SFA_085_R_EN_XS.png
+- language: en
+  set_code: SFA
+  set_mark: SFA
+  set_name: SFA
+  collector_number: '93'
+  collector_number_unprinted: false
+  rarity: SAR
+  rarity_unprinted: false
+  illustrator: kantaro
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SFA/SFA_093_R_EN_XS.png
+- language: en
+  set_code: SFA
+  set_mark: SFA
+  set_name: SFA
+  collector_number: '95'
+  collector_number_unprinted: false
+  rarity: UR
+  rarity_unprinted: false
+  illustrator: aky CG Works
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SFA/SFA_095_R_EN_XS.png
+- language: en
+  set_code: PRE
+  set_mark: PRE
+  set_name: PRE
+  collector_number: '163'
+  collector_number_unprinted: false
+  rarity: SAR
+  rarity_unprinted: false
+  illustrator: osare
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PRE/PRE_163_R_EN_XS.png

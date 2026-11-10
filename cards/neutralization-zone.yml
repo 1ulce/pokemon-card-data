@@ -1,8 +1,6 @@
 ---
-schema_version: 1
+schema_version: 2
 slug: neutralization-zone
-external_link:
-  cabt_id: 1247
 name:
   ja: ニュートラルセンター
   en: Neutralization Zone
@@ -41,3 +39,43 @@ first_appearance:
   regulation_mark: H
   collector_number: '063'
   image_url:
+printings:
+- language: ja
+  set_code: SV6a
+  set_mark: SV6a
+  set_name: ナイトワンダラー
+  collector_number: '063'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: false
+  illustrator: imoniii
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code: SV8a
+  set_mark: SV8a
+  set_name: テラスタルフェスex
+  collector_number: '184'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: imoniii
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url:
+- language: en
+  set_code: SFA
+  set_mark: SFA
+  set_name: SFA
+  collector_number: '60'
+  collector_number_unprinted: false
+  rarity: SR
+  rarity_unprinted: false
+  illustrator: imoniii
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SFA/SFA_060_R_EN_XS.png

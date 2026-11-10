@@ -1,5 +1,5 @@
 ---
-schema_version: 1
+schema_version: 2
 slug: iron-hands
 name:
   ja: テツノカイナ
@@ -58,3 +58,43 @@ first_appearance:
   regulation_mark: H
   collector_number: '006'
   image_url:
+printings:
+- language: ja
+  set_code:
+  set_mark: SVHM
+  set_name: 未来のミライドンex
+  collector_number: '006'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: Souichirou Gunjima
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: MC
+  set_name: スタートデッキ100 バトルコレクション
+  collector_number: '280'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: Souichirou Gunjima
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/MC/048996_P_TETSUNOKAINA.jpg
+- language: en
+  set_code: TEF
+  set_mark: TEF
+  set_name: TEF
+  collector_number: '61'
+  collector_number_unprinted: false
+  rarity: U
+  rarity_unprinted: false
+  illustrator: Souichirou Gunjima
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TEF/TEF_061_R_EN_XS.png

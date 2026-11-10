@@ -1,5 +1,5 @@
 ---
-schema_version: 1
+schema_version: 2
 slug: frillish-2
 name:
   ja: プルリル
@@ -32,7 +32,7 @@ attacks:
 - position: 0
   name:
     ja: ひっかける
-    en:
+    en: Hook
   cost:
   - Colorless
   damage: '10'
@@ -44,4 +44,31 @@ first_appearance:
   released_at: '2026-07-31'
   regulation_mark: J
   collector_number: '019'
-  image_url:
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/M6/050357_P_PURURIRU.jpg
+printings:
+- language: ja
+  set_code: M6
+  set_mark: M6
+  set_name: ストームエメラルダ
+  collector_number: '019'
+  collector_number_unprinted: false
+  rarity: C
+  rarity_unprinted: false
+  illustrator: Mousho
+  illustrator_unprinted: false
+  regulation_mark: J
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/M6/050357_P_PURURIRU.jpg
+- language: en
+  set_code: DLR
+  set_mark: DLR
+  set_name: Mega Evolution—Delta Reign
+  collector_number: '27'
+  collector_number_unprinted: false
+  rarity: C
+  rarity_unprinted: false
+  illustrator:
+  illustrator_unprinted: false
+  regulation_mark: J
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DLR/DLR_027_R_EN_XS.png

@@ -1,5 +1,5 @@
 ---
-schema_version: 1
+schema_version: 2
 slug: fomantis-2
 name:
   ja: カリキリ
@@ -44,4 +44,57 @@ first_appearance:
   released_at: '2026-05-22'
   regulation_mark: J
   collector_number: '003'
-  image_url:
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/M5/050222_P_KARIKIRI.jpg
+printings:
+- language: ja
+  set_code: M5
+  set_mark: M5
+  set_name: アビスアイ
+  collector_number: '003'
+  collector_number_unprinted: false
+  rarity: C
+  rarity_unprinted: false
+  illustrator: nisimono
+  illustrator_unprinted: false
+  regulation_mark: J
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/M5/050222_P_KARIKIRI.jpg
+- language: ja
+  set_code: M5
+  set_mark: M5
+  set_name: アビスアイ
+  collector_number: '082'
+  collector_number_unprinted: false
+  rarity: AR
+  rarity_unprinted: false
+  illustrator: Jiro Sasumo
+  illustrator_unprinted: false
+  regulation_mark: J
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/M5/050302_P_KARIKIRI.jpg
+- language: en
+  set_code: PBL
+  set_mark: PBL
+  set_name: PBL
+  collector_number: '3'
+  collector_number_unprinted: false
+  rarity: C
+  rarity_unprinted: false
+  illustrator: nisimono
+  illustrator_unprinted: false
+  regulation_mark: J
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PBL/PBL_003_R_EN_XS.png
+- language: en
+  set_code: PBL
+  set_mark: PBL
+  set_name: PBL
+  collector_number: '85'
+  collector_number_unprinted: false
+  rarity: AR
+  rarity_unprinted: false
+  illustrator: Jiro Sasumo
+  illustrator_unprinted: false
+  regulation_mark: J
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PBL/PBL_085_R_EN_XS.png

@@ -1,8 +1,6 @@
 ---
-schema_version: 1
+schema_version: 2
 slug: kieran
-external_link:
-  cabt_id: 1191
 name:
   ja: スグリ
   en: Kieran
@@ -41,4 +39,200 @@ first_appearance:
   released_at: '2024-04-26'
   regulation_mark: H
   collector_number: '096'
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV6/045787_T_SUGURI.jpg
+printings:
+- language: ja
+  set_code: SV6
+  set_mark: SV6
+  set_name: 変幻の仮面
+  collector_number: '096'
+  collector_number_unprinted: false
+  rarity: U
+  rarity_unprinted: false
+  illustrator: GIDORA
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV6/045787_T_SUGURI.jpg
+- language: ja
+  set_code: SV6
+  set_mark: SV6
+  set_name: 変幻の仮面
+  collector_number: '122'
+  collector_number_unprinted: false
+  rarity: SR
+  rarity_unprinted: false
+  illustrator: GIDORA
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV6/045864_T_SUGURI.jpg
+- language: ja
+  set_code: SV6
+  set_mark: SV6
+  set_name: 変幻の仮面
+  collector_number: '129'
+  collector_number_unprinted: false
+  rarity: SAR
+  rarity_unprinted: false
+  illustrator: Teeziro
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
   image_url:
+- language: ja
+  set_code: SV8a
+  set_mark: SV8a
+  set_name: テラスタルフェスex
+  collector_number: '169'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: GIDORA
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code: SV8a
+  set_mark: SV8a
+  set_name: テラスタルフェスex
+  collector_number: '230'
+  collector_number_unprinted: false
+  rarity: SAR
+  rarity_unprinted: false
+  illustrator: Iori Suzuki
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV8a/047151_T_SUGURI.jpg
+- language: ja
+  set_code:
+  set_mark: MC
+  set_name: スタートデッキ100 バトルコレクション
+  collector_number: '713'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: GIDORA
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: SVN
+  set_name: デッキビルドBOX「バトルパートナーズ」
+  collector_number: '032'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: GIDORA
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: SVK
+  set_name: デッキビルドBOX ステラミラクル
+  collector_number: '033'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: GIDORA
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: MA
+  set_name: プレミアムトレーナーボックスMEGA
+  collector_number: '035'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: GIDORA
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: SV-P
+  set_name: スカーレット＆バイオレット プロモカードパック第10弾
+  collector_number: '47498'
+  collector_number_unprinted: true
+  rarity:
+  rarity_unprinted: true
+  illustrator: GIDORA
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url:
+- language: en
+  set_code: TWM
+  set_mark: TWM
+  set_name: TWM
+  collector_number: '154'
+  collector_number_unprinted: false
+  rarity: U
+  rarity_unprinted: false
+  illustrator: GIDORA
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TWM/TWM_154_R_EN_XS.png
+- language: en
+  set_code: TWM
+  set_mark: TWM
+  set_name: TWM
+  collector_number: '206'
+  collector_number_unprinted: false
+  rarity: SR
+  rarity_unprinted: false
+  illustrator: GIDORA
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TWM/TWM_206_R_EN_XS.png
+- language: en
+  set_code: TWM
+  set_mark: TWM
+  set_name: TWM
+  collector_number: '218'
+  collector_number_unprinted: false
+  rarity: SAR
+  rarity_unprinted: false
+  illustrator: Teeziro
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TWM/TWM_218_R_EN_XS.png
+- language: en
+  set_code: PRE
+  set_mark: PRE
+  set_name: PRE
+  collector_number: '113'
+  collector_number_unprinted: false
+  rarity: U
+  rarity_unprinted: false
+  illustrator: GIDORA
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PRE/PRE_113_R_EN_XS.png
+- language: en
+  set_code: PRE
+  set_mark: PRE
+  set_name: PRE
+  collector_number: '174'
+  collector_number_unprinted: false
+  rarity: SAR
+  rarity_unprinted: false
+  illustrator: Iori Suzuki
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PRE/PRE_174_R_EN_XS.png

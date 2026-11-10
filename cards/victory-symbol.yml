@@ -1,5 +1,5 @@
 ---
-schema_version: 1
+schema_version: 2
 slug: victory-symbol
 name:
   ja: 勝利のしるし
@@ -34,4 +34,902 @@ first_appearance:
   released_at:
   regulation_mark: I
   collector_number: '42953'
+  image_url:
+printings:
+- language: ja
+  set_code:
+  set_mark: SV-P
+  set_name: ポケモンカードゲーム チャンピオンズリーグ2023 愛知
+  collector_number: '42953'
+  collector_number_unprinted: true
+  rarity:
+  rarity_unprinted: true
+  illustrator: 5ban Graphics
+  illustrator_unprinted: false
+  regulation_mark: I
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: SV-P
+  set_name: ポケモンカードゲーム チャンピオンズリーグ2023 愛知
+  collector_number: '42954'
+  collector_number_unprinted: true
+  rarity:
+  rarity_unprinted: true
+  illustrator: 5ban Graphics
+  illustrator_unprinted: false
+  regulation_mark: I
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: SV-P
+  set_name: ポケモンカードゲーム チャンピオンズリーグ2023 愛知
+  collector_number: '42955'
+  collector_number_unprinted: true
+  rarity:
+  rarity_unprinted: true
+  illustrator: 5ban Graphics
+  illustrator_unprinted: false
+  regulation_mark: I
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: SV-P
+  set_name: ポケモンカードゲーム チャンピオンズリーグ2023 宮城
+  collector_number: '43134'
+  collector_number_unprinted: true
+  rarity:
+  rarity_unprinted: true
+  illustrator: 5ban Graphics
+  illustrator_unprinted: false
+  regulation_mark: I
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: SV-P
+  set_name: ポケモンカードゲーム チャンピオンズリーグ2023 宮城
+  collector_number: '43135'
+  collector_number_unprinted: true
+  rarity:
+  rarity_unprinted: true
+  illustrator: 5ban Graphics
+  illustrator_unprinted: false
+  regulation_mark: I
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: SV-P
+  set_name: ポケモンカードゲーム チャンピオンズリーグ2023 宮城
+  collector_number: '43136'
+  collector_number_unprinted: true
+  rarity:
+  rarity_unprinted: true
+  illustrator: 5ban Graphics
+  illustrator_unprinted: false
+  regulation_mark: I
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: SV-P
+  set_name: ポケモンカードゲーム チャンピオンズリーグ2023 新潟
+  collector_number: '44237'
+  collector_number_unprinted: true
+  rarity:
+  rarity_unprinted: true
+  illustrator: 5ban Graphics
+  illustrator_unprinted: false
+  regulation_mark: I
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: SV-P
+  set_name: ポケモンカードゲーム チャンピオンズリーグ2023 新潟
+  collector_number: '44238'
+  collector_number_unprinted: true
+  rarity:
+  rarity_unprinted: true
+  illustrator: 5ban Graphics
+  illustrator_unprinted: false
+  regulation_mark: I
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: SV-P
+  set_name: ポケモンカードゲーム チャンピオンズリーグ2023 新潟
+  collector_number: '44239'
+  collector_number_unprinted: true
+  rarity:
+  rarity_unprinted: true
+  illustrator: 5ban Graphics
+  illustrator_unprinted: false
+  regulation_mark: I
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: SV-P
+  set_name: ポケモンカードゲーム チャンピオンズリーグ2024 横浜
+  collector_number: '44240'
+  collector_number_unprinted: true
+  rarity:
+  rarity_unprinted: true
+  illustrator: 5ban Graphics
+  illustrator_unprinted: false
+  regulation_mark: I
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: SV-P
+  set_name: ポケモンカードゲーム チャンピオンズリーグ2024 横浜
+  collector_number: '44241'
+  collector_number_unprinted: true
+  rarity:
+  rarity_unprinted: true
+  illustrator: 5ban Graphics
+  illustrator_unprinted: false
+  regulation_mark: I
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: SV-P
+  set_name: ポケモンカードゲーム チャンピオンズリーグ2024 横浜
+  collector_number: '44242'
+  collector_number_unprinted: true
+  rarity:
+  rarity_unprinted: true
+  illustrator: 5ban Graphics
+  illustrator_unprinted: false
+  regulation_mark: I
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: SV-P
+  set_name: ポケモンカードゲーム チャンピオンズリーグ2024 京都
+  collector_number: '45407'
+  collector_number_unprinted: true
+  rarity:
+  rarity_unprinted: true
+  illustrator: 5ban Graphics
+  illustrator_unprinted: false
+  regulation_mark: I
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: SV-P
+  set_name: ポケモンカードゲーム チャンピオンズリーグ2024 京都
+  collector_number: '45408'
+  collector_number_unprinted: true
+  rarity:
+  rarity_unprinted: true
+  illustrator: 5ban Graphics
+  illustrator_unprinted: false
+  regulation_mark: I
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: SV-P
+  set_name: ポケモンカードゲーム チャンピオンズリーグ2024 京都
+  collector_number: '45409'
+  collector_number_unprinted: true
+  rarity:
+  rarity_unprinted: true
+  illustrator: 5ban Graphics
+  illustrator_unprinted: false
+  regulation_mark: I
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: SV-P
+  set_name: ポケモンカードゲーム チャンピオンズリーグ2024 福岡
+  collector_number: '45414'
+  collector_number_unprinted: true
+  rarity:
+  rarity_unprinted: true
+  illustrator: 5ban Graphics
+  illustrator_unprinted: false
+  regulation_mark: I
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: SV-P
+  set_name: ポケモンカードゲーム チャンピオンズリーグ2024 福岡
+  collector_number: '45415'
+  collector_number_unprinted: true
+  rarity:
+  rarity_unprinted: true
+  illustrator: 5ban Graphics
+  illustrator_unprinted: false
+  regulation_mark: I
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: SV-P
+  set_name: ポケモンカードゲーム チャンピオンズリーグ2024 福岡
+  collector_number: '45416'
+  collector_number_unprinted: true
+  rarity:
+  rarity_unprinted: true
+  illustrator: 5ban Graphics
+  illustrator_unprinted: false
+  regulation_mark: I
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: SV-P
+  set_name: ポケモンカードゲーム チャンピオンズリーグ2024 愛知
+  collector_number: '45659'
+  collector_number_unprinted: true
+  rarity:
+  rarity_unprinted: true
+  illustrator: 5ban Graphics
+  illustrator_unprinted: false
+  regulation_mark: I
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: SV-P
+  set_name: ポケモンカードゲーム チャンピオンズリーグ2024 愛知
+  collector_number: '45660'
+  collector_number_unprinted: true
+  rarity:
+  rarity_unprinted: true
+  illustrator: 5ban Graphics
+  illustrator_unprinted: false
+  regulation_mark: I
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: SV-P
+  set_name: ポケモンカードゲーム チャンピオンズリーグ2024 愛知
+  collector_number: '45661'
+  collector_number_unprinted: true
+  rarity:
+  rarity_unprinted: true
+  illustrator: 5ban Graphics
+  illustrator_unprinted: false
+  regulation_mark: I
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: SV-P
+  set_name: ポケモンカードゲーム チャンピオンズリーグ2024 札幌
+  collector_number: '46142'
+  collector_number_unprinted: true
+  rarity:
+  rarity_unprinted: true
+  illustrator: 5ban Graphics
+  illustrator_unprinted: false
+  regulation_mark: I
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: SV-P
+  set_name: ポケモンカードゲーム チャンピオンズリーグ2024 札幌
+  collector_number: '46143'
+  collector_number_unprinted: true
+  rarity:
+  rarity_unprinted: true
+  illustrator: 5ban Graphics
+  illustrator_unprinted: false
+  regulation_mark: I
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: SV-P
+  set_name: ポケモンカードゲーム チャンピオンズリーグ2024 札幌
+  collector_number: '46144'
+  collector_number_unprinted: true
+  rarity:
+  rarity_unprinted: true
+  illustrator: 5ban Graphics
+  illustrator_unprinted: false
+  regulation_mark: I
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: SV-P
+  set_name: ポケモンカードゲーム チャンピオンズリーグ2025 東京
+  collector_number: '46306'
+  collector_number_unprinted: true
+  rarity:
+  rarity_unprinted: true
+  illustrator: 5ban Graphics
+  illustrator_unprinted: false
+  regulation_mark: I
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: SV-P
+  set_name: ポケモンカードゲーム チャンピオンズリーグ2025 東京
+  collector_number: '46307'
+  collector_number_unprinted: true
+  rarity:
+  rarity_unprinted: true
+  illustrator: 5ban Graphics
+  illustrator_unprinted: false
+  regulation_mark: I
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: SV-P
+  set_name: ポケモンカードゲーム チャンピオンズリーグ2025 東京
+  collector_number: '46308'
+  collector_number_unprinted: true
+  rarity:
+  rarity_unprinted: true
+  illustrator: 5ban Graphics
+  illustrator_unprinted: false
+  regulation_mark: I
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: SV-P
+  set_name: ポケモンカードゲーム チャンピオンズリーグ2025 大阪
+  collector_number: '47006'
+  collector_number_unprinted: true
+  rarity:
+  rarity_unprinted: true
+  illustrator: 5ban Graphics
+  illustrator_unprinted: false
+  regulation_mark: I
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: SV-P
+  set_name: ポケモンカードゲーム チャンピオンズリーグ2025 大阪
+  collector_number: '47007'
+  collector_number_unprinted: true
+  rarity:
+  rarity_unprinted: true
+  illustrator: 5ban Graphics
+  illustrator_unprinted: false
+  regulation_mark: I
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: SV-P
+  set_name: ポケモンカードゲーム チャンピオンズリーグ2025 大阪
+  collector_number: '47008'
+  collector_number_unprinted: true
+  rarity:
+  rarity_unprinted: true
+  illustrator: 5ban Graphics
+  illustrator_unprinted: false
+  regulation_mark: I
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: SV-P
+  set_name: ポケモンカードゲーム チャンピオンズリーグ2025 福岡
+  collector_number: '47292'
+  collector_number_unprinted: true
+  rarity:
+  rarity_unprinted: true
+  illustrator: 5ban Graphics
+  illustrator_unprinted: false
+  regulation_mark: I
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: SV-P
+  set_name: ポケモンカードゲーム チャンピオンズリーグ2025 福岡
+  collector_number: '47293'
+  collector_number_unprinted: true
+  rarity:
+  rarity_unprinted: true
+  illustrator: 5ban Graphics
+  illustrator_unprinted: false
+  regulation_mark: I
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: SV-P
+  set_name: ポケモンカードゲーム チャンピオンズリーグ2025 福岡
+  collector_number: '47294'
+  collector_number_unprinted: true
+  rarity:
+  rarity_unprinted: true
+  illustrator: 5ban Graphics
+  illustrator_unprinted: false
+  regulation_mark: I
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: SV-P
+  set_name: ポケモンカードゲーム チャンピオンズリーグ2025 宮城
+  collector_number: '47359'
+  collector_number_unprinted: true
+  rarity:
+  rarity_unprinted: true
+  illustrator: 5ban Graphics
+  illustrator_unprinted: false
+  regulation_mark: I
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: SV-P
+  set_name: ポケモンカードゲーム チャンピオンズリーグ2025 宮城
+  collector_number: '47360'
+  collector_number_unprinted: true
+  rarity:
+  rarity_unprinted: true
+  illustrator: 5ban Graphics
+  illustrator_unprinted: false
+  regulation_mark: I
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: SV-P
+  set_name: ポケモンカードゲーム チャンピオンズリーグ2025 宮城
+  collector_number: '47361'
+  collector_number_unprinted: true
+  rarity:
+  rarity_unprinted: true
+  illustrator: 5ban Graphics
+  illustrator_unprinted: false
+  regulation_mark: I
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: SV-P
+  set_name: ポケモンカードゲーム チャンピオンズリーグ2025 愛知
+  collector_number: '47500'
+  collector_number_unprinted: true
+  rarity:
+  rarity_unprinted: true
+  illustrator: 5ban Graphics
+  illustrator_unprinted: false
+  regulation_mark: I
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: SV-P
+  set_name: ポケモンカードゲーム チャンピオンズリーグ2025 愛知
+  collector_number: '47501'
+  collector_number_unprinted: true
+  rarity:
+  rarity_unprinted: true
+  illustrator: 5ban Graphics
+  illustrator_unprinted: false
+  regulation_mark: I
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: SV-P
+  set_name: ポケモンカードゲーム チャンピオンズリーグ2025 愛知
+  collector_number: '47502'
+  collector_number_unprinted: true
+  rarity:
+  rarity_unprinted: true
+  illustrator: 5ban Graphics
+  illustrator_unprinted: false
+  regulation_mark: I
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: M-P
+  set_name: ポケモンカードゲーム チャンピオンズリーグ2026 横浜
+  collector_number: '48318'
+  collector_number_unprinted: true
+  rarity:
+  rarity_unprinted: true
+  illustrator: 5ban Graphics
+  illustrator_unprinted: false
+  regulation_mark: I
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: M-P
+  set_name: ポケモンカードゲーム チャンピオンズリーグ2026 横浜
+  collector_number: '48319'
+  collector_number_unprinted: true
+  rarity:
+  rarity_unprinted: true
+  illustrator: 5ban Graphics
+  illustrator_unprinted: false
+  regulation_mark: I
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: M-P
+  set_name: ポケモンカードゲーム チャンピオンズリーグ2026 横浜
+  collector_number: '48320'
+  collector_number_unprinted: true
+  rarity:
+  rarity_unprinted: true
+  illustrator: 5ban Graphics
+  illustrator_unprinted: false
+  regulation_mark: I
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: M-P
+  set_name: ポケモンカードゲーム チャンピオンズリーグ2026 愛知 Dec.
+  collector_number: '50042'
+  collector_number_unprinted: true
+  rarity:
+  rarity_unprinted: true
+  illustrator: 5ban Graphics
+  illustrator_unprinted: false
+  regulation_mark: I
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: M-P
+  set_name: ポケモンカードゲーム チャンピオンズリーグ2026 愛知 Dec.
+  collector_number: '50043'
+  collector_number_unprinted: true
+  rarity:
+  rarity_unprinted: true
+  illustrator: 5ban Graphics
+  illustrator_unprinted: false
+  regulation_mark: I
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: M-P
+  set_name: ポケモンカードゲーム チャンピオンズリーグ2026 愛知 Dec.
+  collector_number: '50044'
+  collector_number_unprinted: true
+  rarity:
+  rarity_unprinted: true
+  illustrator: 5ban Graphics
+  illustrator_unprinted: false
+  regulation_mark: I
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: M-P
+  set_name: ポケモンカードゲーム チャンピオンズリーグ2026 福岡
+  collector_number: '50045'
+  collector_number_unprinted: true
+  rarity:
+  rarity_unprinted: true
+  illustrator: 5ban Graphics
+  illustrator_unprinted: false
+  regulation_mark: I
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: M-P
+  set_name: ポケモンカードゲーム チャンピオンズリーグ2026 福岡
+  collector_number: '50046'
+  collector_number_unprinted: true
+  rarity:
+  rarity_unprinted: true
+  illustrator: 5ban Graphics
+  illustrator_unprinted: false
+  regulation_mark: I
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: M-P
+  set_name: ポケモンカードゲーム チャンピオンズリーグ2026 福岡
+  collector_number: '50047'
+  collector_number_unprinted: true
+  rarity:
+  rarity_unprinted: true
+  illustrator: 5ban Graphics
+  illustrator_unprinted: false
+  regulation_mark: I
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: M-P
+  set_name: ポケモンカードゲーム チャンピオンズリーグ2026 大阪
+  collector_number: '50168'
+  collector_number_unprinted: true
+  rarity:
+  rarity_unprinted: true
+  illustrator: 5ban Graphics
+  illustrator_unprinted: false
+  regulation_mark: I
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: M-P
+  set_name: ポケモンカードゲーム チャンピオンズリーグ2026 大阪
+  collector_number: '50169'
+  collector_number_unprinted: true
+  rarity:
+  rarity_unprinted: true
+  illustrator: 5ban Graphics
+  illustrator_unprinted: false
+  regulation_mark: I
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: M-P
+  set_name: ポケモンカードゲーム チャンピオンズリーグ2026 大阪
+  collector_number: '50170'
+  collector_number_unprinted: true
+  rarity:
+  rarity_unprinted: true
+  illustrator: 5ban Graphics
+  illustrator_unprinted: false
+  regulation_mark: I
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: M-P
+  set_name: ポケモンカードゲーム チャンピオンズリーグ2026 愛知 May
+  collector_number: '50180'
+  collector_number_unprinted: true
+  rarity:
+  rarity_unprinted: true
+  illustrator: 5ban Graphics
+  illustrator_unprinted: false
+  regulation_mark: I
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: M-P
+  set_name: ポケモンカードゲーム チャンピオンズリーグ2026 愛知 May
+  collector_number: '50181'
+  collector_number_unprinted: true
+  rarity:
+  rarity_unprinted: true
+  illustrator: 5ban Graphics
+  illustrator_unprinted: false
+  regulation_mark: I
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: M-P
+  set_name: ポケモンカードゲーム チャンピオンズリーグ2026 愛知 May
+  collector_number: '50182'
+  collector_number_unprinted: true
+  rarity:
+  rarity_unprinted: true
+  illustrator: 5ban Graphics
+  illustrator_unprinted: false
+  regulation_mark: I
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: M-P
+  set_name: ポケモンカードゲーム チャンピオンズリーグ2027 横浜
+  collector_number: '50503'
+  collector_number_unprinted: true
+  rarity:
+  rarity_unprinted: true
+  illustrator: 5ban Graphics
+  illustrator_unprinted: false
+  regulation_mark:
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: M-P
+  set_name: ポケモンカードゲーム チャンピオンズリーグ2027 横浜
+  collector_number: '50504'
+  collector_number_unprinted: true
+  rarity:
+  rarity_unprinted: true
+  illustrator: 5ban Graphics
+  illustrator_unprinted: false
+  regulation_mark:
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: M-P
+  set_name: ポケモンカードゲーム チャンピオンズリーグ2027 横浜
+  collector_number: '50505'
+  collector_number_unprinted: true
+  rarity:
+  rarity_unprinted: true
+  illustrator: 5ban Graphics
+  illustrator_unprinted: false
+  regulation_mark:
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: M-P
+  set_name: ポケモンカードゲーム チャンピオンズリーグ2027 千葉
+  collector_number: '50506'
+  collector_number_unprinted: true
+  rarity:
+  rarity_unprinted: true
+  illustrator: 5ban Graphics
+  illustrator_unprinted: false
+  regulation_mark:
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: M-P
+  set_name: ポケモンカードゲーム チャンピオンズリーグ2027 千葉
+  collector_number: '50507'
+  collector_number_unprinted: true
+  rarity:
+  rarity_unprinted: true
+  illustrator: 5ban Graphics
+  illustrator_unprinted: false
+  regulation_mark:
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: M-P
+  set_name: ポケモンカードゲーム チャンピオンズリーグ2027 千葉
+  collector_number: '50508'
+  collector_number_unprinted: true
+  rarity:
+  rarity_unprinted: true
+  illustrator: 5ban Graphics
+  illustrator_unprinted: false
+  regulation_mark:
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: M-P
+  set_name: ポケモンカードゲーム チャンピオンズリーグ2027 宮城
+  collector_number: '50509'
+  collector_number_unprinted: true
+  rarity:
+  rarity_unprinted: true
+  illustrator: 5ban Graphics
+  illustrator_unprinted: false
+  regulation_mark:
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: M-P
+  set_name: ポケモンカードゲーム チャンピオンズリーグ2027 宮城
+  collector_number: '50510'
+  collector_number_unprinted: true
+  rarity:
+  rarity_unprinted: true
+  illustrator: 5ban Graphics
+  illustrator_unprinted: false
+  regulation_mark:
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: M-P
+  set_name: ポケモンカードゲーム チャンピオンズリーグ2027 宮城
+  collector_number: '50511'
+  collector_number_unprinted: true
+  rarity:
+  rarity_unprinted: true
+  illustrator: 5ban Graphics
+  illustrator_unprinted: false
+  regulation_mark:
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: M-P
+  set_name: ポケモンカードゲーム チャンピオンズリーグ2027 大阪
+  collector_number: '50512'
+  collector_number_unprinted: true
+  rarity:
+  rarity_unprinted: true
+  illustrator: 5ban Graphics
+  illustrator_unprinted: false
+  regulation_mark:
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: M-P
+  set_name: ポケモンカードゲーム チャンピオンズリーグ2027 大阪
+  collector_number: '50513'
+  collector_number_unprinted: true
+  rarity:
+  rarity_unprinted: true
+  illustrator: 5ban Graphics
+  illustrator_unprinted: false
+  regulation_mark:
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: M-P
+  set_name: ポケモンカードゲーム チャンピオンズリーグ2027 大阪
+  collector_number: '50514'
+  collector_number_unprinted: true
+  rarity:
+  rarity_unprinted: true
+  illustrator: 5ban Graphics
+  illustrator_unprinted: false
+  regulation_mark:
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: M-P
+  set_name: ポケモンカードゲーム チャンピオンズリーグ2027 愛知
+  collector_number: '50515'
+  collector_number_unprinted: true
+  rarity:
+  rarity_unprinted: true
+  illustrator: 5ban Graphics
+  illustrator_unprinted: false
+  regulation_mark:
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: M-P
+  set_name: ポケモンカードゲーム チャンピオンズリーグ2027 愛知
+  collector_number: '50516'
+  collector_number_unprinted: true
+  rarity:
+  rarity_unprinted: true
+  illustrator: 5ban Graphics
+  illustrator_unprinted: false
+  regulation_mark:
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: M-P
+  set_name: ポケモンカードゲーム チャンピオンズリーグ2027 愛知
+  collector_number: '50517'
+  collector_number_unprinted: true
+  rarity:
+  rarity_unprinted: true
+  illustrator: 5ban Graphics
+  illustrator_unprinted: false
+  regulation_mark:
+  regulation_mark_unprinted: false
   image_url:

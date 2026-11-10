@@ -1,8 +1,6 @@
 ---
-schema_version: 1
+schema_version: 2
 slug: cynthia-s-garchomp-ex
-external_link:
-  cabt_id: 381
 name:
   ja: シロナのガブリアスex
   en: Cynthia's Garchomp ex
@@ -57,5 +55,175 @@ first_appearance:
   set_name_ja: 熱風のアリーナ
   released_at: '2025-03-14'
   regulation_mark: I
-  collector_number: '49614'
+  collector_number: '044'
   image_url:
+printings:
+- language: ja
+  set_code: SV9a
+  set_mark: SV9a
+  set_name: 熱風のアリーナ
+  collector_number: '044'
+  collector_number_unprinted: false
+  rarity: RR
+  rarity_unprinted: false
+  illustrator: 5ban Graphics
+  illustrator_unprinted: false
+  regulation_mark: I
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code: SV9a
+  set_mark: SV9a
+  set_name: 熱風のアリーナ
+  collector_number: '080'
+  collector_number_unprinted: false
+  rarity: SR
+  rarity_unprinted: false
+  illustrator: 5ban Graphics
+  illustrator_unprinted: false
+  regulation_mark: I
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV9a/047381_P_SHIRONANOGABURIASUEX.jpg
+- language: ja
+  set_code: SV9a
+  set_mark: SV9a
+  set_name: 熱風のアリーナ
+  collector_number: '087'
+  collector_number_unprinted: false
+  rarity: SAR
+  rarity_unprinted: false
+  illustrator: HICO KIM
+  illustrator_unprinted: false
+  regulation_mark: I
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV9a/047388_P_SHIRONANOGABURIASUEX.jpg
+- language: ja
+  set_code: SV9a
+  set_mark: SV9a
+  set_name: 熱風のアリーナ
+  collector_number: '091'
+  collector_number_unprinted: false
+  rarity: UR
+  rarity_unprinted: false
+  illustrator: 5ban Graphics
+  illustrator_unprinted: false
+  regulation_mark: I
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV9a/047392_P_SHIRONANOGABURIASUEX.jpg
+- language: ja
+  set_code: M2a
+  set_mark: M2a
+  set_name: MEGAドリームex
+  collector_number: '090'
+  collector_number_unprinted: false
+  rarity: RR
+  rarity_unprinted: false
+  illustrator: 5ban Graphics
+  illustrator_unprinted: false
+  regulation_mark: I
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/M2a/048612_P_SHIRONANOGABURIASUEX.jpg
+- language: ja
+  set_code:
+  set_mark: MC
+  set_name: スタートデッキ100 バトルコレクション
+  collector_number: '378'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: 5ban Graphics
+  illustrator_unprinted: false
+  regulation_mark: I
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: SV-P
+  set_name: シールド戦「熱風のアリーナ」
+  collector_number: '49614'
+  collector_number_unprinted: true
+  rarity:
+  rarity_unprinted: true
+  illustrator: 5ban Graphics
+  illustrator_unprinted: false
+  regulation_mark: I
+  regulation_mark_unprinted: false
+  image_url:
+- language: en
+  set_code: DRI
+  set_mark: DRI
+  set_name: DRI
+  collector_number: '104'
+  collector_number_unprinted: false
+  rarity: RR
+  rarity_unprinted: false
+  illustrator: 5ban Graphics
+  illustrator_unprinted: false
+  regulation_mark: I
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRI/DRI_104_R_EN_XS.png
+- language: en
+  set_code: DRI
+  set_mark: DRI
+  set_name: DRI
+  collector_number: '215'
+  collector_number_unprinted: false
+  rarity: SR
+  rarity_unprinted: false
+  illustrator: 5ban Graphics
+  illustrator_unprinted: false
+  regulation_mark: I
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRI/DRI_215_R_EN_XS.png
+- language: en
+  set_code: DRI
+  set_mark: DRI
+  set_name: DRI
+  collector_number: '232'
+  collector_number_unprinted: false
+  rarity: SAR
+  rarity_unprinted: false
+  illustrator: HICO KIM
+  illustrator_unprinted: false
+  regulation_mark: I
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRI/DRI_232_R_EN_XS.png
+- language: en
+  set_code: DRI
+  set_mark: DRI
+  set_name: DRI
+  collector_number: '241'
+  collector_number_unprinted: false
+  rarity: UR
+  rarity_unprinted: false
+  illustrator: 5ban Graphics
+  illustrator_unprinted: false
+  regulation_mark: I
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRI/DRI_241_R_EN_XS.png
+- language: en
+  set_code: ASC
+  set_mark: ASC
+  set_name: ASC
+  collector_number: '111'
+  collector_number_unprinted: false
+  rarity: RR
+  rarity_unprinted: false
+  illustrator: 5ban Graphics
+  illustrator_unprinted: false
+  regulation_mark: I
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/ASC/ASC_111_R_EN_XS.png
+- language: en
+  set_code: SVP
+  set_mark: SVP
+  set_name: SVP
+  collector_number: '204'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: PLANETA Igarashi
+  illustrator_unprinted: false
+  regulation_mark: I
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVP/SVP_204_R_EN_XS.png

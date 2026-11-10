@@ -1,5 +1,5 @@
 ---
-schema_version: 1
+schema_version: 2
 slug: magnezone
 name:
   ja: ジバコイル
@@ -59,4 +59,31 @@ first_appearance:
   released_at: '2024-10-18'
   regulation_mark: H
   collector_number: '036'
-  image_url:
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV8/046376_P_JIBAKOIRU.jpg
+printings:
+- language: ja
+  set_code: SV8
+  set_mark: SV8
+  set_name: 超電ブレイカー
+  collector_number: '036'
+  collector_number_unprinted: false
+  rarity: U
+  rarity_unprinted: false
+  illustrator: Po-Suzuki
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV8/046376_P_JIBAKOIRU.jpg
+- language: en
+  set_code: SSP
+  set_mark: SSP
+  set_name: SSP
+  collector_number: '60'
+  collector_number_unprinted: false
+  rarity: U
+  rarity_unprinted: false
+  illustrator: Po-Suzuki
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SSP/SSP_060_R_EN_XS.png

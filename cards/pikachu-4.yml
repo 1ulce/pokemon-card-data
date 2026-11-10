@@ -1,5 +1,5 @@
 ---
-schema_version: 1
+schema_version: 2
 slug: pikachu-4
 name:
   ja: ピカチュウ
@@ -46,4 +46,31 @@ first_appearance:
   released_at: '2023-03-24'
   regulation_mark:
   collector_number: '46294'
+  image_url:
+printings:
+- language: ja
+  set_code:
+  set_mark: SV-P
+  set_name: ピカチュウ
+  collector_number: '46294'
+  collector_number_unprinted: true
+  rarity:
+  rarity_unprinted: true
+  illustrator: Atsushi Furusawa
+  illustrator_unprinted: false
+  regulation_mark:
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: M-P
+  set_name: ポケモンワールドチャンピオンシップス2026
+  collector_number: '50301'
+  collector_number_unprinted: true
+  rarity:
+  rarity_unprinted: true
+  illustrator: DOM
+  illustrator_unprinted: false
+  regulation_mark:
+  regulation_mark_unprinted: false
   image_url:

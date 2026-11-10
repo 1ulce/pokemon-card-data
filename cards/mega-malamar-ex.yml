@@ -1,0 +1,115 @@
+---
+schema_version: 2
+slug: mega-malamar-ex
+name:
+  ja: メガカラマネロex
+  en: Mega Malamar ex
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Darkness
+hp: 320
+retreat_cost: 2
+regulation_mark: J
+meta_tags:
+- ex
+- mega
+evolves_from:
+  ja: マーイーカ
+  en: Inkay
+weakness:
+  type: Grass
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja: メガシンカexがきぜつしたとき、相手はサイドを3枚とる。
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: サイコマリオネット
+    en: Psychic Marionette
+  cost:
+  - Darkness
+  - Darkness
+  damage: 70×
+  effect_text:
+    ja: 相手のベンチポケモンの数×70ダメージ。
+    en: This attack does 70 damage for each of your opponent's Benched Pokémon.
+- position: 1
+  name:
+    ja: ぶきみなねんぱ
+    en: Eerie Wave
+  cost:
+  - Darkness
+  - Darkness
+  - Darkness
+  damage: '200'
+  effect_text:
+    ja: 相手のバトルポケモンをこんらんにする。
+    en: Your opponent's Active Pokémon is now Confused.
+first_appearance:
+  set_name_ja: ストームエメラルダ
+  released_at: '2026-07-31'
+  regulation_mark: J
+  collector_number: '048'
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/M6/050386_P_MKARAMANEROIEKKUSU.jpg
+printings:
+- language: ja
+  set_code: M6
+  set_mark: M6
+  set_name: ストームエメラルダ
+  collector_number: '048'
+  collector_number_unprinted: false
+  rarity: RR
+  rarity_unprinted: false
+  illustrator: 5ban Graphics
+  illustrator_unprinted: false
+  regulation_mark: J
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/M6/050386_P_MKARAMANEROIEKKUSU.jpg
+- language: ja
+  set_code: M6
+  set_mark: M6
+  set_name: ストームエメラルダ
+  collector_number: '094'
+  collector_number_unprinted: false
+  rarity: SR
+  rarity_unprinted: false
+  illustrator: 5ban Graphics
+  illustrator_unprinted: false
+  regulation_mark: J
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/M6/050535_P_MKARAMANEROIEKKUSU.jpg
+- language: en
+  set_code: DLR
+  set_mark: DLR
+  set_name: Mega Evolution—Delta Reign
+  collector_number: '69'
+  collector_number_unprinted: false
+  rarity: RR
+  rarity_unprinted: false
+  illustrator:
+  illustrator_unprinted: false
+  regulation_mark: J
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DLR/DLR_069_R_EN_XS.png
+- language: en
+  set_code: DLR
+  set_mark: DLR
+  set_name: Mega Evolution—Delta Reign
+  collector_number: '123'
+  collector_number_unprinted: false
+  rarity: SR
+  rarity_unprinted: false
+  illustrator:
+  illustrator_unprinted: false
+  regulation_mark: J
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DLR/DLR_123_R_EN_XS.png

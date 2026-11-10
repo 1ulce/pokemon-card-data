@@ -1,8 +1,6 @@
 ---
-schema_version: 1
+schema_version: 2
 slug: electrike
-external_link:
-  cabt_id: 374
 name:
   ja: ラクライ
   en: Electrike
@@ -57,4 +55,70 @@ first_appearance:
   released_at: '2025-03-14'
   regulation_mark: I
   collector_number: '037'
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV9a/047332_P_RAKURAI.jpg
+printings:
+- language: ja
+  set_code: SV9a
+  set_mark: SV9a
+  set_name: 熱風のアリーナ
+  collector_number: '037'
+  collector_number_unprinted: false
+  rarity: C
+  rarity_unprinted: false
+  illustrator: Narano
+  illustrator_unprinted: false
+  regulation_mark: I
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV9a/047332_P_RAKURAI.jpg
+- language: ja
+  set_code: SV9a
+  set_mark: SV9a
+  set_name: 熱風のアリーナ
+  collector_number: '073'
+  collector_number_unprinted: false
+  rarity: AR
+  rarity_unprinted: false
+  illustrator: Nakamura Ippan
+  illustrator_unprinted: false
+  regulation_mark: I
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV9a/047374_P_RAKURAI.jpg
+- language: ja
+  set_code:
+  set_mark: MC
+  set_name: スタートデッキ100 バトルコレクション
+  collector_number: '242'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: Narano
+  illustrator_unprinted: false
+  regulation_mark: I
+  regulation_mark_unprinted: false
   image_url:
+- language: en
+  set_code: DRI
+  set_mark: DRI
+  set_name: DRI
+  collector_number: '75'
+  collector_number_unprinted: false
+  rarity: C
+  rarity_unprinted: false
+  illustrator: Narano
+  illustrator_unprinted: false
+  regulation_mark: I
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRI/DRI_075_R_EN_XS.png
+- language: en
+  set_code: DRI
+  set_mark: DRI
+  set_name: DRI
+  collector_number: '196'
+  collector_number_unprinted: false
+  rarity: AR
+  rarity_unprinted: false
+  illustrator: Nakamura Ippan
+  illustrator_unprinted: false
+  regulation_mark: I
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRI/DRI_196_R_EN_XS.png

@@ -1,0 +1,93 @@
+---
+schema_version: 2
+slug: legendary-summit
+name:
+  ja: 伝説の山頂
+  en: Legendary Summit
+  prefix:
+card_type: Trainer
+card_subtype: Stadium
+energy_type:
+hp:
+retreat_cost:
+regulation_mark: J
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type:
+  value:
+resistance:
+  type:
+  value:
+body_text:
+  ja: おたがいの無色ポケモンが、相手のポケモンからワザのダメージを受けてきぜつしたとき、とられるサイドは1枚少なくなる。
+  en: Whenever a [C] Pokémon (yours or your opponent's) is Knocked Out by damage from an attack from the opponent's Pokémon, that player takes 1 fewer Prize card.
+rules_text:
+  ja: |-
+    このカードは1枚だけでは出せず、自分の手札から2種類の「伝説の山頂」を組み合わせて、1枚のスタジアムとして場に出す。
+
+    スタジアムは、自分の番に1枚、バトル場の横に出せる。別のスタジアムが場に出たなら、このカードをトラッシュする。同じ名前のスタジアムは場に出せない。
+  en:
+abilities: []
+attacks: []
+first_appearance:
+  set_name_ja: ストームエメラルダ
+  released_at: '2026-07-31'
+  regulation_mark: J
+  collector_number: '073'
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/M6/050410_T_DENSETSUNOSANCHIXYOU.jpg
+printings:
+- language: ja
+  set_code: M6
+  set_mark: M6
+  set_name: ストームエメラルダ
+  collector_number: '073'
+  collector_number_unprinted: false
+  rarity: U
+  rarity_unprinted: false
+  illustrator: nagimiso
+  illustrator_unprinted: false
+  regulation_mark: J
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/M6/050410_T_DENSETSUNOSANCHIXYOU.jpg
+- language: ja
+  set_code: M6
+  set_mark: M6
+  set_name: ストームエメラルダ
+  collector_number: '074'
+  collector_number_unprinted: false
+  rarity: U
+  rarity_unprinted: false
+  illustrator: nagimiso
+  illustrator_unprinted: false
+  regulation_mark: J
+  regulation_mark_unprinted: false
+  image_url:
+- language: en
+  set_code: DLR
+  set_mark: DLR
+  set_name: Mega Evolution—Delta Reign
+  collector_number: '96'
+  collector_number_unprinted: false
+  rarity: U
+  rarity_unprinted: false
+  illustrator:
+  illustrator_unprinted: false
+  regulation_mark: J
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DLR/DLR_096_R_EN_XS.png
+- language: en
+  set_code: DLR
+  set_mark: DLR
+  set_name: Mega Evolution—Delta Reign
+  collector_number: '97'
+  collector_number_unprinted: false
+  rarity: U
+  rarity_unprinted: false
+  illustrator:
+  illustrator_unprinted: false
+  regulation_mark: J
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DLR/DLR_097_R_EN_XS.png

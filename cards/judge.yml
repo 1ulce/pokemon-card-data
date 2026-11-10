@@ -1,8 +1,6 @@
 ---
-schema_version: 1
+schema_version: 2
 slug: judge
-external_link:
-  cabt_id: 1213
 name:
   ja: ジャッジマン
   en: Judge
@@ -34,6 +32,579 @@ attacks: []
 first_appearance:
   set_name_ja: ピカチュウ
   released_at: '2023-03-24'
-  regulation_mark: H
+  regulation_mark: G
   collector_number: '025'
   image_url:
+printings:
+- language: ja
+  set_code:
+  set_mark: WCS23
+  set_name: ピカチュウ
+  collector_number: '025'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: false
+  illustrator: Hideki Ishikawa
+  illustrator_unprinted: false
+  regulation_mark: G
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code: SV4a
+  set_mark: SV4a
+  set_name: シャイニートレジャーex
+  collector_number: '342'
+  collector_number_unprinted: false
+  rarity: SR
+  rarity_unprinted: false
+  illustrator: Hideki Ishikawa
+  illustrator_unprinted: false
+  regulation_mark: G
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: SVI
+  set_name: バトルアカデミー
+  collector_number: '059'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: Hideki Ishikawa
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: SVM
+  set_name: スタートデッキGenerations ピカチュウex・カビゴンex
+  collector_number: '154'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: Hideki Ishikawa
+  illustrator_unprinted: false
+  regulation_mark: G
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code: SV9a
+  set_mark: SV9a
+  set_name: 熱風のアリーナ
+  collector_number: '062'
+  collector_number_unprinted: false
+  rarity: U
+  rarity_unprinted: false
+  illustrator: kantaro
+  illustrator_unprinted: false
+  regulation_mark: G
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV9a/047357_T_JIXYAJJIMAN.jpg
+- language: ja
+  set_code: SV9a
+  set_mark: SV9a
+  set_name: 熱風のアリーナ
+  collector_number: '083'
+  collector_number_unprinted: false
+  rarity: SR
+  rarity_unprinted: false
+  illustrator: kantaro
+  illustrator_unprinted: false
+  regulation_mark: G
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV9a/047384_T_JIXYAJJIMAN.jpg
+- language: ja
+  set_code:
+  set_mark: MP1
+  set_name: スタートデッキ100 バトルコレクション コロちゃおVer.
+  collector_number: '022'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: kantaro
+  illustrator_unprinted: false
+  regulation_mark: J
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: MC
+  set_name: スタートデッキ100 バトルコレクション
+  collector_number: '711'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: kantaro
+  illustrator_unprinted: false
+  regulation_mark: J
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: MEE
+  set_name: スターターセットex イーブイex
+  collector_number: '016'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: kantaro
+  illustrator_unprinted: false
+  regulation_mark: J
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: MF
+  set_name: 30th CELEBRATION プレミアムデッキセット エーフィ・ブラッキー
+  collector_number: '037'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: kantaro
+  illustrator_unprinted: false
+  regulation_mark: J
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: SNPo
+  set_name: オンバーンBREAK
+  collector_number: '009'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: false
+  illustrator: Megumi Mizutani
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: MEZ
+  set_name: スターターセットex ゾロア＆ゾロアークex
+  collector_number: '017'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: kantaro
+  illustrator_unprinted: false
+  regulation_mark: J
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: SVC
+  set_name: スターターセットex ピカチュウex&パーモット
+  collector_number: '018'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: false
+  illustrator: Hideki Ishikawa
+  illustrator_unprinted: false
+  regulation_mark: G
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: SVAL
+  set_name: スターターセットex ホゲータ＆デンリュウex
+  collector_number: '018'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: false
+  illustrator: Hideki Ishikawa
+  illustrator_unprinted: false
+  regulation_mark: G
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: SVAM
+  set_name: スターターセットex ニャオハ＆ルカリオex
+  collector_number: '020'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: false
+  illustrator: Hideki Ishikawa
+  illustrator_unprinted: false
+  regulation_mark: G
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: SVAW
+  set_name: スターターセットex クワッス＆ミミッキュex
+  collector_number: '020'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: false
+  illustrator: Hideki Ishikawa
+  illustrator_unprinted: false
+  regulation_mark: G
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: SN
+  set_name: スタートデッキ100 コロコロコミックver.
+  collector_number: '021'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: false
+  illustrator: Ryuta Fuse
+  illustrator_unprinted: false
+  regulation_mark: E
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: SMN
+  set_name: TAG TEAM GX
+  collector_number: '023'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: false
+  illustrator: Sanosuke Sakuma
+  illustrator_unprinted: false
+  regulation_mark: B
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: SO
+  set_name: スペシャルデッキセット リザードンVSTAR vs レックウザVMAX
+  collector_number: '024'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: false
+  illustrator: Ryuta Fuse
+  illustrator_unprinted: false
+  regulation_mark: E
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: SMI
+  set_name: 炎のブースターGX
+  collector_number: '032'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: false
+  illustrator: Sanosuke Sakuma
+  illustrator_unprinted: false
+  regulation_mark: B
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: SML
+  set_name: ファミリーポケモンカードゲーム
+  collector_number: '047'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: Sanosuke Sakuma
+  illustrator_unprinted: false
+  regulation_mark: B
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: SH
+  set_name: ファミリーポケモンカードゲーム
+  collector_number: '048'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: Ryuta Fuse
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: SH
+  set_name: ファミリーポケモンカードゲーム
+  collector_number: '048'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: Ryuta Fuse
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: SH
+  set_name: ファミリーポケモンカードゲーム
+  collector_number: '048'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: Ryuta Fuse
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: SM11a
+  set_name: リミックスバウト
+  collector_number: '057'
+  collector_number_unprinted: false
+  rarity: U
+  rarity_unprinted: false
+  illustrator: Sanosuke Sakuma
+  illustrator_unprinted: false
+  regulation_mark: B
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: SM7a
+  set_name: 迅雷スパーク
+  collector_number: '057'
+  collector_number_unprinted: false
+  rarity: U
+  rarity_unprinted: false
+  illustrator: Sanosuke Sakuma
+  illustrator_unprinted: false
+  regulation_mark: B
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: SVI
+  set_name: いつでもどこでも バトルアカデミー
+  collector_number: '059'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: Hideki Ishikawa
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: SVI
+  set_name: いつでもどこでも バトルアカデミー
+  collector_number: '059'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: Hideki Ishikawa
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: S11a
+  set_name: 白熱のアルカナ
+  collector_number: '063'
+  collector_number_unprinted: false
+  rarity: U
+  rarity_unprinted: false
+  illustrator: Ryuta Fuse
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: S11a
+  set_name: 白熱のアルカナ
+  collector_number: '063'
+  collector_number_unprinted: false
+  rarity: U
+  rarity_unprinted: false
+  illustrator: Ryuta Fuse
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: 20th
+  set_name: ポケットモンスターカードゲーム スターターパック
+  collector_number: '065'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: Megumi Mizutani
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: SM7a
+  set_name: 迅雷スパーク
+  collector_number: '066'
+  collector_number_unprinted: false
+  rarity: SR
+  rarity_unprinted: false
+  illustrator: Sanosuke Sakuma
+  illustrator_unprinted: false
+  regulation_mark: B
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: SM9
+  set_name: タッグボルト
+  collector_number: '085'
+  collector_number_unprinted: false
+  rarity: U
+  rarity_unprinted: false
+  illustrator: Sanosuke Sakuma
+  illustrator_unprinted: false
+  regulation_mark: B
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: SM6
+  set_name: 禁断の光
+  collector_number: '087'
+  collector_number_unprinted: false
+  rarity: U
+  rarity_unprinted: false
+  illustrator: Sanosuke Sakuma
+  illustrator_unprinted: false
+  regulation_mark: B
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: SMH
+  set_name: フェアリーゼルネアス
+  collector_number: '119'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: false
+  illustrator: Sanosuke Sakuma
+  illustrator_unprinted: false
+  regulation_mark: B
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: SVD
+  set_name: exスタートデッキ 草 ジュナイパー
+  collector_number: '130'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: Hideki Ishikawa
+  illustrator_unprinted: false
+  regulation_mark: G
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: S8b
+  set_name: VMAXクライマックス
+  collector_number: '262'
+  collector_number_unprinted: false
+  rarity: SR
+  rarity_unprinted: false
+  illustrator: Ryuta Fuse
+  illustrator_unprinted: false
+  regulation_mark: E
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: SI
+  set_name: スタートデッキ100
+  collector_number: '398'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: Ryuta Fuse
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: SI
+  set_name: スタートデッキ100
+  collector_number: '398'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: Ryuta Fuse
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: SMP
+  set_name: 公認自主イベント トレーナーズパック 2019
+  collector_number: '36639'
+  collector_number_unprinted: true
+  rarity:
+  rarity_unprinted: true
+  illustrator: Sanosuke Sakuma
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url:
+- language: en
+  set_code: BKT
+  set_mark: BKT
+  set_name: BKT
+  collector_number: '143'
+  collector_number_unprinted: false
+  rarity: U
+  rarity_unprinted: false
+  illustrator: Megumi Mizutani
+  illustrator_unprinted: false
+  regulation_mark:
+  regulation_mark_unprinted: true
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BKT/BKT_143_R_EN_XS.png
+- language: en
+  set_code: FLI
+  set_mark: FLI
+  set_name: FLI
+  collector_number: '108'
+  collector_number_unprinted: false
+  rarity: U
+  rarity_unprinted: false
+  illustrator: Sanosuke Sakuma
+  illustrator_unprinted: false
+  regulation_mark:
+  regulation_mark_unprinted: true
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/FLI/FLI_108_R_EN_XS.png
+- language: en
+  set_code: LOT
+  set_mark: LOT
+  set_name: LOT
+  collector_number: '209'
+  collector_number_unprinted: false
+  rarity: SR
+  rarity_unprinted: false
+  illustrator: Sanosuke Sakuma
+  illustrator_unprinted: false
+  regulation_mark:
+  regulation_mark_unprinted: true
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/LOT/LOT_209_R_EN_XS.png
+- language: en
+  set_code: POR
+  set_mark: POR
+  set_name: POR
+  collector_number: '76'
+  collector_number_unprinted: false
+  rarity: U
+  rarity_unprinted: false
+  illustrator: kantaro
+  illustrator_unprinted: false
+  regulation_mark: J
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/POR/POR_076_R_EN_XS.png

@@ -1,5 +1,5 @@
 ---
-schema_version: 1
+schema_version: 2
 slug: az-s-tranquility
 name:
   ja: AZの安らぎ
@@ -34,4 +34,83 @@ first_appearance:
   released_at: '2026-03-13'
   regulation_mark: J
   collector_number: '075'
-  image_url:
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/M4/050159_T_AZNOYASURAGI.jpg
+printings:
+- language: ja
+  set_code: M4
+  set_mark: M4
+  set_name: ニンジャスピナー
+  collector_number: '075'
+  collector_number_unprinted: false
+  rarity: U
+  rarity_unprinted: false
+  illustrator: GIDORA
+  illustrator_unprinted: false
+  regulation_mark: J
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/M4/050159_T_AZNOYASURAGI.jpg
+- language: ja
+  set_code: M4
+  set_mark: M4
+  set_name: ニンジャスピナー
+  collector_number: '108'
+  collector_number_unprinted: false
+  rarity: SR
+  rarity_unprinted: false
+  illustrator: GIDORA
+  illustrator_unprinted: false
+  regulation_mark: J
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/M4/050207_T_AZNOYASURAGI.jpg
+- language: ja
+  set_code: M4
+  set_mark: M4
+  set_name: ニンジャスピナー
+  collector_number: '118'
+  collector_number_unprinted: false
+  rarity: SAR
+  rarity_unprinted: false
+  illustrator: OKACHEKE
+  illustrator_unprinted: false
+  regulation_mark: J
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/M4/050217_T_AZNOYASURAGI.jpg
+- language: en
+  set_code: CRI
+  set_mark: CRI
+  set_name: CRI
+  collector_number: '76'
+  collector_number_unprinted: false
+  rarity: U
+  rarity_unprinted: false
+  illustrator: GIDORA
+  illustrator_unprinted: false
+  regulation_mark: J
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CRI/CRI_076_R_EN_XS.png
+- language: en
+  set_code: CRI
+  set_mark: CRI
+  set_name: CRI
+  collector_number: '106'
+  collector_number_unprinted: false
+  rarity: SR
+  rarity_unprinted: false
+  illustrator: GIDORA
+  illustrator_unprinted: false
+  regulation_mark: J
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CRI/CRI_106_R_EN_XS.png
+- language: en
+  set_code: CRI
+  set_mark: CRI
+  set_name: CRI
+  collector_number: '120'
+  collector_number_unprinted: false
+  rarity: SAR
+  rarity_unprinted: false
+  illustrator: OKACHEKE
+  illustrator_unprinted: false
+  regulation_mark: J
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CRI/CRI_120_R_EN_XS.png

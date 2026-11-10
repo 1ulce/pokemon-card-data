@@ -1,8 +1,6 @@
 ---
-schema_version: 1
+schema_version: 2
 slug: deluxe-bomb
-external_link:
-  cabt_id: 1167
 name:
   ja: デラックスボム
   en: Deluxe Bomb
@@ -38,3 +36,43 @@ first_appearance:
   regulation_mark: H
   collector_number: '096'
   image_url:
+printings:
+- language: ja
+  set_code: SV7
+  set_mark: SV7
+  set_name: ステラミラクル
+  collector_number: '096'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: false
+  illustrator: inose yukie
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: MC
+  set_name: スタートデッキ100 バトルコレクション
+  collector_number: '684'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: inose yukie
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url:
+- language: en
+  set_code: SCR
+  set_mark: SCR
+  set_name: SCR
+  collector_number: '134'
+  collector_number_unprinted: false
+  rarity: SR
+  rarity_unprinted: false
+  illustrator: inose yukie
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SCR/SCR_134_R_EN_XS.png

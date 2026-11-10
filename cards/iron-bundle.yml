@@ -1,5 +1,5 @@
 ---
-schema_version: 1
+schema_version: 2
 slug: iron-bundle
 name:
   ja: テツノツツミ
@@ -45,4 +45,44 @@ first_appearance:
   released_at: '2024-04-26'
   regulation_mark: H
   collector_number: '037'
-  image_url:
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV6/045728_P_TETSUNOTSUTSUMI.jpg
+printings:
+- language: ja
+  set_code: SV6
+  set_mark: SV6
+  set_name: 変幻の仮面
+  collector_number: '037'
+  collector_number_unprinted: false
+  rarity: U
+  rarity_unprinted: false
+  illustrator: nagimiso
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV6/045728_P_TETSUNOTSUTSUMI.jpg
+- language: en
+  set_code: TWM
+  set_mark: TWM
+  set_name: TWM
+  collector_number: '62'
+  collector_number_unprinted: false
+  rarity: U
+  rarity_unprinted: false
+  illustrator: nagimiso
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TWM/TWM_062_R_EN_XS.png
+- language: en
+  set_code: SVALT
+  set_mark: SVALT
+  set_name: SVALT
+  collector_number: '99'
+  collector_number_unprinted: false
+  rarity: U
+  rarity_unprinted: false
+  illustrator: nagimiso
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TWM/TWM_062_R_EN_XS.png

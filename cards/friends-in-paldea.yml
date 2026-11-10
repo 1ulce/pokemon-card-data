@@ -1,5 +1,5 @@
 ---
-schema_version: 1
+schema_version: 2
 slug: friends-in-paldea
 name:
   ja: パルデアの仲間たち
@@ -34,4 +34,57 @@ first_appearance:
   released_at: '2024-12-06'
   regulation_mark: H
   collector_number: '174'
-  image_url:
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV8a/046835_T_PARUDEANONAKAMATACHI.jpg
+printings:
+- language: ja
+  set_code: SV8a
+  set_mark: SV8a
+  set_name: テラスタルフェスex
+  collector_number: '174'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: Cona Nitanda
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV8a/046835_T_PARUDEANONAKAMATACHI.jpg
+- language: ja
+  set_code: SV8a
+  set_mark: SV8a
+  set_name: テラスタルフェスex
+  collector_number: '195'
+  collector_number_unprinted: false
+  rarity: SR
+  rarity_unprinted: false
+  illustrator: Cona Nitanda
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV8a/047116_T_PARUDEANONAKAMATACHI.jpg
+- language: en
+  set_code: PRE
+  set_mark: PRE
+  set_name: PRE
+  collector_number: '109'
+  collector_number_unprinted: false
+  rarity: C
+  rarity_unprinted: false
+  illustrator: Cona Nitanda
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PRE/PRE_109_R_EN_XS.png
+- language: en
+  set_code: PRE
+  set_mark: PRE
+  set_name: PRE
+  collector_number: '137'
+  collector_number_unprinted: false
+  rarity: SR
+  rarity_unprinted: false
+  illustrator: Cona Nitanda
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PRE/PRE_137_R_EN_XS.png

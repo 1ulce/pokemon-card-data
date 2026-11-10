@@ -1,8 +1,6 @@
 ---
-schema_version: 1
+schema_version: 2
 slug: fearow
-external_link:
-  cabt_id: 702
 name:
   ja: オニドリル
   en: Fearow
@@ -46,4 +44,44 @@ first_appearance:
   released_at: '2025-08-01'
   regulation_mark: I
   collector_number: '053'
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/M1L/047786_P_ONIDORIRU.jpg
+printings:
+- language: ja
+  set_code: M1L
+  set_mark: M1L
+  set_name: メガブレイブ
+  collector_number: '053'
+  collector_number_unprinted: false
+  rarity: C
+  rarity_unprinted: false
+  illustrator: Saboteri
+  illustrator_unprinted: false
+  regulation_mark: I
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/M1L/047786_P_ONIDORIRU.jpg
+- language: ja
+  set_code:
+  set_mark: MC
+  set_name: スタートデッキ100 バトルコレクション
+  collector_number: '558'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: Saboteri
+  illustrator_unprinted: false
+  regulation_mark: I
+  regulation_mark_unprinted: false
   image_url:
+- language: en
+  set_code: MEG
+  set_mark: MEG
+  set_name: MEG
+  collector_number: '103'
+  collector_number_unprinted: false
+  rarity: C
+  rarity_unprinted: false
+  illustrator: Saboteri
+  illustrator_unprinted: false
+  regulation_mark: I
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/MEG/MEG_103_R_EN_XS.png

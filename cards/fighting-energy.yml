@@ -1,8 +1,6 @@
 ---
-schema_version: 1
+schema_version: 2
 slug: fighting-energy
-external_link:
-  cabt_id: 6
 name:
   ja: 基本闘エネルギー
   en: Fighting Energy
@@ -12,7 +10,7 @@ card_subtype: Basic Energy
 energy_type:
 hp:
 retreat_cost:
-regulation_mark: H
+regulation_mark:
 meta_tags: []
 evolves_from:
   ja:
@@ -34,6 +32,1008 @@ attacks: []
 first_appearance:
   set_name_ja: スカーレットex
   released_at: '2023-01-20'
-  regulation_mark: H
+  regulation_mark:
   collector_number: '108'
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV1S/044947_E_KIHONTOUENERUGI.jpg
+printings:
+- language: ja
+  set_code:
+  set_mark: SLL
+  set_name: ルカリオ
+  collector_number: '41320'
+  collector_number_unprinted: true
+  rarity:
+  rarity_unprinted: false
+  illustrator:
+  illustrator_unprinted: true
+  regulation_mark:
+  regulation_mark_unprinted: true
+  image_url:
+- language: ja
+  set_code: SV1S
+  set_mark: SV1S
+  set_name: スカーレットex
+  collector_number: '108'
+  collector_number_unprinted: false
+  rarity: UR
+  rarity_unprinted: false
+  illustrator:
+  illustrator_unprinted: true
+  regulation_mark:
+  regulation_mark_unprinted: true
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV1S/044947_E_KIHONTOUENERUGI.jpg
+- language: ja
+  set_code:
+  set_mark: WCS23
+  set_name: ピカチュウ
+  collector_number: '44024'
+  collector_number_unprinted: true
+  rarity:
+  rarity_unprinted: false
+  illustrator:
+  illustrator_unprinted: true
+  regulation_mark:
+  regulation_mark_unprinted: true
+  image_url:
+- language: ja
+  set_code:
+  set_mark: SVI
+  set_name: バトルアカデミー
+  collector_number: '45513'
+  collector_number_unprinted: true
+  rarity:
+  rarity_unprinted: true
+  illustrator:
+  illustrator_unprinted: true
+  regulation_mark:
+  regulation_mark_unprinted: true
+  image_url:
+- language: ja
+  set_code:
+  set_mark:
+  set_name: スタートデッキGenerations ディアルガex・ルカリオex
+  collector_number: '46121'
+  collector_number_unprinted: true
+  rarity:
+  rarity_unprinted: false
+  illustrator:
+  illustrator_unprinted: true
+  regulation_mark:
+  regulation_mark_unprinted: true
+  image_url:
+- language: ja
+  set_code:
+  set_mark: SMB
+  set_name: プレミアムトレーナーボックス
+  collector_number: '33195'
+  collector_number_unprinted: true
+  rarity:
+  rarity_unprinted: true
+  illustrator:
+  illustrator_unprinted: true
+  regulation_mark:
+  regulation_mark_unprinted: true
+  image_url:
+- language: ja
+  set_code:
+  set_mark: MC
+  set_name: スタートデッキ100 バトルコレクション
+  collector_number: '49464'
+  collector_number_unprinted: true
+  rarity:
+  rarity_unprinted: true
+  illustrator:
+  illustrator_unprinted: true
+  regulation_mark:
+  regulation_mark_unprinted: true
+  image_url:
+- language: ja
+  set_code: M6a
+  set_mark: M6a
+  set_name: 拡張パック 30th CELEBRATION
+  collector_number: '50750'
+  collector_number_unprinted: true
+  rarity:
+  rarity_unprinted: true
+  illustrator:
+  illustrator_unprinted: true
+  regulation_mark:
+  regulation_mark_unprinted: true
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/M6a/050750_E_KIHONTOUENERUGI.jpg
+- language: ja
+  set_code:
+  set_mark: SM12a
+  set_name: TAG TEAM GX タッグオールスターズ
+  collector_number: '207'
+  collector_number_unprinted: false
+  rarity: SR
+  rarity_unprinted: false
+  illustrator:
+  illustrator_unprinted: true
+  regulation_mark:
+  regulation_mark_unprinted: true
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SM12a/037475_E_KIHONTOUENERUGI.jpg
+- language: ja
+  set_code:
+  set_mark: DPP
+  set_name: ジム☆チャレンジ2006
+  collector_number: '9006'
+  collector_number_unprinted: true
+  rarity:
+  rarity_unprinted: false
+  illustrator:
+  illustrator_unprinted: true
+  regulation_mark:
+  regulation_mark_unprinted: true
+  image_url:
+- language: ja
+  set_code:
+  set_mark: DPtP
+  set_name: ジム☆チャレンジ2009
+  collector_number: '23275'
+  collector_number_unprinted: true
+  rarity:
+  rarity_unprinted: false
+  illustrator:
+  illustrator_unprinted: true
+  regulation_mark:
+  regulation_mark_unprinted: true
+  image_url:
+- language: ja
+  set_code:
+  set_mark: BWP
+  set_name: ポケモンカードゲーム プロモーションカードパック（2011/2）
+  collector_number: '27269'
+  collector_number_unprinted: true
+  rarity:
+  rarity_unprinted: true
+  illustrator:
+  illustrator_unprinted: true
+  regulation_mark:
+  regulation_mark_unprinted: true
+  image_url:
+- language: ja
+  set_code:
+  set_mark: BWP
+  set_name: ポケモンカードゲーム　サマーカーニバルin東京タワー
+  collector_number: '27444'
+  collector_number_unprinted: true
+  rarity:
+  rarity_unprinted: true
+  illustrator:
+  illustrator_unprinted: true
+  regulation_mark:
+  regulation_mark_unprinted: true
+  image_url:
+- language: ja
+  set_code:
+  set_mark: BWP
+  set_name: ポケモンカードゲーム プロモーションカードパック(2012/3)
+  collector_number: '28003'
+  collector_number_unprinted: true
+  rarity:
+  rarity_unprinted: true
+  illustrator:
+  illustrator_unprinted: true
+  regulation_mark:
+  regulation_mark_unprinted: true
+  image_url:
+- language: ja
+  set_code:
+  set_mark: BWP
+  set_name: バトルカーニバル2013スプリング ポケカポイントプレゼント
+  collector_number: '28903'
+  collector_number_unprinted: true
+  rarity:
+  rarity_unprinted: true
+  illustrator:
+  illustrator_unprinted: true
+  regulation_mark:
+  regulation_mark_unprinted: true
+  image_url:
+- language: ja
+  set_code:
+  set_mark: XYP
+  set_name: エネルギーカード付きカードボックス　ゼルネアス・イベルタル
+  collector_number: '30223'
+  collector_number_unprinted: true
+  rarity:
+  rarity_unprinted: true
+  illustrator:
+  illustrator_unprinted: true
+  regulation_mark:
+  regulation_mark_unprinted: true
+  image_url:
+- language: ja
+  set_code:
+  set_mark: XYP
+  set_name: ポケモンカードゲーム プロモーションカードパック(2014/2)
+  collector_number: '30350'
+  collector_number_unprinted: true
+  rarity:
+  rarity_unprinted: true
+  illustrator:
+  illustrator_unprinted: true
+  regulation_mark:
+  regulation_mark_unprinted: true
+  image_url:
+- language: ja
+  set_code:
+  set_mark: XYP
+  set_name: ポケモンカードゲーム プロモーションカードパック(2015/2)
+  collector_number: '30968'
+  collector_number_unprinted: true
+  rarity:
+  rarity_unprinted: true
+  illustrator:
+  illustrator_unprinted: true
+  regulation_mark:
+  regulation_mark_unprinted: true
+  image_url:
+- language: ja
+  set_code:
+  set_mark: MMB-P
+  set_name: メガマスターデッキビルドBOX パワースタイル
+  collector_number: '31229'
+  collector_number_unprinted: true
+  rarity:
+  rarity_unprinted: true
+  illustrator:
+  illustrator_unprinted: true
+  regulation_mark:
+  regulation_mark_unprinted: true
+  image_url:
+- language: ja
+  set_code:
+  set_mark: MMB-S
+  set_name: メガマスターデッキビルドBOX スピードスタイル
+  collector_number: '31287'
+  collector_number_unprinted: true
+  rarity:
+  rarity_unprinted: true
+  illustrator:
+  illustrator_unprinted: true
+  regulation_mark:
+  regulation_mark_unprinted: true
+  image_url:
+- language: ja
+  set_code:
+  set_mark: 20th
+  set_name: ポケットモンスターカードゲーム スターターパック
+  collector_number: '31733'
+  collector_number_unprinted: true
+  rarity:
+  rarity_unprinted: true
+  illustrator:
+  illustrator_unprinted: true
+  regulation_mark:
+  regulation_mark_unprinted: true
+  image_url:
+- language: ja
+  set_code:
+  set_mark: XYG
+  set_name: ジガルデEX
+  collector_number: '31832'
+  collector_number_unprinted: true
+  rarity:
+  rarity_unprinted: false
+  illustrator:
+  illustrator_unprinted: true
+  regulation_mark:
+  regulation_mark_unprinted: true
+  image_url:
+- language: ja
+  set_code:
+  set_mark: CP4
+  set_name: EX×M×BREAK
+  collector_number: '32002'
+  collector_number_unprinted: true
+  rarity:
+  rarity_unprinted: true
+  illustrator:
+  illustrator_unprinted: true
+  regulation_mark:
+  regulation_mark_unprinted: true
+  image_url:
+- language: ja
+  set_code:
+  set_mark: XYP
+  set_name: プロモーションカードパック（2016/5）
+  collector_number: '32131'
+  collector_number_unprinted: true
+  rarity:
+  rarity_unprinted: true
+  illustrator:
+  illustrator_unprinted: true
+  regulation_mark:
+  regulation_mark_unprinted: true
+  image_url:
+- language: ja
+  set_code:
+  set_mark: XYP
+  set_name: ポケモンカードジム　景品（2016/8）
+  collector_number: '32332'
+  collector_number_unprinted: true
+  rarity:
+  rarity_unprinted: true
+  illustrator:
+  illustrator_unprinted: true
+  regulation_mark:
+  regulation_mark_unprinted: true
+  image_url:
+- language: ja
+  set_code:
+  set_mark: XYP
+  set_name: ポケモンカードゲーム 20th アニバーサリーフェスタ 20th アニバーサリーバトル 勝利賞
+  collector_number: '32367'
+  collector_number_unprinted: true
+  rarity:
+  rarity_unprinted: true
+  illustrator:
+  illustrator_unprinted: true
+  regulation_mark:
+  regulation_mark_unprinted: true
+  image_url:
+- language: ja
+  set_code:
+  set_mark: SMA
+  set_name: スターターセット草 ジュナイパーGX
+  collector_number: '33223'
+  collector_number_unprinted: true
+  rarity:
+  rarity_unprinted: true
+  illustrator:
+  illustrator_unprinted: true
+  regulation_mark:
+  regulation_mark_unprinted: true
+  image_url:
+- language: ja
+  set_code:
+  set_mark: SM2p
+  set_name: 新たなる試練の向こう
+  collector_number: '33519'
+  collector_number_unprinted: true
+  rarity:
+  rarity_unprinted: false
+  illustrator:
+  illustrator_unprinted: true
+  regulation_mark:
+  regulation_mark_unprinted: true
+  image_url:
+- language: ja
+  set_code:
+  set_mark: SMD
+  set_name: サトシVSロケット団
+  collector_number: '33536'
+  collector_number_unprinted: true
+  rarity:
+  rarity_unprinted: true
+  illustrator:
+  illustrator_unprinted: true
+  regulation_mark:
+  regulation_mark_unprinted: true
+  image_url:
+- language: ja
+  set_code:
+  set_mark: SMP
+  set_name: ポケモンカードゲーム チャンピオンズリーグ2018
+  collector_number: '34221'
+  collector_number_unprinted: true
+  rarity:
+  rarity_unprinted: true
+  illustrator:
+  illustrator_unprinted: true
+  regulation_mark:
+  regulation_mark_unprinted: true
+  image_url:
+- language: ja
+  set_code:
+  set_mark: SMP
+  set_name: ポケモンカードステーション　キャンペーン（2017/12）
+  collector_number: '34621'
+  collector_number_unprinted: true
+  rarity:
+  rarity_unprinted: true
+  illustrator:
+  illustrator_unprinted: true
+  regulation_mark:
+  regulation_mark_unprinted: true
+  image_url:
+- language: ja
+  set_code:
+  set_mark:
+  set_name: ウルトラムーン
+  collector_number: '34671'
+  collector_number_unprinted: true
+  rarity:
+  rarity_unprinted: false
+  illustrator:
+  illustrator_unprinted: true
+  regulation_mark:
+  regulation_mark_unprinted: true
+  image_url:
+- language: ja
+  set_code:
+  set_mark:
+  set_name: トレーナーバトルデッキ：ニビシティジムのタケシ
+  collector_number: '36468'
+  collector_number_unprinted: true
+  rarity:
+  rarity_unprinted: false
+  illustrator:
+  illustrator_unprinted: true
+  regulation_mark:
+  regulation_mark_unprinted: true
+  image_url:
+- language: ja
+  set_code:
+  set_mark: SMP
+  set_name: ポケモンカードステーション
+  collector_number: '36888'
+  collector_number_unprinted: true
+  rarity:
+  rarity_unprinted: true
+  illustrator:
+  illustrator_unprinted: true
+  regulation_mark:
+  regulation_mark_unprinted: true
+  image_url:
+- language: ja
+  set_code:
+  set_mark: SA
+  set_name: スターターセットV　闘
+  collector_number: '37600'
+  collector_number_unprinted: true
+  rarity:
+  rarity_unprinted: true
+  illustrator:
+  illustrator_unprinted: true
+  regulation_mark:
+  regulation_mark_unprinted: true
+  image_url:
+- language: ja
+  set_code:
+  set_mark:
+  set_name: プレミアムトレーナーボックス ソード＆シールド
+  collector_number: '37747'
+  collector_number_unprinted: true
+  rarity:
+  rarity_unprinted: false
+  illustrator:
+  illustrator_unprinted: true
+  regulation_mark:
+  regulation_mark_unprinted: true
+  image_url:
+- language: ja
+  set_code:
+  set_mark: S-P
+  set_name: ポケモンカードステーション
+  collector_number: '37769'
+  collector_number_unprinted: true
+  rarity:
+  rarity_unprinted: true
+  illustrator:
+  illustrator_unprinted: true
+  regulation_mark:
+  regulation_mark_unprinted: true
+  image_url:
+- language: ja
+  set_code:
+  set_mark: S-P
+  set_name: 楽しもう。春、ポケカ
+  collector_number: '38268'
+  collector_number_unprinted: true
+  rarity:
+  rarity_unprinted: true
+  illustrator:
+  illustrator_unprinted: true
+  regulation_mark:
+  regulation_mark_unprinted: true
+  image_url:
+- language: ja
+  set_code:
+  set_mark: SH
+  set_name: ファミリーポケモンカードゲーム
+  collector_number: '39880'
+  collector_number_unprinted: true
+  rarity:
+  rarity_unprinted: true
+  illustrator:
+  illustrator_unprinted: true
+  regulation_mark:
+  regulation_mark_unprinted: true
+  image_url:
+- language: ja
+  set_code:
+  set_mark: S8a
+  set_name: 25th ANNIVERSARY COLLECTION
+  collector_number: '40096'
+  collector_number_unprinted: true
+  rarity:
+  rarity_unprinted: false
+  illustrator:
+  illustrator_unprinted: true
+  regulation_mark:
+  regulation_mark_unprinted: true
+  image_url:
+- language: ja
+  set_code:
+  set_mark: SI
+  set_name: スタートデッキ100
+  collector_number: '40489'
+  collector_number_unprinted: true
+  rarity:
+  rarity_unprinted: true
+  illustrator:
+  illustrator_unprinted: true
+  regulation_mark:
+  regulation_mark_unprinted: true
+  image_url:
+- language: ja
+  set_code:
+  set_mark: SI
+  set_name: スタートデッキ100
+  collector_number: '40887'
+  collector_number_unprinted: true
+  rarity:
+  rarity_unprinted: true
+  illustrator:
+  illustrator_unprinted: true
+  regulation_mark:
+  regulation_mark_unprinted: true
+  image_url:
+- language: ja
+  set_code:
+  set_mark: S-P
+  set_name: ポケモンカードゲーム チャンピオンシップシリーズ2022
+  collector_number: '40899'
+  collector_number_unprinted: true
+  rarity:
+  rarity_unprinted: true
+  illustrator:
+  illustrator_unprinted: true
+  regulation_mark:
+  regulation_mark_unprinted: true
+  image_url:
+- language: ja
+  set_code:
+  set_mark: S8b
+  set_name: VMAXクライマックス
+  collector_number: '41149'
+  collector_number_unprinted: true
+  rarity:
+  rarity_unprinted: true
+  illustrator:
+  illustrator_unprinted: true
+  regulation_mark:
+  regulation_mark_unprinted: true
+  image_url:
+- language: ja
+  set_code:
+  set_mark: S10b
+  set_name: Pokémon GO
+  collector_number: '41758'
+  collector_number_unprinted: true
+  rarity:
+  rarity_unprinted: false
+  illustrator:
+  illustrator_unprinted: true
+  regulation_mark:
+  regulation_mark_unprinted: true
+  image_url:
+- language: ja
+  set_code:
+  set_mark:
+  set_name: エネルギーカードセット
+  collector_number: '42784'
+  collector_number_unprinted: true
+  rarity:
+  rarity_unprinted: false
+  illustrator:
+  illustrator_unprinted: true
+  regulation_mark:
+  regulation_mark_unprinted: true
+  image_url:
+- language: ja
+  set_code:
+  set_mark: S-P
+  set_name: ポケモンカードゲーム チャンピオンシップシリーズ2023
+  collector_number: '42941'
+  collector_number_unprinted: true
+  rarity:
+  rarity_unprinted: true
+  illustrator:
+  illustrator_unprinted: true
+  regulation_mark:
+  regulation_mark_unprinted: true
+  image_url:
+- language: ja
+  set_code:
+  set_mark: S12a
+  set_name: VSTARユニバース
+  collector_number: '42949'
+  collector_number_unprinted: true
+  rarity:
+  rarity_unprinted: true
+  illustrator:
+  illustrator_unprinted: true
+  regulation_mark:
+  regulation_mark_unprinted: true
+  image_url:
+- language: ja
+  set_code:
+  set_mark: SV-P
+  set_name: ポケモンカードゲーム チャンピオンシップシリーズ2023
+  collector_number: '42961'
+  collector_number_unprinted: true
+  rarity:
+  rarity_unprinted: true
+  illustrator:
+  illustrator_unprinted: true
+  regulation_mark:
+  regulation_mark_unprinted: true
+  image_url:
+- language: ja
+  set_code:
+  set_mark: SV-P
+  set_name: TANTO ✕ POKÉMON CARD GAME
+  collector_number: '44222'
+  collector_number_unprinted: true
+  rarity:
+  rarity_unprinted: true
+  illustrator:
+  illustrator_unprinted: true
+  regulation_mark:
+  regulation_mark_unprinted: true
+  image_url:
+- language: ja
+  set_code:
+  set_mark: SV-P
+  set_name: ポケモンカードゲームチャンピオンシップシリーズ2024
+  collector_number: '44232'
+  collector_number_unprinted: true
+  rarity:
+  rarity_unprinted: true
+  illustrator:
+  illustrator_unprinted: true
+  regulation_mark:
+  regulation_mark_unprinted: true
+  image_url:
+- language: ja
+  set_code:
+  set_mark: CLF
+  set_name: ポケモンカードゲーム Classic
+  collector_number: '44418'
+  collector_number_unprinted: true
+  rarity:
+  rarity_unprinted: false
+  illustrator:
+  illustrator_unprinted: true
+  regulation_mark:
+  regulation_mark_unprinted: true
+  image_url:
+- language: ja
+  set_code:
+  set_mark: XYP
+  set_name: エネルギーカード付き カードボックス メガミュウツーX・メガミュウツーY
+  collector_number: '45655'
+  collector_number_unprinted: true
+  rarity:
+  rarity_unprinted: true
+  illustrator:
+  illustrator_unprinted: true
+  regulation_mark:
+  regulation_mark_unprinted: true
+  image_url:
+- language: ja
+  set_code:
+  set_mark: SV-P
+  set_name: いっしょにフレンドバトル
+  collector_number: '46139'
+  collector_number_unprinted: true
+  rarity:
+  rarity_unprinted: true
+  illustrator:
+  illustrator_unprinted: true
+  regulation_mark:
+  regulation_mark_unprinted: true
+  image_url:
+- language: ja
+  set_code:
+  set_mark: SV-P
+  set_name: ポケモンカードゲームチャンピオンシップシリーズ2025
+  collector_number: '46301'
+  collector_number_unprinted: true
+  rarity:
+  rarity_unprinted: true
+  illustrator:
+  illustrator_unprinted: true
+  regulation_mark:
+  regulation_mark_unprinted: true
+  image_url:
+- language: ja
+  set_code:
+  set_mark: SV-P
+  set_name: ブラックボルト・ホワイトフレア
+  collector_number: '47722'
+  collector_number_unprinted: true
+  rarity:
+  rarity_unprinted: true
+  illustrator:
+  illustrator_unprinted: true
+  regulation_mark:
+  regulation_mark_unprinted: true
+  image_url:
+- language: ja
+  set_code:
+  set_mark:
+  set_name: プレミアムトレーナーボックスMEGA
+  collector_number: '47908'
+  collector_number_unprinted: true
+  rarity:
+  rarity_unprinted: false
+  illustrator:
+  illustrator_unprinted: true
+  regulation_mark:
+  regulation_mark_unprinted: true
+  image_url:
+- language: ja
+  set_code:
+  set_mark: M-P
+  set_name: ポケモンカードゲーム スクランブルバトル
+  collector_number: '48313'
+  collector_number_unprinted: true
+  rarity:
+  rarity_unprinted: true
+  illustrator:
+  illustrator_unprinted: true
+  regulation_mark:
+  regulation_mark_unprinted: true
+  image_url:
+- language: ja
+  set_code:
+  set_mark: M-P
+  set_name: ポケモンカードゲームチャンピオンシップシリーズ2026
+  collector_number: '48327'
+  collector_number_unprinted: true
+  rarity:
+  rarity_unprinted: true
+  illustrator:
+  illustrator_unprinted: true
+  regulation_mark:
+  regulation_mark_unprinted: true
+  image_url:
+- language: ja
+  set_code:
+  set_mark: M-P
+  set_name: いっしょにフレンドバトル
+  collector_number: '48337'
+  collector_number_unprinted: true
+  rarity:
+  rarity_unprinted: true
+  illustrator:
+  illustrator_unprinted: true
+  regulation_mark:
+  regulation_mark_unprinted: true
+  image_url:
+- language: ja
+  set_code:
+  set_mark: M-P
+  set_name: いっしょにフレンドバトル2026
+  collector_number: '50482'
+  collector_number_unprinted: true
+  rarity:
+  rarity_unprinted: true
+  illustrator:
+  illustrator_unprinted: true
+  regulation_mark:
+  regulation_mark_unprinted: true
+  image_url:
+- language: ja
+  set_code:
+  set_mark: M-P
+  set_name: ポケモンカードゲームチャンピオンシップシリーズ2027
+  collector_number: '50498'
+  collector_number_unprinted: true
+  rarity:
+  rarity_unprinted: true
+  illustrator:
+  illustrator_unprinted: true
+  regulation_mark:
+  regulation_mark_unprinted: true
+  image_url:
+- language: en
+  set_code: GEN
+  set_mark: GEN
+  set_name: GEN
+  collector_number: '80'
+  collector_number_unprinted: false
+  rarity: C
+  rarity_unprinted: false
+  illustrator:
+  illustrator_unprinted: true
+  regulation_mark:
+  regulation_mark_unprinted: true
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/GEN/GEN_080_R_EN_XS.png
+- language: en
+  set_code: EVO
+  set_mark: EVO
+  set_name: EVO
+  collector_number: '96'
+  collector_number_unprinted: false
+  rarity: C
+  rarity_unprinted: false
+  illustrator:
+  illustrator_unprinted: true
+  regulation_mark:
+  regulation_mark_unprinted: true
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/EVO/EVO_096_R_EN_XS.png
+- language: en
+  set_code: GRI
+  set_mark: GRI
+  set_name: GRI
+  collector_number: '169'
+  collector_number_unprinted: false
+  rarity: UR
+  rarity_unprinted: false
+  illustrator:
+  illustrator_unprinted: true
+  regulation_mark:
+  regulation_mark_unprinted: true
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/GRI/GRI_169_R_EN_XS.png
+- language: en
+  set_code: CRE
+  set_mark: CRE
+  set_name: CRE
+  collector_number: '233'
+  collector_number_unprinted: false
+  rarity: UR
+  rarity_unprinted: false
+  illustrator:
+  illustrator_unprinted: true
+  regulation_mark:
+  regulation_mark_unprinted: true
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CRE/CRE_233_R_EN_XS.png
+- language: en
+  set_code: CRZ
+  set_mark: CRZ
+  set_name: CRZ
+  collector_number: '157'
+  collector_number_unprinted: false
+  rarity: SR
+  rarity_unprinted: false
+  illustrator:
+  illustrator_unprinted: true
+  regulation_mark:
+  regulation_mark_unprinted: true
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CRZ/CRZ_157_R_EN_XS.png
+- language: en
+  set_code: SVE
+  set_mark: SVE
+  set_name: SVE
+  collector_number: '6'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: false
+  illustrator:
+  illustrator_unprinted: true
+  regulation_mark:
+  regulation_mark_unprinted: true
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVE/SVE_006_R_EN_XS.png
+- language: en
+  set_code: SVE
+  set_mark: SVE
+  set_name: SVE
+  collector_number: '14'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: false
+  illustrator:
+  illustrator_unprinted: true
+  regulation_mark:
+  regulation_mark_unprinted: true
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVE/SVE_014_R_EN_XS.png
+- language: en
+  set_code: SVE
+  set_mark: SVE
+  set_name: SVE
+  collector_number: '22'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: false
+  illustrator:
+  illustrator_unprinted: true
+  regulation_mark:
+  regulation_mark_unprinted: true
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVE/SVE_022_R_EN_XS.png
+- language: en
+  set_code: SVI
+  set_mark: SVI
+  set_name: SVI
+  collector_number: '258'
+  collector_number_unprinted: false
+  rarity: UR
+  rarity_unprinted: false
+  illustrator:
+  illustrator_unprinted: true
+  regulation_mark:
+  regulation_mark_unprinted: true
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVI/SVI_258_R_EN_XS.png
+- language: en
+  set_code: MEE
+  set_mark: MEE
+  set_name: MEE
+  collector_number: '6'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: false
+  illustrator:
+  illustrator_unprinted: true
+  regulation_mark:
+  regulation_mark_unprinted: true
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/MEE/MEE_006_R_EN_XS.png
+- language: en
+  set_code: MEE
+  set_mark: MEE
+  set_name: MEE
+  collector_number: '14'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: false
+  illustrator:
+  illustrator_unprinted: true
+  regulation_mark:
+  regulation_mark_unprinted: true
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/MEE/MEE_014_R_EN_XS.png
+- language: en
+  set_code: EC
+  set_mark: EC
+  set_name: ec
+  collector_number: '32'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: false
+  illustrator:
+  illustrator_unprinted: true
+  regulation_mark:
+  regulation_mark_unprinted: true
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CRZ/CRZ_157_R_EN_XS.png
+- language: en
+  set_code: EC
+  set_mark: EC
+  set_name: ec
+  collector_number: '41'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: false
+  illustrator:
+  illustrator_unprinted: true
+  regulation_mark:
+  regulation_mark_unprinted: true
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CRZ/CRZ_157_R_EN_XS.png
+- language: en
+  set_code: ECALT
+  set_mark: ECALT
+  set_name: ECALT
+  collector_number: '6'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: false
+  illustrator:
+  illustrator_unprinted: true
+  regulation_mark:
+  regulation_mark_unprinted: true
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVE/SVE_014_R_EN_XS.png
+- language: en
+  set_code: SVALT
+  set_mark: SVALT
+  set_name: SVALT
+  collector_number: '136'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: false
+  illustrator:
+  illustrator_unprinted: true
+  regulation_mark:
+  regulation_mark_unprinted: true
   image_url:

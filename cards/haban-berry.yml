@@ -1,8 +1,6 @@
 ---
-schema_version: 1
+schema_version: 2
 slug: haban-berry
-external_link:
-  cabt_id: 1170
 name:
   ja: ハバンのみ
   en: Haban Berry
@@ -37,3 +35,43 @@ first_appearance:
   regulation_mark: H
   collector_number: '156'
   image_url:
+printings:
+- language: ja
+  set_code: SV8a
+  set_mark: SV8a
+  set_name: テラスタルフェスex
+  collector_number: '156'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: Studio Bora Inc.
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: MC
+  set_name: スタートデッキ100 バトルコレクション
+  collector_number: '686'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: Studio Bora Inc.
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/MC/049402_T_HABANNOMI.jpg
+- language: en
+  set_code: PRE
+  set_mark: PRE
+  set_name: PRE
+  collector_number: '111'
+  collector_number_unprinted: false
+  rarity: C
+  rarity_unprinted: false
+  illustrator: Studio Bora Inc.
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PRE/PRE_111_R_EN_XS.png

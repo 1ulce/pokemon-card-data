@@ -1,8 +1,6 @@
 ---
-schema_version: 1
+schema_version: 2
 slug: duskull
-external_link:
-  cabt_id: 131
 name:
   ja: ヨマワル
   en: Duskull
@@ -57,4 +55,109 @@ first_appearance:
   released_at: '2024-06-07'
   regulation_mark: H
   collector_number: '018'
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV6a/045893_P_YOMAWARU.jpg
+printings:
+- language: ja
+  set_code: SV6a
+  set_mark: SV6a
+  set_name: ナイトワンダラー
+  collector_number: '018'
+  collector_number_unprinted: false
+  rarity: C
+  rarity_unprinted: false
+  illustrator: IKEDA Saki
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV6a/045893_P_YOMAWARU.jpg
+- language: ja
+  set_code: SV6a
+  set_mark: SV6a
+  set_name: ナイトワンダラー
+  collector_number: '068'
+  collector_number_unprinted: false
+  rarity: AR
+  rarity_unprinted: false
+  illustrator: James Turner
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV6a/046045_P_YOMAWARU.jpg
+- language: ja
+  set_code: SV8a
+  set_mark: SV8a
+  set_name: テラスタルフェスex
+  collector_number: '064'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: IKEDA Saki
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
   image_url:
+- language: ja
+  set_code: M2a
+  set_mark: M2a
+  set_name: MEGAドリームex
+  collector_number: '072'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: IKEDA Saki
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: MC
+  set_name: スタートデッキ100 バトルコレクション
+  collector_number: '308'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: IKEDA Saki
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url:
+- language: en
+  set_code: SFA
+  set_mark: SFA
+  set_name: SFA
+  collector_number: '18'
+  collector_number_unprinted: false
+  rarity: C
+  rarity_unprinted: false
+  illustrator: IKEDA Saki
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SFA/SFA_018_R_EN_XS.png
+- language: en
+  set_code: SFA
+  set_mark: SFA
+  set_name: SFA
+  collector_number: '68'
+  collector_number_unprinted: false
+  rarity: AR
+  rarity_unprinted: false
+  illustrator: James Turner
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SFA/SFA_068_R_EN_XS.png
+- language: en
+  set_code: PRE
+  set_mark: PRE
+  set_name: PRE
+  collector_number: '35'
+  collector_number_unprinted: false
+  rarity: C
+  rarity_unprinted: false
+  illustrator: IKEDA Saki
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PRE/PRE_035_R_EN_XS.png

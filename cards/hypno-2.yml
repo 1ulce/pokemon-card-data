@@ -1,5 +1,5 @@
 ---
-schema_version: 1
+schema_version: 2
 slug: hypno-2
 name:
   ja: スリーパー
@@ -32,27 +32,54 @@ attacks:
 - position: 0
   name:
     ja: マインドルーラー
-    en:
+    en: Mind Ruler
   cost:
   - Psychic
   damage: 20×
   effect_text:
     ja: 相手の手札の枚数×20ダメージ。
-    en:
+    en: This attack does 20 damage for each card in your opponent's hand.
 - position: 1
   name:
     ja: さいみんはどう
-    en:
+    en: Hypnoblast
   cost:
   - Psychic
   - Colorless
   damage: '50'
   effect_text:
     ja: 相手のバトルポケモンをねむりにする。
-    en:
+    en: Your opponent's Active Pokémon is now Asleep.
 first_appearance:
   set_name_ja: ストームエメラルダ
   released_at: '2026-07-31'
   regulation_mark: J
   collector_number: '030'
-  image_url:
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/M6/050368_P_SURIPA.jpg
+printings:
+- language: ja
+  set_code: M6
+  set_mark: M6
+  set_name: ストームエメラルダ
+  collector_number: '030'
+  collector_number_unprinted: false
+  rarity: C
+  rarity_unprinted: false
+  illustrator: Yuta Kawazu
+  illustrator_unprinted: false
+  regulation_mark: J
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/M6/050368_P_SURIPA.jpg
+- language: en
+  set_code: DLR
+  set_mark: DLR
+  set_name: Mega Evolution—Delta Reign
+  collector_number: '44'
+  collector_number_unprinted: false
+  rarity: C
+  rarity_unprinted: false
+  illustrator:
+  illustrator_unprinted: false
+  regulation_mark: J
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DLR/DLR_044_R_EN_XS.png

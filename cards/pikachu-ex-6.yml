@@ -1,5 +1,5 @@
 ---
-schema_version: 1
+schema_version: 2
 slug: pikachu-ex-6
 name:
   ja: ピカチュウex
@@ -57,4 +57,57 @@ first_appearance:
   released_at: '2026-09-16'
   regulation_mark: J
   collector_number: '048'
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/M6a/050660_P_PIKACHIXYUUIEKKUSU.jpg
+printings:
+- language: ja
+  set_code: M6a
+  set_mark: M6a
+  set_name: 拡張パック 30th CELEBRATION
+  collector_number: '048'
+  collector_number_unprinted: false
+  rarity: RR
+  rarity_unprinted: false
+  illustrator: takuyoa
+  illustrator_unprinted: false
+  regulation_mark: J
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/M6a/050660_P_PIKACHIXYUUIEKKUSU.jpg
+- language: ja
+  set_code:
+  set_mark: M-P
+  set_name: 30th CELEBRATION FUTURISTIC BOX
+  collector_number: '50556'
+  collector_number_unprinted: true
+  rarity:
+  rarity_unprinted: true
+  illustrator: YOSHIROTTEN
+  illustrator_unprinted: false
+  regulation_mark: J
+  regulation_mark_unprinted: false
   image_url:
+- language: en
+  set_code: 30C
+  set_mark: 30C
+  set_name: 30C
+  collector_number: '54'
+  collector_number_unprinted: false
+  rarity: RR
+  rarity_unprinted: false
+  illustrator: takuyoa
+  illustrator_unprinted: false
+  regulation_mark: J
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/30C/30C_054_R_EN_XS.png
+- language: en
+  set_code: 30C
+  set_mark: 30C
+  set_name: 30C
+  collector_number: '150'
+  collector_number_unprinted: false
+  rarity: SAR
+  rarity_unprinted: false
+  illustrator: kantaro
+  illustrator_unprinted: false
+  regulation_mark: J
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/30C/30C_150_R_EN_XS.png

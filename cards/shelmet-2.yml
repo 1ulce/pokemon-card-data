@@ -1,8 +1,6 @@
 ---
-schema_version: 1
+schema_version: 2
 slug: shelmet-2
-external_link:
-  cabt_id: 564
 name:
   ja: チョボマキ
   en: Shelmet
@@ -53,4 +51,57 @@ first_appearance:
   released_at: '2025-06-06'
   regulation_mark: I
   collector_number: '008'
-  image_url:
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV11W/047630_P_CHIXYOBOMAKI.jpg
+printings:
+- language: ja
+  set_code: SV11W
+  set_mark: SV11W
+  set_name: ホワイトフレア
+  collector_number: '008'
+  collector_number_unprinted: false
+  rarity: C
+  rarity_unprinted: false
+  illustrator: Saboteri
+  illustrator_unprinted: false
+  regulation_mark: I
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV11W/047630_P_CHIXYOBOMAKI.jpg
+- language: ja
+  set_code: SV11W
+  set_mark: SV11W
+  set_name: ホワイトフレア
+  collector_number: '093'
+  collector_number_unprinted: false
+  rarity: AR
+  rarity_unprinted: false
+  illustrator: Mékayu
+  illustrator_unprinted: false
+  regulation_mark: I
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV11W/048005_P_CHIXYOBOMAKI.jpg
+- language: en
+  set_code: WHT
+  set_mark: WHT
+  set_name: WHT
+  collector_number: '8'
+  collector_number_unprinted: false
+  rarity: C
+  rarity_unprinted: false
+  illustrator: Saboteri
+  illustrator_unprinted: false
+  regulation_mark: I
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/WHT/WHT_008_R_EN_XS.png
+- language: en
+  set_code: WHT
+  set_mark: WHT
+  set_name: WHT
+  collector_number: '93'
+  collector_number_unprinted: false
+  rarity: AR
+  rarity_unprinted: false
+  illustrator: Mékayu
+  illustrator_unprinted: false
+  regulation_mark: I
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/WHT/WHT_093_R_EN_XS.png

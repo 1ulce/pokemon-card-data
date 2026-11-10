@@ -1,8 +1,6 @@
 ---
-schema_version: 1
+schema_version: 2
 slug: jacinthe
-external_link:
-  cabt_id: 1241
 name:
   ja: ユカリ
   en: Jacinthe
@@ -36,4 +34,83 @@ first_appearance:
   released_at: '2026-01-23'
   regulation_mark: J
   collector_number: '076'
-  image_url:
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/M3/049709_T_YUKARI.jpg
+printings:
+- language: ja
+  set_code: M3
+  set_mark: M3
+  set_name: ムニキスゼロ
+  collector_number: '076'
+  collector_number_unprinted: false
+  rarity: U
+  rarity_unprinted: false
+  illustrator: Susumu Maeya
+  illustrator_unprinted: false
+  regulation_mark: J
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/M3/049709_T_YUKARI.jpg
+- language: ja
+  set_code: M3
+  set_mark: M3
+  set_name: ムニキスゼロ
+  collector_number: '108'
+  collector_number_unprinted: false
+  rarity: SR
+  rarity_unprinted: false
+  illustrator: Susumu Maeya
+  illustrator_unprinted: false
+  regulation_mark: J
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/M3/050075_T_YUKARI.jpg
+- language: ja
+  set_code: M3
+  set_mark: M3
+  set_name: ムニキスゼロ
+  collector_number: '116'
+  collector_number_unprinted: false
+  rarity: SAR
+  rarity_unprinted: false
+  illustrator: Souichirou Gunjima
+  illustrator_unprinted: false
+  regulation_mark: J
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/M3/050083_T_YUKARI.jpg
+- language: en
+  set_code: POR
+  set_mark: POR
+  set_name: POR
+  collector_number: '75'
+  collector_number_unprinted: false
+  rarity: U
+  rarity_unprinted: false
+  illustrator: Susumu Maeya
+  illustrator_unprinted: false
+  regulation_mark: J
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/POR/POR_075_R_EN_XS.png
+- language: en
+  set_code: POR
+  set_mark: POR
+  set_name: POR
+  collector_number: '110'
+  collector_number_unprinted: false
+  rarity: SR
+  rarity_unprinted: false
+  illustrator: Susumu Maeya
+  illustrator_unprinted: false
+  regulation_mark: J
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/POR/POR_110_R_EN_XS.png
+- language: en
+  set_code: POR
+  set_mark: POR
+  set_name: POR
+  collector_number: '122'
+  collector_number_unprinted: false
+  rarity: SAR
+  rarity_unprinted: false
+  illustrator: Souichirou Gunjima
+  illustrator_unprinted: false
+  regulation_mark: J
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/POR/POR_122_R_EN_XS.png

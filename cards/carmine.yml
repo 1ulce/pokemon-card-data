@@ -1,8 +1,6 @@
 ---
-schema_version: 1
+schema_version: 2
 slug: carmine
-external_link:
-  cabt_id: 1192
 name:
   ja: ゼイユ
   en: Carmine
@@ -39,4 +37,148 @@ first_appearance:
   released_at: '2024-04-26'
   regulation_mark: H
   collector_number: '097'
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV6/045788_T_ZEIYU.jpg
+printings:
+- language: ja
+  set_code: SV6
+  set_mark: SV6
+  set_name: 変幻の仮面
+  collector_number: '097'
+  collector_number_unprinted: false
+  rarity: U
+  rarity_unprinted: false
+  illustrator: kantaro
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV6/045788_T_ZEIYU.jpg
+- language: ja
+  set_code: SV6
+  set_mark: SV6
+  set_name: 変幻の仮面
+  collector_number: '123'
+  collector_number_unprinted: false
+  rarity: SR
+  rarity_unprinted: false
+  illustrator: kantaro
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV6/045865_T_ZEIYU.jpg
+- language: ja
+  set_code: SV6
+  set_mark: SV6
+  set_name: 変幻の仮面
+  collector_number: '130'
+  collector_number_unprinted: false
+  rarity: SAR
+  rarity_unprinted: false
+  illustrator: En Morikura
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV6/045872_T_ZEIYU.jpg
+- language: ja
+  set_code: SV8a
+  set_mark: SV8a
+  set_name: テラスタルフェスex
+  collector_number: '170'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: kantaro
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
   image_url:
+- language: ja
+  set_code:
+  set_mark: MC
+  set_name: スタートデッキ100 バトルコレクション
+  collector_number: '715'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: kantaro
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: SVN
+  set_name: デッキビルドBOX「バトルパートナーズ」
+  collector_number: '033'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: kantaro
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: SV-P
+  set_name: 新弾バトル2024年7月
+  collector_number: '46132'
+  collector_number_unprinted: true
+  rarity:
+  rarity_unprinted: true
+  illustrator: kantaro
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url:
+- language: en
+  set_code: TWM
+  set_mark: TWM
+  set_name: TWM
+  collector_number: '145'
+  collector_number_unprinted: false
+  rarity: U
+  rarity_unprinted: false
+  illustrator: kantaro
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TWM/TWM_145_R_EN_XS.png
+- language: en
+  set_code: TWM
+  set_mark: TWM
+  set_name: TWM
+  collector_number: '204'
+  collector_number_unprinted: false
+  rarity: SR
+  rarity_unprinted: false
+  illustrator: kantaro
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TWM/TWM_204_R_EN_XS.png
+- language: en
+  set_code: TWM
+  set_mark: TWM
+  set_name: TWM
+  collector_number: '217'
+  collector_number_unprinted: false
+  rarity: SAR
+  rarity_unprinted: false
+  illustrator: En Morikura
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TWM/TWM_217_R_EN_XS.png
+- language: en
+  set_code: PRE
+  set_mark: PRE
+  set_name: PRE
+  collector_number: '103'
+  collector_number_unprinted: false
+  rarity: U
+  rarity_unprinted: false
+  illustrator: kantaro
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PRE/PRE_103_R_EN_XS.png

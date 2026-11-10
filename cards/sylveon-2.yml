@@ -1,8 +1,6 @@
 ---
-schema_version: 1
+schema_version: 2
 slug: sylveon-2
-external_link:
-  cabt_id: 330
 name:
   ja: ニンフィア
   en: Sylveon
@@ -55,4 +53,31 @@ first_appearance:
   released_at: '2024-11-22'
   regulation_mark: H
   collector_number: '050'
-  image_url:
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SVM/046504_P_NINFUIA.jpg
+printings:
+- language: ja
+  set_code:
+  set_mark: SVM
+  set_name: スタートデッキGenerations ゼルネアスex・オンバーンex
+  collector_number: '050'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: MINAMINAMI Take
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SVM/046504_P_NINFUIA.jpg
+- language: en
+  set_code: PRE
+  set_mark: PRE
+  set_name: PRE
+  collector_number: '40'
+  collector_number_unprinted: false
+  rarity: R
+  rarity_unprinted: false
+  illustrator: MINAMINAMI Take
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PRE/PRE_040_R_EN_XS.png

@@ -1,8 +1,6 @@
 ---
-schema_version: 1
+schema_version: 2
 slug: wiglett
-external_link:
-  cabt_id: 50
 name:
   ja: ウミディグダ
   en: Wiglett
@@ -57,4 +55,44 @@ first_appearance:
   released_at: '2024-01-26'
   regulation_mark: H
   collector_number: '021'
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV5K/045167_P_UMIDEIGUDA.jpg
+printings:
+- language: ja
+  set_code: SV5K
+  set_mark: SV5K
+  set_name: ワイルドフォース
+  collector_number: '021'
+  collector_number_unprinted: false
+  rarity: C
+  rarity_unprinted: false
+  illustrator: OKUBO
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV5K/045167_P_UMIDEIGUDA.jpg
+- language: ja
+  set_code: SV8a
+  set_mark: SV8a
+  set_name: テラスタルフェスex
+  collector_number: '042'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: OKUBO
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
   image_url:
+- language: en
+  set_code: TEF
+  set_mark: TEF
+  set_name: TEF
+  collector_number: '47'
+  collector_number_unprinted: false
+  rarity: C
+  rarity_unprinted: false
+  illustrator: OKUBO
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TEF/TEF_047_R_EN_XS.png

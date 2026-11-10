@@ -1,5 +1,5 @@
 ---
-schema_version: 1
+schema_version: 2
 slug: sigilyph
 name:
   ja: シンボラー
@@ -10,7 +10,7 @@ card_subtype: たねポケモン
 energy_type: Psychic
 hp: 110
 retreat_cost: 1
-regulation_mark: J
+regulation_mark: H
 meta_tags: []
 evolves_from:
   ja:
@@ -54,6 +54,46 @@ attacks:
 first_appearance:
   set_name_ja: スタートデッキ100 バトルコレクション
   released_at: '2025-12-19'
-  regulation_mark: J
+  regulation_mark: H
   collector_number: '318'
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/MC/049034_P_SHINBORA.jpg
+printings:
+- language: ja
+  set_code:
+  set_mark: MC
+  set_name: スタートデッキ100 バトルコレクション
+  collector_number: '318'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: svlt
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/MC/049034_P_SHINBORA.jpg
+- language: ja
+  set_code:
+  set_mark: SVLS
+  set_name: スターターセット テラスタイプ：ステラ ソウブレイズex
+  collector_number: '007'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: svlt
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
   image_url:
+- language: en
+  set_code: SSP
+  set_mark: SSP
+  set_name: SSP
+  collector_number: '81'
+  collector_number_unprinted: false
+  rarity: C
+  rarity_unprinted: false
+  illustrator: svlt
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SSP/SSP_081_R_EN_XS.png

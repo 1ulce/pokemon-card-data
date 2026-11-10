@@ -1,8 +1,6 @@
 ---
-schema_version: 1
+schema_version: 2
 slug: cryogonal-2
-external_link:
-  cabt_id: 508
 name:
   ja: フリージオ
   en: Cryogonal
@@ -56,4 +54,57 @@ first_appearance:
   released_at: '2025-06-06'
   regulation_mark: I
   collector_number: '030'
-  image_url:
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV11B/047566_P_FURIJIO.jpg
+printings:
+- language: ja
+  set_code: SV11B
+  set_mark: SV11B
+  set_name: ブラックボルト
+  collector_number: '030'
+  collector_number_unprinted: false
+  rarity: U
+  rarity_unprinted: false
+  illustrator: Kyoko Umemoto
+  illustrator_unprinted: false
+  regulation_mark: I
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV11B/047566_P_FURIJIO.jpg
+- language: ja
+  set_code: SV11B
+  set_mark: SV11B
+  set_name: ブラックボルト
+  collector_number: '115'
+  collector_number_unprinted: false
+  rarity: AR
+  rarity_unprinted: false
+  illustrator: rika
+  illustrator_unprinted: false
+  regulation_mark: I
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV11B/047939_P_FURIJIO.jpg
+- language: en
+  set_code: BLK
+  set_mark: BLK
+  set_name: BLK
+  collector_number: '27'
+  collector_number_unprinted: false
+  rarity: U
+  rarity_unprinted: false
+  illustrator: Kyoko Umemoto
+  illustrator_unprinted: false
+  regulation_mark: I
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BLK/BLK_027_R_EN_XS.png
+- language: en
+  set_code: BLK
+  set_mark: BLK
+  set_name: BLK
+  collector_number: '111'
+  collector_number_unprinted: false
+  rarity: AR
+  rarity_unprinted: false
+  illustrator: rika
+  illustrator_unprinted: false
+  regulation_mark: I
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BLK/BLK_111_R_EN_XS.png

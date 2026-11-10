@@ -1,8 +1,6 @@
 ---
-schema_version: 1
+schema_version: 2
 slug: togepi
-external_link:
-  cabt_id: 959
 name:
   ja: トゲピー
   en: Togepi
@@ -47,4 +45,70 @@ first_appearance:
   released_at: '2024-10-18'
   regulation_mark: H
   collector_number: '045'
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV8/046385_P_TOGEPI.jpg
+printings:
+- language: ja
+  set_code: SV8
+  set_mark: SV8
+  set_name: 超電ブレイカー
+  collector_number: '045'
+  collector_number_unprinted: false
+  rarity: C
+  rarity_unprinted: false
+  illustrator: Yoko Hishida
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV8/046385_P_TOGEPI.jpg
+- language: ja
+  set_code: M2a
+  set_mark: M2a
+  set_name: MEGAドリームex
+  collector_number: '064'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: Yoko Hishida
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
   image_url:
+- language: ja
+  set_code:
+  set_mark: MC
+  set_name: スタートデッキ100 バトルコレクション
+  collector_number: '291'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: Yoko Hishida
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url:
+- language: en
+  set_code: SSP
+  set_mark: SSP
+  set_name: SSP
+  collector_number: '70'
+  collector_number_unprinted: false
+  rarity: C
+  rarity_unprinted: false
+  illustrator: Yoko Hishida
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SSP/SSP_070_R_EN_XS.png
+- language: en
+  set_code: ASC
+  set_mark: ASC
+  set_name: ASC
+  collector_number: '80'
+  collector_number_unprinted: false
+  rarity: C
+  rarity_unprinted: false
+  illustrator: Yoko Hishida
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/ASC/ASC_080_R_EN_XS.png

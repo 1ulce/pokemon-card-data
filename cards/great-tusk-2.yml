@@ -1,8 +1,6 @@
 ---
-schema_version: 1
+schema_version: 2
 slug: great-tusk-2
-external_link:
-  cabt_id: 58
 name:
   ja: イダイナキバ
   en: Great Tusk
@@ -60,4 +58,57 @@ first_appearance:
   released_at: '2024-01-26'
   regulation_mark: H
   collector_number: '042'
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV5K/045188_P_IDAINAKIBA.jpg
+printings:
+- language: ja
+  set_code: SV5K
+  set_mark: SV5K
+  set_name: ワイルドフォース
+  collector_number: '042'
+  collector_number_unprinted: false
+  rarity: U
+  rarity_unprinted: false
+  illustrator: GIDORA
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV5K/045188_P_IDAINAKIBA.jpg
+- language: ja
+  set_code: SV8a
+  set_mark: SV8a
+  set_name: テラスタルフェスex
+  collector_number: '086'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: GIDORA
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
   image_url:
+- language: en
+  set_code: TEF
+  set_mark: TEF
+  set_name: TEF
+  collector_number: '97'
+  collector_number_unprinted: false
+  rarity: U
+  rarity_unprinted: false
+  illustrator: GIDORA
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TEF/TEF_097_R_EN_XS.png
+- language: en
+  set_code: PRE
+  set_mark: PRE
+  set_name: PRE
+  collector_number: '55'
+  collector_number_unprinted: false
+  rarity: U
+  rarity_unprinted: false
+  illustrator: GIDORA
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PRE/PRE_055_R_EN_XS.png

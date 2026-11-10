@@ -1,8 +1,6 @@
 ---
-schema_version: 1
+schema_version: 2
 slug: luxray-ex
-external_link:
-  cabt_id: 954
 name:
   ja: レントラーex
   en: Luxray ex
@@ -59,4 +57,70 @@ first_appearance:
   released_at: '2024-04-26'
   regulation_mark: H
   collector_number: '041'
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV6/045732_P_RENTORAEX.jpg
+printings:
+- language: ja
+  set_code: SV6
+  set_mark: SV6
+  set_name: 変幻の仮面
+  collector_number: '041'
+  collector_number_unprinted: false
+  rarity: RR
+  rarity_unprinted: false
+  illustrator: PLANETA Yamashita
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV6/045732_P_RENTORAEX.jpg
+- language: ja
+  set_code: SV6
+  set_mark: SV6
+  set_name: 変幻の仮面
+  collector_number: '118'
+  collector_number_unprinted: false
+  rarity: SR
+  rarity_unprinted: false
+  illustrator: PLANETA Yamashita
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV6/045860_P_RENTORAEX.jpg
+- language: ja
+  set_code:
+  set_mark: MC
+  set_name: スタートデッキ100 バトルコレクション
+  collector_number: '246'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: PLANETA Yamashita
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
   image_url:
+- language: en
+  set_code: TWM
+  set_mark: TWM
+  set_name: TWM
+  collector_number: '68'
+  collector_number_unprinted: false
+  rarity: RR
+  rarity_unprinted: false
+  illustrator: PLANETA Yamashita
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TWM/TWM_068_R_EN_XS.png
+- language: en
+  set_code: TWM
+  set_mark: TWM
+  set_name: TWM
+  collector_number: '195'
+  collector_number_unprinted: false
+  rarity: SR
+  rarity_unprinted: false
+  illustrator: PLANETA Yamashita
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TWM/TWM_195_R_EN_XS.png

@@ -1,5 +1,5 @@
 ---
-schema_version: 1
+schema_version: 2
 slug: weezing
 name:
   ja: マタドガス
@@ -55,4 +55,31 @@ first_appearance:
   released_at: '2025-01-24'
   regulation_mark: I
   collector_number: '057'
-  image_url:
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV9/047065_P_MATADOGASU.jpg
+printings:
+- language: ja
+  set_code: SV9
+  set_mark: SV9
+  set_name: バトルパートナーズ
+  collector_number: '057'
+  collector_number_unprinted: false
+  rarity: U
+  rarity_unprinted: false
+  illustrator: KEIICHIRO ITO
+  illustrator_unprinted: false
+  regulation_mark: I
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV9/047065_P_MATADOGASU.jpg
+- language: en
+  set_code: JTG
+  set_mark: JTG
+  set_name: JTG
+  collector_number: '92'
+  collector_number_unprinted: false
+  rarity: U
+  rarity_unprinted: false
+  illustrator: KEIICHIRO ITO
+  illustrator_unprinted: false
+  regulation_mark: I
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/JTG/JTG_092_R_EN_XS.png

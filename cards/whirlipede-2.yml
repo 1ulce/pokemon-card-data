@@ -1,8 +1,6 @@
 ---
-schema_version: 1
+schema_version: 2
 slug: whirlipede-2
-external_link:
-  cabt_id: 536
 name:
   ja: ホイーガ
   en: Whirlipede
@@ -46,4 +44,57 @@ first_appearance:
   released_at: '2025-06-06'
   regulation_mark: I
   collector_number: '058'
-  image_url:
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV11B/047594_P_HOIGA.jpg
+printings:
+- language: ja
+  set_code: SV11B
+  set_mark: SV11B
+  set_name: ブラックボルト
+  collector_number: '058'
+  collector_number_unprinted: false
+  rarity: C
+  rarity_unprinted: false
+  illustrator: okayamatakatoshi
+  illustrator_unprinted: false
+  regulation_mark: I
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV11B/047594_P_HOIGA.jpg
+- language: ja
+  set_code: SV11B
+  set_mark: SV11B
+  set_name: ブラックボルト
+  collector_number: '139'
+  collector_number_unprinted: false
+  rarity: AR
+  rarity_unprinted: false
+  illustrator: kurumitsu
+  illustrator_unprinted: false
+  regulation_mark: I
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV11B/047963_P_HOIGA.jpg
+- language: en
+  set_code: BLK
+  set_mark: BLK
+  set_name: BLK
+  collector_number: '55'
+  collector_number_unprinted: false
+  rarity: C
+  rarity_unprinted: false
+  illustrator: okayamatakatoshi
+  illustrator_unprinted: false
+  regulation_mark: I
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BLK/BLK_055_R_EN_XS.png
+- language: en
+  set_code: BLK
+  set_mark: BLK
+  set_name: BLK
+  collector_number: '133'
+  collector_number_unprinted: false
+  rarity: AR
+  rarity_unprinted: false
+  illustrator: kurumitsu
+  illustrator_unprinted: false
+  regulation_mark: I
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BLK/BLK_133_R_EN_XS.png

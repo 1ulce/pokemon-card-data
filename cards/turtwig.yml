@@ -1,5 +1,5 @@
 ---
-schema_version: 1
+schema_version: 2
 slug: turtwig
 name:
   ja: ナエトル
@@ -53,4 +53,44 @@ first_appearance:
   released_at: '2024-01-26'
   regulation_mark: H
   collector_number: '003'
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV5K/045149_P_NAETORU.jpg
+printings:
+- language: ja
+  set_code: SV5K
+  set_mark: SV5K
+  set_name: ワイルドフォース
+  collector_number: '003'
+  collector_number_unprinted: false
+  rarity: C
+  rarity_unprinted: false
+  illustrator: OKACHEKE
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV5K/045149_P_NAETORU.jpg
+- language: ja
+  set_code:
+  set_mark: MC
+  set_name: スタートデッキ100 バトルコレクション
+  collector_number: '034'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: OKACHEKE
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
   image_url:
+- language: en
+  set_code: TEF
+  set_mark: TEF
+  set_name: TEF
+  collector_number: '10'
+  collector_number_unprinted: false
+  rarity: C
+  rarity_unprinted: false
+  illustrator: OKACHEKE
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TEF/TEF_010_R_EN_XS.png

@@ -1,8 +1,6 @@
 ---
-schema_version: 1
+schema_version: 2
 slug: crabrawler
-external_link:
-  cabt_id: 977
 name:
   ja: マケンカニ
   en: Crabrawler
@@ -59,4 +57,44 @@ first_appearance:
   released_at: '2024-07-19'
   regulation_mark: H
   collector_number: '059'
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV7/045998_P_MAKENKANI.jpg
+printings:
+- language: ja
+  set_code: SV7
+  set_mark: SV7
+  set_name: ステラミラクル
+  collector_number: '059'
+  collector_number_unprinted: false
+  rarity: C
+  rarity_unprinted: false
+  illustrator: Scav
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV7/045998_P_MAKENKANI.jpg
+- language: ja
+  set_code:
+  set_mark: MC
+  set_name: スタートデッキ100 バトルコレクション
+  collector_number: '401'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: Scav
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
   image_url:
+- language: en
+  set_code: SCR
+  set_mark: SCR
+  set_name: SCR
+  collector_number: '87'
+  collector_number_unprinted: false
+  rarity: C
+  rarity_unprinted: false
+  illustrator: Scav
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SCR/SCR_087_R_EN_XS.png

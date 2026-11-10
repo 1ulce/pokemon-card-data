@@ -1,8 +1,6 @@
 ---
-schema_version: 1
+schema_version: 2
 slug: eevee-3
-external_link:
-  cabt_id: 145
 name:
   ja: イーブイ
   en: Eevee
@@ -57,4 +55,57 @@ first_appearance:
   released_at: '2024-06-07'
   regulation_mark: H
   collector_number: '050'
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV6a/045925_P_IBUI.jpg
+printings:
+- language: ja
+  set_code: SV6a
+  set_mark: SV6a
+  set_name: ナイトワンダラー
+  collector_number: '050'
+  collector_number_unprinted: false
+  rarity: C
+  rarity_unprinted: false
+  illustrator: Susumu Maeya
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV6a/045925_P_IBUI.jpg
+- language: ja
+  set_code:
+  set_mark: SV-P
+  set_name: ポケカバトルをはじめよう！キャンペーン
+  collector_number: '46229'
+  collector_number_unprinted: true
+  rarity:
+  rarity_unprinted: true
+  illustrator: Susumu Maeya
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
   image_url:
+- language: ja
+  set_code:
+  set_mark: SV-P
+  set_name: デッキそのままバトル～イーブイゲットだぜ～
+  collector_number: '49610'
+  collector_number_unprinted: true
+  rarity:
+  rarity_unprinted: true
+  illustrator: Kariya
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url:
+- language: en
+  set_code: SFA
+  set_mark: SFA
+  set_name: SFA
+  collector_number: '50'
+  collector_number_unprinted: false
+  rarity: C
+  rarity_unprinted: false
+  illustrator: Susumu Maeya
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SFA/SFA_050_R_EN_XS.png

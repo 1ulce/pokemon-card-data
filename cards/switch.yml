@@ -1,8 +1,6 @@
 ---
-schema_version: 1
+schema_version: 2
 slug: switch
-external_link:
-  cabt_id: 1123
 name:
   ja: ポケモンいれかえ
   en: Switch
@@ -34,6 +32,1645 @@ attacks: []
 first_appearance:
   set_name_ja: プレミアムトレーナーボックスex
   released_at: '2023-01-20'
-  regulation_mark: H
+  regulation_mark: G
   collector_number: '005'
   image_url:
+printings:
+- language: ja
+  set_code:
+  set_mark: SVB
+  set_name: プレミアムトレーナーボックスex
+  collector_number: '005'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: false
+  illustrator: Studio Bora Inc.
+  illustrator_unprinted: false
+  regulation_mark: G
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: SLL
+  set_name: ルカリオ
+  collector_number: '014'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: false
+  illustrator: Studio Bora Inc.
+  illustrator_unprinted: false
+  regulation_mark: F
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: WCS23
+  set_name: ピカチュウ
+  collector_number: '020'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: false
+  illustrator: Studio Bora Inc.
+  illustrator_unprinted: false
+  regulation_mark: G
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: SVEM
+  set_name: ミュウツーex
+  collector_number: '015'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: false
+  illustrator: Studio Bora Inc.
+  illustrator_unprinted: false
+  regulation_mark: G
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: SVEL
+  set_name: ミュウツーex
+  collector_number: '015'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: false
+  illustrator: Studio Bora Inc.
+  illustrator_unprinted: false
+  regulation_mark: G
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code: SV3a
+  set_mark: SV3a
+  set_name: レイジングサーフ
+  collector_number: '054'
+  collector_number_unprinted: false
+  rarity: U
+  rarity_unprinted: false
+  illustrator: Studio Bora Inc.
+  illustrator_unprinted: false
+  regulation_mark: G
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: SVG
+  set_name: スペシャルデッキセットex フシギバナ・リザードン・カメックス
+  collector_number: '036'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: false
+  illustrator: Studio Bora Inc.
+  illustrator_unprinted: false
+  regulation_mark: G
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: SVHK
+  set_name: 古代のコライドンex
+  collector_number: '031'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: Studio Bora Inc.
+  illustrator_unprinted: false
+  regulation_mark: G
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: SVHM
+  set_name: 未来のミライドンex
+  collector_number: '031'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: Studio Bora Inc.
+  illustrator_unprinted: false
+  regulation_mark: G
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: SVI
+  set_name: バトルアカデミー
+  collector_number: '054'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: Studio Bora Inc.
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: SVI
+  set_name: バトルアカデミー
+  collector_number: '054'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: Studio Bora Inc.
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code: SV5a
+  set_mark: SV5a
+  set_name: クリムゾンヘイズ
+  collector_number: '056'
+  collector_number_unprinted: false
+  rarity: U
+  rarity_unprinted: false
+  illustrator: Studio Bora Inc.
+  illustrator_unprinted: false
+  regulation_mark: G
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: SVM
+  set_name: スタートデッキGenerations ピカチュウex・カビゴンex
+  collector_number: '136'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: Studio Bora Inc.
+  illustrator_unprinted: false
+  regulation_mark: G
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code: SV9a
+  set_mark: SV9a
+  set_name: 熱風のアリーナ
+  collector_number: '058'
+  collector_number_unprinted: false
+  rarity: U
+  rarity_unprinted: false
+  illustrator: Studio Bora Inc.
+  illustrator_unprinted: false
+  regulation_mark: G
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV9a/047353_T_POKEMONIREKAE.jpg
+- language: ja
+  set_code:
+  set_mark: MBD
+  set_name: スターターセットMEGA メガディアンシーex
+  collector_number: '012'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: Studio Bora Inc.
+  illustrator_unprinted: false
+  regulation_mark: I
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: MBG
+  set_name: スターターセットMEGA メガゲンガーex
+  collector_number: '014'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: Studio Bora Inc.
+  illustrator_unprinted: false
+  regulation_mark: I
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code: M2
+  set_mark: M2
+  set_name: インフェルノX
+  collector_number: '102'
+  collector_number_unprinted: false
+  rarity: SR
+  rarity_unprinted: false
+  illustrator: Studio Bora Inc.
+  illustrator_unprinted: false
+  regulation_mark: I
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/M2/048508_T_POKEMONIREKAE.jpg
+- language: ja
+  set_code:
+  set_mark: MP1
+  set_name: スタートデッキ100 バトルコレクション コロちゃおVer.
+  collector_number: '016'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: Studio Bora Inc.
+  illustrator_unprinted: false
+  regulation_mark: I
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: MC
+  set_name: スタートデッキ100 バトルコレクション
+  collector_number: '663'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: Studio Bora Inc.
+  illustrator_unprinted: false
+  regulation_mark: I
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: MF
+  set_name: 30th CELEBRATION プレミアムデッキセット エーフィ・ブラッキー
+  collector_number: '032'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: Studio Bora Inc.
+  illustrator_unprinted: false
+  regulation_mark: I
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code: M6a
+  set_mark: M6a
+  set_name: 拡張パック 30th CELEBRATION
+  collector_number: '103'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: Yuka Morii
+  illustrator_unprinted: false
+  regulation_mark: I
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: SB
+  set_name: プレミアムトレーナーボックス ソード＆シールド
+  collector_number: '007'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: false
+  illustrator: Studio Bora Inc.
+  illustrator_unprinted: false
+  regulation_mark: D
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: S8a-G
+  set_name: 25th ANNIVERSARY GOLDEN BOX
+  collector_number: '009'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: false
+  illustrator: Studio Bora Inc.
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: SPZ
+  set_name: VSTAR&VMAX ハイクラスデッキ ゼラオラ
+  collector_number: '010'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: false
+  illustrator: Studio Bora Inc.
+  illustrator_unprinted: false
+  regulation_mark: F
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: XYF
+  set_name: ゴルダックBREAK+パルキアEX
+  collector_number: '010'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: false
+  illustrator: 5ban Graphics
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: XYD
+  set_name: レックウザEX
+  collector_number: '010'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: false
+  illustrator: 5ban Graphics
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: XYB
+  set_name: ディアルガEX+ギルガルドEX
+  collector_number: '010'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: false
+  illustrator: 5ban Graphics
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: X30
+  set_name: ゼルネアスデッキ30
+  collector_number: '010'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: false
+  illustrator: 5ban Graphics
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: Y30
+  set_name: イベルタルデッキ30
+  collector_number: '010'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: false
+  illustrator: 5ban Graphics
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: SPD
+  set_name: VSTAR&VMAX ハイクラスデッキ デオキシス
+  collector_number: '011'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: false
+  illustrator: Studio Bora Inc.
+  illustrator_unprinted: false
+  regulation_mark: F
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: XYG
+  set_name: ジガルデEX
+  collector_number: '011'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: false
+  illustrator: 5ban Graphics
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: SGG
+  set_name: ゲンガーVMAX
+  collector_number: '012'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: false
+  illustrator: Studio Bora Inc.
+  illustrator_unprinted: false
+  regulation_mark: D
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: SMN
+  set_name: TAG TEAM GX
+  collector_number: '012'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: false
+  illustrator: Ryo Ueda
+  illustrator_unprinted: false
+  regulation_mark: A
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: SVOD
+  set_name: スターターセットex ダイゴのダンバル＆メタグロスex
+  collector_number: '013'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: Studio Bora Inc.
+  illustrator_unprinted: false
+  regulation_mark: G
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: XYA
+  set_name: リザードンEX
+  collector_number: '013'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: false
+  illustrator: 5ban Graphics
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: SVOM
+  set_name: スターターセットex マリィのモルペコ＆オーロンゲex
+  collector_number: '014'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: Studio Bora Inc.
+  illustrator_unprinted: false
+  regulation_mark: G
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: SVJP
+  set_name: バトルマスターデッキパオジアンex
+  collector_number: '014'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: false
+  illustrator: Studio Bora Inc.
+  illustrator_unprinted: false
+  regulation_mark: G
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: SF
+  set_name: プレミアムトレーナーボックス ICHIGEKI、RENGEKI
+  collector_number: '014'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: false
+  illustrator: Studio Bora Inc.
+  illustrator_unprinted: false
+  regulation_mark: D
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: SC2
+  set_name: スターターセットVMAX リザードン
+  collector_number: '014'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: false
+  illustrator: Studio Bora Inc.
+  illustrator_unprinted: false
+  regulation_mark: D
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: SCS
+  set_name: スターターセットVMAX　リザードン
+  collector_number: '014'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: false
+  illustrator: Studio Bora Inc.
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: SCS
+  set_name: スターターセットVMAX　オーロンゲ
+  collector_number: '014'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: false
+  illustrator: Studio Bora Inc.
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: SME
+  set_name: ソルガレオGX ルナアーラGX
+  collector_number: '014'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: false
+  illustrator: Ryo Ueda
+  illustrator_unprinted: false
+  regulation_mark: A
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: XYC
+  set_name: ゼルネアスEX・イベルタルEX
+  collector_number: '014'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: false
+  illustrator: 5ban Graphics
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: SVJL
+  set_name: バトルマスターデッキテラスタルリザードンex
+  collector_number: '015'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: false
+  illustrator: Studio Bora Inc.
+  illustrator_unprinted: false
+  regulation_mark: G
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: SLD
+  set_name: ダークライ
+  collector_number: '015'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: false
+  illustrator: Studio Bora Inc.
+  illustrator_unprinted: false
+  regulation_mark: F
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: SGI
+  set_name: インテレオンVMAX
+  collector_number: '015'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: false
+  illustrator: Studio Bora Inc.
+  illustrator_unprinted: false
+  regulation_mark: D
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: SEF
+  set_name: スターターセットVMAX フシギバナ
+  collector_number: '015'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: false
+  illustrator: Studio Bora Inc.
+  illustrator_unprinted: false
+  regulation_mark: D
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: SEK
+  set_name: スターターセットVMAX カメックス
+  collector_number: '015'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: false
+  illustrator: Studio Bora Inc.
+  illustrator_unprinted: false
+  regulation_mark: D
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: SMC
+  set_name: スターターセット改造「カプ・ブルルGX
+  collector_number: '015'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: false
+  illustrator: Ryo Ueda
+  illustrator_unprinted: false
+  regulation_mark: A
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: SVC
+  set_name: スターターセットex ピカチュウex&パーモット
+  collector_number: '016'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: false
+  illustrator: Studio Bora Inc.
+  illustrator_unprinted: false
+  regulation_mark: G
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: SVAL
+  set_name: スターターセットex ホゲータ＆デンリュウex
+  collector_number: '016'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: false
+  illustrator: Studio Bora Inc.
+  illustrator_unprinted: false
+  regulation_mark: G
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: SA
+  set_name: スターターセットV　草
+  collector_number: '016'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: Studio Bora Inc.
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: SA
+  set_name: スターターセットV　雷
+  collector_number: '016'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: Studio Bora Inc.
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: SVLN
+  set_name: スターターセット テラスタイプ：ステラ ニンフィアex
+  collector_number: '017'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: Studio Bora Inc.
+  illustrator_unprinted: false
+  regulation_mark: G
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: SVLS
+  set_name: スターターセット テラスタイプ：ステラ ソウブレイズex
+  collector_number: '017'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: Studio Bora Inc.
+  illustrator_unprinted: false
+  regulation_mark: G
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: SVAW
+  set_name: スターターセットex クワッス＆ミミッキュex
+  collector_number: '017'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: false
+  illustrator: Studio Bora Inc.
+  illustrator_unprinted: false
+  regulation_mark: G
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: SN
+  set_name: スタートデッキ100 コロコロコミックver.
+  collector_number: '017'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: false
+  illustrator: Studio Bora Inc.
+  illustrator_unprinted: false
+  regulation_mark: F
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: SA
+  set_name: スターターセットV　炎
+  collector_number: '017'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: Studio Bora Inc.
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: SA
+  set_name: スターターセットV　水
+  collector_number: '017'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: Studio Bora Inc.
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: SA
+  set_name: スターターセットV　闘
+  collector_number: '017'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: Studio Bora Inc.
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: SVAM
+  set_name: スターターセットex ニャオハ＆ルカリオex
+  collector_number: '018'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: false
+  illustrator: Studio Bora Inc.
+  illustrator_unprinted: false
+  regulation_mark: G
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: SK
+  set_name: プレミアムトレーナーボックス VSTAR
+  collector_number: '018'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: false
+  illustrator: Studio Bora Inc.
+  illustrator_unprinted: false
+  regulation_mark: F
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: XYE
+  set_name: エンブオーEX VS トゲキッスEX
+  collector_number: '018'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: false
+  illustrator: 5ban Graphics
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: XYE
+  set_name: エンブオーEX VS トゲキッスEX
+  collector_number: '018'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: false
+  illustrator: 5ban Graphics
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: SMK
+  set_name: トレーナーバトルデッキ：ニビシティジムのタケシ
+  collector_number: '019'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: false
+  illustrator: Ryo Ueda
+  illustrator_unprinted: false
+  regulation_mark: A
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: SMM
+  set_name: ブラッキー&ダークライGX
+  collector_number: '020'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: false
+  illustrator: Ryo Ueda
+  illustrator_unprinted: false
+  regulation_mark: A
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: SVN
+  set_name: デッキビルドBOX「バトルパートナーズ」
+  collector_number: '021'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: Studio Bora Inc.
+  illustrator_unprinted: false
+  regulation_mark: G
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: SVF
+  set_name: デッキビルドBOX 黒炎の支配者
+  collector_number: '021'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: false
+  illustrator: Studio Bora Inc.
+  illustrator_unprinted: false
+  regulation_mark: G
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: SO
+  set_name: スペシャルデッキセット リザードンVSTAR vs レックウザVMAX
+  collector_number: '021'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: false
+  illustrator: Studio Bora Inc.
+  illustrator_unprinted: false
+  regulation_mark: F
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: SVK
+  set_name: デッキビルドBOX ステラミラクル
+  collector_number: '022'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: Studio Bora Inc.
+  illustrator_unprinted: false
+  regulation_mark: G
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: SJ
+  set_name: スペシャルデッキセット ザシアン・ザマゼンタ vs ムゲンダイナ
+  collector_number: '022'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: false
+  illustrator: Studio Bora Inc.
+  illustrator_unprinted: false
+  regulation_mark: D
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: SMJ
+  set_name: プレミアムトレーナーボックス TAG TEAM GX
+  collector_number: '022'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: false
+  illustrator: Ryo Ueda
+  illustrator_unprinted: false
+  regulation_mark: A
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: SMD
+  set_name: サトシVSロケット団
+  collector_number: '022'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: Ryo Ueda
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: SMD
+  set_name: サトシVSロケット団
+  collector_number: '022'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: Ryo Ueda
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: MA
+  set_name: プレミアムトレーナーボックスMEGA
+  collector_number: '023'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: Studio Bora Inc.
+  illustrator_unprinted: false
+  regulation_mark: I
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: SMI
+  set_name: 炎のブースターGX
+  collector_number: '027'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: false
+  illustrator: Ryo Ueda
+  illustrator_unprinted: false
+  regulation_mark: A
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: MMB-P
+  set_name: メガマスターデッキビルドBOX パワースタイル
+  collector_number: '032'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: 5ban Graphics
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: MMB-S
+  set_name: メガマスターデッキビルドBOX スピードスタイル
+  collector_number: '034'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: 5ban Graphics
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: HXY
+  set_name: ポケモンカードゲームXY はじめてセット
+  collector_number: '036'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: 5ban Graphics
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: HXY
+  set_name: ポケモンカードゲームXY はじめてセット
+  collector_number: '036'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: 5ban Graphics
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: HXY
+  set_name: ポケモンカードゲームXY はじめてセット
+  collector_number: '036'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: 5ban Graphics
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: SH
+  set_name: ファミリーポケモンカードゲーム
+  collector_number: '043'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: Studio Bora Inc.
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: SH
+  set_name: ファミリーポケモンカードゲーム
+  collector_number: '043'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: Studio Bora Inc.
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: SH
+  set_name: ファミリーポケモンカードゲーム
+  collector_number: '043'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: Studio Bora Inc.
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: SML
+  set_name: ファミリーポケモンカードゲーム
+  collector_number: '043'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: Ryo Ueda
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: SML
+  set_name: ファミリーポケモンカードゲーム
+  collector_number: '043'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: Ryo Ueda
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: SML
+  set_name: ファミリーポケモンカードゲーム
+  collector_number: '043'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: Ryo Ueda
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: SMA
+  set_name: スターターセット草 ジュナイパーGX
+  collector_number: '046'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: Ryo Ueda
+  illustrator_unprinted: false
+  regulation_mark: A
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: SM7a
+  set_name: 迅雷スパーク
+  collector_number: '050'
+  collector_number_unprinted: false
+  rarity: U
+  rarity_unprinted: false
+  illustrator: Ryo Ueda
+  illustrator_unprinted: false
+  regulation_mark: A
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: SM11a
+  set_name: リミックスバウト
+  collector_number: '053'
+  collector_number_unprinted: false
+  rarity: U
+  rarity_unprinted: false
+  illustrator: Ryo Ueda
+  illustrator_unprinted: false
+  regulation_mark: A
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: SVI
+  set_name: いつでもどこでも バトルアカデミー
+  collector_number: '054'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: Studio Bora Inc.
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: SVI
+  set_name: いつでもどこでも バトルアカデミー
+  collector_number: '054'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: Studio Bora Inc.
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: SM1M
+  set_name: コレクション ムーン
+  collector_number: '056'
+  collector_number_unprinted: false
+  rarity: U
+  rarity_unprinted: false
+  illustrator: Ryo Ueda
+  illustrator_unprinted: false
+  regulation_mark: A
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: 20th
+  set_name: ポケットモンスターカードゲーム スターターパック
+  collector_number: '058'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: 5ban Graphics
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: S7R
+  set_name: 蒼空ストリーム
+  collector_number: '059'
+  collector_number_unprinted: false
+  rarity: U
+  rarity_unprinted: false
+  illustrator: Studio Bora Inc.
+  illustrator_unprinted: false
+  regulation_mark: D
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: SM6b
+  set_name: チャンピオンロード
+  collector_number: '059'
+  collector_number_unprinted: false
+  rarity: U
+  rarity_unprinted: false
+  illustrator: Hiromichi Sugiyama
+  illustrator_unprinted: false
+  regulation_mark: A
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: S11a
+  set_name: 白熱のアルカナ
+  collector_number: '061'
+  collector_number_unprinted: false
+  rarity: U
+  rarity_unprinted: false
+  illustrator: Studio Bora Inc.
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: S11a
+  set_name: 白熱のアルカナ
+  collector_number: '061'
+  collector_number_unprinted: false
+  rarity: U
+  rarity_unprinted: false
+  illustrator: Studio Bora Inc.
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: S3a
+  set_name: 伝説の鼓動
+  collector_number: '065'
+  collector_number_unprinted: false
+  rarity: U
+  rarity_unprinted: false
+  illustrator: Studio Bora Inc.
+  illustrator_unprinted: false
+  regulation_mark: D
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: SM3p
+  set_name: ひかる伝説
+  collector_number: '065'
+  collector_number_unprinted: false
+  rarity: U
+  rarity_unprinted: false
+  illustrator: Ryo Ueda
+  illustrator_unprinted: false
+  regulation_mark: A
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: CP6
+  set_name: ポケットモンスターカードゲーム 拡張パック 20th Anniversary
+  collector_number: '077'
+  collector_number_unprinted: false
+  rarity: U
+  rarity_unprinted: false
+  illustrator: Keiji Kinebuchi
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: SM8
+  set_name: 超爆インパクト
+  collector_number: '080'
+  collector_number_unprinted: false
+  rarity: U
+  rarity_unprinted: false
+  illustrator: Ryo Ueda
+  illustrator_unprinted: false
+  regulation_mark: A
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: SM6
+  set_name: 禁断の光
+  collector_number: '081'
+  collector_number_unprinted: false
+  rarity: U
+  rarity_unprinted: false
+  illustrator: Ryo Ueda
+  illustrator_unprinted: false
+  regulation_mark: A
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: SM7
+  set_name: 裂空のカリスマ
+  collector_number: '083'
+  collector_number_unprinted: false
+  rarity: U
+  rarity_unprinted: false
+  illustrator: Ryo Ueda
+  illustrator_unprinted: false
+  regulation_mark: A
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: SD
+  set_name: Vスタートデッキ無色　イーブイ
+  collector_number: '097'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: Studio Bora Inc.
+  illustrator_unprinted: false
+  regulation_mark: D
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: SMH
+  set_name: フェアリーゼルネアス
+  collector_number: '113'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: false
+  illustrator: Ryo Ueda
+  illustrator_unprinted: false
+  regulation_mark: A
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: SVD
+  set_name: exスタートデッキ 草 ジュナイパー
+  collector_number: '122'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: Studio Bora Inc.
+  illustrator_unprinted: false
+  regulation_mark: G
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: SV2a
+  set_name: ポケモンカード151（イチゴーイチ）
+  collector_number: '209'
+  collector_number_unprinted: false
+  rarity: UR
+  rarity_unprinted: false
+  illustrator: Studio Bora Inc.
+  illustrator_unprinted: false
+  regulation_mark: G
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV2a/044961_T_POKEMONIREKAE.jpg
+- language: ja
+  set_code:
+  set_mark: SI
+  set_name: スタートデッキ100
+  collector_number: '377'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: Studio Bora Inc.
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: SI
+  set_name: スタートデッキ100
+  collector_number: '377'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: Studio Bora Inc.
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: XYP
+  set_name: ポケモンカードゲーム公認自主イベント（2016/7）
+  collector_number: '32202'
+  collector_number_unprinted: true
+  rarity:
+  rarity_unprinted: true
+  illustrator: 5ban Graphics
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: SMP
+  set_name: 公認自主イベント トレーナーズパック 2017
+  collector_number: '34184'
+  collector_number_unprinted: true
+  rarity:
+  rarity_unprinted: true
+  illustrator: Ryo Ueda
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: S-P
+  set_name: ポケモンカードゲーム公認自主イベント（2020）
+  collector_number: '38006'
+  collector_number_unprinted: true
+  rarity:
+  rarity_unprinted: true
+  illustrator: Studio Bora Inc.
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: SV-P
+  set_name: エネルギーカードセット
+  collector_number: '42902'
+  collector_number_unprinted: true
+  rarity:
+  rarity_unprinted: true
+  illustrator: Studio Bora Inc.
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: SV-P
+  set_name: オーガナイザー プロモカード
+  collector_number: '43121'
+  collector_number_unprinted: true
+  rarity:
+  rarity_unprinted: true
+  illustrator: Studio Bora Inc.
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: SV-P
+  set_name: スカーレット＆バイオレット プロモカードパック第5弾
+  collector_number: '45400'
+  collector_number_unprinted: true
+  rarity:
+  rarity_unprinted: true
+  illustrator: Studio Bora Inc.
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: SV-P
+  set_name: ビクティニBWR争奪戦プロモカードパック
+  collector_number: '47713'
+  collector_number_unprinted: true
+  rarity:
+  rarity_unprinted: true
+  illustrator: Studio Bora Inc.
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: SV-P
+  set_name: 公認自主イベント　トレーナーズパック2025
+  collector_number: '47730'
+  collector_number_unprinted: true
+  rarity:
+  rarity_unprinted: true
+  illustrator: Studio Bora Inc.
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url:
+- language: en
+  set_code: PRC
+  set_mark: PRC
+  set_name: PRC
+  collector_number: '163'
+  collector_number_unprinted: false
+  rarity: UR
+  rarity_unprinted: false
+  illustrator: 5ban Graphics
+  illustrator_unprinted: false
+  regulation_mark:
+  regulation_mark_unprinted: true
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PRC/PRC_163_R_EN_XS.png
+- language: en
+  set_code: EVO
+  set_mark: EVO
+  set_name: EVO
+  collector_number: '88'
+  collector_number_unprinted: false
+  rarity: U
+  rarity_unprinted: false
+  illustrator: Keiji Kinebuchi
+  illustrator_unprinted: false
+  regulation_mark:
+  regulation_mark_unprinted: true
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/EVO/EVO_088_R_EN_XS.png
+- language: en
+  set_code: SUM
+  set_mark: SUM
+  set_name: SUM
+  collector_number: '132'
+  collector_number_unprinted: false
+  rarity: U
+  rarity_unprinted: false
+  illustrator: Ryo Ueda
+  illustrator_unprinted: false
+  regulation_mark:
+  regulation_mark_unprinted: true
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SUM/SUM_132_R_EN_XS.png
+- language: en
+  set_code: CES
+  set_mark: CES
+  set_name: CES
+  collector_number: '147'
+  collector_number_unprinted: false
+  rarity: U
+  rarity_unprinted: false
+  illustrator: Hiromichi Sugiyama
+  illustrator_unprinted: false
+  regulation_mark:
+  regulation_mark_unprinted: true
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CES/CES_147_R_EN_XS.png
+- language: en
+  set_code: SSH
+  set_mark: SSH
+  set_name: SSH
+  collector_number: '183'
+  collector_number_unprinted: false
+  rarity: U
+  rarity_unprinted: false
+  illustrator: Studio Bora Inc.
+  illustrator_unprinted: false
+  regulation_mark: D
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SSH/SSH_183_R_EN_XS.png
+- language: en
+  set_code: MEG
+  set_mark: MEG
+  set_name: MEG
+  collector_number: '130'
+  collector_number_unprinted: false
+  rarity: C
+  rarity_unprinted: false
+  illustrator: Studio Bora Inc.
+  illustrator_unprinted: false
+  regulation_mark: I
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/MEG/MEG_130_R_EN_XS.png
+- language: en
+  set_code: PFL
+  set_mark: PFL
+  set_name: PFL
+  collector_number: '123'
+  collector_number_unprinted: false
+  rarity: SR
+  rarity_unprinted: false
+  illustrator: Studio Bora Inc.
+  illustrator_unprinted: false
+  regulation_mark: I
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PFL/PFL_123_R_EN_XS.png
+- language: en
+  set_code: 30C
+  set_mark: 30C
+  set_name: 30C
+  collector_number: '127'
+  collector_number_unprinted: false
+  rarity: C
+  rarity_unprinted: false
+  illustrator: Yuka Morii
+  illustrator_unprinted: false
+  regulation_mark: I
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/30C/30C_127_R_EN_XS.png

@@ -1,8 +1,6 @@
 ---
-schema_version: 1
+schema_version: 2
 slug: prime-catcher
-external_link:
-  cabt_id: 1088
 name:
   ja: プライムキャッチャー
   en: Prime Catcher
@@ -38,3 +36,108 @@ first_appearance:
   regulation_mark: H
   collector_number: '062'
   image_url:
+printings:
+- language: ja
+  set_code: SV5M
+  set_mark: SV5M
+  set_name: サイバージャッジ
+  collector_number: '062'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: false
+  illustrator: Toyste Beach
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code: SV8a
+  set_mark: SV8a
+  set_name: テラスタルフェスex
+  collector_number: '148'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: Toyste Beach
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: MBG
+  set_name: スターターセットMEGA メガゲンガーex
+  collector_number: '013'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: Toyste Beach
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: MC
+  set_name: スタートデッキ100 バトルコレクション
+  collector_number: '656'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: Toyste Beach
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: SVN
+  set_name: デッキビルドBOX「バトルパートナーズ」
+  collector_number: '020'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: Toyste Beach
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: MA
+  set_name: プレミアムトレーナーボックスMEGA
+  collector_number: '022'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: Toyste Beach
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url:
+- language: en
+  set_code: TEF
+  set_mark: TEF
+  set_name: TEF
+  collector_number: '157'
+  collector_number_unprinted: false
+  rarity: SR
+  rarity_unprinted: false
+  illustrator: Toyste Beach
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TEF/TEF_157_R_EN_XS.png
+- language: en
+  set_code: PRE
+  set_mark: PRE
+  set_name: PRE
+  collector_number: '119'
+  collector_number_unprinted: false
+  rarity: SR
+  rarity_unprinted: false
+  illustrator: Toyste Beach
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PRE/PRE_119_R_EN_XS.png

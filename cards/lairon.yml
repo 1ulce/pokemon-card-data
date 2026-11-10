@@ -1,5 +1,5 @@
 ---
-schema_version: 1
+schema_version: 2
 slug: lairon
 name:
   ja: コドラ
@@ -56,4 +56,57 @@ first_appearance:
   released_at: '2024-04-26'
   regulation_mark: H
   collector_number: '074'
-  image_url:
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV6/045765_P_KODORA.jpg
+printings:
+- language: ja
+  set_code: SV6
+  set_mark: SV6
+  set_name: 変幻の仮面
+  collector_number: '074'
+  collector_number_unprinted: false
+  rarity: C
+  rarity_unprinted: false
+  illustrator: takashi shiraishi
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV6/045765_P_KODORA.jpg
+- language: ja
+  set_code: SV6
+  set_mark: SV6
+  set_name: 変幻の仮面
+  collector_number: '111'
+  collector_number_unprinted: false
+  rarity: AR
+  rarity_unprinted: false
+  illustrator: Dsuke
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV6/045853_P_KODORA.jpg
+- language: en
+  set_code: TWM
+  set_mark: TWM
+  set_name: TWM
+  collector_number: '121'
+  collector_number_unprinted: false
+  rarity: C
+  rarity_unprinted: false
+  illustrator: takashi shiraishi
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TWM/TWM_121_R_EN_XS.png
+- language: en
+  set_code: TWM
+  set_mark: TWM
+  set_name: TWM
+  collector_number: '184'
+  collector_number_unprinted: false
+  rarity: AR
+  rarity_unprinted: false
+  illustrator: Dsuke
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TWM/TWM_184_R_EN_XS.png

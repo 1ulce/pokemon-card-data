@@ -1,5 +1,5 @@
 ---
-schema_version: 1
+schema_version: 2
 slug: charjabug
 name:
   ja: デンヂムシ
@@ -45,4 +45,83 @@ first_appearance:
   released_at: '2024-01-26'
   regulation_mark: H
   collector_number: '027'
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV5M/045244_P_DENJIMUSHI.jpg
+printings:
+- language: ja
+  set_code: SV5M
+  set_mark: SV5M
+  set_name: サイバージャッジ
+  collector_number: '027'
+  collector_number_unprinted: false
+  rarity: C
+  rarity_unprinted: false
+  illustrator: Misa Tsutsui
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV5M/045244_P_DENJIMUSHI.jpg
+- language: ja
+  set_code: SV5M
+  set_mark: SV5M
+  set_name: サイバージャッジ
+  collector_number: '076'
+  collector_number_unprinted: false
+  rarity: AR
+  rarity_unprinted: false
+  illustrator: Mina Nakai
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV5M/045548_P_DENJIMUSHI.jpg
+- language: ja
+  set_code:
+  set_mark: MC
+  set_name: スタートデッキ100 バトルコレクション
+  collector_number: '262'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: Misa Tsutsui
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
   image_url:
+- language: en
+  set_code: TEF
+  set_mark: TEF
+  set_name: TEF
+  collector_number: '55'
+  collector_number_unprinted: false
+  rarity: C
+  rarity_unprinted: false
+  illustrator: Misa Tsutsui
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TEF/TEF_055_R_EN_XS.png
+- language: en
+  set_code: TEF
+  set_mark: TEF
+  set_name: TEF
+  collector_number: '169'
+  collector_number_unprinted: false
+  rarity: AR
+  rarity_unprinted: false
+  illustrator: Mina Nakai
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TEF/TEF_169_R_EN_XS.png
+- language: en
+  set_code: ASC
+  set_mark: ASC
+  set_name: ASC
+  collector_number: '65'
+  collector_number_unprinted: false
+  rarity: C
+  rarity_unprinted: false
+  illustrator: Misa Tsutsui
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/ASC/ASC_065_R_EN_XS.png

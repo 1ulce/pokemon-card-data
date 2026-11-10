@@ -1,8 +1,6 @@
 ---
-schema_version: 1
+schema_version: 2
 slug: telepathic-psychic-energy
-external_link:
-  cabt_id: 19
 name:
   ja: テレパス超エネルギー
   en: Telepathic Psychic Energy
@@ -39,4 +37,31 @@ first_appearance:
   released_at: '2026-01-23'
   regulation_mark: J
   collector_number: '079'
-  image_url:
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/M3/049712_E_TEREPASUCHIXYOUENERUGI.jpg
+printings:
+- language: ja
+  set_code: M3
+  set_mark: M3
+  set_name: ムニキスゼロ
+  collector_number: '079'
+  collector_number_unprinted: false
+  rarity: R
+  rarity_unprinted: false
+  illustrator:
+  illustrator_unprinted: true
+  regulation_mark: J
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/M3/049712_E_TEREPASUCHIXYOUENERUGI.jpg
+- language: en
+  set_code: POR
+  set_mark: POR
+  set_name: POR
+  collector_number: '88'
+  collector_number_unprinted: false
+  rarity: R
+  rarity_unprinted: false
+  illustrator:
+  illustrator_unprinted: true
+  regulation_mark: J
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/POR/POR_088_R_EN_XS.png

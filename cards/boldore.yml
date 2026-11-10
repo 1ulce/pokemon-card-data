@@ -1,8 +1,6 @@
 ---
-schema_version: 1
+schema_version: 2
 slug: boldore
-external_link:
-  cabt_id: 600
 name:
   ja: ガントル
   en: Boldore
@@ -58,4 +56,57 @@ first_appearance:
   released_at: '2025-06-06'
   regulation_mark: I
   collector_number: '044'
-  image_url:
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV11W/047666_P_GANTORU.jpg
+printings:
+- language: ja
+  set_code: SV11W
+  set_mark: SV11W
+  set_name: ホワイトフレア
+  collector_number: '044'
+  collector_number_unprinted: false
+  rarity: C
+  rarity_unprinted: false
+  illustrator: Anesaki Dynamic
+  illustrator_unprinted: false
+  regulation_mark: I
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV11W/047666_P_GANTORU.jpg
+- language: ja
+  set_code: SV11W
+  set_mark: SV11W
+  set_name: ホワイトフレア
+  collector_number: '126'
+  collector_number_unprinted: false
+  rarity: AR
+  rarity_unprinted: false
+  illustrator: Krgc
+  illustrator_unprinted: false
+  regulation_mark: I
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV11W/048038_P_GANTORU.jpg
+- language: en
+  set_code: WHT
+  set_mark: WHT
+  set_name: WHT
+  collector_number: '47'
+  collector_number_unprinted: false
+  rarity: C
+  rarity_unprinted: false
+  illustrator: Anesaki Dynamic
+  illustrator_unprinted: false
+  regulation_mark: I
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/WHT/WHT_047_R_EN_XS.png
+- language: en
+  set_code: WHT
+  set_mark: WHT
+  set_name: WHT
+  collector_number: '128'
+  collector_number_unprinted: false
+  rarity: AR
+  rarity_unprinted: false
+  illustrator: Krgc
+  illustrator_unprinted: false
+  regulation_mark: I
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/WHT/WHT_128_R_EN_XS.png

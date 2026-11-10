@@ -1,5 +1,5 @@
 ---
-schema_version: 1
+schema_version: 2
 slug: slowpoke-3
 name:
   ja: ヤドン
@@ -31,15 +31,15 @@ abilities:
 - position: 0
   name:
     ja: まぬけがお
-    en:
+    en: Dopey Face
   effect_text:
     ja: このポケモンはこんらんにならない。
-    en:
+    en: This Pokémon can't be Confused.
 attacks:
 - position: 0
   name:
     ja: ちょうねんりき
-    en:
+    en: Super Psy Bolt
   cost:
   - Psychic
   - Psychic
@@ -53,4 +53,31 @@ first_appearance:
   released_at:
   regulation_mark: J
   collector_number: '50035'
-  image_url:
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/M-P/050035_P_YADON.jpg
+printings:
+- language: ja
+  set_code:
+  set_mark: M-P
+  set_name: ポケモンカードゲーム MEGA　プロモカードパック第3弾
+  collector_number: '50035'
+  collector_number_unprinted: true
+  rarity:
+  rarity_unprinted: true
+  illustrator: miki kudo
+  illustrator_unprinted: false
+  regulation_mark: J
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/M-P/050035_P_YADON.jpg
+- language: en
+  set_code: MEP
+  set_mark: MEP
+  set_name: MEP
+  collector_number: '86'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: miki kudo
+  illustrator_unprinted: false
+  regulation_mark: J
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/MEP/MEP_086_R_EN_XS.png

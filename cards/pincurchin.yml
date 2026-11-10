@@ -1,0 +1,101 @@
+---
+schema_version: 2
+slug: pincurchin
+name:
+  ja: バチンウニ
+  en: Pincurchin
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Lightning
+hp: 80
+retreat_cost: 1
+regulation_mark: J
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Fighting
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: エナジークラッシュ
+    en: Energy Crush
+  cost:
+  - Colorless
+  - Colorless
+  damage: 20×
+  effect_text:
+    ja: 相手のポケモン全員についているエネルギーの数×20ダメージ。
+    en: This attack does 20 damage for each Energy attached to all of your opponent's Pokémon.
+first_appearance:
+  set_name_ja: ストームエメラルダ
+  released_at: '2026-07-31'
+  regulation_mark: J
+  collector_number: '026'
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/M6/050364_P_BACHINUNI.jpg
+printings:
+- language: ja
+  set_code: M6
+  set_mark: M6
+  set_name: ストームエメラルダ
+  collector_number: '026'
+  collector_number_unprinted: false
+  rarity: C
+  rarity_unprinted: false
+  illustrator: OKUBO
+  illustrator_unprinted: false
+  regulation_mark: J
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/M6/050364_P_BACHINUNI.jpg
+- language: ja
+  set_code: M6
+  set_mark: M6
+  set_name: ストームエメラルダ
+  collector_number: '082'
+  collector_number_unprinted: false
+  rarity: AR
+  rarity_unprinted: false
+  illustrator: Tetsu Kayama
+  illustrator_unprinted: false
+  regulation_mark: J
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/M6/050523_P_BACHINUNI.jpg
+- language: en
+  set_code: DLR
+  set_mark: DLR
+  set_name: Mega Evolution—Delta Reign
+  collector_number: '36'
+  collector_number_unprinted: false
+  rarity: C
+  rarity_unprinted: false
+  illustrator:
+  illustrator_unprinted: false
+  regulation_mark: J
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DLR/DLR_036_R_EN_XS.png
+- language: en
+  set_code: DLR
+  set_mark: DLR
+  set_name: Mega Evolution—Delta Reign
+  collector_number: '109'
+  collector_number_unprinted: false
+  rarity: AR
+  rarity_unprinted: false
+  illustrator:
+  illustrator_unprinted: false
+  regulation_mark: J
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DLR/DLR_109_R_EN_XS.png

@@ -1,5 +1,5 @@
 ---
-schema_version: 1
+schema_version: 2
 slug: mega-chandelure-ex
 name:
   ja: メガシャンデラex
@@ -54,4 +54,83 @@ first_appearance:
   released_at: '2026-05-22'
   regulation_mark: J
   collector_number: '036'
-  image_url:
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/M5/050255_P_MSHIXYANDERAEX.jpg
+printings:
+- language: ja
+  set_code: M5
+  set_mark: M5
+  set_name: アビスアイ
+  collector_number: '036'
+  collector_number_unprinted: false
+  rarity: RR
+  rarity_unprinted: false
+  illustrator: 5ban Graphics
+  illustrator_unprinted: false
+  regulation_mark: J
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/M5/050255_P_MSHIXYANDERAEX.jpg
+- language: ja
+  set_code: M5
+  set_mark: M5
+  set_name: アビスアイ
+  collector_number: '097'
+  collector_number_unprinted: false
+  rarity: SR
+  rarity_unprinted: false
+  illustrator: 5ban Graphics
+  illustrator_unprinted: false
+  regulation_mark: J
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/M5/050317_P_MSHIXYANDERAEX.jpg
+- language: ja
+  set_code: M5
+  set_mark: M5
+  set_name: アビスアイ
+  collector_number: '113'
+  collector_number_unprinted: false
+  rarity: SAR
+  rarity_unprinted: false
+  illustrator: REND
+  illustrator_unprinted: false
+  regulation_mark: J
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/M5/050333_P_MSHIXYANDERAEX.jpg
+- language: en
+  set_code: PBL
+  set_mark: PBL
+  set_name: PBL
+  collector_number: '38'
+  collector_number_unprinted: false
+  rarity: RR
+  rarity_unprinted: false
+  illustrator: 5ban Graphics
+  illustrator_unprinted: false
+  regulation_mark: J
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PBL/PBL_038_R_EN_XS.png
+- language: en
+  set_code: PBL
+  set_mark: PBL
+  set_name: PBL
+  collector_number: '99'
+  collector_number_unprinted: false
+  rarity: SR
+  rarity_unprinted: false
+  illustrator: 5ban Graphics
+  illustrator_unprinted: false
+  regulation_mark: J
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PBL/PBL_099_R_EN_XS.png
+- language: en
+  set_code: PBL
+  set_mark: PBL
+  set_name: PBL
+  collector_number: '115'
+  collector_number_unprinted: false
+  rarity: SAR
+  rarity_unprinted: false
+  illustrator: REND
+  illustrator_unprinted: false
+  regulation_mark: J
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PBL/PBL_115_R_EN_XS.png

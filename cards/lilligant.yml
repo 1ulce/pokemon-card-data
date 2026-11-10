@@ -1,8 +1,6 @@
 ---
-schema_version: 1
+schema_version: 2
 slug: lilligant
-external_link:
-  cabt_id: 322
 name:
   ja: ドレディア
   en: Lilligant
@@ -55,4 +53,31 @@ first_appearance:
   released_at: '2024-11-22'
   regulation_mark: H
   collector_number: '008'
-  image_url:
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SVM/046462_P_DOREDEIA.jpg
+printings:
+- language: ja
+  set_code:
+  set_mark: SVM
+  set_name: スタートデッキGenerations レシラムex・モロバレルex
+  collector_number: '008'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: Jiro Sasumo
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SVM/046462_P_DOREDEIA.jpg
+- language: en
+  set_code: JTG
+  set_mark: JTG
+  set_name: JTG
+  collector_number: '7'
+  collector_number_unprinted: false
+  rarity: C
+  rarity_unprinted: false
+  illustrator: Jiro Sasumo
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/JTG/JTG_007_R_EN_XS.png

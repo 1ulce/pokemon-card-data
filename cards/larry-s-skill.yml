@@ -1,8 +1,6 @@
 ---
-schema_version: 1
+schema_version: 2
 slug: larry-s-skill
-external_link:
-  cabt_id: 1206
 name:
   ja: アオキの手際
   en: Larry's Skill
@@ -37,3 +35,69 @@ first_appearance:
   regulation_mark: H
   collector_number: '162'
   image_url:
+printings:
+- language: ja
+  set_code: SV8a
+  set_mark: SV8a
+  set_name: テラスタルフェスex
+  collector_number: '162'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: hncl
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code: SV8a
+  set_mark: SV8a
+  set_name: テラスタルフェスex
+  collector_number: '188'
+  collector_number_unprinted: false
+  rarity: SR
+  rarity_unprinted: false
+  illustrator: hncl
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV8a/047109_T_AOKINOTEGIWA.jpg
+- language: ja
+  set_code:
+  set_mark: MC
+  set_name: スタートデッキ100 バトルコレクション
+  collector_number: '695'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: hncl
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/MC/049411_T_AOKINOTEGIWA.jpg
+- language: en
+  set_code: PRE
+  set_mark: PRE
+  set_name: PRE
+  collector_number: '115'
+  collector_number_unprinted: false
+  rarity: C
+  rarity_unprinted: false
+  illustrator: hncl
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PRE/PRE_115_R_EN_XS.png
+- language: en
+  set_code: PRE
+  set_mark: PRE
+  set_name: PRE
+  collector_number: '139'
+  collector_number_unprinted: false
+  rarity: SR
+  rarity_unprinted: false
+  illustrator: hncl
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PRE/PRE_139_R_EN_XS.png

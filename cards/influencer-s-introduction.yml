@@ -1,5 +1,5 @@
 ---
-schema_version: 1
+schema_version: 2
 slug: influencer-s-introduction
 name:
   ja: インフルエンサーの紹介
@@ -34,4 +34,18 @@ first_appearance:
   released_at: '2025-12-19'
   regulation_mark: J
   collector_number: '019'
+  image_url:
+printings:
+- language: ja
+  set_code:
+  set_mark: MP1
+  set_name: スタートデッキ100 バトルコレクション コロちゃおVer.
+  collector_number: '019'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: Shimaris Yukichi
+  illustrator_unprinted: false
+  regulation_mark: J
+  regulation_mark_unprinted: false
   image_url:

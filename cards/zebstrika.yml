@@ -1,5 +1,5 @@
 ---
-schema_version: 1
+schema_version: 2
 slug: zebstrika
 name:
   ja: ゼブライカ
@@ -55,4 +55,31 @@ first_appearance:
   released_at:
   regulation_mark: H
   collector_number: '47166'
-  image_url:
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV-P/047166_P_ZEBURAIKA.jpg
+printings:
+- language: ja
+  set_code:
+  set_mark: SV-P
+  set_name: コロコロイチバン! 2025年1月号
+  collector_number: '47166'
+  collector_number_unprinted: true
+  rarity:
+  rarity_unprinted: true
+  illustrator: Krgc
+  illustrator_unprinted: false
+  regulation_mark:
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV-P/047166_P_ZEBURAIKA.jpg
+- language: en
+  set_code: SVP
+  set_mark: SVP
+  set_name: SVP
+  collector_number: '201'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: Krgc
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVP/SVP_201_R_EN_XS.png

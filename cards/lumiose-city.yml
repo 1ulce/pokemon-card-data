@@ -1,8 +1,6 @@
 ---
-schema_version: 1
+schema_version: 2
 slug: lumiose-city
-external_link:
-  cabt_id: 1267
 name:
   ja: ミアレシティ
   en: Lumiose City
@@ -36,4 +34,57 @@ first_appearance:
   released_at: '2026-01-23'
   regulation_mark: J
   collector_number: '077'
-  image_url:
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/M3/049710_T_MIARESHITEI.jpg
+printings:
+- language: ja
+  set_code: M3
+  set_mark: M3
+  set_name: ムニキスゼロ
+  collector_number: '077'
+  collector_number_unprinted: false
+  rarity: U
+  rarity_unprinted: false
+  illustrator: MARINA Chikazawa
+  illustrator_unprinted: false
+  regulation_mark: J
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/M3/049710_T_MIARESHITEI.jpg
+- language: ja
+  set_code: M3
+  set_mark: M3
+  set_name: ムニキスゼロ
+  collector_number: '110'
+  collector_number_unprinted: false
+  rarity: SR
+  rarity_unprinted: false
+  illustrator: MARINA Chikazawa
+  illustrator_unprinted: false
+  regulation_mark: J
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/M3/050077_T_MIARESHITEI.jpg
+- language: en
+  set_code: POR
+  set_mark: POR
+  set_name: POR
+  collector_number: '77'
+  collector_number_unprinted: false
+  rarity: U
+  rarity_unprinted: false
+  illustrator: MARINA Chikazawa
+  illustrator_unprinted: false
+  regulation_mark: J
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/POR/POR_077_R_EN_XS.png
+- language: en
+  set_code: POR
+  set_mark: POR
+  set_name: POR
+  collector_number: '111'
+  collector_number_unprinted: false
+  rarity: SR
+  rarity_unprinted: false
+  illustrator: MARINA Chikazawa
+  illustrator_unprinted: false
+  regulation_mark: J
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/POR/POR_111_R_EN_XS.png

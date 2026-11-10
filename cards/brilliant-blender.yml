@@ -1,8 +1,6 @@
 ---
-schema_version: 1
+schema_version: 2
 slug: brilliant-blender
-external_link:
-  cabt_id: 1128
 name:
   ja: パーフェクトミキサー
   en: Brilliant Blender
@@ -38,3 +36,30 @@ first_appearance:
   regulation_mark: H
   collector_number: '014'
   image_url:
+printings:
+- language: ja
+  set_code:
+  set_mark: SVLS
+  set_name: スターターセット テラスタイプ：ステラ ソウブレイズex
+  collector_number: '014'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: Toyste Beach
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url:
+- language: en
+  set_code: SSP
+  set_mark: SSP
+  set_name: SSP
+  collector_number: '164'
+  collector_number_unprinted: false
+  rarity: SR
+  rarity_unprinted: false
+  illustrator: Toyste Beach
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SSP/SSP_164_R_EN_XS.png

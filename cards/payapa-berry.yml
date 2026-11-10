@@ -1,8 +1,6 @@
 ---
-schema_version: 1
+schema_version: 2
 slug: payapa-berry
-external_link:
-  cabt_id: 1164
 name:
   ja: ウタンのみ
   en: Payapa Berry
@@ -36,4 +34,44 @@ first_appearance:
   released_at: '2024-07-19'
   regulation_mark: H
   collector_number: '092'
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV7/046031_T_UTANNOMI.jpg
+printings:
+- language: ja
+  set_code: SV7
+  set_mark: SV7
+  set_name: ステラミラクル
+  collector_number: '092'
+  collector_number_unprinted: false
+  rarity: U
+  rarity_unprinted: false
+  illustrator: Studio Bora Inc.
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV7/046031_T_UTANNOMI.jpg
+- language: ja
+  set_code:
+  set_mark: MC
+  set_name: スタートデッキ100 バトルコレクション
+  collector_number: '677'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: Studio Bora Inc.
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
   image_url:
+- language: en
+  set_code: SCR
+  set_mark: SCR
+  set_name: SCR
+  collector_number: '141'
+  collector_number_unprinted: false
+  rarity: U
+  rarity_unprinted: false
+  illustrator: Studio Bora Inc.
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SCR/SCR_141_R_EN_XS.png

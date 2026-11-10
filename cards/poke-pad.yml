@@ -1,8 +1,6 @@
 ---
-schema_version: 1
+schema_version: 2
 slug: poke-pad
-external_link:
-  cabt_id: 1152
 name:
   ja: ポケパッド
   en: Poké Pad
@@ -37,3 +35,199 @@ first_appearance:
   regulation_mark: J
   collector_number: '662'
   image_url:
+printings:
+- language: ja
+  set_code:
+  set_mark: MP1
+  set_name: スタートデッキ100 バトルコレクション コロちゃおVer.
+  collector_number: '015'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: Studio Bora Inc.
+  illustrator_unprinted: false
+  regulation_mark: J
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: MC
+  set_name: スタートデッキ100 バトルコレクション
+  collector_number: '662'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: Studio Bora Inc.
+  illustrator_unprinted: false
+  regulation_mark: J
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code: M3
+  set_mark: M3
+  set_name: ムニキスゼロ
+  collector_number: '070'
+  collector_number_unprinted: false
+  rarity: U
+  rarity_unprinted: false
+  illustrator: Studio Bora Inc.
+  illustrator_unprinted: false
+  regulation_mark: J
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/M3/049703_T_POKEPADDO.jpg
+- language: ja
+  set_code: M3
+  set_mark: M3
+  set_name: ムニキスゼロ
+  collector_number: '103'
+  collector_number_unprinted: false
+  rarity: SR
+  rarity_unprinted: false
+  illustrator: Studio Bora Inc.
+  illustrator_unprinted: false
+  regulation_mark: J
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/M3/050070_T_POKEPADDO.jpg
+- language: ja
+  set_code:
+  set_mark: MEE
+  set_name: スターターセットex イーブイex
+  collector_number: '013'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: Studio Bora Inc.
+  illustrator_unprinted: false
+  regulation_mark: J
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: MF
+  set_name: 30th CELEBRATION プレミアムデッキセット エーフィ・ブラッキー
+  collector_number: '031'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: Studio Bora Inc.
+  illustrator_unprinted: false
+  regulation_mark: J
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code: M6a
+  set_mark: M6a
+  set_name: 拡張パック 30th CELEBRATION
+  collector_number: '102'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: Yuka Morii
+  illustrator_unprinted: false
+  regulation_mark: J
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: MEM
+  set_name: スターターセットex ニャオハ＆マスカーニャex
+  collector_number: '012'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: Studio Bora Inc.
+  illustrator_unprinted: false
+  regulation_mark: J
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: MEZ
+  set_name: スターターセットex ゾロア＆ゾロアークex
+  collector_number: '013'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: Studio Bora Inc.
+  illustrator_unprinted: false
+  regulation_mark: J
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: M-P
+  set_name: ポケモンカードゲーム MEGA　プロモカードパック第4弾
+  collector_number: '50171'
+  collector_number_unprinted: true
+  rarity:
+  rarity_unprinted: true
+  illustrator: Studio Bora Inc.
+  illustrator_unprinted: false
+  regulation_mark: J
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: M-P
+  set_name: ポケモンカードゲーム メガエルレイドex SARゲットバトル
+  collector_number: '50486'
+  collector_number_unprinted: true
+  rarity:
+  rarity_unprinted: true
+  illustrator: Studio Bora Inc.
+  illustrator_unprinted: false
+  regulation_mark: J
+  regulation_mark_unprinted: false
+  image_url:
+- language: en
+  set_code: ASC
+  set_mark: ASC
+  set_name: ASC
+  collector_number: '198'
+  collector_number_unprinted: false
+  rarity: C
+  rarity_unprinted: false
+  illustrator: Studio Bora Inc.
+  illustrator_unprinted: false
+  regulation_mark: J
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/ASC/ASC_198_R_EN_XS.png
+- language: en
+  set_code: POR
+  set_mark: POR
+  set_name: POR
+  collector_number: '81'
+  collector_number_unprinted: false
+  rarity: U
+  rarity_unprinted: false
+  illustrator: Studio Bora Inc.
+  illustrator_unprinted: false
+  regulation_mark: J
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/POR/POR_081_R_EN_XS.png
+- language: en
+  set_code: POR
+  set_mark: POR
+  set_name: POR
+  collector_number: '113'
+  collector_number_unprinted: false
+  rarity: SR
+  rarity_unprinted: false
+  illustrator: Studio Bora Inc.
+  illustrator_unprinted: false
+  regulation_mark: J
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/POR/POR_113_R_EN_XS.png
+- language: en
+  set_code: 30C
+  set_mark: 30C
+  set_name: 30C
+  collector_number: '126'
+  collector_number_unprinted: false
+  rarity: C
+  rarity_unprinted: false
+  illustrator: Yuka Morii
+  illustrator_unprinted: false
+  regulation_mark: J
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/30C/30C_126_R_EN_XS.png

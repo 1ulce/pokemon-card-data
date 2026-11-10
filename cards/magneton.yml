@@ -1,8 +1,6 @@
 ---
-schema_version: 1
+schema_version: 2
 slug: magneton
-external_link:
-  cabt_id: 211
 name:
   ja: レアコイル
   en: Magneton
@@ -54,4 +52,109 @@ first_appearance:
   released_at: '2024-10-18'
   regulation_mark: H
   collector_number: '035'
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV8/046375_P_REAKOIRU.jpg
+printings:
+- language: ja
+  set_code: SV8
+  set_mark: SV8
+  set_name: 超電ブレイカー
+  collector_number: '035'
+  collector_number_unprinted: false
+  rarity: U
+  rarity_unprinted: false
+  illustrator: Nisota Niso
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV8/046375_P_REAKOIRU.jpg
+- language: ja
+  set_code: SV8
+  set_mark: SV8
+  set_name: 超電ブレイカー
+  collector_number: '112'
+  collector_number_unprinted: false
+  rarity: AR
+  rarity_unprinted: false
+  illustrator: Shinji Kanda
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
   image_url:
+- language: ja
+  set_code: M2a
+  set_mark: M2a
+  set_name: MEGAドリームex
+  collector_number: '046'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: Shinya Mizuno
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: MC
+  set_name: スタートデッキ100 バトルコレクション
+  collector_number: '232'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: Nisota Niso
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url:
+- language: en
+  set_code: SSP
+  set_mark: SSP
+  set_name: SSP
+  collector_number: '59'
+  collector_number_unprinted: false
+  rarity: U
+  rarity_unprinted: false
+  illustrator: Nisota Niso
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SSP/SSP_059_R_EN_XS.png
+- language: en
+  set_code: SVALT
+  set_mark: SVALT
+  set_name: SVALT
+  collector_number: '139'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: false
+  illustrator: Shinji Kanda
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVP/SVP_159_R_EN_XS.png
+- language: en
+  set_code: SVP
+  set_mark: SVP
+  set_name: SVP
+  collector_number: '153'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: Shinya Mizuno
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVP/SVP_153_R_EN_XS.png
+- language: en
+  set_code: SVP
+  set_mark: SVP
+  set_name: SVP
+  collector_number: '159'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: Shinji Kanda
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVP/SVP_159_R_EN_XS.png

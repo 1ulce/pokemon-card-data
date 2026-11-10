@@ -1,5 +1,5 @@
 ---
-schema_version: 1
+schema_version: 2
 slug: dolliv-2
 name:
   ja: オリーニョ
@@ -10,7 +10,7 @@ card_subtype: 1進化
 energy_type: Grass
 hp: 90
 retreat_cost: 1
-regulation_mark:
+regulation_mark: J
 meta_tags: []
 evolves_from:
   ja: ミニーブ
@@ -32,7 +32,7 @@ attacks:
 - position: 0
   name:
     ja: リーフステップ
-    en:
+    en: Leaf Step
   cost:
   - Grass
   damage: '40'
@@ -42,6 +42,33 @@ attacks:
 first_appearance:
   set_name_ja: スターターセットex ニャオハ＆マスカーニャex
   released_at:
-  regulation_mark:
+  regulation_mark: J
   collector_number: '007'
-  image_url:
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/MEM/050458_P_ORINIXYO.jpg
+printings:
+- language: ja
+  set_code:
+  set_mark: MEM
+  set_name: スターターセットex ニャオハ＆マスカーニャex
+  collector_number: '007'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: Eri Kamei
+  illustrator_unprinted: false
+  regulation_mark: J
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/MEM/050458_P_ORINIXYO.jpg
+- language: en
+  set_code: DLR
+  set_mark: DLR
+  set_name: Mega Evolution—Delta Reign
+  collector_number: '16'
+  collector_number_unprinted: false
+  rarity: C
+  rarity_unprinted: false
+  illustrator:
+  illustrator_unprinted: false
+  regulation_mark: J
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DLR/DLR_016_R_EN_XS.png

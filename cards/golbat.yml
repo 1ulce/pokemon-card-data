@@ -1,5 +1,5 @@
 ---
-schema_version: 1
+schema_version: 2
 slug: golbat
 name:
   ja: ゴルバット
@@ -55,4 +55,31 @@ first_appearance:
   released_at: '2024-06-07'
   regulation_mark: H
   collector_number: '028'
-  image_url:
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV6a/045903_P_GORUBATTO.jpg
+printings:
+- language: ja
+  set_code: SV6a
+  set_mark: SV6a
+  set_name: ナイトワンダラー
+  collector_number: '028'
+  collector_number_unprinted: false
+  rarity: C
+  rarity_unprinted: false
+  illustrator: Teeziro
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV6a/045903_P_GORUBATTO.jpg
+- language: en
+  set_code: SFA
+  set_mark: SFA
+  set_name: SFA
+  collector_number: '28'
+  collector_number_unprinted: false
+  rarity: C
+  rarity_unprinted: false
+  illustrator: Teeziro
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SFA/SFA_028_R_EN_XS.png

@@ -1,5 +1,5 @@
 ---
-schema_version: 1
+schema_version: 2
 slug: drowzee
 name:
   ja: スリープ
@@ -44,4 +44,31 @@ first_appearance:
   released_at: '2024-06-07'
   regulation_mark: H
   collector_number: '016'
-  image_url:
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV6a/045891_P_SURIPU.jpg
+printings:
+- language: ja
+  set_code: SV6a
+  set_mark: SV6a
+  set_name: ナイトワンダラー
+  collector_number: '016'
+  collector_number_unprinted: false
+  rarity: C
+  rarity_unprinted: false
+  illustrator: OKUBO
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV6a/045891_P_SURIPU.jpg
+- language: en
+  set_code: SFA
+  set_mark: SFA
+  set_name: SFA
+  collector_number: '16'
+  collector_number_unprinted: false
+  rarity: C
+  rarity_unprinted: false
+  illustrator: OKUBO
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SFA/SFA_016_R_EN_XS.png

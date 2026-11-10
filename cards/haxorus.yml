@@ -1,8 +1,6 @@
 ---
-schema_version: 1
+schema_version: 2
 slug: haxorus
-external_link:
-  cabt_id: 995
 name:
   ja: オノノクス
   en: Haxorus
@@ -57,4 +55,44 @@ first_appearance:
   released_at: '2024-06-07'
   regulation_mark: H
   collector_number: '046'
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV6a/045921_P_ONONOKUSU.jpg
+printings:
+- language: ja
+  set_code: SV6a
+  set_mark: SV6a
+  set_name: ナイトワンダラー
+  collector_number: '046'
+  collector_number_unprinted: false
+  rarity: R
+  rarity_unprinted: false
+  illustrator: Tsuyoshi Nagano
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV6a/045921_P_ONONOKUSU.jpg
+- language: ja
+  set_code:
+  set_mark: MC
+  set_name: スタートデッキ100 バトルコレクション
+  collector_number: '543'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: Tsuyoshi Nagano
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
   image_url:
+- language: en
+  set_code: SFA
+  set_mark: SFA
+  set_name: SFA
+  collector_number: '46'
+  collector_number_unprinted: false
+  rarity: R
+  rarity_unprinted: false
+  illustrator: Tsuyoshi Nagano
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SFA/SFA_046_R_EN_XS.png

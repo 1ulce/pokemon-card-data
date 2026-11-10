@@ -1,5 +1,5 @@
 ---
-schema_version: 1
+schema_version: 2
 slug: houndstone-ex
 name:
   ja: ハカドッグex
@@ -48,3 +48,56 @@ first_appearance:
   regulation_mark: H
   collector_number: '028'
   image_url:
+printings:
+- language: ja
+  set_code:
+  set_mark: SVI
+  set_name: バトルアカデミー
+  collector_number: '028'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: takuyoa
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: MC
+  set_name: スタートデッキ100 バトルコレクション
+  collector_number: '351'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: takuyoa
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/MC/049067_P_HAKADOGGUEX.jpg
+- language: ja
+  set_code:
+  set_mark: SVI
+  set_name: いつでもどこでも バトルアカデミー
+  collector_number: '028'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: takuyoa
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url:
+- language: en
+  set_code: SVP
+  set_mark: SVP
+  set_name: SVP
+  collector_number: '162'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: takuyoa
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVP/SVP_162_R_EN_XS.png

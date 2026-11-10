@@ -1,8 +1,6 @@
 ---
-schema_version: 1
+schema_version: 2
 slug: mega-kangaskhan-ex
-external_link:
-  cabt_id: 756
 name:
   ja: メガガルーラex
   en: Mega Kangaskhan ex
@@ -57,4 +55,109 @@ first_appearance:
   released_at: '2025-08-01'
   regulation_mark: I
   collector_number: '051'
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/M1S/047847_P_MGARURAEX.jpg
+printings:
+- language: ja
+  set_code: M1S
+  set_mark: M1S
+  set_name: メガシンフォニア
+  collector_number: '051'
+  collector_number_unprinted: false
+  rarity: RR
+  rarity_unprinted: false
+  illustrator: 5ban Graphics
+  illustrator_unprinted: false
+  regulation_mark: I
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/M1S/047847_P_MGARURAEX.jpg
+- language: ja
+  set_code: M1S
+  set_mark: M1S
+  set_name: メガシンフォニア
+  collector_number: '080'
+  collector_number_unprinted: false
+  rarity: SR
+  rarity_unprinted: false
+  illustrator: 5ban Graphics
+  illustrator_unprinted: false
+  regulation_mark: I
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/M1S/048466_P_MGARURAEX.jpg
+- language: ja
+  set_code: M1S
+  set_mark: M1S
+  set_name: メガシンフォニア
+  collector_number: '089'
+  collector_number_unprinted: false
+  rarity: SAR
+  rarity_unprinted: false
+  illustrator: GOTO minori
+  illustrator_unprinted: false
+  regulation_mark: I
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/M1S/048475_P_MGARURAEX.jpg
+- language: ja
+  set_code:
+  set_mark: M-P
+  set_name: ジムプロモキャンペーン2026上半期
+  collector_number: '50172'
+  collector_number_unprinted: true
+  rarity:
+  rarity_unprinted: true
+  illustrator: 5ban Graphics
+  illustrator_unprinted: false
+  regulation_mark: I
+  regulation_mark_unprinted: false
   image_url:
+- language: en
+  set_code: MEG
+  set_mark: MEG
+  set_name: MEG
+  collector_number: '104'
+  collector_number_unprinted: false
+  rarity: RR
+  rarity_unprinted: false
+  illustrator: 5ban Graphics
+  illustrator_unprinted: false
+  regulation_mark: I
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/MEG/MEG_104_R_EN_XS.png
+- language: en
+  set_code: MEG
+  set_mark: MEG
+  set_name: MEG
+  collector_number: '164'
+  collector_number_unprinted: false
+  rarity: SR
+  rarity_unprinted: false
+  illustrator: 5ban Graphics
+  illustrator_unprinted: false
+  regulation_mark: I
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/MEG/MEG_164_R_EN_XS.png
+- language: en
+  set_code: MEG
+  set_mark: MEG
+  set_name: MEG
+  collector_number: '182'
+  collector_number_unprinted: false
+  rarity: SAR
+  rarity_unprinted: false
+  illustrator: GOTO minori
+  illustrator_unprinted: false
+  regulation_mark: I
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/MEG/MEG_182_R_EN_XS.png
+- language: en
+  set_code: MEP
+  set_mark: MEP
+  set_name: MEP
+  collector_number: '25'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: 5ban Graphics
+  illustrator_unprinted: false
+  regulation_mark: I
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/MEP/MEP_025_R_EN_XS.png

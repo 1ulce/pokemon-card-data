@@ -1,5 +1,5 @@
 ---
-schema_version: 1
+schema_version: 2
 slug: mr-mime
 name:
   ja: バリヤード
@@ -54,4 +54,31 @@ first_appearance:
   released_at: '2024-01-26'
   regulation_mark: H
   collector_number: '031'
-  image_url:
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV5M/045248_P_BARIYADO.jpg
+printings:
+- language: ja
+  set_code: SV5M
+  set_mark: SV5M
+  set_name: サイバージャッジ
+  collector_number: '031'
+  collector_number_unprinted: false
+  rarity: C
+  rarity_unprinted: false
+  illustrator: Nelnal
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV5M/045248_P_BARIYADO.jpg
+- language: en
+  set_code: TEF
+  set_mark: TEF
+  set_name: TEF
+  collector_number: '63'
+  collector_number_unprinted: false
+  rarity: C
+  rarity_unprinted: false
+  illustrator: Nelnal
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TEF/TEF_063_R_EN_XS.png

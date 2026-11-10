@@ -1,5 +1,5 @@
 ---
-schema_version: 1
+schema_version: 2
 slug: gladion-s-final-battle
 name:
   ja: グラジオの決戦
@@ -37,4 +37,83 @@ first_appearance:
   released_at: '2026-05-22'
   regulation_mark: J
   collector_number: '076'
-  image_url:
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/M5/050295_T_GURAJIONOKESSEN.jpg
+printings:
+- language: ja
+  set_code: M5
+  set_mark: M5
+  set_name: アビスアイ
+  collector_number: '076'
+  collector_number_unprinted: false
+  rarity: U
+  rarity_unprinted: false
+  illustrator: akagi
+  illustrator_unprinted: false
+  regulation_mark: J
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/M5/050295_T_GURAJIONOKESSEN.jpg
+- language: ja
+  set_code: M5
+  set_mark: M5
+  set_name: アビスアイ
+  collector_number: '109'
+  collector_number_unprinted: false
+  rarity: SR
+  rarity_unprinted: false
+  illustrator: akagi
+  illustrator_unprinted: false
+  regulation_mark: J
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/M5/050329_T_GURAJIONOKESSEN.jpg
+- language: ja
+  set_code: M5
+  set_mark: M5
+  set_name: アビスアイ
+  collector_number: '116'
+  collector_number_unprinted: false
+  rarity: SAR
+  rarity_unprinted: false
+  illustrator: DOM
+  illustrator_unprinted: false
+  regulation_mark: J
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/M5/050336_T_GURAJIONOKESSEN.jpg
+- language: en
+  set_code: PBL
+  set_mark: PBL
+  set_name: PBL
+  collector_number: '77'
+  collector_number_unprinted: false
+  rarity: U
+  rarity_unprinted: false
+  illustrator: akagi
+  illustrator_unprinted: false
+  regulation_mark: J
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PBL/PBL_077_R_EN_XS.png
+- language: en
+  set_code: PBL
+  set_mark: PBL
+  set_name: PBL
+  collector_number: '108'
+  collector_number_unprinted: false
+  rarity: SR
+  rarity_unprinted: false
+  illustrator: akagi
+  illustrator_unprinted: false
+  regulation_mark: J
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PBL/PBL_108_R_EN_XS.png
+- language: en
+  set_code: PBL
+  set_mark: PBL
+  set_name: PBL
+  collector_number: '118'
+  collector_number_unprinted: false
+  rarity: SAR
+  rarity_unprinted: false
+  illustrator: DOM
+  illustrator_unprinted: false
+  regulation_mark: J
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PBL/PBL_118_R_EN_XS.png

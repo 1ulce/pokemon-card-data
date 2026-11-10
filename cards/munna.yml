@@ -1,8 +1,6 @@
 ---
-schema_version: 1
+schema_version: 2
 slug: munna
-external_link:
-  cabt_id: 516
 name:
   ja: ムンナ
   en: Munna
@@ -56,4 +54,57 @@ first_appearance:
   released_at: '2025-06-06'
   regulation_mark: I
   collector_number: '038'
-  image_url:
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV11B/047574_P_MUNNA.jpg
+printings:
+- language: ja
+  set_code: SV11B
+  set_mark: SV11B
+  set_name: ブラックボルト
+  collector_number: '038'
+  collector_number_unprinted: false
+  rarity: C
+  rarity_unprinted: false
+  illustrator: Eri Kamei
+  illustrator_unprinted: false
+  regulation_mark: I
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV11B/047574_P_MUNNA.jpg
+- language: ja
+  set_code: SV11B
+  set_mark: SV11B
+  set_name: ブラックボルト
+  collector_number: '121'
+  collector_number_unprinted: false
+  rarity: AR
+  rarity_unprinted: false
+  illustrator: miki kudo
+  illustrator_unprinted: false
+  regulation_mark: I
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV11B/047945_P_MUNNA.jpg
+- language: en
+  set_code: BLK
+  set_mark: BLK
+  set_name: BLK
+  collector_number: '35'
+  collector_number_unprinted: false
+  rarity: C
+  rarity_unprinted: false
+  illustrator: Eri Kamei
+  illustrator_unprinted: false
+  regulation_mark: I
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BLK/BLK_035_R_EN_XS.png
+- language: en
+  set_code: BLK
+  set_mark: BLK
+  set_name: BLK
+  collector_number: '116'
+  collector_number_unprinted: false
+  rarity: AR
+  rarity_unprinted: false
+  illustrator: miki kudo
+  illustrator_unprinted: false
+  regulation_mark: I
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BLK/BLK_116_R_EN_XS.png

@@ -1,0 +1,116 @@
+---
+schema_version: 2
+slug: zinnia-s-trust
+name:
+  ja: ヒガナの信頼
+  en: Zinnia's Trust
+  prefix: Zinnia's
+card_type: Trainer
+card_subtype: Supporter
+energy_type:
+hp:
+retreat_cost:
+regulation_mark: J
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type:
+  value:
+resistance:
+  type:
+  value:
+body_text:
+  ja: 自分のバトルポケモンをベンチポケモンと入れ替える。その後、ベンチに入れ替えたポケモンについているエネルギーを1個選び、新しいバトルポケモンにつけ替える。
+  en: Switch your Active Pokémon with 1 of your Benched Pokémon. If you do, move an Energy from the Pokémon you moved to your Bench to the new Active Pokémon.
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks: []
+first_appearance:
+  set_name_ja: ストームエメラルダ
+  released_at: '2026-07-31'
+  regulation_mark: J
+  collector_number: '069'
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/M6/050407_T_HIGANANOSHINRAI.jpg
+printings:
+- language: ja
+  set_code: M6
+  set_mark: M6
+  set_name: ストームエメラルダ
+  collector_number: '069'
+  collector_number_unprinted: false
+  rarity: U
+  rarity_unprinted: false
+  illustrator: GIDORA
+  illustrator_unprinted: false
+  regulation_mark: J
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/M6/050407_T_HIGANANOSHINRAI.jpg
+- language: ja
+  set_code: M6
+  set_mark: M6
+  set_name: ストームエメラルダ
+  collector_number: '102'
+  collector_number_unprinted: false
+  rarity: SR
+  rarity_unprinted: false
+  illustrator: GIDORA
+  illustrator_unprinted: false
+  regulation_mark: J
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/M6/050543_T_HIGANANOSHINRAI.jpg
+- language: ja
+  set_code: M6
+  set_mark: M6
+  set_name: ストームエメラルダ
+  collector_number: '112'
+  collector_number_unprinted: false
+  rarity: SAR
+  rarity_unprinted: false
+  illustrator: Teeziro
+  illustrator_unprinted: false
+  regulation_mark: J
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/M6/050553_T_HIGANANOSHINRAI.jpg
+- language: en
+  set_code: DLR
+  set_mark: DLR
+  set_name: Mega Evolution—Delta Reign
+  collector_number: '103'
+  collector_number_unprinted: false
+  rarity: U
+  rarity_unprinted: false
+  illustrator:
+  illustrator_unprinted: false
+  regulation_mark: J
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DLR/DLR_103_R_EN_XS.png
+- language: en
+  set_code: DLR
+  set_mark: DLR
+  set_name: Mega Evolution—Delta Reign
+  collector_number: '131'
+  collector_number_unprinted: false
+  rarity: SR
+  rarity_unprinted: false
+  illustrator:
+  illustrator_unprinted: false
+  regulation_mark: J
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DLR/DLR_131_R_EN_XS.png
+- language: en
+  set_code: DLR
+  set_mark: DLR
+  set_name: Mega Evolution—Delta Reign
+  collector_number: '140'
+  collector_number_unprinted: false
+  rarity: SAR
+  rarity_unprinted: false
+  illustrator:
+  illustrator_unprinted: false
+  regulation_mark: J
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DLR/DLR_140_R_EN_XS.png

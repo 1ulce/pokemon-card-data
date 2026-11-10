@@ -1,0 +1,150 @@
+---
+schema_version: 2
+slug: mega-rayquaza-ex
+name:
+  ja: メガレックウザex
+  en: Mega Rayquaza ex
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Colorless
+hp: 280
+retreat_cost: 2
+regulation_mark: J
+meta_tags:
+- ex
+- mega
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Lightning
+  value: "×2"
+resistance:
+  type: Fighting
+  value: "-30"
+body_text:
+  ja:
+  en:
+rules_text:
+  ja: メガシンカexがきぜつしたとき、相手はサイドを3枚とる。
+  en:
+abilities:
+- position: 0
+  name:
+    ja: はしゃのほうこう
+    en: Ruler's Roar
+  effect_text:
+    ja: 自分の番に、このカードを手札からベンチに出したとき、1回使える。自分の山札を上から4枚見て、その中から基本エネルギーを1枚選び、このポケモンにつける。残りのカードはウラにして切り、山札の下にもどす。
+    en: Once during your turn, when you play this Pokémon from your hand onto your Bench, you may use this Ability. Look at the top 4 cards of your deck and attach a Basic Energy card you find there to this Pokémon. Shuffle the other cards and put them on the bottom of your deck.
+attacks:
+- position: 0
+  name:
+    ja: ストームエメラルダ
+    en: Storm Emerald
+  cost:
+  - Fire
+  - Lightning
+  - Colorless
+  damage: 50×
+  effect_text:
+    ja: 自分のポケモン全員についている炎と雷エネルギーの数×50ダメージ。
+    en: This attack does 50 damage for each [R] Energy and each [L] Energy attached to all of your Pokémon.
+first_appearance:
+  set_name_ja: ストームエメラルダ
+  released_at: '2026-07-31'
+  regulation_mark: J
+  collector_number: '058'
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/M6/050396_P_MREKKUUZAIEKKUSU.jpg
+printings:
+- language: ja
+  set_code: M6
+  set_mark: M6
+  set_name: ストームエメラルダ
+  collector_number: '058'
+  collector_number_unprinted: false
+  rarity: RR
+  rarity_unprinted: false
+  illustrator: takuyoa
+  illustrator_unprinted: false
+  regulation_mark: J
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/M6/050396_P_MREKKUUZAIEKKUSU.jpg
+- language: ja
+  set_code: M6
+  set_mark: M6
+  set_name: ストームエメラルダ
+  collector_number: '095'
+  collector_number_unprinted: false
+  rarity: SR
+  rarity_unprinted: false
+  illustrator: 5ban Graphics
+  illustrator_unprinted: false
+  regulation_mark: J
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code: M6
+  set_mark: M6
+  set_name: ストームエメラルダ
+  collector_number: '110'
+  collector_number_unprinted: false
+  rarity: SAR
+  rarity_unprinted: false
+  illustrator: Kazuki Minami
+  illustrator_unprinted: false
+  regulation_mark: J
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/M6/050551_P_MREKKUUZAIEKKUSU.jpg
+- language: ja
+  set_code: M6
+  set_mark: M6
+  set_name: ストームエメラルダ
+  collector_number: '113'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: false
+  illustrator: takuyoa
+  illustrator_unprinted: false
+  regulation_mark: J
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/M6/050554_P_MREKKUUZAIEKKUSU.jpg
+- language: en
+  set_code: DLR
+  set_mark: DLR
+  set_name: Mega Evolution—Delta Reign
+  collector_number: '84'
+  collector_number_unprinted: false
+  rarity: RR
+  rarity_unprinted: false
+  illustrator:
+  illustrator_unprinted: false
+  regulation_mark: J
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DLR/DLR_084_R_EN_XS.png
+- language: en
+  set_code: DLR
+  set_mark: DLR
+  set_name: Mega Evolution—Delta Reign
+  collector_number: '138'
+  collector_number_unprinted: false
+  rarity: SAR
+  rarity_unprinted: false
+  illustrator:
+  illustrator_unprinted: false
+  regulation_mark: J
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DLR/DLR_138_R_EN_XS.png
+- language: en
+  set_code: DLR
+  set_mark: DLR
+  set_name: Mega Evolution—Delta Reign
+  collector_number: '141'
+  collector_number_unprinted: false
+  rarity: UR
+  rarity_unprinted: false
+  illustrator:
+  illustrator_unprinted: false
+  regulation_mark: J
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DLR/DLR_141_R_EN_XS.png

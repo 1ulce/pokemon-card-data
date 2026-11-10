@@ -1,8 +1,6 @@
 ---
-schema_version: 1
+schema_version: 2
 slug: forest-of-vitality
-external_link:
-  cabt_id: 1261
 name:
   ja: 活力の森
   en: Forest of Vitality
@@ -36,4 +34,83 @@ first_appearance:
   released_at: '2025-08-01'
   regulation_mark: I
   collector_number: '061'
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/M1S/047857_T_KATSURIXYOKUNOMORI.jpg
+printings:
+- language: ja
+  set_code: M1S
+  set_mark: M1S
+  set_name: メガシンフォニア
+  collector_number: '061'
+  collector_number_unprinted: false
+  rarity: U
+  rarity_unprinted: false
+  illustrator: AYUMI ODASHIMA
+  illustrator_unprinted: false
+  regulation_mark: I
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/M1S/047857_T_KATSURIXYOKUNOMORI.jpg
+- language: ja
+  set_code: M2a
+  set_mark: M2a
+  set_name: MEGAドリームex
+  collector_number: '182'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: AYUMI ODASHIMA
+  illustrator_unprinted: false
+  regulation_mark: I
+  regulation_mark_unprinted: false
   image_url:
+- language: ja
+  set_code: M3
+  set_mark: M3
+  set_name: ムニキスゼロ
+  collector_number: '109'
+  collector_number_unprinted: false
+  rarity: SR
+  rarity_unprinted: false
+  illustrator: AYUMI ODASHIMA
+  illustrator_unprinted: false
+  regulation_mark: I
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/M3/050076_T_KATSURIXYOKUNOMORI.jpg
+- language: en
+  set_code: MEG
+  set_mark: MEG
+  set_name: MEG
+  collector_number: '117'
+  collector_number_unprinted: false
+  rarity: U
+  rarity_unprinted: false
+  illustrator: AYUMI ODASHIMA
+  illustrator_unprinted: false
+  regulation_mark: I
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/MEG/MEG_117_R_EN_XS.png
+- language: en
+  set_code: ASC
+  set_mark: ASC
+  set_name: ASC
+  collector_number: '188'
+  collector_number_unprinted: false
+  rarity: U
+  rarity_unprinted: false
+  illustrator: AYUMI ODASHIMA
+  illustrator_unprinted: false
+  regulation_mark: I
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/ASC/ASC_188_R_EN_XS.png
+- language: en
+  set_code: POR
+  set_mark: POR
+  set_name: POR
+  collector_number: '109'
+  collector_number_unprinted: false
+  rarity: SR
+  rarity_unprinted: false
+  illustrator: AYUMI ODASHIMA
+  illustrator_unprinted: false
+  regulation_mark: I
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/POR/POR_109_R_EN_XS.png

@@ -1,8 +1,6 @@
 ---
-schema_version: 1
+schema_version: 2
 slug: dangerous-laser
-external_link:
-  cabt_id: 1095
 name:
   ja: デンジャラス光線
   en: Dangerous Laser
@@ -38,3 +36,43 @@ first_appearance:
   regulation_mark: H
   collector_number: '054'
   image_url:
+printings:
+- language: ja
+  set_code: SV6a
+  set_mark: SV6a
+  set_name: ナイトワンダラー
+  collector_number: '054'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: false
+  illustrator: inose yukie
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: MC
+  set_name: スタートデッキ100 バトルコレクション
+  collector_number: '647'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: inose yukie
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url:
+- language: en
+  set_code: SFA
+  set_mark: SFA
+  set_name: SFA
+  collector_number: '58'
+  collector_number_unprinted: false
+  rarity: SR
+  rarity_unprinted: false
+  illustrator: inose yukie
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SFA/SFA_058_R_EN_XS.png

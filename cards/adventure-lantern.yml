@@ -1,0 +1,90 @@
+---
+schema_version: 2
+slug: adventure-lantern
+name:
+  ja: ぼうけんのランタン
+  en: Adventure Lantern
+  prefix:
+card_type: Trainer
+card_subtype: Item
+energy_type:
+hp:
+retreat_cost:
+regulation_mark: J
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type:
+  value:
+resistance:
+  type:
+  value:
+body_text:
+  ja: 自分の山札から「基本炎エネルギー」と「基本雷エネルギー」を1枚ずつ選び、相手に見せて、手札に加える。そして山札を切る。
+  en: Search your deck for a Basic [R] Energy card and a Basic [L] Energy card, reveal them, and put them into your hand. Then, shuffle your deck.
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks: []
+first_appearance:
+  set_name_ja: ストームエメラルダ
+  released_at: '2026-07-31'
+  regulation_mark: J
+  collector_number: '064'
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/M6/050402_T_BOUKENNORANTAN.jpg
+printings:
+- language: ja
+  set_code: M6
+  set_mark: M6
+  set_name: ストームエメラルダ
+  collector_number: '064'
+  collector_number_unprinted: false
+  rarity: U
+  rarity_unprinted: false
+  illustrator: inose yukie
+  illustrator_unprinted: false
+  regulation_mark: J
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/M6/050402_T_BOUKENNORANTAN.jpg
+- language: ja
+  set_code: M6
+  set_mark: M6
+  set_name: ストームエメラルダ
+  collector_number: '097'
+  collector_number_unprinted: false
+  rarity: SR
+  rarity_unprinted: false
+  illustrator: inose yukie
+  illustrator_unprinted: false
+  regulation_mark: J
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/M6/050538_T_BOUKENNORANTAN.jpg
+- language: en
+  set_code: DLR
+  set_mark: DLR
+  set_name: Mega Evolution—Delta Reign
+  collector_number: '90'
+  collector_number_unprinted: false
+  rarity: U
+  rarity_unprinted: false
+  illustrator:
+  illustrator_unprinted: false
+  regulation_mark: J
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DLR/DLR_090_R_EN_XS.png
+- language: en
+  set_code: DLR
+  set_mark: DLR
+  set_name: Mega Evolution—Delta Reign
+  collector_number: '126'
+  collector_number_unprinted: false
+  rarity: SR
+  rarity_unprinted: false
+  illustrator:
+  illustrator_unprinted: false
+  regulation_mark: J
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DLR/DLR_126_R_EN_XS.png

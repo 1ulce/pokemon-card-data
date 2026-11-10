@@ -1,8 +1,6 @@
 ---
-schema_version: 1
+schema_version: 2
 slug: snubbull
-external_link:
-  cabt_id: 762
 name:
   ja: ブルー
   en: Snubbull
@@ -48,3 +46,43 @@ first_appearance:
   regulation_mark: I
   collector_number: '001'
   image_url:
+printings:
+- language: ja
+  set_code:
+  set_mark: MBD
+  set_name: スターターセットMEGA メガディアンシーex
+  collector_number: '001'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: Gapao
+  illustrator_unprinted: false
+  regulation_mark: I
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: MC
+  set_name: スタートデッキ100 バトルコレクション
+  collector_number: '303'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: Gapao
+  illustrator_unprinted: false
+  regulation_mark: I
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/MC/049019_P_BURU.jpg
+- language: en
+  set_code: PFL
+  set_mark: PFL
+  set_name: PFL
+  collector_number: '37'
+  collector_number_unprinted: false
+  rarity: C
+  rarity_unprinted: false
+  illustrator: Gapao
+  illustrator_unprinted: false
+  regulation_mark: I
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PFL/PFL_037_R_EN_XS.png

@@ -1,5 +1,5 @@
 ---
-schema_version: 1
+schema_version: 2
 slug: tyme
 name:
   ja: タイム
@@ -34,4 +34,57 @@ first_appearance:
   released_at: '2024-12-06'
   regulation_mark: H
   collector_number: '193'
-  image_url:
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV8a/047114_T_TAIMU.jpg
+printings:
+- language: ja
+  set_code: SV8a
+  set_mark: SV8a
+  set_name: テラスタルフェスex
+  collector_number: '193'
+  collector_number_unprinted: false
+  rarity: SR
+  rarity_unprinted: false
+  illustrator: Yuu Nishida
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV8a/047114_T_TAIMU.jpg
+- language: ja
+  set_code:
+  set_mark: SV-P
+  set_name: スカーレット＆バイオレット プロモカードパック第5弾
+  collector_number: '45401'
+  collector_number_unprinted: true
+  rarity:
+  rarity_unprinted: true
+  illustrator: Akira Komayama
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV-P/045401_T_TAIMU.jpg
+- language: en
+  set_code: SSP
+  set_mark: SSP
+  set_name: SSP
+  collector_number: '190'
+  collector_number_unprinted: false
+  rarity: U
+  rarity_unprinted: false
+  illustrator: Akira Komayama
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SSP/SSP_190_R_EN_XS.png
+- language: en
+  set_code: PRE
+  set_mark: PRE
+  set_name: PRE
+  collector_number: '143'
+  collector_number_unprinted: false
+  rarity: SR
+  rarity_unprinted: false
+  illustrator: Yuu Nishida
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PRE/PRE_143_R_EN_XS.png

@@ -1,5 +1,5 @@
 ---
-schema_version: 1
+schema_version: 2
 slug: phanpy
 name:
   ja: ゴマゾウ
@@ -44,4 +44,70 @@ first_appearance:
   released_at: '2024-10-18'
   regulation_mark: H
   collector_number: '064'
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV8/046404_P_GOMAZOU.jpg
+printings:
+- language: ja
+  set_code: SV8
+  set_mark: SV8
+  set_name: 超電ブレイカー
+  collector_number: '064'
+  collector_number_unprinted: false
+  rarity: C
+  rarity_unprinted: false
+  illustrator: ryoma uratsuka
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV8/046404_P_GOMAZOU.jpg
+- language: ja
+  set_code: SV8
+  set_mark: SV8
+  set_name: 超電ブレイカー
+  collector_number: '115'
+  collector_number_unprinted: false
+  rarity: AR
+  rarity_unprinted: false
+  illustrator: Saboteri
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV8/046638_P_GOMAZOU.jpg
+- language: ja
+  set_code:
+  set_mark: MC
+  set_name: スタートデッキ100 バトルコレクション
+  collector_number: '365'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: ryoma uratsuka
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
   image_url:
+- language: en
+  set_code: SSP
+  set_mark: SSP
+  set_name: SSP
+  collector_number: '102'
+  collector_number_unprinted: false
+  rarity: C
+  rarity_unprinted: false
+  illustrator: ryoma uratsuka
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SSP/SSP_102_R_EN_XS.png
+- language: en
+  set_code: SSP
+  set_mark: SSP
+  set_name: SSP
+  collector_number: '205'
+  collector_number_unprinted: false
+  rarity: AR
+  rarity_unprinted: false
+  illustrator: Saboteri
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SSP/SSP_205_R_EN_XS.png

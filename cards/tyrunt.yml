@@ -1,8 +1,6 @@
 ---
-schema_version: 1
+schema_version: 2
 slug: tyrunt
-external_link:
-  cabt_id: 1053
 name:
   ja: チゴラス
   en: Tyrunt
@@ -47,4 +45,70 @@ first_appearance:
   released_at: '2026-01-23'
   regulation_mark: J
   collector_number: '043'
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/M3/049676_P_CHIGORASU.jpg
+printings:
+- language: ja
+  set_code: M3
+  set_mark: M3
+  set_name: ムニキスゼロ
+  collector_number: '043'
+  collector_number_unprinted: false
+  rarity: C
+  rarity_unprinted: false
+  illustrator: Tomoki Sone
+  illustrator_unprinted: false
+  regulation_mark: J
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/M3/049676_P_CHIGORASU.jpg
+- language: ja
+  set_code: M3
+  set_mark: M3
+  set_name: ムニキスゼロ
+  collector_number: '089'
+  collector_number_unprinted: false
+  rarity: AR
+  rarity_unprinted: false
+  illustrator: Shimaris Yukichi
+  illustrator_unprinted: false
+  regulation_mark: J
+  regulation_mark_unprinted: false
   image_url:
+- language: en
+  set_code: POR
+  set_mark: POR
+  set_name: POR
+  collector_number: '44'
+  collector_number_unprinted: false
+  rarity: C
+  rarity_unprinted: false
+  illustrator: Tomomi Kaneko
+  illustrator_unprinted: false
+  regulation_mark: J
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/POR/POR_044_R_EN_XS.png
+- language: en
+  set_code: MEALT
+  set_mark: MEALT
+  set_name: MEALT
+  collector_number: '7'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: false
+  illustrator: Shimaris Yukichi
+  illustrator_unprinted: false
+  regulation_mark: J
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/MEP/MEP_070_R_EN_XS.png
+- language: en
+  set_code: MEP
+  set_mark: MEP
+  set_name: MEP
+  collector_number: '70'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: Shimaris Yukichi
+  illustrator_unprinted: false
+  regulation_mark: J
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/MEP/MEP_070_R_EN_XS.png

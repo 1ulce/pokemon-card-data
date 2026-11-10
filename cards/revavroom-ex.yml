@@ -1,8 +1,6 @@
 ---
-schema_version: 1
+schema_version: 2
 slug: revavroom-ex
-external_link:
-  cabt_id: 130
 name:
   ja: ブロロロームex
   en: Revavroom ex
@@ -15,7 +13,6 @@ retreat_cost: 1
 regulation_mark: H
 meta_tags:
 - ex
-- tera
 evolves_from:
   ja: ブロロン
   en: Varoom
@@ -60,4 +57,57 @@ first_appearance:
   released_at: '2024-06-07'
   regulation_mark: H
   collector_number: '015'
-  image_url:
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV6a/045890_P_BUROROROMUEX.jpg
+printings:
+- language: ja
+  set_code: SV6a
+  set_mark: SV6a
+  set_name: ナイトワンダラー
+  collector_number: '015'
+  collector_number_unprinted: false
+  rarity: RR
+  rarity_unprinted: false
+  illustrator: PLANETA Mochizuki
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV6a/045890_P_BUROROROMUEX.jpg
+- language: ja
+  set_code: SV6a
+  set_mark: SV6a
+  set_name: ナイトワンダラー
+  collector_number: '078'
+  collector_number_unprinted: false
+  rarity: SR
+  rarity_unprinted: false
+  illustrator: PLANETA Mochizuki
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV6a/046055_P_BUROROROMUEX.jpg
+- language: en
+  set_code: SFA
+  set_mark: SFA
+  set_name: SFA
+  collector_number: '15'
+  collector_number_unprinted: false
+  rarity: RR
+  rarity_unprinted: false
+  illustrator: PLANETA Mochizuki
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SFA/SFA_015_R_EN_XS.png
+- language: en
+  set_code: SFA
+  set_mark: SFA
+  set_name: SFA
+  collector_number: '81'
+  collector_number_unprinted: false
+  rarity: SR
+  rarity_unprinted: false
+  illustrator: PLANETA Mochizuki
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SFA/SFA_081_R_EN_XS.png

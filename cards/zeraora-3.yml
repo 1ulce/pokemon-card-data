@@ -1,8 +1,6 @@
 ---
-schema_version: 1
+schema_version: 2
 slug: zeraora-3
-external_link:
-  cabt_id: 956
 name:
   ja: ゼラオラ
   en: Zeraora
@@ -47,4 +45,83 @@ first_appearance:
   released_at: '2024-07-19'
   regulation_mark: H
   collector_number: '037'
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV7/045976_P_ZERAORA.jpg
+printings:
+- language: ja
+  set_code: SV7
+  set_mark: SV7
+  set_name: ステラミラクル
+  collector_number: '037'
+  collector_number_unprinted: false
+  rarity: R
+  rarity_unprinted: false
+  illustrator: Anesaki Dynamic
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV7/045976_P_ZERAORA.jpg
+- language: ja
+  set_code: SV7
+  set_mark: SV7
+  set_name: ステラミラクル
+  collector_number: '109'
+  collector_number_unprinted: false
+  rarity: AR
+  rarity_unprinted: false
+  illustrator: Kazumasa Yasukuni
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV7/046157_P_ZERAORA.jpg
+- language: ja
+  set_code: SV8a
+  set_mark: SV8a
+  set_name: テラスタルフェスex
+  collector_number: '053'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: Anesaki Dynamic
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
   image_url:
+- language: ja
+  set_code:
+  set_mark: MC
+  set_name: スタートデッキ100 バトルコレクション
+  collector_number: '267'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: Anesaki Dynamic
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url:
+- language: en
+  set_code: SCR
+  set_mark: SCR
+  set_name: SCR
+  collector_number: '55'
+  collector_number_unprinted: false
+  rarity: R
+  rarity_unprinted: false
+  illustrator: Anesaki Dynamic
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SCR/SCR_055_R_EN_XS.png
+- language: en
+  set_code: SCR
+  set_mark: SCR
+  set_name: SCR
+  collector_number: '151'
+  collector_number_unprinted: false
+  rarity: AR
+  rarity_unprinted: false
+  illustrator: Kazumasa Yasukuni
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SCR/SCR_151_R_EN_XS.png

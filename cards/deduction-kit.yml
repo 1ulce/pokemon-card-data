@@ -1,8 +1,6 @@
 ---
-schema_version: 1
+schema_version: 2
 slug: deduction-kit
-external_link:
-  cabt_id: 1106
 name:
   ja: 推理セット
   en: Deduction Kit
@@ -36,4 +34,44 @@ first_appearance:
   released_at: '2024-10-18'
   regulation_mark: H
   collector_number: '094'
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV8/046434_T_SUIRISETTO.jpg
+printings:
+- language: ja
+  set_code: SV8
+  set_mark: SV8
+  set_name: 超電ブレイカー
+  collector_number: '094'
+  collector_number_unprinted: false
+  rarity: U
+  rarity_unprinted: false
+  illustrator: AYUMI ODASHIMA
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV8/046434_T_SUIRISETTO.jpg
+- language: ja
+  set_code:
+  set_mark: MC
+  set_name: スタートデッキ100 バトルコレクション
+  collector_number: '645'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: AYUMI ODASHIMA
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
   image_url:
+- language: en
+  set_code: SSP
+  set_mark: SSP
+  set_name: SSP
+  collector_number: '171'
+  collector_number_unprinted: false
+  rarity: U
+  rarity_unprinted: false
+  illustrator: AYUMI ODASHIMA
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SSP/SSP_171_R_EN_XS.png

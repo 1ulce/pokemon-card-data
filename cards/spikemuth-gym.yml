@@ -1,8 +1,6 @@
 ---
-schema_version: 1
+schema_version: 2
 slug: spikemuth-gym
-external_link:
-  cabt_id: 1259
 name:
   ja: スパイクタウンジム
   en: Spikemuth Gym
@@ -36,4 +34,31 @@ first_appearance:
   released_at:
   regulation_mark: I
   collector_number: '019'
-  image_url:
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SVOM/047271_T_SUPAIKUTAUNJIMU.jpg
+printings:
+- language: ja
+  set_code:
+  set_mark: SVOM
+  set_name: スターターセットex マリィのモルペコ＆オーロンゲex
+  collector_number: '019'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: AYUMI ODASHIMA
+  illustrator_unprinted: false
+  regulation_mark: I
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SVOM/047271_T_SUPAIKUTAUNJIMU.jpg
+- language: en
+  set_code: DRI
+  set_mark: DRI
+  set_name: DRI
+  collector_number: '169'
+  collector_number_unprinted: false
+  rarity: U
+  rarity_unprinted: false
+  illustrator: AYUMI ODASHIMA
+  illustrator_unprinted: false
+  regulation_mark: I
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRI/DRI_169_R_EN_XS.png

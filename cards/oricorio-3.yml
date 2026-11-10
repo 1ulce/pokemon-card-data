@@ -1,5 +1,5 @@
 ---
-schema_version: 1
+schema_version: 2
 slug: oricorio-3
 name:
   ja: オドリドリ
@@ -55,3 +55,43 @@ first_appearance:
   regulation_mark: H
   collector_number: '053'
   image_url:
+printings:
+- language: ja
+  set_code:
+  set_mark: SVM
+  set_name: スタートデッキGenerations カプ・コケコex・ミミッキュex
+  collector_number: '053'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: aspara
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: MC
+  set_name: スタートデッキ100 バトルコレクション
+  collector_number: '337'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: aspara
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/MC/049053_P_ODORIDORI.jpg
+- language: en
+  set_code: JTG
+  set_mark: JTG
+  set_name: JTG
+  collector_number: '65'
+  collector_number_unprinted: false
+  rarity: C
+  rarity_unprinted: false
+  illustrator: aspara
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/JTG/JTG_065_R_EN_XS.png

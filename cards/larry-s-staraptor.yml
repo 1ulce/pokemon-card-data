@@ -1,8 +1,6 @@
 ---
-schema_version: 1
+schema_version: 2
 slug: larry-s-staraptor
-external_link:
-  cabt_id: 1005
 name:
   ja: アオキのムクホーク
   en: Larry's Staraptor
@@ -59,3 +57,56 @@ first_appearance:
   regulation_mark: J
   collector_number: '592'
   image_url:
+printings:
+- language: ja
+  set_code:
+  set_mark: MC
+  set_name: スタートデッキ100 バトルコレクション
+  collector_number: '592'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: Po-Suzuki
+  illustrator_unprinted: false
+  regulation_mark: J
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: MC
+  set_name: スタートデッキ100 バトルコレクション
+  collector_number: '756'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: kantaro
+  illustrator_unprinted: false
+  regulation_mark: J
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/MC/050024_P_AOKINOMUKUHOKU.jpg
+- language: en
+  set_code: ASC
+  set_mark: ASC
+  set_name: ASC
+  collector_number: '170'
+  collector_number_unprinted: false
+  rarity: R
+  rarity_unprinted: false
+  illustrator: Po-Suzuki
+  illustrator_unprinted: false
+  regulation_mark: J
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/ASC/ASC_170_R_EN_XS.png
+- language: en
+  set_code: ASC
+  set_mark: ASC
+  set_name: ASC
+  collector_number: '249'
+  collector_number_unprinted: false
+  rarity: AR
+  rarity_unprinted: false
+  illustrator: kantaro
+  illustrator_unprinted: false
+  regulation_mark: J
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/ASC/ASC_249_R_EN_XS.png

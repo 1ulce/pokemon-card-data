@@ -1,8 +1,6 @@
 ---
-schema_version: 1
+schema_version: 2
 slug: dusk-ball
-external_link:
-  cabt_id: 1102
 name:
   ja: ダークボール
   en: Dusk Ball
@@ -36,4 +34,31 @@ first_appearance:
   released_at: '2024-09-13'
   regulation_mark: H
   collector_number: '054'
-  image_url:
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV7a/046283_T_DAKUBORU.jpg
+printings:
+- language: ja
+  set_code: SV7a
+  set_mark: SV7a
+  set_name: 楽園ドラゴーナ
+  collector_number: '054'
+  collector_number_unprinted: false
+  rarity: U
+  rarity_unprinted: false
+  illustrator: Studio Bora Inc.
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV7a/046283_T_DAKUBORU.jpg
+- language: en
+  set_code: SSP
+  set_mark: SSP
+  set_name: SSP
+  collector_number: '175'
+  collector_number_unprinted: false
+  rarity: U
+  rarity_unprinted: false
+  illustrator: Studio Bora Inc.
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SSP/SSP_175_R_EN_XS.png

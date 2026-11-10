@@ -1,8 +1,6 @@
 ---
-schema_version: 1
+schema_version: 2
 slug: enhanced-hammer
-external_link:
-  cabt_id: 1081
 name:
   ja: 改造ハンマー
   en: Enhanced Hammer
@@ -36,4 +34,252 @@ first_appearance:
   released_at: '2024-03-22'
   regulation_mark: H
   collector_number: '054'
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV5a/045629_T_KAIZOUHANMA.jpg
+printings:
+- language: ja
+  set_code: SV5a
+  set_mark: SV5a
+  set_name: クリムゾンヘイズ
+  collector_number: '054'
+  collector_number_unprinted: false
+  rarity: U
+  rarity_unprinted: false
+  illustrator: Eske Yoshinob
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV5a/045629_T_KAIZOUHANMA.jpg
+- language: ja
+  set_code: SV6
+  set_mark: SV6
+  set_name: 変幻の仮面
+  collector_number: '132'
+  collector_number_unprinted: false
+  rarity: UR
+  rarity_unprinted: false
+  illustrator: Eske Yoshinob
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV6/045874_T_KAIZOUHANMA.jpg
+- language: ja
+  set_code: SV8a
+  set_mark: SV8a
+  set_name: テラスタルフェスex
+  collector_number: '138'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: Eske Yoshinob
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
   image_url:
+- language: ja
+  set_code: M2a
+  set_mark: M2a
+  set_name: MEGAドリームex
+  collector_number: '148'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: Eske Yoshinob
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: SM5p
+  set_name: ウルトラフォース
+  collector_number: '039'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: false
+  illustrator: Yoshinobu Saito
+  illustrator_unprinted: false
+  regulation_mark: A
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: SM1p
+  set_name: サン＆ムーン
+  collector_number: '044'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: false
+  illustrator: Yoshinobu Saito
+  illustrator_unprinted: false
+  regulation_mark: A
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: SM9a
+  set_name: ナイトユニゾン
+  collector_number: '053'
+  collector_number_unprinted: false
+  rarity: TR
+  rarity_unprinted: false
+  illustrator: Yoshinobu Saito
+  illustrator_unprinted: false
+  regulation_mark: A
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: SM4p
+  set_name: GXバトルブースト
+  collector_number: '090'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: false
+  illustrator: Yoshinobu Saito
+  illustrator_unprinted: false
+  regulation_mark: A
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: CP4
+  set_name: EX×M×BREAK
+  collector_number: '101'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: Ryo Ueda
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: BWP
+  set_name: ポケモンカードゲーム ワールドチャレンジトーナメント2012 クリア賞
+  collector_number: '28080'
+  collector_number_unprinted: true
+  rarity:
+  rarity_unprinted: true
+  illustrator: Ryo Ueda
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: XYP
+  set_name: ポケモンカードゲーム プロモーションカードパック(2014/5)
+  collector_number: '30362'
+  collector_number_unprinted: true
+  rarity:
+  rarity_unprinted: true
+  illustrator: Ryo Ueda
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: SV-P
+  set_name: ポケモンカードゲームチャンピオンシップシリーズ2025
+  collector_number: '46305'
+  collector_number_unprinted: true
+  rarity:
+  rarity_unprinted: true
+  illustrator: Eske Yoshinob
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url:
+- language: en
+  set_code: DEX
+  set_mark: DEX
+  set_name: DEX
+  collector_number: '94'
+  collector_number_unprinted: false
+  rarity: U
+  rarity_unprinted: false
+  illustrator: Ryo Ueda
+  illustrator_unprinted: false
+  regulation_mark:
+  regulation_mark_unprinted: true
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DEX/DEX_094_R_EN_XS.png
+- language: en
+  set_code: PRC
+  set_mark: PRC
+  set_name: PRC
+  collector_number: '162'
+  collector_number_unprinted: false
+  rarity: UR
+  rarity_unprinted: false
+  illustrator: Ryo Ueda
+  illustrator_unprinted: false
+  regulation_mark:
+  regulation_mark_unprinted: true
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PRC/PRC_162_R_EN_XS.png
+- language: en
+  set_code: GRI
+  set_mark: GRI
+  set_name: GRI
+  collector_number: '124'
+  collector_number_unprinted: false
+  rarity: U
+  rarity_unprinted: false
+  illustrator: Yoshinobu Saito
+  illustrator_unprinted: false
+  regulation_mark:
+  regulation_mark_unprinted: true
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/GRI/GRI_124_R_EN_XS.png
+- language: en
+  set_code: TWM
+  set_mark: TWM
+  set_name: TWM
+  collector_number: '148'
+  collector_number_unprinted: false
+  rarity: U
+  rarity_unprinted: false
+  illustrator: Eske Yoshinob
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TWM/TWM_148_R_EN_XS.png
+- language: en
+  set_code: TWM
+  set_mark: TWM
+  set_name: TWM
+  collector_number: '224'
+  collector_number_unprinted: false
+  rarity: UR
+  rarity_unprinted: false
+  illustrator: Eske Yoshinob
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TWM/TWM_224_R_EN_XS.png
+- language: en
+  set_code: BWALT
+  set_mark: BWALT
+  set_name: BWALT
+  collector_number: '51'
+  collector_number_unprinted: false
+  rarity: U
+  rarity_unprinted: false
+  illustrator:
+  illustrator_unprinted: false
+  regulation_mark:
+  regulation_mark_unprinted: true
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DEX/DEX_094_R_EN_XS.png
+- language: en
+  set_code: SMALT
+  set_mark: SMALT
+  set_name: SMALT
+  collector_number: '43'
+  collector_number_unprinted: false
+  rarity: U
+  rarity_unprinted: false
+  illustrator:
+  illustrator_unprinted: false
+  regulation_mark:
+  regulation_mark_unprinted: true
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/GRI/GRI_124_R_EN_XS.png

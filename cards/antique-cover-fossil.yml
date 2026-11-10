@@ -1,8 +1,6 @@
 ---
-schema_version: 1
+schema_version: 2
 slug: antique-cover-fossil
-external_link:
-  cabt_id: 1136
 name:
   ja: 古びたふたの化石
   en: Antique Cover Fossil
@@ -50,3 +48,56 @@ first_appearance:
   regulation_mark: H
   collector_number: '091'
   image_url:
+printings:
+- language: ja
+  set_code: SV7
+  set_mark: SV7
+  set_name: ステラミラクル
+  collector_number: '091'
+  collector_number_unprinted: false
+  rarity: C
+  rarity_unprinted: false
+  illustrator: AYUMI ODASHIMA
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code: SV11B
+  set_mark: SV11B
+  set_name: ブラックボルト
+  collector_number: '080'
+  collector_number_unprinted: false
+  rarity: C
+  rarity_unprinted: false
+  illustrator: AYUMI ODASHIMA
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV11B/047616_T_FURUBITAFUTANOKASEKI.jpg
+- language: en
+  set_code: SCR
+  set_mark: SCR
+  set_name: SCR
+  collector_number: '129'
+  collector_number_unprinted: false
+  rarity: C
+  rarity_unprinted: false
+  illustrator: AYUMI ODASHIMA
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SCR/SCR_129_R_EN_XS.png
+- language: en
+  set_code: BLK
+  set_mark: BLK
+  set_name: BLK
+  collector_number: '80'
+  collector_number_unprinted: false
+  rarity: C
+  rarity_unprinted: false
+  illustrator: AYUMI ODASHIMA
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BLK/BLK_080_R_EN_XS.png

@@ -1,8 +1,6 @@
 ---
-schema_version: 1
+schema_version: 2
 slug: larry-s-braviary
-external_link:
-  cabt_id: 1008
 name:
   ja: アオキのウォーグル
   en: Larry's Braviary
@@ -59,4 +57,31 @@ first_appearance:
   released_at: '2025-12-19'
   regulation_mark: J
   collector_number: '609'
-  image_url:
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/MC/049325_P_AOKINOUOGURU.jpg
+printings:
+- language: ja
+  set_code:
+  set_mark: MC
+  set_name: スタートデッキ100 バトルコレクション
+  collector_number: '609'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: Ryuta Fuse
+  illustrator_unprinted: false
+  regulation_mark: J
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/MC/049325_P_AOKINOUOGURU.jpg
+- language: en
+  set_code: ASC
+  set_mark: ASC
+  set_name: ASC
+  collector_number: '174'
+  collector_number_unprinted: false
+  rarity: U
+  rarity_unprinted: false
+  illustrator: Ryuta Fuse
+  illustrator_unprinted: false
+  regulation_mark: J
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/ASC/ASC_174_R_EN_XS.png

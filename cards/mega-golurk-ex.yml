@@ -1,0 +1,136 @@
+---
+schema_version: 2
+slug: mega-golurk-ex
+name:
+  ja: メガゴルーグex
+  en: Mega Golurk ex
+  prefix:
+card_type: Pokémon
+card_subtype: 1進化
+energy_type: Psychic
+hp: 350
+retreat_cost: 3
+regulation_mark: J
+meta_tags:
+- ex
+- mega
+evolves_from:
+  ja: ゴビット
+  en: Golett
+weakness:
+  type: Darkness
+  value: "×2"
+resistance:
+  type: Fighting
+  value: "-30"
+body_text:
+  ja:
+  en:
+rules_text:
+  ja: メガシンカexがきぜつしたとき、相手はサイドを3枚とる。
+  en:
+abilities:
+- position: 0
+  name:
+    ja: きどうせいげん
+    en: Restricted Activation
+  effect_text:
+    ja: 自分の手札が10枚以上のときにしか、このポケモンはワザが使えない。
+    en: This Pokémon can't use attacks unless you have 10 or more cards in your hand.
+attacks:
+- position: 0
+  name:
+    ja: ゴライアスパンチ
+    en: Goliath's Punch
+  cost:
+  - Psychic
+  - Psychic
+  damage: '300'
+  effect_text:
+    ja: このポケモンにも30ダメージ。
+    en: This Pokémon also does 30 damage to itself.
+first_appearance:
+  set_name_ja: ストームエメラルダ
+  released_at: '2026-07-31'
+  regulation_mark: J
+  collector_number: '033'
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/M6/050371_P_MGORUGUIEKKUSU.jpg
+printings:
+- language: ja
+  set_code: M6
+  set_mark: M6
+  set_name: ストームエメラルダ
+  collector_number: '033'
+  collector_number_unprinted: false
+  rarity: RR
+  rarity_unprinted: false
+  illustrator: 5ban Graphics
+  illustrator_unprinted: false
+  regulation_mark: J
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/M6/050371_P_MGORUGUIEKKUSU.jpg
+- language: ja
+  set_code: M6
+  set_mark: M6
+  set_name: ストームエメラルダ
+  collector_number: '093'
+  collector_number_unprinted: false
+  rarity: SR
+  rarity_unprinted: false
+  illustrator: 5ban Graphics
+  illustrator_unprinted: false
+  regulation_mark: J
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/M6/050534_P_MGORUGUIEKKUSU.jpg
+- language: ja
+  set_code: M6
+  set_mark: M6
+  set_name: ストームエメラルダ
+  collector_number: '109'
+  collector_number_unprinted: false
+  rarity: SAR
+  rarity_unprinted: false
+  illustrator: Takeshi Nakamura
+  illustrator_unprinted: false
+  regulation_mark: J
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/M6/050550_P_MGORUGUIEKKUSU.jpg
+- language: en
+  set_code: DLR
+  set_mark: DLR
+  set_name: Mega Evolution—Delta Reign
+  collector_number: '47'
+  collector_number_unprinted: false
+  rarity: RR
+  rarity_unprinted: false
+  illustrator:
+  illustrator_unprinted: false
+  regulation_mark: J
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DLR/DLR_047_R_EN_XS.png
+- language: en
+  set_code: DLR
+  set_mark: DLR
+  set_name: Mega Evolution—Delta Reign
+  collector_number: '122'
+  collector_number_unprinted: false
+  rarity: SR
+  rarity_unprinted: false
+  illustrator:
+  illustrator_unprinted: false
+  regulation_mark: J
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DLR/DLR_122_R_EN_XS.png
+- language: en
+  set_code: DLR
+  set_mark: DLR
+  set_name: Mega Evolution—Delta Reign
+  collector_number: '137'
+  collector_number_unprinted: false
+  rarity: SAR
+  rarity_unprinted: false
+  illustrator:
+  illustrator_unprinted: false
+  regulation_mark: J
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DLR/DLR_137_R_EN_XS.png

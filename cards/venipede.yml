@@ -1,8 +1,6 @@
 ---
-schema_version: 1
+schema_version: 2
 slug: venipede
-external_link:
-  cabt_id: 980
 name:
   ja: フシデ
   en: Venipede
@@ -58,4 +56,44 @@ first_appearance:
   released_at: '2024-04-26'
   regulation_mark: H
   collector_number: '068'
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV6/045759_P_FUSHIDE.jpg
+printings:
+- language: ja
+  set_code: SV6
+  set_mark: SV6
+  set_name: 変幻の仮面
+  collector_number: '068'
+  collector_number_unprinted: false
+  rarity: C
+  rarity_unprinted: false
+  illustrator: Tomokazu Komiya
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV6/045759_P_FUSHIDE.jpg
+- language: ja
+  set_code:
+  set_mark: MC
+  set_name: スタートデッキ100 バトルコレクション
+  collector_number: '460'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: Tomokazu Komiya
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
   image_url:
+- language: en
+  set_code: TWM
+  set_mark: TWM
+  set_name: TWM
+  collector_number: '115'
+  collector_number_unprinted: false
+  rarity: C
+  rarity_unprinted: false
+  illustrator: Tomokazu Komiya
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TWM/TWM_115_R_EN_XS.png

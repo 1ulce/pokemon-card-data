@@ -1,8 +1,6 @@
 ---
-schema_version: 1
+schema_version: 2
 slug: croconaw-2
-external_link:
-  cabt_id: 938
 name:
   ja: アリゲイツ
   en: Croconaw
@@ -47,4 +45,31 @@ first_appearance:
   released_at: '2025-12-19'
   regulation_mark: J
   collector_number: '167'
-  image_url:
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/MC/048883_P_ARIGEITSU.jpg
+printings:
+- language: ja
+  set_code:
+  set_mark: MC
+  set_name: スタートデッキ100 バトルコレクション
+  collector_number: '167'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: Felicia Chen
+  illustrator_unprinted: false
+  regulation_mark: J
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/MC/048883_P_ARIGEITSU.jpg
+- language: en
+  set_code: ASC
+  set_mark: ASC
+  set_name: ASC
+  collector_number: '42'
+  collector_number_unprinted: false
+  rarity: U
+  rarity_unprinted: false
+  illustrator: Felicia Chen
+  illustrator_unprinted: false
+  regulation_mark: J
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/ASC/ASC_042_R_EN_XS.png

@@ -1,5 +1,5 @@
 ---
-schema_version: 1
+schema_version: 2
 slug: mega-gallade-ex
 name:
   ja: メガエルレイドex
@@ -59,3 +59,43 @@ first_appearance:
   regulation_mark: J
   collector_number: '49716'
   image_url: https://www.pokemon-card.com/assets/images/card_images/large/M-P/049716_P_MERUREIDOEX.jpg
+printings:
+- language: ja
+  set_code:
+  set_mark: M-P
+  set_name: スペシャルカードセット　メガエルレイドex
+  collector_number: '49716'
+  collector_number_unprinted: true
+  rarity:
+  rarity_unprinted: true
+  illustrator: 5ban Graphics
+  illustrator_unprinted: false
+  regulation_mark: J
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/M-P/049716_P_MERUREIDOEX.jpg
+- language: ja
+  set_code:
+  set_mark: M-P
+  set_name: ポケモンカードゲーム メガエルレイドex SARゲットバトル
+  collector_number: '50488'
+  collector_number_unprinted: true
+  rarity:
+  rarity_unprinted: true
+  illustrator: AKIRA EGAWA
+  illustrator_unprinted: false
+  regulation_mark:
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/M-P/050488_P_MERUREIDOIEKKUSU.jpg
+- language: en
+  set_code: CRI
+  set_mark: CRI
+  set_name: CRI
+  collector_number: '48'
+  collector_number_unprinted: false
+  rarity: RR
+  rarity_unprinted: false
+  illustrator: 5ban Graphics
+  illustrator_unprinted: false
+  regulation_mark: J
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CRI/CRI_048_R_EN_XS.png

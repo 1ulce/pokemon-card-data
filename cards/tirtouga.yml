@@ -1,5 +1,5 @@
 ---
-schema_version: 1
+schema_version: 2
 slug: tirtouga
 name:
   ja: プロトーガ
@@ -45,4 +45,31 @@ first_appearance:
   released_at: '2024-07-19'
   regulation_mark: H
   collector_number: '022'
-  image_url:
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV7/045961_P_PUROTOGA.jpg
+printings:
+- language: ja
+  set_code: SV7
+  set_mark: SV7
+  set_name: ステラミラクル
+  collector_number: '022'
+  collector_number_unprinted: false
+  rarity: C
+  rarity_unprinted: false
+  illustrator: takashi shiraishi
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV7/045961_P_PUROTOGA.jpg
+- language: en
+  set_code: SCR
+  set_mark: SCR
+  set_name: SCR
+  collector_number: '37'
+  collector_number_unprinted: false
+  rarity: C
+  rarity_unprinted: false
+  illustrator: takashi shiraishi
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SCR/SCR_037_R_EN_XS.png

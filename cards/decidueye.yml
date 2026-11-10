@@ -1,8 +1,6 @@
 ---
-schema_version: 1
+schema_version: 2
 slug: decidueye
-external_link:
-  cabt_id: 129
 name:
   ja: ジュナイパー
   en: Decidueye
@@ -56,4 +54,31 @@ first_appearance:
   released_at: '2024-06-07'
   regulation_mark: H
   collector_number: '005'
-  image_url:
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV6a/045880_P_JIXYUNAIPA.jpg
+printings:
+- language: ja
+  set_code: SV6a
+  set_mark: SV6a
+  set_name: ナイトワンダラー
+  collector_number: '005'
+  collector_number_unprinted: false
+  rarity: U
+  rarity_unprinted: false
+  illustrator: DOM
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV6a/045880_P_JIXYUNAIPA.jpg
+- language: en
+  set_code: SFA
+  set_mark: SFA
+  set_name: SFA
+  collector_number: '5'
+  collector_number_unprinted: false
+  rarity: U
+  rarity_unprinted: false
+  illustrator: DOM
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SFA/SFA_005_R_EN_XS.png

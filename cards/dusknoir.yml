@@ -1,8 +1,6 @@
 ---
-schema_version: 1
+schema_version: 2
 slug: dusknoir
-external_link:
-  cabt_id: 133
 name:
   ja: ヨノワール
   en: Dusknoir
@@ -55,4 +53,109 @@ first_appearance:
   released_at: '2024-06-07'
   regulation_mark: H
   collector_number: '020'
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV6a/045895_P_YONOWARU.jpg
+printings:
+- language: ja
+  set_code: SV6a
+  set_mark: SV6a
+  set_name: ナイトワンダラー
+  collector_number: '020'
+  collector_number_unprinted: false
+  rarity: R
+  rarity_unprinted: false
+  illustrator: danciao
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV6a/045895_P_YONOWARU.jpg
+- language: ja
+  set_code: SV6a
+  set_mark: SV6a
+  set_name: ナイトワンダラー
+  collector_number: '070'
+  collector_number_unprinted: false
+  rarity: AR
+  rarity_unprinted: false
+  illustrator: James Turner
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV6a/046047_P_YONOWARU.jpg
+- language: ja
+  set_code: SV8a
+  set_mark: SV8a
+  set_name: テラスタルフェスex
+  collector_number: '066'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: danciao
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
   image_url:
+- language: ja
+  set_code: M2a
+  set_mark: M2a
+  set_name: MEGAドリームex
+  collector_number: '074'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: danciao
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: MC
+  set_name: スタートデッキ100 バトルコレクション
+  collector_number: '310'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: danciao
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url:
+- language: en
+  set_code: SFA
+  set_mark: SFA
+  set_name: SFA
+  collector_number: '20'
+  collector_number_unprinted: false
+  rarity: R
+  rarity_unprinted: false
+  illustrator: danciao
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SFA/SFA_020_R_EN_XS.png
+- language: en
+  set_code: SFA
+  set_mark: SFA
+  set_name: SFA
+  collector_number: '70'
+  collector_number_unprinted: false
+  rarity: AR
+  rarity_unprinted: false
+  illustrator: James Turner
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SFA/SFA_070_R_EN_XS.png
+- language: en
+  set_code: PRE
+  set_mark: PRE
+  set_name: PRE
+  collector_number: '37'
+  collector_number_unprinted: false
+  rarity: R
+  rarity_unprinted: false
+  illustrator: danciao
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PRE/PRE_037_R_EN_XS.png

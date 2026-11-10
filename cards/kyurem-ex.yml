@@ -1,8 +1,6 @@
 ---
-schema_version: 1
+schema_version: 2
 slug: kyurem-ex
-external_link:
-  cabt_id: 509
 name:
   ja: キュレムex
   en: Kyurem ex
@@ -60,4 +58,96 @@ first_appearance:
   released_at: '2025-06-06'
   regulation_mark: I
   collector_number: '031'
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV11B/047567_P_KIXYUREMUEX.jpg
+printings:
+- language: ja
+  set_code: SV11B
+  set_mark: SV11B
+  set_name: ブラックボルト
+  collector_number: '031'
+  collector_number_unprinted: false
+  rarity: RR
+  rarity_unprinted: false
+  illustrator: N-DESIGN Inc.
+  illustrator_unprinted: false
+  regulation_mark: I
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV11B/047567_P_KIXYUREMUEX.jpg
+- language: ja
+  set_code: SV11B
+  set_mark: SV11B
+  set_name: ブラックボルト
+  collector_number: '160'
+  collector_number_unprinted: false
+  rarity: SR
+  rarity_unprinted: false
+  illustrator: N-DESIGN Inc.
+  illustrator_unprinted: false
+  regulation_mark: I
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV11B/047984_P_KIXYUREMUEX.jpg
+- language: ja
+  set_code: SV11B
+  set_mark: SV11B
+  set_name: ブラックボルト
+  collector_number: '168'
+  collector_number_unprinted: false
+  rarity: SAR
+  rarity_unprinted: false
+  illustrator: chibi
+  illustrator_unprinted: false
+  regulation_mark: I
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV11B/047992_P_KIXYUREMUEX.jpg
+- language: ja
+  set_code:
+  set_mark: MC
+  set_name: スタートデッキ100 バトルコレクション
+  collector_number: '203'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: N-DESIGN Inc.
+  illustrator_unprinted: false
+  regulation_mark: I
+  regulation_mark_unprinted: false
   image_url:
+- language: en
+  set_code: BLK
+  set_mark: BLK
+  set_name: BLK
+  collector_number: '28'
+  collector_number_unprinted: false
+  rarity: RR
+  rarity_unprinted: false
+  illustrator: N-DESIGN Inc.
+  illustrator_unprinted: false
+  regulation_mark: I
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BLK/BLK_028_R_EN_XS.png
+- language: en
+  set_code: BLK
+  set_mark: BLK
+  set_name: BLK
+  collector_number: '157'
+  collector_number_unprinted: false
+  rarity: SR
+  rarity_unprinted: false
+  illustrator: N-DESIGN Inc.
+  illustrator_unprinted: false
+  regulation_mark: I
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BLK/BLK_157_R_EN_XS.png
+- language: en
+  set_code: BLK
+  set_mark: BLK
+  set_name: BLK
+  collector_number: '165'
+  collector_number_unprinted: false
+  rarity: SAR
+  rarity_unprinted: false
+  illustrator: chibi
+  illustrator_unprinted: false
+  regulation_mark: I
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/BLK/BLK_165_R_EN_XS.png

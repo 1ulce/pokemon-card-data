@@ -1,5 +1,5 @@
 ---
-schema_version: 1
+schema_version: 2
 slug: ninetales-5
 name:
   ja: キュウコン
@@ -44,4 +44,31 @@ first_appearance:
   released_at: '2026-09-16'
   regulation_mark: J
   collector_number: '005'
-  image_url:
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/MF/050568_P_KIXYUUKON.jpg
+printings:
+- language: ja
+  set_code:
+  set_mark: MF
+  set_name: 30th CELEBRATION プレミアムデッキセット エーフィ・ブラッキー
+  collector_number: '005'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: kodama
+  illustrator_unprinted: false
+  regulation_mark: J
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/MF/050568_P_KIXYUUKON.jpg
+- language: en
+  set_code: 30C
+  set_mark: 30C
+  set_name: 30C
+  collector_number: '10'
+  collector_number_unprinted: false
+  rarity: C
+  rarity_unprinted: false
+  illustrator: kodama
+  illustrator_unprinted: false
+  regulation_mark: J
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/30C/30C_010_R_EN_XS.png

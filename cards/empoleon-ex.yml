@@ -1,8 +1,6 @@
 ---
-schema_version: 1
+schema_version: 2
 slug: empoleon-ex
-external_link:
-  cabt_id: 835
 name:
   ja: エンペルトex
   en: Empoleon ex
@@ -56,4 +54,57 @@ first_appearance:
   released_at: '2025-09-26'
   regulation_mark: I
   collector_number: '058'
-  image_url:
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/M2/048398_P_ENPERUTOEX.jpg
+printings:
+- language: ja
+  set_code: M2
+  set_mark: M2
+  set_name: インフェルノX
+  collector_number: '058'
+  collector_number_unprinted: false
+  rarity: RR
+  rarity_unprinted: false
+  illustrator: 5ban Graphics
+  illustrator_unprinted: false
+  regulation_mark: I
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/M2/048398_P_ENPERUTOEX.jpg
+- language: ja
+  set_code: M2
+  set_mark: M2
+  set_name: インフェルノX
+  collector_number: '099'
+  collector_number_unprinted: false
+  rarity: SR
+  rarity_unprinted: false
+  illustrator: 5ban Graphics
+  illustrator_unprinted: false
+  regulation_mark: I
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/M2/048505_P_ENPERUTOEX.jpg
+- language: en
+  set_code: PFL
+  set_mark: PFL
+  set_name: PFL
+  collector_number: '70'
+  collector_number_unprinted: false
+  rarity: RR
+  rarity_unprinted: false
+  illustrator: 5ban Graphics
+  illustrator_unprinted: false
+  regulation_mark: I
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PFL/PFL_070_R_EN_XS.png
+- language: en
+  set_code: PFL
+  set_mark: PFL
+  set_name: PFL
+  collector_number: '114'
+  collector_number_unprinted: false
+  rarity: SR
+  rarity_unprinted: false
+  illustrator: 5ban Graphics
+  illustrator_unprinted: false
+  regulation_mark: I
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PFL/PFL_114_R_EN_XS.png

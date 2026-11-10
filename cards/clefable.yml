@@ -1,8 +1,6 @@
 ---
-schema_version: 1
+schema_version: 2
 slug: clefable
-external_link:
-  cabt_id: 958
 name:
   ja: ピクシー
   en: Clefable
@@ -59,4 +57,57 @@ first_appearance:
   released_at: '2024-04-26'
   regulation_mark: H
   collector_number: '046'
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV6/045737_P_PIKUSHI.jpg
+printings:
+- language: ja
+  set_code: SV6
+  set_mark: SV6
+  set_name: 変幻の仮面
+  collector_number: '046'
+  collector_number_unprinted: false
+  rarity: U
+  rarity_unprinted: false
+  illustrator: satoma
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV6/045737_P_PIKUSHI.jpg
+- language: ja
+  set_code:
+  set_mark: MC
+  set_name: スタートデッキ100 バトルコレクション
+  collector_number: '286'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: satoma
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
   image_url:
+- language: en
+  set_code: TWM
+  set_mark: TWM
+  set_name: TWM
+  collector_number: '79'
+  collector_number_unprinted: false
+  rarity: U
+  rarity_unprinted: false
+  illustrator: satoma
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TWM/TWM_079_R_EN_XS.png
+- language: en
+  set_code: ASC
+  set_mark: ASC
+  set_name: ASC
+  collector_number: '75'
+  collector_number_unprinted: false
+  rarity: U
+  rarity_unprinted: false
+  illustrator: satoma
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/ASC/ASC_075_R_EN_XS.png

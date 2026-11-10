@@ -1,5 +1,5 @@
 ---
-schema_version: 1
+schema_version: 2
 slug: metagross-2
 name:
   ja: メタグロス
@@ -58,3 +58,30 @@ first_appearance:
   regulation_mark: J
   collector_number: '059'
   image_url: https://www.pokemon-card.com/assets/images/card_images/large/M4/050143_P_METAGUROSU.jpg
+printings:
+- language: ja
+  set_code: M4
+  set_mark: M4
+  set_name: ニンジャスピナー
+  collector_number: '059'
+  collector_number_unprinted: false
+  rarity: U
+  rarity_unprinted: false
+  illustrator: Bun Toujo
+  illustrator_unprinted: false
+  regulation_mark: J
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/M4/050143_P_METAGUROSU.jpg
+- language: en
+  set_code: CRI
+  set_mark: CRI
+  set_name: CRI
+  collector_number: '61'
+  collector_number_unprinted: false
+  rarity: U
+  rarity_unprinted: false
+  illustrator: Bun Toujo
+  illustrator_unprinted: false
+  regulation_mark: J
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CRI/CRI_061_R_EN_XS.png

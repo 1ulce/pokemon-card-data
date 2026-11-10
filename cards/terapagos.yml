@@ -1,8 +1,6 @@
 ---
-schema_version: 1
+schema_version: 2
 slug: terapagos
-external_link:
-  cabt_id: 234
 name:
   ja: テラパゴス
   en: Terapagos
@@ -58,4 +56,70 @@ first_appearance:
   released_at: '2024-10-18'
   regulation_mark: H
   collector_number: '093'
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV8/046433_P_TERAPAGOSU.jpg
+printings:
+- language: ja
+  set_code: SV8
+  set_mark: SV8
+  set_name: 超電ブレイカー
+  collector_number: '093'
+  collector_number_unprinted: false
+  rarity: R
+  rarity_unprinted: false
+  illustrator: GIDORA
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV8/046433_P_TERAPAGOSU.jpg
+- language: ja
+  set_code: M2a
+  set_mark: M2a
+  set_name: MEGAドリームex
+  collector_number: '144'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: GIDORA
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
   image_url:
+- language: ja
+  set_code:
+  set_mark: MC
+  set_name: スタートデッキ100 バトルコレクション
+  collector_number: '629'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: GIDORA
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url:
+- language: en
+  set_code: SSP
+  set_mark: SSP
+  set_name: SSP
+  collector_number: '161'
+  collector_number_unprinted: false
+  rarity: R
+  rarity_unprinted: false
+  illustrator: GIDORA
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SSP/SSP_161_R_EN_XS.png
+- language: en
+  set_code: ASC
+  set_mark: ASC
+  set_name: ASC
+  collector_number: '178'
+  collector_number_unprinted: false
+  rarity: R
+  rarity_unprinted: false
+  illustrator: GIDORA
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/ASC/ASC_178_R_EN_XS.png

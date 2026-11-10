@@ -1,5 +1,5 @@
 ---
-schema_version: 1
+schema_version: 2
 slug: kilowattrel-ex
 name:
   ja: タイカイデンex
@@ -56,4 +56,31 @@ first_appearance:
   released_at:
   regulation_mark: H
   collector_number: '45794'
-  image_url:
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV-P/045794_P_TAIKAIDENEX.jpg
+printings:
+- language: ja
+  set_code:
+  set_mark: SV-P
+  set_name: スカーレット＆バイオレット プロモカードパック第6弾
+  collector_number: '45794'
+  collector_number_unprinted: true
+  rarity:
+  rarity_unprinted: true
+  illustrator: PLANETA Yamashita
+  illustrator_unprinted: false
+  regulation_mark:
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV-P/045794_P_TAIKAIDENEX.jpg
+- language: en
+  set_code: SSP
+  set_mark: SSP
+  set_name: SSP
+  collector_number: '68'
+  collector_number_unprinted: false
+  rarity: RR
+  rarity_unprinted: false
+  illustrator: PLANETA Yamashita
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SSP/SSP_068_R_EN_XS.png

@@ -1,8 +1,6 @@
 ---
-schema_version: 1
+schema_version: 2
 slug: master-ball
-external_link:
-  cabt_id: 1125
 name:
   ja: マスターボール
   en: Master Ball
@@ -41,3 +39,43 @@ first_appearance:
   regulation_mark: H
   collector_number: '032'
   image_url:
+printings:
+- language: ja
+  set_code:
+  set_mark: SVHK
+  set_name: 古代のコライドンex
+  collector_number: '032'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: Studio Bora Inc.
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: SVHM
+  set_name: 未来のミライドンex
+  collector_number: '032'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: Studio Bora Inc.
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url:
+- language: en
+  set_code: TEF
+  set_mark: TEF
+  set_name: TEF
+  collector_number: '153'
+  collector_number_unprinted: false
+  rarity: SR
+  rarity_unprinted: false
+  illustrator: Studio Bora Inc.
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TEF/TEF_153_R_EN_XS.png

@@ -1,5 +1,5 @@
 ---
-schema_version: 1
+schema_version: 2
 slug: prism-tower
 name:
   ja: プリズムタワー
@@ -34,4 +34,57 @@ first_appearance:
   released_at: '2026-03-13'
   regulation_mark: J
   collector_number: '080'
-  image_url:
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/M4/050164_T_PURIZUMUTAWA.jpg
+printings:
+- language: ja
+  set_code: M4
+  set_mark: M4
+  set_name: ニンジャスピナー
+  collector_number: '080'
+  collector_number_unprinted: false
+  rarity: U
+  rarity_unprinted: false
+  illustrator: MARINA Chikazawa
+  illustrator_unprinted: false
+  regulation_mark: J
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/M4/050164_T_PURIZUMUTAWA.jpg
+- language: ja
+  set_code: M4
+  set_mark: M4
+  set_name: ニンジャスピナー
+  collector_number: '113'
+  collector_number_unprinted: false
+  rarity: SR
+  rarity_unprinted: false
+  illustrator: MARINA Chikazawa
+  illustrator_unprinted: false
+  regulation_mark: J
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/M4/050212_T_PURIZUMUTAWA.jpg
+- language: en
+  set_code: CRI
+  set_mark: CRI
+  set_name: CRI
+  collector_number: '80'
+  collector_number_unprinted: false
+  rarity: U
+  rarity_unprinted: false
+  illustrator: MARINA Chikazawa
+  illustrator_unprinted: false
+  regulation_mark: J
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CRI/CRI_080_R_EN_XS.png
+- language: en
+  set_code: CRI
+  set_mark: CRI
+  set_name: CRI
+  collector_number: '111'
+  collector_number_unprinted: false
+  rarity: SR
+  rarity_unprinted: false
+  illustrator: MARINA Chikazawa
+  illustrator_unprinted: false
+  regulation_mark: J
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/CRI/CRI_111_R_EN_XS.png

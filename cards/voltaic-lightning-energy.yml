@@ -1,5 +1,5 @@
 ---
-schema_version: 1
+schema_version: 2
 slug: voltaic-lightning-energy
 name:
   ja: ボルト雷エネルギー
@@ -37,4 +37,31 @@ first_appearance:
   released_at: '2026-05-22'
   regulation_mark: J
   collector_number: '080'
-  image_url:
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/M5/050299_E_BORUTOKAMINARIENERUGI.jpg
+printings:
+- language: ja
+  set_code: M5
+  set_mark: M5
+  set_name: アビスアイ
+  collector_number: '080'
+  collector_number_unprinted: false
+  rarity: R
+  rarity_unprinted: false
+  illustrator:
+  illustrator_unprinted: true
+  regulation_mark: J
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/M5/050299_E_BORUTOKAMINARIENERUGI.jpg
+- language: en
+  set_code: PBL
+  set_mark: PBL
+  set_name: PBL
+  collector_number: '84'
+  collector_number_unprinted: false
+  rarity: R
+  rarity_unprinted: false
+  illustrator:
+  illustrator_unprinted: true
+  regulation_mark: J
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PBL/PBL_084_R_EN_XS.png

@@ -1,8 +1,6 @@
 ---
-schema_version: 1
+schema_version: 2
 slug: drampa
-external_link:
-  cabt_id: 1010
 name:
   ja: ジジーロン
   en: Drampa
@@ -59,4 +57,31 @@ first_appearance:
   released_at: '2025-12-19'
   regulation_mark: J
   collector_number: '621'
-  image_url:
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/MC/049337_P_JIJIRON.jpg
+printings:
+- language: ja
+  set_code:
+  set_mark: MC
+  set_name: スタートデッキ100 バトルコレクション
+  collector_number: '621'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: Scav
+  illustrator_unprinted: false
+  regulation_mark: J
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/MC/049337_P_JIJIRON.jpg
+- language: en
+  set_code: ASC
+  set_mark: ASC
+  set_name: ASC
+  collector_number: '176'
+  collector_number_unprinted: false
+  rarity: U
+  rarity_unprinted: false
+  illustrator: Scav
+  illustrator_unprinted: false
+  regulation_mark: J
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/ASC/ASC_176_R_EN_XS.png

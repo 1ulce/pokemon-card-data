@@ -1,8 +1,6 @@
 ---
-schema_version: 1
+schema_version: 2
 slug: cook
-external_link:
-  cabt_id: 1212
 name:
   ja: コック
   en: Cook
@@ -36,4 +34,122 @@ first_appearance:
   released_at: '2024-03-08'
   regulation_mark: H
   collector_number: '058'
+  image_url:
+printings:
+- language: ja
+  set_code:
+  set_mark: SVI
+  set_name: バトルアカデミー
+  collector_number: '058'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: Hideki Ishikawa
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: SVM
+  set_name: スタートデッキGenerations ザシアンex・マホイップex
+  collector_number: '152'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: Hideki Ishikawa
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: MC
+  set_name: スタートデッキ100 バトルコレクション
+  collector_number: '706'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: Hideki Ishikawa
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/MC/049422_T_KOKKU.jpg
+- language: ja
+  set_code:
+  set_mark: SH
+  set_name: ファミリーポケモンカードゲーム
+  collector_number: '046'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: Sanosuke Sakuma
+  illustrator_unprinted: false
+  regulation_mark: E
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: S8b
+  set_name: VMAXクライマックス
+  collector_number: '260'
+  collector_number_unprinted: false
+  rarity: SR
+  rarity_unprinted: false
+  illustrator: Sanosuke Sakuma
+  illustrator_unprinted: false
+  regulation_mark: E
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: SI
+  set_name: スタートデッキ100
+  collector_number: '393'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: Sanosuke Sakuma
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: SI
+  set_name: スタートデッキ100
+  collector_number: '393'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: Sanosuke Sakuma
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url:
+- language: en
+  set_code: TWM
+  set_mark: TWM
+  set_name: TWM
+  collector_number: '147'
+  collector_number_unprinted: false
+  rarity: U
+  rarity_unprinted: false
+  illustrator: Hideki Ishikawa
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TWM/TWM_147_R_EN_XS.png
+- language: en
+  set_code: LOR-TG
+  set_mark: LOR-TG
+  set_name: LOR-TG
+  collector_number: '25'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: false
+  illustrator:
+  illustrator_unprinted: false
+  regulation_mark:
+  regulation_mark_unprinted: false
   image_url:

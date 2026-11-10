@@ -1,5 +1,5 @@
 ---
-schema_version: 1
+schema_version: 2
 slug: paradise-resort
 name:
   ja: パラダイスリゾート
@@ -10,7 +10,7 @@ card_subtype: Stadium
 energy_type:
 hp:
 retreat_cost:
-regulation_mark: I
+regulation_mark: J
 meta_tags: []
 evolves_from:
   ja:
@@ -32,6 +32,85 @@ attacks: []
 first_appearance:
   set_name_ja: ポケモンカードゲーム ワールドチャンピオンシップス2023 横浜
   released_at:
-  regulation_mark: I
+  regulation_mark: J
   collector_number: '44243'
   image_url:
+printings:
+- language: ja
+  set_code:
+  set_mark: SV-P
+  set_name: ポケモンカードゲーム ワールドチャンピオンシップス2023 横浜
+  collector_number: '44243'
+  collector_number_unprinted: true
+  rarity:
+  rarity_unprinted: true
+  illustrator: Naoki Saito
+  illustrator_unprinted: false
+  regulation_mark:
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: SV-P
+  set_name: ポケモンワールドチャンピオンシップス2024
+  collector_number: '46228'
+  collector_number_unprinted: true
+  rarity:
+  rarity_unprinted: true
+  illustrator: Naoki Saito
+  illustrator_unprinted: false
+  regulation_mark:
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: SV-P
+  set_name: ポケモンワールドチャンピオンシップス2025
+  collector_number: '48261'
+  collector_number_unprinted: true
+  rarity:
+  rarity_unprinted: true
+  illustrator: Naoki Saito
+  illustrator_unprinted: false
+  regulation_mark:
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV-P/048261_T_PARADAISURIZOTO.jpg
+- language: en
+  set_code: MEP
+  set_mark: MEP
+  set_name: MEP
+  collector_number: '92'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: Naoki Saito
+  illustrator_unprinted: false
+  regulation_mark: J
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/MEP/MEP_092_R_EN_XS.png
+- language: en
+  set_code: SVP
+  set_mark: SVP
+  set_name: SVP
+  collector_number: '150'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: Naoki Saito
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVP/SVP_150_R_EN_XS.png
+- language: en
+  set_code: SVP
+  set_mark: SVP
+  set_name: SVP
+  collector_number: '224'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: Naoki Saito
+  illustrator_unprinted: false
+  regulation_mark: I
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVP/SVP_224_R_EN_XS.png

@@ -1,5 +1,5 @@
 ---
-schema_version: 1
+schema_version: 2
 slug: pikachu-ex-3
 name:
   ja: ピカチュウex
@@ -47,4 +47,18 @@ first_appearance:
   released_at: '2025-12-19'
   regulation_mark: J
   collector_number: '006'
+  image_url:
+printings:
+- language: ja
+  set_code:
+  set_mark: MP1
+  set_name: スタートデッキ100 バトルコレクション コロちゃおVer.
+  collector_number: '006'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: 5ban Graphics
+  illustrator_unprinted: false
+  regulation_mark: J
+  regulation_mark_unprinted: false
   image_url:

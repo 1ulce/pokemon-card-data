@@ -1,8 +1,6 @@
 ---
-schema_version: 1
+schema_version: 2
 slug: munkidori
-external_link:
-  cabt_id: 112
 name:
   ja: マシマシラ
   en: Munkidori
@@ -54,4 +52,148 @@ first_appearance:
   released_at: '2024-04-26'
   regulation_mark: H
   collector_number: '055'
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV6/045746_P_MASHIMASHIRA.jpg
+printings:
+- language: ja
+  set_code: SV6
+  set_mark: SV6
+  set_name: 変幻の仮面
+  collector_number: '055'
+  collector_number_unprinted: false
+  rarity: R
+  rarity_unprinted: false
+  illustrator: kodama
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV6/045746_P_MASHIMASHIRA.jpg
+- language: ja
+  set_code: SV6
+  set_mark: SV6
+  set_name: 変幻の仮面
+  collector_number: '107'
+  collector_number_unprinted: false
+  rarity: AR
+  rarity_unprinted: false
+  illustrator: Teeziro
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV6/045849_P_MASHIMASHIRA.jpg
+- language: ja
+  set_code: SV8a
+  set_mark: SV8a
+  set_name: テラスタルフェスex
+  collector_number: '075'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: kodama
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
   image_url:
+- language: ja
+  set_code: M2a
+  set_mark: M2a
+  set_name: MEGAドリームex
+  collector_number: '081'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: kodama
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: MC
+  set_name: スタートデッキ100 バトルコレクション
+  collector_number: '358'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: kodama
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: M-P
+  set_name: ポケモンカードゲーム MEGA　プロモカードパック第1弾
+  collector_number: '48249'
+  collector_number_unprinted: true
+  rarity:
+  rarity_unprinted: true
+  illustrator: kodama
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url:
+- language: en
+  set_code: TWM
+  set_mark: TWM
+  set_name: TWM
+  collector_number: '95'
+  collector_number_unprinted: false
+  rarity: R
+  rarity_unprinted: false
+  illustrator: kodama
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TWM/TWM_095_R_EN_XS.png
+- language: en
+  set_code: SFA
+  set_mark: SFA
+  set_name: SFA
+  collector_number: '72'
+  collector_number_unprinted: false
+  rarity: AR
+  rarity_unprinted: false
+  illustrator: Teeziro
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SFA/SFA_072_R_EN_XS.png
+- language: en
+  set_code: PRE
+  set_mark: PRE
+  set_name: PRE
+  collector_number: '44'
+  collector_number_unprinted: false
+  rarity: R
+  rarity_unprinted: false
+  illustrator: kodama
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PRE/PRE_044_R_EN_XS.png
+- language: en
+  set_code: ASC
+  set_mark: ASC
+  set_name: ASC
+  collector_number: '99'
+  collector_number_unprinted: false
+  rarity: R
+  rarity_unprinted: false
+  illustrator: kodama
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/ASC/ASC_099_R_EN_XS.png
+- language: en
+  set_code: SVALT
+  set_mark: SVALT
+  set_name: SVALT
+  collector_number: '155'
+  collector_number_unprinted: false
+  rarity: R
+  rarity_unprinted: false
+  illustrator: kodama
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TWM/TWM_095_R_EN_XS.png

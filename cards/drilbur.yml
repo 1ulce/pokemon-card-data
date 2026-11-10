@@ -1,8 +1,6 @@
 ---
-schema_version: 1
+schema_version: 2
 slug: drilbur
-external_link:
-  cabt_id: 81
 name:
   ja: モグリュー
   en: Drilbur
@@ -54,4 +52,44 @@ first_appearance:
   released_at: '2024-01-26'
   regulation_mark: H
   collector_number: '039'
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV5M/045256_P_MOGURIXYU.jpg
+printings:
+- language: ja
+  set_code: SV5M
+  set_mark: SV5M
+  set_name: サイバージャッジ
+  collector_number: '039'
+  collector_number_unprinted: false
+  rarity: C
+  rarity_unprinted: false
+  illustrator: Kariya
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV5M/045256_P_MOGURIXYU.jpg
+- language: ja
+  set_code: SV8a
+  set_mark: SV8a
+  set_name: テラスタルフェスex
+  collector_number: '083'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: Kariya
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
   image_url:
+- language: en
+  set_code: TEF
+  set_mark: TEF
+  set_name: TEF
+  collector_number: '85'
+  collector_number_unprinted: false
+  rarity: C
+  rarity_unprinted: false
+  illustrator: Kariya
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TEF/TEF_085_R_EN_XS.png

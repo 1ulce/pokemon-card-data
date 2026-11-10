@@ -1,8 +1,6 @@
 ---
-schema_version: 1
+schema_version: 2
 slug: team-rocket-s-exeggutor
-external_link:
-  cabt_id: 874
 name:
   ja: ロケット団のナッシー
   en: Team Rocket's Exeggutor
@@ -59,4 +57,31 @@ first_appearance:
   released_at: '2025-11-28'
   regulation_mark: I
   collector_number: '062'
-  image_url:
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/M2a/048584_P_ROKETTODANNONASSHI.jpg
+printings:
+- language: ja
+  set_code: M2a
+  set_mark: M2a
+  set_name: MEGAドリームex
+  collector_number: '062'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: Ryuta Fuse
+  illustrator_unprinted: false
+  regulation_mark: I
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/M2a/048584_P_ROKETTODANNONASSHI.jpg
+- language: en
+  set_code: ASC
+  set_mark: ASC
+  set_name: ASC
+  collector_number: '78'
+  collector_number_unprinted: false
+  rarity: R
+  rarity_unprinted: false
+  illustrator: Ryuta Fuse
+  illustrator_unprinted: false
+  regulation_mark: I
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/ASC/ASC_078_R_EN_XS.png

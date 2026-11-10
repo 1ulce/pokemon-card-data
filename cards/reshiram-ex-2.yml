@@ -1,8 +1,6 @@
 ---
-schema_version: 1
+schema_version: 2
 slug: reshiram-ex-2
-external_link:
-  cabt_id: 573
 name:
   ja: レシラムex
   en: Reshiram ex
@@ -61,3 +59,147 @@ first_appearance:
   regulation_mark: I
   collector_number: '017'
   image_url:
+printings:
+- language: ja
+  set_code: SV11W
+  set_mark: SV11W
+  set_name: ホワイトフレア
+  collector_number: '017'
+  collector_number_unprinted: false
+  rarity: RR
+  rarity_unprinted: false
+  illustrator: 5ban Graphics
+  illustrator_unprinted: false
+  regulation_mark: I
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code: SV11W
+  set_mark: SV11W
+  set_name: ホワイトフレア
+  collector_number: '160'
+  collector_number_unprinted: false
+  rarity: SR
+  rarity_unprinted: false
+  illustrator: 5ban Graphics
+  illustrator_unprinted: false
+  regulation_mark: I
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV11W/048072_P_RESHIRAMUEX.jpg
+- language: ja
+  set_code: SV11W
+  set_mark: SV11W
+  set_name: ホワイトフレア
+  collector_number: '168'
+  collector_number_unprinted: false
+  rarity: SAR
+  rarity_unprinted: false
+  illustrator: kawayoo
+  illustrator_unprinted: false
+  regulation_mark: I
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV11W/048080_P_RESHIRAMUEX.jpg
+- language: ja
+  set_code: SV11W
+  set_mark: SV11W
+  set_name: ホワイトフレア
+  collector_number: '174'
+  collector_number_unprinted: false
+  rarity: BWR
+  rarity_unprinted: false
+  illustrator: 5ban Graphics
+  illustrator_unprinted: false
+  regulation_mark: I
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code: M2a
+  set_mark: M2a
+  set_name: MEGAドリームex
+  collector_number: '029'
+  collector_number_unprinted: false
+  rarity: RR
+  rarity_unprinted: false
+  illustrator: 5ban Graphics
+  illustrator_unprinted: false
+  regulation_mark: I
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/M2a/048551_P_RESHIRAMUEX.jpg
+- language: ja
+  set_code:
+  set_mark: MC
+  set_name: スタートデッキ100 バトルコレクション
+  collector_number: '126'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: 5ban Graphics
+  illustrator_unprinted: false
+  regulation_mark: I
+  regulation_mark_unprinted: false
+  image_url:
+- language: en
+  set_code: WHT
+  set_mark: WHT
+  set_name: WHT
+  collector_number: '20'
+  collector_number_unprinted: false
+  rarity: RR
+  rarity_unprinted: false
+  illustrator: 5ban Graphics
+  illustrator_unprinted: false
+  regulation_mark: I
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/WHT/WHT_020_R_EN_XS.png
+- language: en
+  set_code: WHT
+  set_mark: WHT
+  set_name: WHT
+  collector_number: '158'
+  collector_number_unprinted: false
+  rarity: SR
+  rarity_unprinted: false
+  illustrator: 5ban Graphics
+  illustrator_unprinted: false
+  regulation_mark: I
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/WHT/WHT_158_R_EN_XS.png
+- language: en
+  set_code: WHT
+  set_mark: WHT
+  set_name: WHT
+  collector_number: '166'
+  collector_number_unprinted: false
+  rarity: SAR
+  rarity_unprinted: false
+  illustrator: kawayoo
+  illustrator_unprinted: false
+  regulation_mark: I
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/WHT/WHT_166_R_EN_XS.png
+- language: en
+  set_code: WHT
+  set_mark: WHT
+  set_name: WHT
+  collector_number: '173'
+  collector_number_unprinted: false
+  rarity: UR
+  rarity_unprinted: false
+  illustrator: 5ban Graphics
+  illustrator_unprinted: false
+  regulation_mark: I
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/WHT/WHT_173_R_EN_XS.png
+- language: en
+  set_code: SVALT
+  set_mark: SVALT
+  set_name: SVALT
+  collector_number: '233'
+  collector_number_unprinted: false
+  rarity: RR
+  rarity_unprinted: false
+  illustrator: 5ban Graphics
+  illustrator_unprinted: false
+  regulation_mark: I
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/WHT/WHT_020_R_EN_XS.png

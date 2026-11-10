@@ -1,5 +1,5 @@
 ---
-schema_version: 1
+schema_version: 2
 slug: iron-valiant
 name:
   ja: テツノブジン
@@ -57,3 +57,56 @@ first_appearance:
   regulation_mark: H
   collector_number: '010'
   image_url:
+printings:
+- language: ja
+  set_code:
+  set_mark: SVHM
+  set_name: 未来のミライドンex
+  collector_number: '010'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: takuyoa
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: MC
+  set_name: スタートデッキ100 バトルコレクション
+  collector_number: '357'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: takuyoa
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/MC/049073_P_TETSUNOBUJIN.jpg
+- language: en
+  set_code: TEF
+  set_mark: TEF
+  set_name: TEF
+  collector_number: '79'
+  collector_number_unprinted: false
+  rarity: U
+  rarity_unprinted: false
+  illustrator: takuyoa
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TEF/TEF_079_R_EN_XS.png
+- language: en
+  set_code: SVALT
+  set_mark: SVALT
+  set_name: SVALT
+  collector_number: '79'
+  collector_number_unprinted: false
+  rarity: U
+  rarity_unprinted: false
+  illustrator: takuyoa
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TEF/TEF_079_R_EN_XS.png

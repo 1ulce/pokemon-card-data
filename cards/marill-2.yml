@@ -1,5 +1,5 @@
 ---
-schema_version: 1
+schema_version: 2
 slug: marill-2
 name:
   ja: マリル
@@ -10,7 +10,7 @@ card_subtype: たねポケモン
 energy_type: Psychic
 hp: 60
 retreat_cost: 1
-regulation_mark: J
+regulation_mark: H
 meta_tags: []
 evolves_from:
   ja:
@@ -42,6 +42,46 @@ attacks:
 first_appearance:
   set_name_ja: スタートデッキ100 バトルコレクション
   released_at: '2025-12-19'
-  regulation_mark: J
+  regulation_mark: H
   collector_number: '294'
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/MC/049010_P_MARIRU.jpg
+printings:
+- language: ja
+  set_code:
+  set_mark: MC
+  set_name: スタートデッキ100 バトルコレクション
+  collector_number: '294'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: Shimaris Yukichi
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/MC/049010_P_MARIRU.jpg
+- language: ja
+  set_code:
+  set_mark: SVLN
+  set_name: スターターセット テラスタイプ：ステラ ニンフィアex
+  collector_number: '003'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: Shimaris Yukichi
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
   image_url:
+- language: en
+  set_code: SSP
+  set_mark: SSP
+  set_name: SSP
+  collector_number: '73'
+  collector_number_unprinted: false
+  rarity: C
+  rarity_unprinted: false
+  illustrator: Shimaris Yukichi
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SSP/SSP_073_R_EN_XS.png

@@ -1,0 +1,111 @@
+---
+schema_version: 2
+slug: wishiwashi-ex
+name:
+  ja: ヨワシex
+  en: Wishiwashi ex
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Water
+hp: 260
+retreat_cost: 3
+regulation_mark: J
+meta_tags:
+- ex
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Lightning
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja: ポケモンexがきぜつしたとき、相手はサイドを2枚とる。
+  en:
+abilities:
+- position: 0
+  name:
+    ja: オーシャンゲイン
+    en: Oceanic Gain
+  effect_text:
+    ja: このポケモンがバトル場にいるなら、自分の番に1回使える。このポケモンのHPを「50」回復する。
+    en: Once during your turn, if this Pokémon is in the Active Spot, you may use this Ability. Heal 50 damage from this Pokémon.
+attacks:
+- position: 0
+  name:
+    ja: ハイドロスプラッシュ
+    en: Hydro Splash
+  cost:
+  - Water
+  - Water
+  - Water
+  - Colorless
+  damage: '220'
+  effect_text:
+    ja:
+    en:
+first_appearance:
+  set_name_ja: ストームエメラルダ
+  released_at: '2026-07-31'
+  regulation_mark: J
+  collector_number: '021'
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/M6/050359_P_YOWASHIIEKKUSU.jpg
+printings:
+- language: ja
+  set_code: M6
+  set_mark: M6
+  set_name: ストームエメラルダ
+  collector_number: '021'
+  collector_number_unprinted: false
+  rarity: RR
+  rarity_unprinted: false
+  illustrator: 5ban Graphics
+  illustrator_unprinted: false
+  regulation_mark: J
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/M6/050359_P_YOWASHIIEKKUSU.jpg
+- language: ja
+  set_code: M6
+  set_mark: M6
+  set_name: ストームエメラルダ
+  collector_number: '091'
+  collector_number_unprinted: false
+  rarity: SR
+  rarity_unprinted: false
+  illustrator: 5ban Graphics
+  illustrator_unprinted: false
+  regulation_mark: J
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/M6/050532_P_YOWASHIIEKKUSU.jpg
+- language: en
+  set_code: DLR
+  set_mark: DLR
+  set_name: Mega Evolution—Delta Reign
+  collector_number: '29'
+  collector_number_unprinted: false
+  rarity: RR
+  rarity_unprinted: false
+  illustrator:
+  illustrator_unprinted: false
+  regulation_mark: J
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DLR/DLR_029_R_EN_XS.png
+- language: en
+  set_code: DLR
+  set_mark: DLR
+  set_name: Mega Evolution—Delta Reign
+  collector_number: '120'
+  collector_number_unprinted: false
+  rarity: SR
+  rarity_unprinted: false
+  illustrator:
+  illustrator_unprinted: false
+  regulation_mark: J
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DLR/DLR_120_R_EN_XS.png

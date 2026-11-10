@@ -1,8 +1,6 @@
 ---
-schema_version: 1
+schema_version: 2
 slug: bruxish
-external_link:
-  cabt_id: 180
 name:
   ja: ハギギシリ
   en: Bruxish
@@ -54,4 +52,57 @@ first_appearance:
   released_at: '2024-09-13'
   regulation_mark: H
   collector_number: '012'
-  image_url:
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV7a/046241_P_HAGIGISHIRI.jpg
+printings:
+- language: ja
+  set_code: SV7a
+  set_mark: SV7a
+  set_name: 楽園ドラゴーナ
+  collector_number: '012'
+  collector_number_unprinted: false
+  rarity: U
+  rarity_unprinted: false
+  illustrator: Shibuzoh.
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV7a/046241_P_HAGIGISHIRI.jpg
+- language: ja
+  set_code: SV7a
+  set_mark: SV7a
+  set_name: 楽園ドラゴーナ
+  collector_number: '068'
+  collector_number_unprinted: false
+  rarity: AR
+  rarity_unprinted: false
+  illustrator: Mitsuhiro Arita
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV7a/046314_P_HAGIGISHIRI.jpg
+- language: en
+  set_code: SSP
+  set_mark: SSP
+  set_name: SSP
+  collector_number: '49'
+  collector_number_unprinted: false
+  rarity: U
+  rarity_unprinted: false
+  illustrator: Shibuzoh.
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SSP/SSP_049_R_EN_XS.png
+- language: en
+  set_code: SSP
+  set_mark: SSP
+  set_name: SSP
+  collector_number: '200'
+  collector_number_unprinted: false
+  rarity: AR
+  rarity_unprinted: false
+  illustrator: Mitsuhiro Arita
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SSP/SSP_200_R_EN_XS.png

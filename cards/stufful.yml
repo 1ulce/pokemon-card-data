@@ -1,8 +1,6 @@
 ---
-schema_version: 1
+schema_version: 2
 slug: stufful
-external_link:
-  cabt_id: 760
 name:
   ja: ヌイコグマ
   en: Stufful
@@ -57,4 +55,57 @@ first_appearance:
   released_at: '2025-08-01'
   regulation_mark: I
   collector_number: '055'
-  image_url:
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/M1S/047851_P_NUIKOGUMA.jpg
+printings:
+- language: ja
+  set_code: M1S
+  set_mark: M1S
+  set_name: メガシンフォニア
+  collector_number: '055'
+  collector_number_unprinted: false
+  rarity: C
+  rarity_unprinted: false
+  illustrator: Shibuzoh.
+  illustrator_unprinted: false
+  regulation_mark: I
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/M1S/047851_P_NUIKOGUMA.jpg
+- language: ja
+  set_code: M1S
+  set_mark: M1S
+  set_name: メガシンフォニア
+  collector_number: '075'
+  collector_number_unprinted: false
+  rarity: AR
+  rarity_unprinted: false
+  illustrator: OKACHEKE
+  illustrator_unprinted: false
+  regulation_mark: I
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/M1S/048461_P_NUIKOGUMA.jpg
+- language: en
+  set_code: MEG
+  set_mark: MEG
+  set_name: MEG
+  collector_number: '111'
+  collector_number_unprinted: false
+  rarity: C
+  rarity_unprinted: false
+  illustrator: Shibuzoh.
+  illustrator_unprinted: false
+  regulation_mark: I
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/MEG/MEG_111_R_EN_XS.png
+- language: en
+  set_code: MEG
+  set_mark: MEG
+  set_name: MEG
+  collector_number: '154'
+  collector_number_unprinted: false
+  rarity: AR
+  rarity_unprinted: false
+  illustrator: OKACHEKE
+  illustrator_unprinted: false
+  regulation_mark: I
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/MEG/MEG_154_R_EN_XS.png

@@ -1,8 +1,6 @@
 ---
-schema_version: 1
+schema_version: 2
 slug: precious-trolley
-external_link:
-  cabt_id: 1126
 name:
   ja: プレシャスキャリー
   en: Precious Trolley
@@ -12,7 +10,7 @@ card_subtype: Item
 energy_type:
 hp:
 retreat_cost:
-regulation_mark: J
+regulation_mark: H
 meta_tags:
 - ace_spec
 evolves_from:
@@ -35,6 +33,46 @@ attacks: []
 first_appearance:
   set_name_ja: スタートデッキ100 バトルコレクション
   released_at: '2025-12-19'
-  regulation_mark: J
+  regulation_mark: H
   collector_number: '658'
   image_url:
+printings:
+- language: ja
+  set_code:
+  set_mark: MC
+  set_name: スタートデッキ100 バトルコレクション
+  collector_number: '658'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: inose yukie
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: SVLN
+  set_name: スターターセット テラスタイプ：ステラ ニンフィアex
+  collector_number: '015'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: inose yukie
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url:
+- language: en
+  set_code: SSP
+  set_mark: SSP
+  set_name: SSP
+  collector_number: '185'
+  collector_number_unprinted: false
+  rarity: SR
+  rarity_unprinted: false
+  illustrator: inose yukie
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SSP/SSP_185_R_EN_XS.png

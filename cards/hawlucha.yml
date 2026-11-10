@@ -1,5 +1,5 @@
 ---
-schema_version: 1
+schema_version: 2
 slug: hawlucha
 name:
   ja: ルチャブル
@@ -45,4 +45,31 @@ first_appearance:
   released_at: '2024-03-22'
   regulation_mark: H
   collector_number: '046'
-  image_url:
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV5a/045622_P_RUCHIXYABURU.jpg
+printings:
+- language: ja
+  set_code: SV5a
+  set_mark: SV5a
+  set_name: クリムゾンヘイズ
+  collector_number: '046'
+  collector_number_unprinted: false
+  rarity: C
+  rarity_unprinted: false
+  illustrator: Shigenori Negishi
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV5a/045622_P_RUCHIXYABURU.jpg
+- language: en
+  set_code: TWM
+  set_mark: TWM
+  set_name: TWM
+  collector_number: '107'
+  collector_number_unprinted: false
+  rarity: C
+  rarity_unprinted: false
+  illustrator: Shigenori Negishi
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TWM/TWM_107_R_EN_XS.png

@@ -1,8 +1,6 @@
 ---
-schema_version: 1
+schema_version: 2
 slug: gravity-mountain
-external_link:
-  cabt_id: 1252
 name:
   ja: グラビティーマウンテン
   en: Gravity Mountain
@@ -36,4 +34,70 @@ first_appearance:
   released_at: '2024-10-18'
   regulation_mark: H
   collector_number: '106'
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV8/046446_T_GURABITEIMAUNTEN.jpg
+printings:
+- language: ja
+  set_code: SV8
+  set_mark: SV8
+  set_name: 超電ブレイカー
+  collector_number: '106'
+  collector_number_unprinted: false
+  rarity: U
+  rarity_unprinted: false
+  illustrator: AYUMI ODASHIMA
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV8/046446_T_GURABITEIMAUNTEN.jpg
+- language: ja
+  set_code: SV8
+  set_mark: SV8
+  set_name: 超電ブレイカー
+  collector_number: '138'
+  collector_number_unprinted: false
+  rarity: UR
+  rarity_unprinted: false
+  illustrator: AYUMI ODASHIMA
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV8/046661_T_GURABITEIMAUNTEN.jpg
+- language: ja
+  set_code: M2a
+  set_mark: M2a
+  set_name: MEGAドリームex
+  collector_number: '183'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: AYUMI ODASHIMA
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
   image_url:
+- language: en
+  set_code: SSP
+  set_mark: SSP
+  set_name: SSP
+  collector_number: '177'
+  collector_number_unprinted: false
+  rarity: U
+  rarity_unprinted: false
+  illustrator: AYUMI ODASHIMA
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SSP/SSP_177_R_EN_XS.png
+- language: en
+  set_code: SSP
+  set_mark: SSP
+  set_name: SSP
+  collector_number: '250'
+  collector_number_unprinted: false
+  rarity: UR
+  rarity_unprinted: false
+  illustrator: AYUMI ODASHIMA
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SSP/SSP_250_R_EN_XS.png

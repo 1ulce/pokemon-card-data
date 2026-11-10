@@ -1,5 +1,5 @@
 ---
-schema_version: 1
+schema_version: 2
 slug: nymble
 name:
   ja: マメバッタ
@@ -44,4 +44,31 @@ first_appearance:
   released_at:
   regulation_mark: H
   collector_number: '003'
-  image_url:
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SVI/045419_P_MAMEBATTA.jpg
+printings:
+- language: ja
+  set_code:
+  set_mark: SVI
+  set_name: いつでもどこでも バトルアカデミー
+  collector_number: '003'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: HYOGONOSUKE
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SVI/045419_P_MAMEBATTA.jpg
+- language: en
+  set_code: SCR
+  set_mark: SCR
+  set_name: SCR
+  collector_number: '15'
+  collector_number_unprinted: false
+  rarity: C
+  rarity_unprinted: false
+  illustrator: HYOGONOSUKE
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SCR/SCR_015_R_EN_XS.png

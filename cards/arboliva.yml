@@ -1,0 +1,82 @@
+---
+schema_version: 2
+slug: arboliva
+name:
+  ja: オリーヴァ
+  en: Arboliva
+  prefix:
+card_type: Pokémon
+card_subtype: 2進化
+energy_type: Grass
+hp: 150
+retreat_cost: 2
+regulation_mark: J
+meta_tags: []
+evolves_from:
+  ja: オリーニョ
+  en: Dolliv
+weakness:
+  type: Fire
+  value: "×2"
+resistance:
+  type:
+  value:
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities:
+- position: 0
+  name:
+    ja: オイルスリップ
+    en: Slippery Oil
+  effect_text:
+    ja: 自分の番に1回使える。相手のバトルポケモンをベンチポケモンと入れ替える。［バトル場に出すポケモンは相手が選ぶ。］
+    en: Once during your turn, you may use this Ability. Switch out your opponent's Active Pokémon to the Bench. (Your opponent chooses the new Active Pokémon.)
+attacks:
+- position: 0
+  name:
+    ja: メガドレイン
+    en: Mega Drain
+  cost:
+  - Grass
+  - Colorless
+  damage: '100'
+  effect_text:
+    ja: このポケモンのHPを「30」回復する。
+    en: Heal 30 damage from this Pokémon.
+first_appearance:
+  set_name_ja: スターターセットex ニャオハ＆マスカーニャex
+  released_at:
+  regulation_mark: J
+  collector_number: '008'
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/MEM/050459_P_ORIA.jpg
+printings:
+- language: ja
+  set_code:
+  set_mark: MEM
+  set_name: スターターセットex ニャオハ＆マスカーニャex
+  collector_number: '008'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: Aliya Chen
+  illustrator_unprinted: false
+  regulation_mark: J
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/MEM/050459_P_ORIA.jpg
+- language: en
+  set_code: DLR
+  set_mark: DLR
+  set_name: Mega Evolution—Delta Reign
+  collector_number: '17'
+  collector_number_unprinted: false
+  rarity: U
+  rarity_unprinted: false
+  illustrator:
+  illustrator_unprinted: false
+  regulation_mark: J
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DLR/DLR_017_R_EN_XS.png

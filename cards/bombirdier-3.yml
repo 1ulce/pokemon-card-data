@@ -1,5 +1,5 @@
 ---
-schema_version: 1
+schema_version: 2
 slug: bombirdier-3
 name:
   ja: オトシドリ
@@ -57,4 +57,31 @@ first_appearance:
   released_at: '2026-05-22'
   regulation_mark: J
   collector_number: '069'
-  image_url:
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/M5/050288_P_OTOSHIDORI.jpg
+printings:
+- language: ja
+  set_code: M5
+  set_mark: M5
+  set_name: アビスアイ
+  collector_number: '069'
+  collector_number_unprinted: false
+  rarity: C
+  rarity_unprinted: false
+  illustrator: Wintr Wandr
+  illustrator_unprinted: false
+  regulation_mark: J
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/M5/050288_P_OTOSHIDORI.jpg
+- language: en
+  set_code: PBL
+  set_mark: PBL
+  set_name: PBL
+  collector_number: '71'
+  collector_number_unprinted: false
+  rarity: C
+  rarity_unprinted: false
+  illustrator: Wintr Wandr
+  illustrator_unprinted: false
+  regulation_mark: J
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PBL/PBL_071_R_EN_XS.png

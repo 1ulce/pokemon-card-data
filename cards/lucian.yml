@@ -1,8 +1,6 @@
 ---
-schema_version: 1
+schema_version: 2
 slug: lucian
-external_link:
-  cabt_id: 1237
 name:
   ja: ゴヨウ
   en: Lucian
@@ -36,4 +34,83 @@ first_appearance:
   released_at: '2024-03-22'
   regulation_mark: H
   collector_number: '062'
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV5a/045635_T_GOYOU.jpg
+printings:
+- language: ja
+  set_code: SV5a
+  set_mark: SV5a
+  set_name: クリムゾンヘイズ
+  collector_number: '062'
+  collector_number_unprinted: false
+  rarity: U
+  rarity_unprinted: false
+  illustrator: hncl
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV5a/045635_T_GOYOU.jpg
+- language: ja
+  set_code: SV5a
+  set_mark: SV5a
+  set_name: クリムゾンヘイズ
+  collector_number: '086'
+  collector_number_unprinted: false
+  rarity: SR
+  rarity_unprinted: false
+  illustrator: hncl
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV5a/045681_T_GOYOU.jpg
+- language: ja
+  set_code:
+  set_mark: SVM
+  set_name: スタートデッキGenerations ディアルガex・ルカリオex
+  collector_number: '153'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: hncl
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
   image_url:
+- language: ja
+  set_code:
+  set_mark: MC
+  set_name: スタートデッキ100 バトルコレクション
+  collector_number: '707'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: hncl
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url:
+- language: en
+  set_code: TWM
+  set_mark: TWM
+  set_name: TWM
+  collector_number: '157'
+  collector_number_unprinted: false
+  rarity: U
+  rarity_unprinted: false
+  illustrator: hncl
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TWM/TWM_157_R_EN_XS.png
+- language: en
+  set_code: TWM
+  set_mark: TWM
+  set_name: TWM
+  collector_number: '208'
+  collector_number_unprinted: false
+  rarity: SR
+  rarity_unprinted: false
+  illustrator: hncl
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TWM/TWM_208_R_EN_XS.png

@@ -1,8 +1,6 @@
 ---
-schema_version: 1
+schema_version: 2
 slug: team-rocket-s-nidoqueen
-external_link:
-  cabt_id: 452
 name:
   ja: ロケット団のニドクイン
   en: Team Rocket's Nidoqueen
@@ -57,4 +55,44 @@ first_appearance:
   released_at: '2025-04-18'
   regulation_mark: I
   collector_number: '060'
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV10/047453_P_ROKETTODANNONIDOKUIN.jpg
+printings:
+- language: ja
+  set_code: SV10
+  set_mark: SV10
+  set_name: ロケット団の栄光
+  collector_number: '060'
+  collector_number_unprinted: false
+  rarity: U
+  rarity_unprinted: false
+  illustrator: hncl
+  illustrator_unprinted: false
+  regulation_mark: I
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV10/047453_P_ROKETTODANNONIDOKUIN.jpg
+- language: ja
+  set_code:
+  set_mark: MC
+  set_name: スタートデッキ100 バトルコレクション
+  collector_number: '434'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: hncl
+  illustrator_unprinted: false
+  regulation_mark: I
+  regulation_mark_unprinted: false
   image_url:
+- language: en
+  set_code: DRI
+  set_mark: DRI
+  set_name: DRI
+  collector_number: '116'
+  collector_number_unprinted: false
+  rarity: U
+  rarity_unprinted: false
+  illustrator: hncl
+  illustrator_unprinted: false
+  regulation_mark: I
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRI/DRI_116_R_EN_XS.png

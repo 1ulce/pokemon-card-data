@@ -1,5 +1,5 @@
 ---
-schema_version: 1
+schema_version: 2
 slug: mew
 name:
   ja: ミュウ
@@ -46,3 +46,82 @@ first_appearance:
   regulation_mark: J
   collector_number: '011'
   image_url:
+printings:
+- language: ja
+  set_code:
+  set_mark: MF
+  set_name: 30th CELEBRATION プレミアムデッキセット エーフィ・ブラッキー
+  collector_number: '011'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: Cona Nitanda
+  illustrator_unprinted: false
+  regulation_mark: J
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code: M6a
+  set_mark: M6a
+  set_name: 拡張パック 30th CELEBRATION
+  collector_number: '056'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: danciao
+  illustrator_unprinted: false
+  regulation_mark: J
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/M6a/050668_P_MIXYUU.jpg
+- language: en
+  set_code: 30C
+  set_mark: 30C
+  set_name: 30C
+  collector_number: B
+  collector_number_unprinted: false
+  rarity: UR
+  rarity_unprinted: false
+  illustrator: YOSHIROTTEN
+  illustrator_unprinted: false
+  regulation_mark: J
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/30C/30C_B_R_EN_XS.png
+- language: en
+  set_code: 30C
+  set_mark: 30C
+  set_name: 30C
+  collector_number: G
+  collector_number_unprinted: false
+  rarity: UR
+  rarity_unprinted: false
+  illustrator: YOSHIROTTEN
+  illustrator_unprinted: false
+  regulation_mark: J
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/30C/30C_G_R_EN_XS.png
+- language: en
+  set_code: 30C
+  set_mark: 30C
+  set_name: 30C
+  collector_number: R
+  collector_number_unprinted: false
+  rarity: UR
+  rarity_unprinted: false
+  illustrator: YOSHIROTTEN
+  illustrator_unprinted: false
+  regulation_mark: J
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/30C/30C_R_R_EN_XS.png
+- language: en
+  set_code: 30C
+  set_mark: 30C
+  set_name: 30C
+  collector_number: '65'
+  collector_number_unprinted: false
+  rarity: R
+  rarity_unprinted: false
+  illustrator: danciao
+  illustrator_unprinted: false
+  regulation_mark: J
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/30C/30C_065_R_EN_XS.png

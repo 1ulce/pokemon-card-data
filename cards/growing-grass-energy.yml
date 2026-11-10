@@ -1,8 +1,6 @@
 ---
-schema_version: 1
+schema_version: 2
 slug: growing-grass-energy
-external_link:
-  cabt_id: 18
 name:
   ja: グロウ草エネルギー
   en: Growing Grass Energy
@@ -39,4 +37,57 @@ first_appearance:
   released_at: '2026-01-23'
   regulation_mark: J
   collector_number: '078'
-  image_url:
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/M3/049711_E_GUROUKUSAENERUGI.jpg
+printings:
+- language: ja
+  set_code: M3
+  set_mark: M3
+  set_name: ムニキスゼロ
+  collector_number: '078'
+  collector_number_unprinted: false
+  rarity: R
+  rarity_unprinted: false
+  illustrator:
+  illustrator_unprinted: true
+  regulation_mark: J
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/M3/049711_E_GUROUKUSAENERUGI.jpg
+- language: ja
+  set_code: M6
+  set_mark: M6
+  set_name: ストームエメラルダ
+  collector_number: '104'
+  collector_number_unprinted: false
+  rarity: SR
+  rarity_unprinted: false
+  illustrator:
+  illustrator_unprinted: true
+  regulation_mark: J
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/M6/050545_E_GUROUKUSAENERUGI.jpg
+- language: en
+  set_code: POR
+  set_mark: POR
+  set_name: POR
+  collector_number: '86'
+  collector_number_unprinted: false
+  rarity: R
+  rarity_unprinted: false
+  illustrator:
+  illustrator_unprinted: true
+  regulation_mark: J
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/POR/POR_086_R_EN_XS.png
+- language: en
+  set_code: DLR
+  set_mark: DLR
+  set_name: Mega Evolution—Delta Reign
+  collector_number: '133'
+  collector_number_unprinted: false
+  rarity: SR
+  rarity_unprinted: false
+  illustrator:
+  illustrator_unprinted: true
+  regulation_mark: J
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DLR/DLR_133_R_EN_XS.png

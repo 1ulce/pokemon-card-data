@@ -1,5 +1,5 @@
 ---
-schema_version: 1
+schema_version: 2
 slug: ariados-3
 name:
   ja: アリアドス
@@ -32,17 +32,17 @@ attacks:
 - position: 0
   name:
     ja: げきつうどく 
-    en:
+    en: Tormenting Poison
   cost:
   - Darkness
   damage:
   effect_text:
     ja: 相手のバトルポケモンをどくにする。このどくでのせるダメカンの数は4個になる。
-    en:
+    en: Your opponent's Active Pokémon is now Poisoned. During Pokémon Checkup, place 4 damage counters on that Pokémon instead of 1.
 - position: 1
   name:
     ja: おんみつばり
-    en:
+    en: Stealthy Sting
   cost:
   - Colorless
   - Colorless
@@ -50,10 +50,37 @@ attacks:
   damage: '80'
   effect_text:
     ja: 次の相手の番、このポケモンはたねポケモンからワザのダメージを受けない。
-    en:
+    en: During your opponent's next turn, prevent all damage done to this Pokémon by attacks from Basic Pokémon.
 first_appearance:
   set_name_ja: ストームエメラルダ
   released_at: '2026-07-31'
   regulation_mark: J
   collector_number: '045'
-  image_url:
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/M6/050383_P_ARIADOSU.jpg
+printings:
+- language: ja
+  set_code: M6
+  set_mark: M6
+  set_name: ストームエメラルダ
+  collector_number: '045'
+  collector_number_unprinted: false
+  rarity: C
+  rarity_unprinted: false
+  illustrator: UKUMO uiti
+  illustrator_unprinted: false
+  regulation_mark: J
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/M6/050383_P_ARIADOSU.jpg
+- language: en
+  set_code: DLR
+  set_mark: DLR
+  set_name: Mega Evolution—Delta Reign
+  collector_number: '59'
+  collector_number_unprinted: false
+  rarity: C
+  rarity_unprinted: false
+  illustrator:
+  illustrator_unprinted: false
+  regulation_mark: J
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DLR/DLR_059_R_EN_XS.png

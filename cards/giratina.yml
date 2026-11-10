@@ -1,0 +1,76 @@
+---
+schema_version: 2
+slug: giratina
+name:
+  ja: ギラティナ
+  en: Giratina
+  prefix:
+card_type: Pokémon
+card_subtype: たねポケモン
+energy_type: Psychic
+hp: 130
+retreat_cost: 3
+regulation_mark: J
+meta_tags: []
+evolves_from:
+  ja:
+  en:
+weakness:
+  type: Darkness
+  value: "×2"
+resistance:
+  type: Fighting
+  value: "-30"
+body_text:
+  ja:
+  en:
+rules_text:
+  ja:
+  en:
+abilities: []
+attacks:
+- position: 0
+  name:
+    ja: カオスクローラー
+    en: Chaos Crawler
+  cost:
+  - Psychic
+  - Psychic
+  - Colorless
+  damage: '120'
+  effect_text:
+    ja: 次の相手の番、このポケモンはワザのダメージを受けない。前の自分の番に、自分のポケモンが「カオスクローラー」を使っていたなら、このワザは使えない。
+    en: During your opponent's next turn, prevent all damage from attacks done to this Pokémon. If 1 of your Pokémon used Chaos Crawler during your last turn, this attack can't be used.
+first_appearance:
+  set_name_ja: ストームエメラルダ
+  released_at: '2026-07-31'
+  regulation_mark: J
+  collector_number: '031'
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/M6/050369_P_GIRATEINA.jpg
+printings:
+- language: ja
+  set_code: M6
+  set_mark: M6
+  set_name: ストームエメラルダ
+  collector_number: '031'
+  collector_number_unprinted: false
+  rarity: R
+  rarity_unprinted: false
+  illustrator: toriyufu
+  illustrator_unprinted: false
+  regulation_mark: J
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/M6/050369_P_GIRATEINA.jpg
+- language: en
+  set_code: DLR
+  set_mark: DLR
+  set_name: Mega Evolution—Delta Reign
+  collector_number: '45'
+  collector_number_unprinted: false
+  rarity: R
+  rarity_unprinted: false
+  illustrator:
+  illustrator_unprinted: false
+  regulation_mark: J
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DLR/DLR_045_R_EN_XS.png

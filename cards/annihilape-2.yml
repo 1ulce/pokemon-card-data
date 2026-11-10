@@ -1,8 +1,6 @@
 ---
-schema_version: 1
+schema_version: 2
 slug: annihilape-2
-external_link:
-  cabt_id: 439
 name:
   ja: コノヨザル
   en: Annihilape
@@ -54,4 +52,31 @@ first_appearance:
   released_at: '2025-04-18'
   regulation_mark: I
   collector_number: '047'
-  image_url:
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV10/047440_P_KONOYOZARU.jpg
+printings:
+- language: ja
+  set_code: SV10
+  set_mark: SV10
+  set_name: ロケット団の栄光
+  collector_number: '047'
+  collector_number_unprinted: false
+  rarity: R
+  rarity_unprinted: false
+  illustrator: Shiburingaru
+  illustrator_unprinted: false
+  regulation_mark: I
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV10/047440_P_KONOYOZARU.jpg
+- language: en
+  set_code: DRI
+  set_mark: DRI
+  set_name: DRI
+  collector_number: '92'
+  collector_number_unprinted: false
+  rarity: R
+  rarity_unprinted: false
+  illustrator: Shiburingaru
+  illustrator_unprinted: false
+  regulation_mark: I
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRI/DRI_092_R_EN_XS.png

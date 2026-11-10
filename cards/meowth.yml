@@ -1,5 +1,5 @@
 ---
-schema_version: 1
+schema_version: 2
 slug: meowth
 name:
   ja: ニャース
@@ -45,4 +45,70 @@ first_appearance:
   released_at: '2024-06-07'
   regulation_mark: H
   collector_number: '048'
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV6a/045923_P_NIXYASU.jpg
+printings:
+- language: ja
+  set_code: SV6a
+  set_mark: SV6a
+  set_name: ナイトワンダラー
+  collector_number: '048'
+  collector_number_unprinted: false
+  rarity: C
+  rarity_unprinted: false
+  illustrator: sui
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV6a/045923_P_NIXYASU.jpg
+- language: ja
+  set_code:
+  set_mark: SVM
+  set_name: スタートデッキGenerations ピカチュウex・カビゴンex
+  collector_number: '091'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: sui
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
   image_url:
+- language: ja
+  set_code:
+  set_mark: SV-P
+  set_name: スタートデッキGenerations スペシャルバトルセット
+  collector_number: '47160'
+  collector_number_unprinted: true
+  rarity:
+  rarity_unprinted: true
+  illustrator: Uninori
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url:
+- language: en
+  set_code: SFA
+  set_mark: SFA
+  set_name: SFA
+  collector_number: '48'
+  collector_number_unprinted: false
+  rarity: C
+  rarity_unprinted: false
+  illustrator: sui
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SFA/SFA_048_R_EN_XS.png
+- language: en
+  set_code: PFL
+  set_mark: PFL
+  set_name: PFL
+  collector_number: '106'
+  collector_number_unprinted: false
+  rarity: AR
+  rarity_unprinted: false
+  illustrator: Uninori
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PFL/PFL_106_R_EN_XS.png

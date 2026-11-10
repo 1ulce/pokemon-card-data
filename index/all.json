@@ -1,8 +1,16 @@
 {
-  "schema_version": 1,
-  "generated_at": "2026-09-26T02:51:44Z",
+  "schema_version": 2,
+  "generated_at": "2026-11-10T14:17:42Z",
   "total_faces": 2166,
   "faces": [
+    {
+      "slug": "aarune",
+      "name_ja": "ギリー",
+      "name_en": "Aarune",
+      "card_type": "Trainer",
+      "regulation_mark": "J",
+      "first_set": "ストームエメラルダ"
+    },
     {
       "slug": "abomasnow",
       "name_ja": "ユキノオー",
@@ -82,6 +90,14 @@
       "card_type": "Trainer",
       "regulation_mark": "I",
       "first_set": "メガシンフォニア"
+    },
+    {
+      "slug": "adventure-lantern",
+      "name_ja": "ぼうけんのランタン",
+      "name_en": "Adventure Lantern",
+      "card_type": "Trainer",
+      "regulation_mark": "J",
+      "first_set": "ストームエメラルダ"
     },
     {
       "slug": "adversity-policy",
@@ -492,6 +508,14 @@
       "first_set": "ワイルドフォース"
     },
     {
+      "slug": "arboliva",
+      "name_ja": "オリーヴァ",
+      "name_en": "Arboliva",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "スターターセットex ニャオハ＆マスカーニャex"
+    },
+    {
       "slug": "arboliva-ex",
       "name_ja": "オリーヴァex",
       "name_en": "Arboliva ex",
@@ -826,6 +850,14 @@
       "card_type": "Pokémon",
       "regulation_mark": "J",
       "first_set": "スタートデッキ100 バトルコレクション"
+    },
+    {
+      "slug": "azurill",
+      "name_ja": "ルリリ",
+      "name_en": "Azurill",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "ストームエメラルダ"
     },
     {
       "slug": "babiri-berry",
@@ -1512,7 +1544,7 @@
       "name_ja": "フシギダネ",
       "name_en": "Bulbasaur",
       "card_type": "Pokémon",
-      "regulation_mark": "I",
+      "regulation_mark": "J",
       "first_set": "メガブレイブ"
     },
     {
@@ -1554,6 +1586,22 @@
       "card_type": "Pokémon",
       "regulation_mark": "I",
       "first_set": "バトルパートナーズ"
+    },
+    {
+      "slug": "cacnea",
+      "name_ja": "サボネア",
+      "name_en": "Cacnea",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "ストームエメラルダ"
+    },
+    {
+      "slug": "cacturne",
+      "name_ja": "ノクタス",
+      "name_en": "Cacturne",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "ストームエメラルダ"
     },
     {
       "slug": "call-bell",
@@ -1680,7 +1728,7 @@
       "name_ja": "キバニア",
       "name_en": "Carvanha",
       "card_type": "Pokémon",
-      "regulation_mark": null,
+      "regulation_mark": "J",
       "first_set": "スターターセットex ゾロア＆ゾロアークex"
     },
     {
@@ -1720,7 +1768,7 @@
       "name_ja": "セレビィ",
       "name_en": "Celebi",
       "card_type": "Pokémon",
-      "regulation_mark": "J",
+      "regulation_mark": "H",
       "first_set": "スタートデッキ100 バトルコレクション"
     },
     {
@@ -1864,7 +1912,7 @@
       "name_ja": "カルボウ",
       "name_en": "Charcadet",
       "card_type": "Pokémon",
-      "regulation_mark": "J",
+      "regulation_mark": "H",
       "first_set": "スタートデッキ100 バトルコレクション"
     },
     {
@@ -1872,7 +1920,7 @@
       "name_ja": "カルボウ",
       "name_en": "Charcadet",
       "card_type": "Pokémon",
-      "regulation_mark": "I",
+      "regulation_mark": "H",
       "first_set": "MEGAドリームex"
     },
     {
@@ -2292,6 +2340,14 @@
       "first_set": "ナイトワンダラー"
     },
     {
+      "slug": "combee",
+      "name_ja": "ミツハニー",
+      "name_en": "Combee",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "ストームエメラルダ"
+    },
+    {
       "slug": "combusken",
       "name_ja": "ワカシャモ",
       "name_en": "Combusken",
@@ -2692,6 +2748,14 @@
       "first_set": "スタートデッキGenerations ザシアンex・マホイップex"
     },
     {
+      "slug": "custom-vest",
+      "name_ja": "とくちゅうチョッキ",
+      "name_en": "Custom Vest",
+      "card_type": "Trainer",
+      "regulation_mark": "J",
+      "first_set": "ストームエメラルダ"
+    },
+    {
       "slug": "cutiefly",
       "name_ja": "アブリー",
       "name_en": "Cutiefly",
@@ -2704,7 +2768,7 @@
       "name_ja": "モトトカゲ",
       "name_en": "Cyclizar",
       "card_type": "Pokémon",
-      "regulation_mark": "J",
+      "regulation_mark": "H",
       "first_set": "スタートデッキ100 バトルコレクション"
     },
     {
@@ -2832,8 +2896,16 @@
       "name_ja": "基本悪エネルギー",
       "name_en": "Darkness Energy",
       "card_type": "Energy",
-      "regulation_mark": "H",
+      "regulation_mark": null,
       "first_set": "古代の咆哮"
+    },
+    {
+      "slug": "darkrai",
+      "name_ja": "ダークライ",
+      "name_en": "Darkrai",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "スターターセットex ゾロア＆ゾロアークex"
     },
     {
       "slug": "darkrai-ex",
@@ -3256,7 +3328,7 @@
       "name_ja": "オリーニョ",
       "name_en": "Dolliv",
       "card_type": "Pokémon",
-      "regulation_mark": null,
+      "regulation_mark": "J",
       "first_set": "スターターセットex ニャオハ＆マスカーニャex"
     },
     {
@@ -3920,7 +3992,7 @@
       "name_ja": "MCの盛り上げ",
       "name_en": "Emcee's Hype",
       "card_type": "Trainer",
-      "regulation_mark": "I",
+      "regulation_mark": "J",
       "first_set": "熱風のアリーナ"
     },
     {
@@ -4568,7 +4640,7 @@
       "name_ja": "基本闘エネルギー",
       "name_en": "Fighting Energy",
       "card_type": "Energy",
-      "regulation_mark": "H",
+      "regulation_mark": null,
       "first_set": "スカーレットex"
     },
     {
@@ -4616,7 +4688,7 @@
       "name_ja": "基本炎エネルギー",
       "name_en": "Fire Energy",
       "card_type": "Energy",
-      "regulation_mark": "H",
+      "regulation_mark": null,
       "first_set": "黒炎の支配者"
     },
     {
@@ -4768,7 +4840,7 @@
       "name_ja": "ニャローテ",
       "name_en": "Floragato",
       "card_type": "Pokémon",
-      "regulation_mark": null,
+      "regulation_mark": "J",
       "first_set": "スターターセットex ニャオハ＆マスカーニャex"
     },
     {
@@ -5140,14 +5212,6 @@
       "first_set": "ニンジャスピナー"
     },
     {
-      "slug": "gardenia",
-      "name_ja": "グリ",
-      "name_en": "Gardenia",
-      "card_type": "Trainer",
-      "regulation_mark": "J",
-      "first_set": "ポケモンカードゲーム MEGA　プロモカードパック第4弾"
-    },
-    {
       "slug": "garganacl",
       "name_ja": "キョジオーン",
       "name_en": "Garganacl",
@@ -5306,6 +5370,14 @@
       "card_type": "Pokémon",
       "regulation_mark": "H",
       "first_set": "クリムゾンヘイズ"
+    },
+    {
+      "slug": "giratina",
+      "name_ja": "ギラティナ",
+      "name_en": "Giratina",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "ストームエメラルダ"
     },
     {
       "slug": "glaceon",
@@ -5640,7 +5712,7 @@
       "name_ja": "基本草エネルギー",
       "name_en": "Grass Energy",
       "card_type": "Energy",
-      "regulation_mark": "H",
+      "regulation_mark": null,
       "first_set": "クレイバースト"
     },
     {
@@ -5754,6 +5826,14 @@
       "card_type": "Trainer",
       "regulation_mark": "I",
       "first_set": "インフェルノX"
+    },
+    {
+      "slug": "grisham",
+      "name_ja": "グリ",
+      "name_en": "Grisham",
+      "card_type": "Trainer",
+      "regulation_mark": "J",
+      "first_set": "ポケモンカードゲーム MEGA　プロモカードパック第4弾"
     },
     {
       "slug": "grookey",
@@ -5908,6 +5988,14 @@
       "first_set": "拡張パック 30th CELEBRATION"
     },
     {
+      "slug": "hakamo-o-2",
+      "name_ja": "ジャランゴ",
+      "name_en": "Hakamo-o",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "ストームエメラルダ"
+    },
+    {
       "slug": "hand-trimmer",
       "name_ja": "ハンドトリマー",
       "name_en": "Hand Trimmer",
@@ -6034,6 +6122,14 @@
       "card_type": "Pokémon",
       "regulation_mark": "I",
       "first_set": "ロケット団の栄光"
+    },
+    {
+      "slug": "heat-rotom-ex",
+      "name_ja": "ヒートロトムex",
+      "name_en": "Heat Rotom ex",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "ストームエメラルダ"
     },
     {
       "slug": "heatmor",
@@ -6956,6 +7052,14 @@
       "first_set": "拡張パック 30th CELEBRATION"
     },
     {
+      "slug": "jangmo-o-2",
+      "name_ja": "ジャラコ",
+      "name_en": "Jangmo-o",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "ストームエメラルダ"
+    },
+    {
       "slug": "janine-s-secret-art",
       "name_ja": "アンズの秘技",
       "name_en": "Janine's Secret Art",
@@ -6970,6 +7074,14 @@
       "card_type": "Trainer",
       "regulation_mark": "H",
       "first_set": "超電ブレイカー"
+    },
+    {
+      "slug": "jellicent",
+      "name_ja": "ブルンゲル",
+      "name_en": "Jellicent",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "ストームエメラルダ"
     },
     {
       "slug": "jellicent-ex",
@@ -7012,6 +7124,14 @@
       "first_set": "拡張パック 30th CELEBRATION"
     },
     {
+      "slug": "jolteon",
+      "name_ja": "サンダース",
+      "name_en": "Jolteon",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "スターターセットex イーブイex"
+    },
+    {
       "slug": "jolteon-ex",
       "name_ja": "サンダースex",
       "name_en": "Jolteon ex",
@@ -7044,126 +7164,6 @@
       "first_set": "ホワイトフレア"
     },
     {
-      "slug": "jp-おいしいおむすび",
-      "name_ja": "おいしいおむすび",
-      "name_en": null,
-      "card_type": "Trainer",
-      "regulation_mark": "J",
-      "first_set": "ストームエメラルダ"
-    },
-    {
-      "slug": "jp-とくちゅうチョッキ",
-      "name_ja": "とくちゅうチョッキ",
-      "name_en": null,
-      "card_type": "Trainer",
-      "regulation_mark": "J",
-      "first_set": "ストームエメラルダ"
-    },
-    {
-      "slug": "jp-ぼうけんのランタン",
-      "name_ja": "ぼうけんのランタン",
-      "name_en": null,
-      "card_type": "Trainer",
-      "regulation_mark": "J",
-      "first_set": "ストームエメラルダ"
-    },
-    {
-      "slug": "jp-アメタマ",
-      "name_ja": "アメタマ",
-      "name_en": null,
-      "card_type": "Pokémon",
-      "regulation_mark": "J",
-      "first_set": "ストームエメラルダ"
-    },
-    {
-      "slug": "jp-アメモース",
-      "name_ja": "アメモース",
-      "name_en": null,
-      "card_type": "Pokémon",
-      "regulation_mark": "J",
-      "first_set": "ストームエメラルダ"
-    },
-    {
-      "slug": "jp-オリーヴァ",
-      "name_ja": "オリーヴァ",
-      "name_en": null,
-      "card_type": "Pokémon",
-      "regulation_mark": null,
-      "first_set": "スターターセットex ニャオハ＆マスカーニャex"
-    },
-    {
-      "slug": "jp-ギラティナ",
-      "name_ja": "ギラティナ",
-      "name_en": null,
-      "card_type": "Pokémon",
-      "regulation_mark": "J",
-      "first_set": "ストームエメラルダ"
-    },
-    {
-      "slug": "jp-ギリー",
-      "name_ja": "ギリー",
-      "name_en": null,
-      "card_type": "Trainer",
-      "regulation_mark": "J",
-      "first_set": "ストームエメラルダ"
-    },
-    {
-      "slug": "jp-サボネア",
-      "name_ja": "サボネア",
-      "name_en": null,
-      "card_type": "Pokémon",
-      "regulation_mark": "J",
-      "first_set": "ストームエメラルダ"
-    },
-    {
-      "slug": "jp-サンダース",
-      "name_ja": "サンダース",
-      "name_en": null,
-      "card_type": "Pokémon",
-      "regulation_mark": "J",
-      "first_set": "スターターセットex イーブイex"
-    },
-    {
-      "slug": "jp-ジャラコ-2",
-      "name_ja": "ジャラコ",
-      "name_en": null,
-      "card_type": "Pokémon",
-      "regulation_mark": "J",
-      "first_set": "ストームエメラルダ"
-    },
-    {
-      "slug": "jp-ジャラランガ-2",
-      "name_ja": "ジャラランガ",
-      "name_en": null,
-      "card_type": "Pokémon",
-      "regulation_mark": "J",
-      "first_set": "ストームエメラルダ"
-    },
-    {
-      "slug": "jp-ジャランゴ-2",
-      "name_ja": "ジャランゴ",
-      "name_en": null,
-      "card_type": "Pokémon",
-      "regulation_mark": "J",
-      "first_set": "ストームエメラルダ"
-    },
-    {
-      "slug": "jp-ゾロアークex",
-      "name_ja": "ゾロアークex",
-      "name_en": null,
-      "card_type": "Pokémon",
-      "regulation_mark": null,
-      "first_set": "スターターセットex ゾロア＆ゾロアークex"
-    },
-    {
-      "slug": "jp-ダークライ",
-      "name_ja": "ダークライ",
-      "name_en": null,
-      "card_type": "Pokémon",
-      "regulation_mark": null,
-      "first_set": "スターターセットex ゾロア＆ゾロアークex"
-    },
-    {
       "slug": "jp-デウロ",
       "name_ja": "デウロ",
       "name_en": null,
@@ -7172,204 +7172,12 @@
       "first_set": "ポケモンカードゲーム MEGA　プロモカードパック第5弾"
     },
     {
-      "slug": "jp-ニドクイン",
-      "name_ja": "ニドクイン",
-      "name_en": null,
-      "card_type": "Pokémon",
-      "regulation_mark": "J",
-      "first_set": "ストームエメラルダ"
-    },
-    {
-      "slug": "jp-ニドラン♀-2",
-      "name_ja": "ニドラン♀",
-      "name_en": null,
-      "card_type": "Pokémon",
-      "regulation_mark": "J",
-      "first_set": "ストームエメラルダ"
-    },
-    {
-      "slug": "jp-ニドリーナ-2",
-      "name_ja": "ニドリーナ",
-      "name_en": null,
-      "card_type": "Pokémon",
-      "regulation_mark": "J",
-      "first_set": "ストームエメラルダ"
-    },
-    {
-      "slug": "jp-ノクタス",
-      "name_ja": "ノクタス",
-      "name_en": null,
-      "card_type": "Pokémon",
-      "regulation_mark": "J",
-      "first_set": "ストームエメラルダ"
-    },
-    {
-      "slug": "jp-バチンウニ",
-      "name_ja": "バチンウニ",
-      "name_en": null,
-      "card_type": "Pokémon",
-      "regulation_mark": "J",
-      "first_set": "ストームエメラルダ"
-    },
-    {
-      "slug": "jp-ヒガナの信頼",
-      "name_ja": "ヒガナの信頼",
-      "name_en": null,
-      "card_type": "Trainer",
-      "regulation_mark": "J",
-      "first_set": "ストームエメラルダ"
-    },
-    {
-      "slug": "jp-ヒートロトムex",
-      "name_ja": "ヒートロトムex",
-      "name_en": null,
-      "card_type": "Pokémon",
-      "regulation_mark": "J",
-      "first_set": "ストームエメラルダ"
-    },
-    {
-      "slug": "jp-ビークイン",
-      "name_ja": "ビークイン",
-      "name_en": null,
-      "card_type": "Pokémon",
-      "regulation_mark": "J",
-      "first_set": "ストームエメラルダ"
-    },
-    {
-      "slug": "jp-ファイアローex",
-      "name_ja": "ファイアローex",
-      "name_en": null,
-      "card_type": "Pokémon",
-      "regulation_mark": "J",
-      "first_set": "ストームエメラルダ"
-    },
-    {
-      "slug": "jp-フウとランの修行",
-      "name_ja": "フウとランの修行",
-      "name_en": null,
-      "card_type": "Trainer",
-      "regulation_mark": "J",
-      "first_set": "ストームエメラルダ"
-    },
-    {
-      "slug": "jp-ブルンゲル",
-      "name_ja": "ブルンゲル",
-      "name_en": null,
-      "card_type": "Pokémon",
-      "regulation_mark": "J",
-      "first_set": "ストームエメラルダ"
-    },
-    {
-      "slug": "jp-マスカーニャex",
-      "name_ja": "マスカーニャex",
-      "name_en": null,
-      "card_type": "Pokémon",
-      "regulation_mark": null,
-      "first_set": "スターターセットex ニャオハ＆マスカーニャex"
-    },
-    {
-      "slug": "jp-ミツハニー",
-      "name_ja": "ミツハニー",
-      "name_en": null,
-      "card_type": "Pokémon",
-      "regulation_mark": "J",
-      "first_set": "ストームエメラルダ"
-    },
-    {
-      "slug": "jp-メガカラマネロex",
-      "name_ja": "メガカラマネロex",
-      "name_en": null,
-      "card_type": "Pokémon",
-      "regulation_mark": "J",
-      "first_set": "ストームエメラルダ"
-    },
-    {
-      "slug": "jp-メガグソクムシャex",
-      "name_ja": "メガグソクムシャex",
-      "name_en": null,
-      "card_type": "Pokémon",
-      "regulation_mark": "J",
-      "first_set": "ストームエメラルダ"
-    },
-    {
-      "slug": "jp-メガゴルーグex",
-      "name_ja": "メガゴルーグex",
-      "name_en": null,
-      "card_type": "Pokémon",
-      "regulation_mark": "J",
-      "first_set": "ストームエメラルダ"
-    },
-    {
       "slug": "jp-メガシャリタツex",
       "name_ja": "メガシャリタツex",
       "name_en": null,
       "card_type": "Pokémon",
       "regulation_mark": null,
       "first_set": "ポケモンカードゲーム MEGA　プロモカードパック第5弾"
-    },
-    {
-      "slug": "jp-メガレックウザex",
-      "name_ja": "メガレックウザex",
-      "name_en": null,
-      "card_type": "Pokémon",
-      "regulation_mark": "J",
-      "first_set": "ストームエメラルダ"
-    },
-    {
-      "slug": "jp-メガレックウザキャップ",
-      "name_ja": "メガレックウザキャップ",
-      "name_en": null,
-      "card_type": "Trainer",
-      "regulation_mark": "J",
-      "first_set": "ストームエメラルダ"
-    },
-    {
-      "slug": "jp-ヨワシex",
-      "name_ja": "ヨワシex",
-      "name_en": null,
-      "card_type": "Pokémon",
-      "regulation_mark": "J",
-      "first_set": "ストームエメラルダ"
-    },
-    {
-      "slug": "jp-ライコウex",
-      "name_ja": "ライコウex",
-      "name_en": null,
-      "card_type": "Pokémon",
-      "regulation_mark": "J",
-      "first_set": "ストームエメラルダ"
-    },
-    {
-      "slug": "jp-ルリリ",
-      "name_ja": "ルリリ",
-      "name_en": null,
-      "card_type": "Pokémon",
-      "regulation_mark": "J",
-      "first_set": "ストームエメラルダ"
-    },
-    {
-      "slug": "jp-伝説の山頂",
-      "name_ja": "伝説の山頂",
-      "name_en": null,
-      "card_type": "Trainer",
-      "regulation_mark": "J",
-      "first_set": "ストームエメラルダ"
-    },
-    {
-      "slug": "jp-伝説の海溝",
-      "name_ja": "伝説の海溝",
-      "name_en": null,
-      "card_type": "Trainer",
-      "regulation_mark": "J",
-      "first_set": "ストームエメラルダ"
-    },
-    {
-      "slug": "jp-伝説の溶岩洞",
-      "name_ja": "伝説の溶岩洞",
-      "name_en": null,
-      "card_type": "Trainer",
-      "regulation_mark": "J",
-      "first_set": "ストームエメラルダ"
     },
     {
       "slug": "judge",
@@ -7698,6 +7506,14 @@
       "card_type": "Pokémon",
       "regulation_mark": "J",
       "first_set": "拡張パック 30th CELEBRATION"
+    },
+    {
+      "slug": "kommo-o-2",
+      "name_ja": "ジャラランガ",
+      "name_en": "Kommo-o",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "ストームエメラルダ"
     },
     {
       "slug": "koraidon",
@@ -8180,6 +7996,30 @@
       "first_set": "変幻の仮面"
     },
     {
+      "slug": "legendary-pyroduct",
+      "name_ja": "伝説の溶岩洞",
+      "name_en": "Legendary Pyroduct",
+      "card_type": "Trainer",
+      "regulation_mark": "J",
+      "first_set": "ストームエメラルダ"
+    },
+    {
+      "slug": "legendary-summit",
+      "name_ja": "伝説の山頂",
+      "name_en": "Legendary Summit",
+      "card_type": "Trainer",
+      "regulation_mark": "J",
+      "first_set": "ストームエメラルダ"
+    },
+    {
+      "slug": "legendary-trench",
+      "name_ja": "伝説の海溝",
+      "name_en": "Legendary Trench",
+      "card_type": "Trainer",
+      "regulation_mark": "J",
+      "first_set": "ストームエメラルダ"
+    },
+    {
       "slug": "levincia",
       "name_ja": "ハッコウシティ",
       "name_en": "Levincia",
@@ -8216,7 +8056,7 @@
       "name_ja": "レパルダス",
       "name_en": "Liepard",
       "card_type": "Pokémon",
-      "regulation_mark": null,
+      "regulation_mark": "J",
       "first_set": "スターターセットex ゾロア＆ゾロアークex"
     },
     {
@@ -8232,7 +8072,7 @@
       "name_ja": "基本雷エネルギー",
       "name_en": "Lightning Energy",
       "card_type": "Energy",
-      "regulation_mark": "H",
+      "regulation_mark": null,
       "first_set": "バイオレットex"
     },
     {
@@ -8896,7 +8736,7 @@
       "name_ja": "マンタイン",
       "name_en": "Mantine",
       "card_type": "Pokémon",
-      "regulation_mark": "J",
+      "regulation_mark": "H",
       "first_set": "スタートデッキ100 バトルコレクション"
     },
     {
@@ -8960,7 +8800,7 @@
       "name_ja": "マリル",
       "name_en": "Marill",
       "card_type": "Pokémon",
-      "regulation_mark": "J",
+      "regulation_mark": "H",
       "first_set": "スタートデッキ100 バトルコレクション"
     },
     {
@@ -9008,7 +8848,7 @@
       "name_ja": "マリィのレパルダス",
       "name_en": "Marnie's Liepard",
       "card_type": "Pokémon",
-      "regulation_mark": "J",
+      "regulation_mark": "I",
       "first_set": "スタートデッキ100 バトルコレクション"
     },
     {
@@ -9032,7 +8872,7 @@
       "name_ja": "マリィのチョロネコ",
       "name_en": "Marnie's Purrloin",
       "card_type": "Pokémon",
-      "regulation_mark": "J",
+      "regulation_mark": "I",
       "first_set": "スタートデッキ100 バトルコレクション"
     },
     {
@@ -9040,7 +8880,7 @@
       "name_ja": "マリィのズルズキン",
       "name_en": "Marnie's Scrafty",
       "card_type": "Pokémon",
-      "regulation_mark": "J",
+      "regulation_mark": "I",
       "first_set": "スタートデッキ100 バトルコレクション"
     },
     {
@@ -9048,7 +8888,7 @@
       "name_ja": "マリィのズルッグ",
       "name_en": "Marnie's Scraggy",
       "card_type": "Pokémon",
-      "regulation_mark": "J",
+      "regulation_mark": "I",
       "first_set": "スタートデッキ100 バトルコレクション"
     },
     {
@@ -9082,6 +8922,14 @@
       "card_type": "Pokémon",
       "regulation_mark": "J",
       "first_set": "アビスアイ"
+    },
+    {
+      "slug": "masquerain",
+      "name_ja": "アメモース",
+      "name_en": "Masquerain",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "ストームエメラルダ"
     },
     {
       "slug": "master-ball",
@@ -9412,6 +9260,22 @@
       "first_set": "スターターセットMEGA メガゲンガーex"
     },
     {
+      "slug": "mega-golisopod-ex",
+      "name_ja": "メガグソクムシャex",
+      "name_en": "Mega Golisopod ex",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "ストームエメラルダ"
+    },
+    {
+      "slug": "mega-golurk-ex",
+      "name_ja": "メガゴルーグex",
+      "name_en": "Mega Golurk ex",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "ストームエメラルダ"
+    },
+    {
       "slug": "mega-greninja-ex",
       "name_ja": "メガゲッコウガex",
       "name_en": "Mega Greninja ex",
@@ -9468,6 +9332,14 @@
       "first_set": "メガブレイブ"
     },
     {
+      "slug": "mega-malamar-ex",
+      "name_ja": "メガカラマネロex",
+      "name_en": "Mega Malamar ex",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "ストームエメラルダ"
+    },
+    {
       "slug": "mega-manectric-ex",
       "name_ja": "メガライボルトex",
       "name_en": "Mega Manectric ex",
@@ -9498,6 +9370,22 @@
       "card_type": "Pokémon",
       "regulation_mark": "J",
       "first_set": "ニンジャスピナー"
+    },
+    {
+      "slug": "mega-rayquaza-cap",
+      "name_ja": "メガレックウザキャップ",
+      "name_en": "Mega Rayquaza Cap",
+      "card_type": "Trainer",
+      "regulation_mark": "J",
+      "first_set": "ストームエメラルダ"
+    },
+    {
+      "slug": "mega-rayquaza-ex",
+      "name_ja": "メガレックウザex",
+      "name_en": "Mega Rayquaza ex",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "ストームエメラルダ"
     },
     {
       "slug": "mega-scrafty-ex",
@@ -9660,6 +9548,14 @@
       "first_set": "バトルパートナーズ"
     },
     {
+      "slug": "meowscarada-ex",
+      "name_ja": "マスカーニャex",
+      "name_en": "Meowscarada ex",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "スターターセットex ニャオハ＆マスカーニャex"
+    },
+    {
       "slug": "meowstic",
       "name_ja": "ニャオニクス",
       "name_en": "Meowstic",
@@ -9744,7 +9640,7 @@
       "name_ja": "基本鋼エネルギー",
       "name_en": "Metal Energy",
       "card_type": "Energy",
-      "regulation_mark": "H",
+      "regulation_mark": null,
       "first_set": "未来の一閃"
     },
     {
@@ -10000,7 +9896,7 @@
       "name_ja": "ミライドン",
       "name_en": "Miraidon",
       "card_type": "Pokémon",
-      "regulation_mark": "J",
+      "regulation_mark": "H",
       "first_set": "スタートデッキ100 バトルコレクション"
     },
     {
@@ -10216,7 +10112,7 @@
       "name_ja": "モルペコ",
       "name_en": "Morpeko",
       "card_type": "Pokémon",
-      "regulation_mark": null,
+      "regulation_mark": "J",
       "first_set": "スターターセットex ゾロア＆ゾロアークex"
     },
     {
@@ -10556,6 +10452,14 @@
       "first_set": "アビスアイ"
     },
     {
+      "slug": "nidoqueen",
+      "name_ja": "ニドクイン",
+      "name_en": "Nidoqueen",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "ストームエメラルダ"
+    },
+    {
       "slug": "nidoran-female",
       "name_ja": "ニドラン♀",
       "name_en": "Nidoran♀",
@@ -10564,12 +10468,28 @@
       "first_set": "拡張パック 30th CELEBRATION"
     },
     {
+      "slug": "nidoran-female-2",
+      "name_ja": "ニドラン♀",
+      "name_en": "Nidoran♀",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "ストームエメラルダ"
+    },
+    {
       "slug": "nidorina",
       "name_ja": "ニドリーナ",
       "name_en": "Nidorina",
       "card_type": "Pokémon",
       "regulation_mark": "J",
       "first_set": "拡張パック 30th CELEBRATION"
+    },
+    {
+      "slug": "nidorina-2",
+      "name_ja": "ニドリーナ",
+      "name_en": "Nidorina",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "ストームエメラルダ"
     },
     {
       "slug": "night-stretcher",
@@ -10896,7 +10816,7 @@
       "name_ja": "オドリドリ",
       "name_en": "Oricorio",
       "card_type": "Pokémon",
-      "regulation_mark": "J",
+      "regulation_mark": "H",
       "first_set": "スタートデッキ100 バトルコレクション"
     },
     {
@@ -10904,7 +10824,7 @@
       "name_ja": "オドリドリ",
       "name_en": "Oricorio",
       "card_type": "Pokémon",
-      "regulation_mark": "J",
+      "regulation_mark": "H",
       "first_set": "スタートデッキ100 バトルコレクション"
     },
     {
@@ -11160,7 +11080,7 @@
       "name_ja": "パラダイスリゾート",
       "name_en": "Paradise Resort",
       "card_type": "Trainer",
-      "regulation_mark": "I",
+      "regulation_mark": "J",
       "first_set": "ポケモンカードゲーム ワールドチャンピオンシップス2023 横浜"
     },
     {
@@ -11804,6 +11724,14 @@
       "first_set": "インフェルノX"
     },
     {
+      "slug": "pincurchin",
+      "name_ja": "バチンウニ",
+      "name_en": "Pincurchin",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "ストームエメラルダ"
+    },
+    {
       "slug": "pineco",
       "name_ja": "クヌギダマ",
       "name_en": "Pineco",
@@ -11952,7 +11880,7 @@
       "name_ja": "ポニータ",
       "name_en": "Ponyta",
       "card_type": "Pokémon",
-      "regulation_mark": "J",
+      "regulation_mark": "H",
       "first_set": "スタートデッキ100 バトルコレクション"
     },
     {
@@ -12016,7 +11944,7 @@
       "name_ja": "プレシャスキャリー",
       "name_en": "Precious Trolley",
       "card_type": "Trainer",
-      "regulation_mark": "J",
+      "regulation_mark": "H",
       "first_set": "スタートデッキ100 バトルコレクション"
     },
     {
@@ -12120,7 +12048,7 @@
       "name_ja": "基本超エネルギー",
       "name_en": "Psychic Energy",
       "card_type": "Energy",
-      "regulation_mark": "H",
+      "regulation_mark": null,
       "first_set": "スタートデッキGenerations ゼルネアスex・オンバーンex"
     },
     {
@@ -12176,7 +12104,7 @@
       "name_ja": "チョロネコ",
       "name_en": "Purrloin",
       "card_type": "Pokémon",
-      "regulation_mark": null,
+      "regulation_mark": "J",
       "first_set": "スターターセットex ゾロア＆ゾロアークex"
     },
     {
@@ -12332,6 +12260,14 @@
       "first_set": "メガシンフォニア"
     },
     {
+      "slug": "raikou-ex",
+      "name_ja": "ライコウex",
+      "name_en": "Raikou ex",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "ストームエメラルダ"
+    },
+    {
       "slug": "ralts",
       "name_ja": "ラルトス",
       "name_en": "Ralts",
@@ -12360,7 +12296,7 @@
       "name_ja": "ギャロップ",
       "name_en": "Rapidash",
       "card_type": "Pokémon",
-      "regulation_mark": "J",
+      "regulation_mark": "H",
       "first_set": "スタートデッキ100 バトルコレクション"
     },
     {
@@ -12464,7 +12400,7 @@
       "name_ja": "レジスチル",
       "name_en": "Registeel",
       "card_type": "Pokémon",
-      "regulation_mark": "J",
+      "regulation_mark": "H",
       "first_set": "スタートデッキ100 バトルコレクション"
     },
     {
@@ -12544,7 +12480,7 @@
       "name_ja": "レシラム",
       "name_en": "Reshiram",
       "card_type": "Pokémon",
-      "regulation_mark": "J",
+      "regulation_mark": "H",
       "first_set": "スタートデッキ100 バトルコレクション"
     },
     {
@@ -13416,7 +13352,7 @@
       "name_ja": "サメハダー",
       "name_en": "Sharpedo",
       "card_type": "Pokémon",
-      "regulation_mark": null,
+      "regulation_mark": "J",
       "first_set": "スターターセットex ゾロア＆ゾロアークex"
     },
     {
@@ -13456,7 +13392,7 @@
       "name_ja": "シェイミ",
       "name_en": "Shaymin",
       "card_type": "Pokémon",
-      "regulation_mark": null,
+      "regulation_mark": "J",
       "first_set": "スターターセットex ニャオハ＆マスカーニャex"
     },
     {
@@ -13608,7 +13544,7 @@
       "name_ja": "シンボラー",
       "name_en": "Sigilyph",
       "card_type": "Pokémon",
-      "regulation_mark": "J",
+      "regulation_mark": "H",
       "first_set": "スタートデッキ100 バトルコレクション"
     },
     {
@@ -13960,7 +13896,7 @@
       "name_ja": "ミニーブ",
       "name_en": "Smoliv",
       "card_type": "Pokémon",
-      "regulation_mark": null,
+      "regulation_mark": "J",
       "first_set": "スターターセットex ニャオハ＆マスカーニャex"
     },
     {
@@ -14048,7 +13984,7 @@
       "name_ja": "カビゴン",
       "name_en": "Snorlax",
       "card_type": "Pokémon",
-      "regulation_mark": "J",
+      "regulation_mark": "H",
       "first_set": "スタートデッキ100 バトルコレクション コロちゃおVer."
     },
     {
@@ -14296,7 +14232,7 @@
       "name_ja": "ニャオハ",
       "name_en": "Sprigatito",
       "card_type": "Pokémon",
-      "regulation_mark": null,
+      "regulation_mark": "J",
       "first_set": "スターターセットex ニャオハ＆マスカーニャex"
     },
     {
@@ -14416,7 +14352,7 @@
       "name_ja": "ダイゴのエアームド",
       "name_en": "Steven's Skarmory",
       "card_type": "Pokémon",
-      "regulation_mark": "J",
+      "regulation_mark": "I",
       "first_set": "スタートデッキ100 バトルコレクション"
     },
     {
@@ -14562,6 +14498,14 @@
       "card_type": "Trainer",
       "regulation_mark": "I",
       "first_set": "メガシンフォニア"
+    },
+    {
+      "slug": "surskit",
+      "name_ja": "アメタマ",
+      "name_en": "Surskit",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "ストームエメラルダ"
     },
     {
       "slug": "survival-brace",
@@ -14740,6 +14684,14 @@
       "first_set": "ステラミラクル"
     },
     {
+      "slug": "talonflame-ex",
+      "name_ja": "ファイアローex",
+      "name_en": "Talonflame ex",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "ストームエメラルダ"
+    },
+    {
       "slug": "tandemaus",
       "name_ja": "ワッカネズミ",
       "name_en": "Tandemaus",
@@ -14826,6 +14778,22 @@
       "card_type": "Trainer",
       "regulation_mark": "J",
       "first_set": "ムニキスゼロ"
+    },
+    {
+      "slug": "tasty-rice-ball",
+      "name_ja": "おいしいおむすび",
+      "name_en": "Tasty Rice Ball",
+      "card_type": "Trainer",
+      "regulation_mark": "J",
+      "first_set": "ストームエメラルダ"
+    },
+    {
+      "slug": "tate-liza-s-training",
+      "name_ja": "フウとランの修行",
+      "name_en": "Tate & Liza's Training",
+      "card_type": "Trainer",
+      "regulation_mark": "J",
+      "first_set": "ストームエメラルダ"
     },
     {
       "slug": "tatsugiri",
@@ -15616,7 +15584,7 @@
       "name_ja": "ノノクラゲ",
       "name_en": "Toedscool",
       "card_type": "Pokémon",
-      "regulation_mark": "J",
+      "regulation_mark": "H",
       "first_set": "スタートデッキ100 バトルコレクション"
     },
     {
@@ -15632,7 +15600,7 @@
       "name_ja": "リククラゲ",
       "name_en": "Toedscruel",
       "card_type": "Pokémon",
-      "regulation_mark": "J",
+      "regulation_mark": "H",
       "first_set": "スタートデッキ100 バトルコレクション"
     },
     {
@@ -16284,6 +16252,14 @@
       "first_set": "ブラックボルト"
     },
     {
+      "slug": "vespiquen",
+      "name_ja": "ビークイン",
+      "name_en": "Vespiquen",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "ストームエメラルダ"
+    },
+    {
       "slug": "vibrava",
       "name_ja": "ビブラーバ",
       "name_en": "Vibrava",
@@ -16400,7 +16376,7 @@
       "name_ja": "ビリジオン",
       "name_en": "Virizion",
       "card_type": "Pokémon",
-      "regulation_mark": null,
+      "regulation_mark": "J",
       "first_set": "スターターセットex ニャオハ＆マスカーニャex"
     },
     {
@@ -16672,7 +16648,7 @@
       "name_ja": "基本水エネルギー",
       "name_en": "Water Energy",
       "card_type": "Energy",
-      "regulation_mark": "H",
+      "regulation_mark": null,
       "first_set": "スノーハザード"
     },
     {
@@ -16836,6 +16812,14 @@
       "first_set": "拡張パック 30th CELEBRATION"
     },
     {
+      "slug": "wishiwashi-ex",
+      "name_ja": "ヨワシex",
+      "name_en": "Wishiwashi ex",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "ストームエメラルダ"
+    },
+    {
       "slug": "wo-chien",
       "name_ja": "チオンジェン",
       "name_en": "Wo-Chien",
@@ -16896,7 +16880,7 @@
       "name_ja": "ゼルネアス",
       "name_en": "Xerneas",
       "card_type": "Pokémon",
-      "regulation_mark": "J",
+      "regulation_mark": "H",
       "first_set": "スタートデッキ100 バトルコレクション"
     },
     {
@@ -17112,7 +17096,7 @@
       "name_ja": "サンダー",
       "name_en": "Zapdos",
       "card_type": "Pokémon",
-      "regulation_mark": "J",
+      "regulation_mark": "H",
       "first_set": "スタートデッキ100 バトルコレクション"
     },
     {
@@ -17152,7 +17136,7 @@
       "name_ja": "ザルード",
       "name_en": "Zarude",
       "card_type": "Pokémon",
-      "regulation_mark": null,
+      "regulation_mark": "J",
       "first_set": "スターターセットex ゾロア＆ゾロアークex"
     },
     {
@@ -17236,6 +17220,14 @@
       "first_set": "インフェルノX"
     },
     {
+      "slug": "zinnia-s-trust",
+      "name_ja": "ヒガナの信頼",
+      "name_en": "Zinnia's Trust",
+      "card_type": "Trainer",
+      "regulation_mark": "J",
+      "first_set": "ストームエメラルダ"
+    },
+    {
       "slug": "zoroark",
       "name_ja": "ゾロアーク",
       "name_en": "Zoroark",
@@ -17258,6 +17250,14 @@
       "card_type": "Pokémon",
       "regulation_mark": "J",
       "first_set": "30th CELEBRATION プレミアムデッキセット エーフィ・ブラッキー"
+    },
+    {
+      "slug": "zoroark-ex",
+      "name_ja": "ゾロアークex",
+      "name_en": "Zoroark ex",
+      "card_type": "Pokémon",
+      "regulation_mark": "J",
+      "first_set": "スターターセットex ゾロア＆ゾロアークex"
     },
     {
       "slug": "zorua",
@@ -17288,7 +17288,7 @@
       "name_ja": "ゾロア",
       "name_en": "Zorua",
       "card_type": "Pokémon",
-      "regulation_mark": null,
+      "regulation_mark": "J",
       "first_set": "スターターセットex ゾロア＆ゾロアークex"
     },
     {

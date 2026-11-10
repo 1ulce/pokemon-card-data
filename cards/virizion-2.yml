@@ -1,8 +1,6 @@
 ---
-schema_version: 1
+schema_version: 2
 slug: virizion-2
-external_link:
-  cabt_id: 566
 name:
   ja: ビリジオン
   en: Virizion
@@ -58,4 +56,70 @@ first_appearance:
   released_at: '2025-06-06'
   regulation_mark: I
   collector_number: '010'
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV11W/047632_P_BIRIJION.jpg
+printings:
+- language: ja
+  set_code: SV11W
+  set_mark: SV11W
+  set_name: ホワイトフレア
+  collector_number: '010'
+  collector_number_unprinted: false
+  rarity: R
+  rarity_unprinted: false
+  illustrator: Felicia Chen
+  illustrator_unprinted: false
+  regulation_mark: I
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV11W/047632_P_BIRIJION.jpg
+- language: ja
+  set_code: SV11W
+  set_mark: SV11W
+  set_name: ホワイトフレア
+  collector_number: '095'
+  collector_number_unprinted: false
+  rarity: AR
+  rarity_unprinted: false
+  illustrator: kodama
+  illustrator_unprinted: false
+  regulation_mark: I
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV11W/048007_P_BIRIJION.jpg
+- language: ja
+  set_code:
+  set_mark: MC
+  set_name: スタートデッキ100 バトルコレクション
+  collector_number: '054'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: Felicia Chen
+  illustrator_unprinted: false
+  regulation_mark: I
+  regulation_mark_unprinted: false
   image_url:
+- language: en
+  set_code: WHT
+  set_mark: WHT
+  set_name: WHT
+  collector_number: '10'
+  collector_number_unprinted: false
+  rarity: R
+  rarity_unprinted: false
+  illustrator: Felicia Chen
+  illustrator_unprinted: false
+  regulation_mark: I
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/WHT/WHT_010_R_EN_XS.png
+- language: en
+  set_code: WHT
+  set_mark: WHT
+  set_name: WHT
+  collector_number: '95'
+  collector_number_unprinted: false
+  rarity: AR
+  rarity_unprinted: false
+  illustrator: kodama
+  illustrator_unprinted: false
+  regulation_mark: I
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/WHT/WHT_095_R_EN_XS.png

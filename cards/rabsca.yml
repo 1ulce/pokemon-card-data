@@ -1,8 +1,6 @@
 ---
-schema_version: 1
+schema_version: 2
 slug: rabsca
-external_link:
-  cabt_id: 74
 name:
   ja: ベラカス
   en: Rabsca
@@ -53,4 +51,44 @@ first_appearance:
   released_at: '2024-01-26'
   regulation_mark: H
   collector_number: '015'
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV5M/045232_P_BERAKASU.jpg
+printings:
+- language: ja
+  set_code: SV5M
+  set_mark: SV5M
+  set_name: サイバージャッジ
+  collector_number: '015'
+  collector_number_unprinted: false
+  rarity: U
+  rarity_unprinted: false
+  illustrator: mingo
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV5M/045232_P_BERAKASU.jpg
+- language: ja
+  set_code: SV8a
+  set_mark: SV8a
+  set_name: テラスタルフェスex
+  collector_number: '014'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: mingo
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
   image_url:
+- language: en
+  set_code: TEF
+  set_mark: TEF
+  set_name: TEF
+  collector_number: '24'
+  collector_number_unprinted: false
+  rarity: U
+  rarity_unprinted: false
+  illustrator: mingo
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TEF/TEF_024_R_EN_XS.png

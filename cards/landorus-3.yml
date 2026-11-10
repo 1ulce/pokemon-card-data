@@ -1,8 +1,6 @@
 ---
-schema_version: 1
+schema_version: 2
 slug: landorus-3
-external_link:
-  cabt_id: 1050
 name:
   ja: ランドロス
   en: Landorus
@@ -59,4 +57,31 @@ first_appearance:
   released_at: '2026-01-23'
   regulation_mark: J
   collector_number: '040'
-  image_url:
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/M3/049673_P_RANDOROSU.jpg
+printings:
+- language: ja
+  set_code: M3
+  set_mark: M3
+  set_name: ムニキスゼロ
+  collector_number: '040'
+  collector_number_unprinted: false
+  rarity: R
+  rarity_unprinted: false
+  illustrator: aoki
+  illustrator_unprinted: false
+  regulation_mark: J
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/M3/049673_P_RANDOROSU.jpg
+- language: en
+  set_code: POR
+  set_mark: POR
+  set_name: POR
+  collector_number: '41'
+  collector_number_unprinted: false
+  rarity: R
+  rarity_unprinted: false
+  illustrator: aoki
+  illustrator_unprinted: false
+  regulation_mark: J
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/POR/POR_041_R_EN_XS.png

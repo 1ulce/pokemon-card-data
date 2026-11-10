@@ -1,5 +1,5 @@
 ---
-schema_version: 1
+schema_version: 2
 slug: pikachu-2
 name:
   ja: ピカチュウ
@@ -44,4 +44,70 @@ first_appearance:
   released_at: '2024-01-26'
   regulation_mark: H
   collector_number: '023'
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV5M/045240_P_PIKACHIXYUU.jpg
+printings:
+- language: ja
+  set_code: SV5M
+  set_mark: SV5M
+  set_name: サイバージャッジ
+  collector_number: '023'
+  collector_number_unprinted: false
+  rarity: C
+  rarity_unprinted: false
+  illustrator: kodama
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV5M/045240_P_PIKACHIXYUU.jpg
+- language: ja
+  set_code:
+  set_mark: SV-P
+  set_name: ポケカの夏がキタ！プロモカードGetキャンペーン！
+  collector_number: '46148'
+  collector_number_unprinted: true
+  rarity:
+  rarity_unprinted: true
+  illustrator: kodama
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
   image_url:
+- language: ja
+  set_code:
+  set_mark: M-P
+  set_name: ハッピーセット2025
+  collector_number: '48258'
+  collector_number_unprinted: true
+  rarity:
+  rarity_unprinted: true
+  illustrator: Yuu Nishida
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url:
+- language: en
+  set_code: TEF
+  set_mark: TEF
+  set_name: TEF
+  collector_number: '51'
+  collector_number_unprinted: false
+  rarity: C
+  rarity_unprinted: false
+  illustrator: kodama
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TEF/TEF_051_R_EN_XS.png
+- language: en
+  set_code: SVALT
+  set_mark: SVALT
+  set_name: SVALT
+  collector_number: '146'
+  collector_number_unprinted: false
+  rarity: C
+  rarity_unprinted: false
+  illustrator: kodama
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TEF/TEF_051_R_EN_XS.png

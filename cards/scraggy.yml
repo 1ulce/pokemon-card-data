@@ -1,5 +1,5 @@
 ---
-schema_version: 1
+schema_version: 2
 slug: scraggy
 name:
   ja: ズルッグ
@@ -44,4 +44,31 @@ first_appearance:
   released_at:
   regulation_mark: H
   collector_number: '45796'
-  image_url:
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV-P/045796_P_ZURUGGU.jpg
+printings:
+- language: ja
+  set_code:
+  set_mark: SV-P
+  set_name: スカーレット＆バイオレット プロモカードパック第6弾
+  collector_number: '45796'
+  collector_number_unprinted: true
+  rarity:
+  rarity_unprinted: true
+  illustrator: OKUBO
+  illustrator_unprinted: false
+  regulation_mark:
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV-P/045796_P_ZURUGGU.jpg
+- language: en
+  set_code: SVP
+  set_mark: SVP
+  set_name: SVP
+  collector_number: '186'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: OKUBO
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVP/SVP_186_R_EN_XS.png

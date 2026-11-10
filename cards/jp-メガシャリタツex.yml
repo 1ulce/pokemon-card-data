@@ -1,5 +1,5 @@
 ---
-schema_version: 1
+schema_version: 2
 slug: jp-メガシャリタツex
 name:
   ja: メガシャリタツex
@@ -48,4 +48,18 @@ first_appearance:
   released_at:
   regulation_mark:
   collector_number: '50471'
+  image_url:
+printings:
+- language: ja
+  set_code:
+  set_mark: M-P
+  set_name: ポケモンカードゲーム MEGA　プロモカードパック第5弾
+  collector_number: '50471'
+  collector_number_unprinted: true
+  rarity:
+  rarity_unprinted: true
+  illustrator: Keisuke Azuma
+  illustrator_unprinted: false
+  regulation_mark:
+  regulation_mark_unprinted: false
   image_url:

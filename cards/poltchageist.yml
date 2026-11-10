@@ -1,8 +1,6 @@
 ---
-schema_version: 1
+schema_version: 2
 slug: poltchageist
-external_link:
-  cabt_id: 28
 name:
   ja: チャデス
   en: Poltchageist
@@ -53,4 +51,70 @@ first_appearance:
   released_at: '2024-03-22'
   regulation_mark: H
   collector_number: '008'
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV5a/045584_P_CHIXYADESU.jpg
+printings:
+- language: ja
+  set_code: SV5a
+  set_mark: SV5a
+  set_name: クリムゾンヘイズ
+  collector_number: '008'
+  collector_number_unprinted: false
+  rarity: C
+  rarity_unprinted: false
+  illustrator: MINAMINAMI Take
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV5a/045584_P_CHIXYADESU.jpg
+- language: ja
+  set_code: SV5a
+  set_mark: SV5a
+  set_name: クリムゾンヘイズ
+  collector_number: '068'
+  collector_number_unprinted: false
+  rarity: AR
+  rarity_unprinted: false
+  illustrator: Saboteri
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV5a/045663_P_CHIXYADESU.jpg
+- language: ja
+  set_code: SV8a
+  set_mark: SV8a
+  set_name: テラスタルフェスex
+  collector_number: '017'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: MINAMINAMI Take
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
   image_url:
+- language: en
+  set_code: TWM
+  set_mark: TWM
+  set_name: TWM
+  collector_number: '20'
+  collector_number_unprinted: false
+  rarity: C
+  rarity_unprinted: false
+  illustrator: MINAMINAMI Take
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TWM/TWM_020_R_EN_XS.png
+- language: en
+  set_code: TWM
+  set_mark: TWM
+  set_name: TWM
+  collector_number: '171'
+  collector_number_unprinted: false
+  rarity: AR
+  rarity_unprinted: false
+  illustrator: Saboteri
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TWM/TWM_171_R_EN_XS.png

@@ -1,5 +1,5 @@
 ---
-schema_version: 1
+schema_version: 2
 slug: flamigo-ex
 name:
   ja: カラミンゴex
@@ -59,4 +59,31 @@ first_appearance:
   released_at:
   regulation_mark: H
   collector_number: '45398'
-  image_url:
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV-P/045398_P_KARAMINGOEX.jpg
+printings:
+- language: ja
+  set_code:
+  set_mark: SV-P
+  set_name: スカーレット＆バイオレット プロモカードパック第5弾
+  collector_number: '45398'
+  collector_number_unprinted: true
+  rarity:
+  rarity_unprinted: true
+  illustrator: N-DESIGN Inc.
+  illustrator_unprinted: false
+  regulation_mark:
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV-P/045398_P_KARAMINGOEX.jpg
+- language: en
+  set_code: SSP
+  set_mark: SSP
+  set_name: SSP
+  collector_number: '160'
+  collector_number_unprinted: false
+  rarity: RR
+  rarity_unprinted: false
+  illustrator: N-DESIGN Inc.
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SSP/SSP_160_R_EN_XS.png

@@ -1,8 +1,6 @@
 ---
-schema_version: 1
+schema_version: 2
 slug: bug-catching-set
-external_link:
-  cabt_id: 1094
 name:
   ja: むしとりセット
   en: Bug Catching Set
@@ -36,4 +34,122 @@ first_appearance:
   released_at: '2024-04-26'
   regulation_mark: H
   collector_number: '094'
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV6/045785_T_MUSHITORISETTO.jpg
+printings:
+- language: ja
+  set_code: SV6
+  set_mark: SV6
+  set_name: 変幻の仮面
+  collector_number: '094'
+  collector_number_unprinted: false
+  rarity: U
+  rarity_unprinted: false
+  illustrator: AYUMI ODASHIMA
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV6/045785_T_MUSHITORISETTO.jpg
+- language: ja
+  set_code: SV8a
+  set_mark: SV8a
+  set_name: テラスタルフェスex
+  collector_number: '150'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: AYUMI ODASHIMA
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
   image_url:
+- language: ja
+  set_code: M2a
+  set_mark: M2a
+  set_name: MEGAドリームex
+  collector_number: '157'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: AYUMI ODASHIMA
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: MC
+  set_name: スタートデッキ100 バトルコレクション
+  collector_number: '667'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: AYUMI ODASHIMA
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: SVN
+  set_name: デッキビルドBOX「バトルパートナーズ」
+  collector_number: '022'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: AYUMI ODASHIMA
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: SVK
+  set_name: デッキビルドBOX ステラミラクル
+  collector_number: '023'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: AYUMI ODASHIMA
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: MA
+  set_name: プレミアムトレーナーボックスMEGA
+  collector_number: '024'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: AYUMI ODASHIMA
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url:
+- language: en
+  set_code: TWM
+  set_mark: TWM
+  set_name: TWM
+  collector_number: '143'
+  collector_number_unprinted: false
+  rarity: U
+  rarity_unprinted: false
+  illustrator: AYUMI ODASHIMA
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TWM/TWM_143_R_EN_XS.png
+- language: en
+  set_code: PRE
+  set_mark: PRE
+  set_name: PRE
+  collector_number: '102'
+  collector_number_unprinted: false
+  rarity: U
+  rarity_unprinted: false
+  illustrator: AYUMI ODASHIMA
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PRE/PRE_102_R_EN_XS.png

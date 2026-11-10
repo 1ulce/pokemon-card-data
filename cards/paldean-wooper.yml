@@ -1,5 +1,5 @@
 ---
-schema_version: 1
+schema_version: 2
 slug: paldean-wooper
 name:
   ja: パルデア ウパー
@@ -44,4 +44,57 @@ first_appearance:
   released_at: '2024-11-22'
   regulation_mark: H
   collector_number: '073'
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SVM/046527_P_PARUDEAUPA.jpg
+printings:
+- language: ja
+  set_code:
+  set_mark: SVM
+  set_name: スタートデッキGenerations コライドンex・パルデアドオーex
+  collector_number: '073'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: Lee HyunJung
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SVM/046527_P_PARUDEAUPA.jpg
+- language: ja
+  set_code:
+  set_mark: SV-P
+  set_name: スタートデッキGenerations スペシャルバトルセット
+  collector_number: '47161'
+  collector_number_unprinted: true
+  rarity:
+  rarity_unprinted: true
+  illustrator: OKACHEKE
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
   image_url:
+- language: en
+  set_code: JTG
+  set_mark: JTG
+  set_name: JTG
+  collector_number: '93'
+  collector_number_unprinted: false
+  rarity: C
+  rarity_unprinted: false
+  illustrator: Lee HyunJung
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/JTG/JTG_093_R_EN_XS.png
+- language: en
+  set_code: PFL
+  set_mark: PFL
+  set_name: PFL
+  collector_number: '102'
+  collector_number_unprinted: false
+  rarity: AR
+  rarity_unprinted: false
+  illustrator: OKACHEKE
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PFL/PFL_102_R_EN_XS.png

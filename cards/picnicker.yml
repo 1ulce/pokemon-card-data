@@ -1,5 +1,5 @@
 ---
-schema_version: 1
+schema_version: 2
 slug: picnicker
 name:
   ja: ピクニックガール
@@ -35,3 +35,69 @@ first_appearance:
   regulation_mark: H
   collector_number: '065'
   image_url:
+printings:
+- language: ja
+  set_code:
+  set_mark: SVI
+  set_name: バトルアカデミー
+  collector_number: '065'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: Susumu Maeya
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: SVI
+  set_name: バトルアカデミー
+  collector_number: '065'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: Susumu Maeya
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SVI/045512_T_PIKUNIKKUGARU.jpg
+- language: ja
+  set_code:
+  set_mark: SVI
+  set_name: いつでもどこでも バトルアカデミー
+  collector_number: '065'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: Susumu Maeya
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: SVI
+  set_name: いつでもどこでも バトルアカデミー
+  collector_number: '065'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: Susumu Maeya
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url:
+- language: en
+  set_code: SVP
+  set_mark: SVP
+  set_name: SVP
+  collector_number: '114'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: Susumu Maeya
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVP/SVP_114_R_EN_XS.png

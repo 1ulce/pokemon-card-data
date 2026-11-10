@@ -1,8 +1,6 @@
 ---
-schema_version: 1
+schema_version: 2
 slug: morty-s-conviction
-external_link:
-  cabt_id: 1187
 name:
   ja: マツバの確信
   en: Morty's Conviction
@@ -39,4 +37,135 @@ first_appearance:
   released_at: '2024-01-26'
   regulation_mark: H
   collector_number: '069'
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV5K/045215_T_MATSUBANOKAKUSHIN.jpg
+printings:
+- language: ja
+  set_code: SV5K
+  set_mark: SV5K
+  set_name: ワイルドフォース
+  collector_number: '069'
+  collector_number_unprinted: false
+  rarity: U
+  rarity_unprinted: false
+  illustrator: GIDORA
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV5K/045215_T_MATSUBANOKAKUSHIN.jpg
+- language: ja
+  set_code: SV5K
+  set_mark: SV5K
+  set_name: ワイルドフォース
+  collector_number: '092'
+  collector_number_unprinted: false
+  rarity: SR
+  rarity_unprinted: false
+  illustrator: GIDORA
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV5K/045535_T_MATSUBANOKAKUSHIN.jpg
+- language: ja
+  set_code: SV5K
+  set_mark: SV5K
+  set_name: ワイルドフォース
+  collector_number: '097'
+  collector_number_unprinted: false
+  rarity: SAR
+  rarity_unprinted: false
+  illustrator: Megumi Mizutani
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV5K/045540_T_MATSUBANOKAKUSHIN.jpg
+- language: ja
+  set_code:
+  set_mark: SVM
+  set_name: スタートデッキGenerations ルギアex・バンギラスex
+  collector_number: '174'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: GIDORA
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
   image_url:
+- language: ja
+  set_code: SV8a
+  set_mark: SV8a
+  set_name: テラスタルフェスex
+  collector_number: '178'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: GIDORA
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: MC
+  set_name: スタートデッキ100 バトルコレクション
+  collector_number: '727'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: GIDORA
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: SV-P
+  set_name: 新弾バトル2024年4月
+  collector_number: '45793'
+  collector_number_unprinted: true
+  rarity:
+  rarity_unprinted: true
+  illustrator: GIDORA
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url:
+- language: en
+  set_code: TEF
+  set_mark: TEF
+  set_name: TEF
+  collector_number: '155'
+  collector_number_unprinted: false
+  rarity: U
+  rarity_unprinted: false
+  illustrator: GIDORA
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TEF/TEF_155_R_EN_XS.png
+- language: en
+  set_code: TEF
+  set_mark: TEF
+  set_name: TEF
+  collector_number: '201'
+  collector_number_unprinted: false
+  rarity: SR
+  rarity_unprinted: false
+  illustrator: GIDORA
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TEF/TEF_201_R_EN_XS.png
+- language: en
+  set_code: TEF
+  set_mark: TEF
+  set_name: TEF
+  collector_number: '211'
+  collector_number_unprinted: false
+  rarity: SAR
+  rarity_unprinted: false
+  illustrator: Megumi Mizutani
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TEF/TEF_211_R_EN_XS.png

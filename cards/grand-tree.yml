@@ -1,8 +1,6 @@
 ---
-schema_version: 1
+schema_version: 2
 slug: grand-tree
-external_link:
-  cabt_id: 1249
 name:
   ja: 偉大な大樹
   en: Grand Tree
@@ -38,3 +36,30 @@ first_appearance:
   regulation_mark: H
   collector_number: '101'
   image_url:
+printings:
+- language: ja
+  set_code: SV7
+  set_mark: SV7
+  set_name: ステラミラクル
+  collector_number: '101'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: false
+  illustrator: AYUMI ODASHIMA
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url:
+- language: en
+  set_code: SCR
+  set_mark: SCR
+  set_name: SCR
+  collector_number: '136'
+  collector_number_unprinted: false
+  rarity: SR
+  rarity_unprinted: false
+  illustrator: AYUMI ODASHIMA
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SCR/SCR_136_R_EN_XS.png

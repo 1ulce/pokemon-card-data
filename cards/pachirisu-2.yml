@@ -1,8 +1,6 @@
 ---
-schema_version: 1
+schema_version: 2
 slug: pachirisu-2
-external_link:
-  cabt_id: 738
 name:
   ja: パチリス
   en: Pachirisu
@@ -46,4 +44,44 @@ first_appearance:
   released_at: '2025-08-01'
   regulation_mark: I
   collector_number: '033'
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/M1S/047829_P_PACHIRISU.jpg
+printings:
+- language: ja
+  set_code: M1S
+  set_mark: M1S
+  set_name: メガシンフォニア
+  collector_number: '033'
+  collector_number_unprinted: false
+  rarity: C
+  rarity_unprinted: false
+  illustrator: tono
+  illustrator_unprinted: false
+  regulation_mark: I
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/M1S/047829_P_PACHIRISU.jpg
+- language: ja
+  set_code:
+  set_mark: MC
+  set_name: スタートデッキ100 バトルコレクション
+  collector_number: '247'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: tono
+  illustrator_unprinted: false
+  regulation_mark: I
+  regulation_mark_unprinted: false
   image_url:
+- language: en
+  set_code: MEG
+  set_mark: MEG
+  set_name: MEG
+  collector_number: '51'
+  collector_number_unprinted: false
+  rarity: C
+  rarity_unprinted: false
+  illustrator: tono
+  illustrator_unprinted: false
+  regulation_mark: I
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/MEG/MEG_051_R_EN_XS.png

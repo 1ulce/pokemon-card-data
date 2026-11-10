@@ -1,8 +1,6 @@
 ---
-schema_version: 1
+schema_version: 2
 slug: bouffalant
-external_link:
-  cabt_id: 175
 name:
   ja: バッフロン
   en: Bouffalant
@@ -55,4 +53,70 @@ first_appearance:
   released_at: '2024-07-19'
   regulation_mark: H
   collector_number: '081'
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV7/046020_P_BAFFURON.jpg
+printings:
+- language: ja
+  set_code: SV7
+  set_mark: SV7
+  set_name: ステラミラクル
+  collector_number: '081'
+  collector_number_unprinted: false
+  rarity: U
+  rarity_unprinted: false
+  illustrator: GOSSAN
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV7/046020_P_BAFFURON.jpg
+- language: ja
+  set_code: SV8a
+  set_mark: SV8a
+  set_name: テラスタルフェスex
+  collector_number: '133'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: Tonji Matsuno
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
   image_url:
+- language: ja
+  set_code: M2a
+  set_mark: M2a
+  set_name: MEGAドリームex
+  collector_number: '140'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: GOSSAN
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url:
+- language: en
+  set_code: SCR
+  set_mark: SCR
+  set_name: SCR
+  collector_number: '119'
+  collector_number_unprinted: false
+  rarity: R
+  rarity_unprinted: false
+  illustrator: GOSSAN
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SCR/SCR_119_R_EN_XS.png
+- language: en
+  set_code: SVP
+  set_mark: SVP
+  set_name: SVP
+  collector_number: '136'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: Tonji Matsuno
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVP/SVP_136_R_EN_XS.png

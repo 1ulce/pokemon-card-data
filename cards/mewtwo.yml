@@ -1,5 +1,5 @@
 ---
-schema_version: 1
+schema_version: 2
 slug: mewtwo
 name:
   ja: ミュウツー
@@ -46,4 +46,31 @@ first_appearance:
   released_at:
   regulation_mark: H
   collector_number: '024'
-  image_url:
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SVI/045448_P_MIXYUUTSU.jpg
+printings:
+- language: ja
+  set_code:
+  set_mark: SVI
+  set_name: いつでもどこでも バトルアカデミー
+  collector_number: '024'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: kantaro
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SVI/045448_P_MIXYUUTSU.jpg
+- language: en
+  set_code: SCR
+  set_mark: SCR
+  set_name: SCR
+  collector_number: '59'
+  collector_number_unprinted: false
+  rarity: U
+  rarity_unprinted: false
+  illustrator: kantaro
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SCR/SCR_059_R_EN_XS.png

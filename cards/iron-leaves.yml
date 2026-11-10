@@ -1,8 +1,6 @@
 ---
-schema_version: 1
+schema_version: 2
 slug: iron-leaves
-external_link:
-  cabt_id: 27
 name:
   ja: テツノイサハ
   en: Iron Leaves
@@ -58,4 +56,31 @@ first_appearance:
   released_at: '2024-03-22'
   regulation_mark: H
   collector_number: '007'
-  image_url:
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV5a/045583_P_TETSUNOISAHA.jpg
+printings:
+- language: ja
+  set_code: SV5a
+  set_mark: SV5a
+  set_name: クリムゾンヘイズ
+  collector_number: '007'
+  collector_number_unprinted: false
+  rarity: R
+  rarity_unprinted: false
+  illustrator: Mitsuhiro Arita
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV5a/045583_P_TETSUNOISAHA.jpg
+- language: en
+  set_code: TWM
+  set_mark: TWM
+  set_name: TWM
+  collector_number: '19'
+  collector_number_unprinted: false
+  rarity: R
+  rarity_unprinted: false
+  illustrator: Mitsuhiro Arita
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TWM/TWM_019_R_EN_XS.png

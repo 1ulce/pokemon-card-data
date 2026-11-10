@@ -1,8 +1,6 @@
 ---
-schema_version: 1
+schema_version: 2
 slug: thwackey
-external_link:
-  cabt_id: 90
 name:
   ja: バチンキー
   en: Thwackey
@@ -54,4 +52,57 @@ first_appearance:
   released_at: '2024-04-26'
   regulation_mark: H
   collector_number: '009'
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV6/045700_P_BACHINKI.jpg
+printings:
+- language: ja
+  set_code: SV6
+  set_mark: SV6
+  set_name: 変幻の仮面
+  collector_number: '009'
+  collector_number_unprinted: false
+  rarity: C
+  rarity_unprinted: false
+  illustrator: GOSSAN
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV6/045700_P_BACHINKI.jpg
+- language: ja
+  set_code: SV8a
+  set_mark: SV8a
+  set_name: テラスタルフェスex
+  collector_number: '007'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: Uninori
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
   image_url:
+- language: en
+  set_code: TWM
+  set_mark: TWM
+  set_name: TWM
+  collector_number: '15'
+  collector_number_unprinted: false
+  rarity: C
+  rarity_unprinted: false
+  illustrator: GOSSAN
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TWM/TWM_015_R_EN_XS.png
+- language: en
+  set_code: SVP
+  set_mark: SVP
+  set_name: SVP
+  collector_number: '115'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: Uninori
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVP/SVP_115_R_EN_XS.png

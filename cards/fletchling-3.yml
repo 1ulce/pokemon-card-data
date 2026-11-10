@@ -1,5 +1,5 @@
 ---
-schema_version: 1
+schema_version: 2
 slug: fletchling-3
 name:
   ja: ヤヤコマ
@@ -32,16 +32,43 @@ attacks:
 - position: 0
   name:
     ja: ふいをつく
-    en:
+    en: Surprise Attack
   cost:
   - Colorless
   damage: '30'
   effect_text:
     ja: コインを1回投げウラなら、このワザは失敗。
-    en:
+    en: Flip a coin. If tails, this attack does nothing.
 first_appearance:
   set_name_ja: ストームエメラルダ
   released_at: '2026-07-31'
   regulation_mark: J
   collector_number: '060'
-  image_url:
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/M6/050398_P_YAYAKOMA.jpg
+printings:
+- language: ja
+  set_code: M6
+  set_mark: M6
+  set_name: ストームエメラルダ
+  collector_number: '060'
+  collector_number_unprinted: false
+  rarity: C
+  rarity_unprinted: false
+  illustrator: takashi shiraishi
+  illustrator_unprinted: false
+  regulation_mark: J
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/M6/050398_P_YAYAKOMA.jpg
+- language: en
+  set_code: DLR
+  set_mark: DLR
+  set_name: Mega Evolution—Delta Reign
+  collector_number: '86'
+  collector_number_unprinted: false
+  rarity: C
+  rarity_unprinted: false
+  illustrator:
+  illustrator_unprinted: false
+  regulation_mark: J
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DLR/DLR_086_R_EN_XS.png

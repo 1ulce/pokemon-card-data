@@ -1,8 +1,6 @@
 ---
-schema_version: 1
+schema_version: 2
 slug: froakie
-external_link:
-  cabt_id: 945
 name:
   ja: ケロマツ
   en: Froakie
@@ -48,3 +46,43 @@ first_appearance:
   regulation_mark: H
   collector_number: '015'
   image_url:
+printings:
+- language: ja
+  set_code:
+  set_mark: SVI
+  set_name: バトルアカデミー
+  collector_number: '015'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: MINAMINAMI Take
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: MC
+  set_name: スタートデッキ100 バトルコレクション
+  collector_number: '206'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: MINAMINAMI Take
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/MC/048922_P_KEROMATSU.jpg
+- language: en
+  set_code: SCR
+  set_mark: SCR
+  set_name: SCR
+  collector_number: '39'
+  collector_number_unprinted: false
+  rarity: C
+  rarity_unprinted: false
+  illustrator: MINAMINAMI Take
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SCR/SCR_039_R_EN_XS.png

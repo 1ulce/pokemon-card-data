@@ -1,5 +1,5 @@
 ---
-schema_version: 1
+schema_version: 2
 slug: skarmory-4
 name:
   ja: エアームド
@@ -44,4 +44,31 @@ first_appearance:
   released_at: '2026-05-22'
   regulation_mark: J
   collector_number: '058'
-  image_url:
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/M5/050277_P_EAMUDO.jpg
+printings:
+- language: ja
+  set_code: M5
+  set_mark: M5
+  set_name: アビスアイ
+  collector_number: '058'
+  collector_number_unprinted: false
+  rarity: C
+  rarity_unprinted: false
+  illustrator: Anesaki Dynamic
+  illustrator_unprinted: false
+  regulation_mark: J
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/M5/050277_P_EAMUDO.jpg
+- language: en
+  set_code: PBL
+  set_mark: PBL
+  set_name: PBL
+  collector_number: '60'
+  collector_number_unprinted: false
+  rarity: C
+  rarity_unprinted: false
+  illustrator: Anesaki Dynamic
+  illustrator_unprinted: false
+  regulation_mark: J
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PBL/PBL_060_R_EN_XS.png

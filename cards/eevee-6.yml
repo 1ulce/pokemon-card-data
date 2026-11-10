@@ -1,5 +1,5 @@
 ---
-schema_version: 1
+schema_version: 2
 slug: eevee-6
 name:
   ja: イーブイ
@@ -46,3 +46,56 @@ first_appearance:
   regulation_mark: J
   collector_number: '025'
   image_url:
+printings:
+- language: ja
+  set_code:
+  set_mark: MF
+  set_name: 30th CELEBRATION プレミアムデッキセット エーフィ・ブラッキー
+  collector_number: '025'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: En Morikura
+  illustrator_unprinted: false
+  regulation_mark: J
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: MF
+  set_name: 30th CELEBRATION プレミアムデッキセット エーフィ・ブラッキー
+  collector_number: '026'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: Hitoshi Ariga
+  illustrator_unprinted: false
+  regulation_mark: J
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/MF/050589_P_IBUI.jpg
+- language: en
+  set_code: 30C
+  set_mark: 30C
+  set_name: 30C
+  collector_number: '117'
+  collector_number_unprinted: false
+  rarity: C
+  rarity_unprinted: false
+  illustrator: En Morikura
+  illustrator_unprinted: false
+  regulation_mark: J
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/30C/30C_117_R_EN_XS.png
+- language: en
+  set_code: 30C
+  set_mark: 30C
+  set_name: 30C
+  collector_number: '118'
+  collector_number_unprinted: false
+  rarity: C
+  rarity_unprinted: false
+  illustrator: Hitoshi Ariga
+  illustrator_unprinted: false
+  regulation_mark: J
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/30C/30C_118_R_EN_XS.png

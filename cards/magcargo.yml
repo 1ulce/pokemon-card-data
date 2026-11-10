@@ -1,5 +1,5 @@
 ---
-schema_version: 1
+schema_version: 2
 slug: magcargo
 name:
   ja: マグカルゴ
@@ -53,4 +53,31 @@ first_appearance:
   released_at: '2024-01-26'
   regulation_mark: H
   collector_number: '018'
-  image_url:
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV5M/045235_P_MAGUKARUGO.jpg
+printings:
+- language: ja
+  set_code: SV5M
+  set_mark: SV5M
+  set_name: サイバージャッジ
+  collector_number: '018'
+  collector_number_unprinted: false
+  rarity: R
+  rarity_unprinted: false
+  illustrator: Mitsuhiro Arita
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV5M/045235_P_MAGUKARUGO.jpg
+- language: en
+  set_code: TEF
+  set_mark: TEF
+  set_name: TEF
+  collector_number: '29'
+  collector_number_unprinted: false
+  rarity: R
+  rarity_unprinted: false
+  illustrator: Mitsuhiro Arita
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TEF/TEF_029_R_EN_XS.png

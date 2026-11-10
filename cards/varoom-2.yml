@@ -1,8 +1,6 @@
 ---
-schema_version: 1
+schema_version: 2
 slug: varoom-2
-external_link:
-  cabt_id: 143
 name:
   ja: ブロロン
   en: Varoom
@@ -57,4 +55,44 @@ first_appearance:
   released_at: '2024-06-07'
   regulation_mark: H
   collector_number: '043'
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV6a/045918_P_BURORON.jpg
+printings:
+- language: ja
+  set_code: SV6a
+  set_mark: SV6a
+  set_name: ナイトワンダラー
+  collector_number: '043'
+  collector_number_unprinted: false
+  rarity: C
+  rarity_unprinted: false
+  illustrator: HAGIYA Kaoru
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV6a/045918_P_BURORON.jpg
+- language: ja
+  set_code: SV8a
+  set_mark: SV8a
+  set_name: テラスタルフェスex
+  collector_number: '114'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: HAGIYA Kaoru
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
   image_url:
+- language: en
+  set_code: SFA
+  set_mark: SFA
+  set_name: SFA
+  collector_number: '43'
+  collector_number_unprinted: false
+  rarity: C
+  rarity_unprinted: false
+  illustrator: HAGIYA Kaoru
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SFA/SFA_043_R_EN_XS.png

@@ -1,8 +1,6 @@
 ---
-schema_version: 1
+schema_version: 2
 slug: zapdos-2
-external_link:
-  cabt_id: 952
 name:
   ja: サンダー
   en: Zapdos
@@ -12,7 +10,7 @@ card_subtype: たねポケモン
 energy_type: Lightning
 hp: 110
 retreat_cost: 1
-regulation_mark: J
+regulation_mark: H
 meta_tags: []
 evolves_from:
   ja:
@@ -57,6 +55,46 @@ attacks:
 first_appearance:
   set_name_ja: スタートデッキ100 バトルコレクション
   released_at: '2025-12-19'
-  regulation_mark: J
+  regulation_mark: H
   collector_number: '239'
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/MC/048955_P_SANDA.jpg
+printings:
+- language: ja
+  set_code:
+  set_mark: MC
+  set_name: スタートデッキ100 バトルコレクション
+  collector_number: '239'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: Nisota Niso
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/MC/048955_P_SANDA.jpg
+- language: ja
+  set_code:
+  set_mark: SVLN
+  set_name: スターターセット テラスタイプ：ステラ ニンフィアex
+  collector_number: '002'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: Nisota Niso
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
   image_url:
+- language: en
+  set_code: SVP
+  set_mark: SVP
+  set_name: SVP
+  collector_number: '157'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: Nisota Niso
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SVP/SVP_157_R_EN_XS.png

@@ -1,5 +1,5 @@
 ---
-schema_version: 1
+schema_version: 2
 slug: slowpoke-5
 name:
   ja: ヤドン
@@ -55,4 +55,31 @@ first_appearance:
   released_at: '2026-09-16'
   regulation_mark: J
   collector_number: '010'
-  image_url:
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/M6a/050622_P_YADON.jpg
+printings:
+- language: ja
+  set_code: M6a
+  set_mark: M6a
+  set_name: 拡張パック 30th CELEBRATION
+  collector_number: '010'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: Uninori
+  illustrator_unprinted: false
+  regulation_mark: J
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/M6a/050622_P_YADON.jpg
+- language: en
+  set_code: 30C
+  set_mark: 30C
+  set_name: 30C
+  collector_number: '16'
+  collector_number_unprinted: false
+  rarity: C
+  rarity_unprinted: false
+  illustrator: Uninori
+  illustrator_unprinted: false
+  regulation_mark: J
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/30C/30C_016_R_EN_XS.png

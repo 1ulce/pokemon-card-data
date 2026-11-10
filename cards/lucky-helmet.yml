@@ -1,8 +1,6 @@
 ---
-schema_version: 1
+schema_version: 2
 slug: lucky-helmet
-external_link:
-  cabt_id: 1156
 name:
   ja: ラッキーメット
   en: Lucky Helmet
@@ -36,4 +34,57 @@ first_appearance:
   released_at: '2024-03-22'
   regulation_mark: H
   collector_number: '060'
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV5a/045633_T_RAKKIMETTO.jpg
+printings:
+- language: ja
+  set_code: SV5a
+  set_mark: SV5a
+  set_name: クリムゾンヘイズ
+  collector_number: '060'
+  collector_number_unprinted: false
+  rarity: U
+  rarity_unprinted: false
+  illustrator: Studio Bora Inc.
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV5a/045633_T_RAKKIMETTO.jpg
+- language: ja
+  set_code:
+  set_mark: XY7-B
+  set_name: バンデットリング
+  collector_number: '072'
+  collector_number_unprinted: false
+  rarity: U
+  rarity_unprinted: false
+  illustrator: Toyste Beach
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
   image_url:
+- language: en
+  set_code: AOR
+  set_mark: AOR
+  set_name: AOR
+  collector_number: '77'
+  collector_number_unprinted: false
+  rarity: U
+  rarity_unprinted: false
+  illustrator: Toyste Beach
+  illustrator_unprinted: false
+  regulation_mark:
+  regulation_mark_unprinted: true
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/AOR/AOR_077_R_EN_XS.png
+- language: en
+  set_code: TWM
+  set_mark: TWM
+  set_name: TWM
+  collector_number: '158'
+  collector_number_unprinted: false
+  rarity: U
+  rarity_unprinted: false
+  illustrator: Studio Bora Inc.
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TWM/TWM_158_R_EN_XS.png

@@ -1,5 +1,5 @@
 ---
-schema_version: 1
+schema_version: 2
 slug: mega-delphox-ex
 name:
   ja: メガマフォクシーex
@@ -58,4 +58,31 @@ first_appearance:
   released_at:
   regulation_mark: J
   collector_number: '50174'
-  image_url:
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/M-P/050174_P_MMAFUOKUSHIEX.jpg
+printings:
+- language: ja
+  set_code:
+  set_mark: M-P
+  set_name: ポケモンカードゲーム MEGA　プロモカードパック第4弾
+  collector_number: '50174'
+  collector_number_unprinted: true
+  rarity:
+  rarity_unprinted: true
+  illustrator: 5ban Graphics
+  illustrator_unprinted: false
+  regulation_mark: J
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/M-P/050174_P_MMAFUOKUSHIEX.jpg
+- language: en
+  set_code: PBL
+  set_mark: PBL
+  set_name: PBL
+  collector_number: '8'
+  collector_number_unprinted: false
+  rarity: RR
+  rarity_unprinted: false
+  illustrator: 5ban Graphics
+  illustrator_unprinted: false
+  regulation_mark: J
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/PBL/PBL_008_R_EN_XS.png

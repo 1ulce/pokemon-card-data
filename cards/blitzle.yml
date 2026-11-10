@@ -1,5 +1,5 @@
 ---
-schema_version: 1
+schema_version: 2
 slug: blitzle
 name:
   ja: シママ
@@ -55,4 +55,44 @@ first_appearance:
   released_at: '2024-10-18'
   regulation_mark: H
   collector_number: '038'
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV8/046378_P_SHIMAMA.jpg
+printings:
+- language: ja
+  set_code: SV8
+  set_mark: SV8
+  set_name: 超電ブレイカー
+  collector_number: '038'
+  collector_number_unprinted: false
+  rarity: C
+  rarity_unprinted: false
+  illustrator: kamonabe
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV8/046378_P_SHIMAMA.jpg
+- language: ja
+  set_code:
+  set_mark: MC
+  set_name: スタートデッキ100 バトルコレクション
+  collector_number: '249'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: kamonabe
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
   image_url:
+- language: en
+  set_code: SSP
+  set_mark: SSP
+  set_name: SSP
+  collector_number: '62'
+  collector_number_unprinted: false
+  rarity: C
+  rarity_unprinted: false
+  illustrator: kamonabe
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SSP/SSP_062_R_EN_XS.png

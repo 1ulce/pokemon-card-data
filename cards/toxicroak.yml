@@ -1,5 +1,5 @@
 ---
-schema_version: 1
+schema_version: 2
 slug: toxicroak
 name:
   ja: ドクロッグ
@@ -57,4 +57,44 @@ first_appearance:
   released_at: '2024-06-07'
   regulation_mark: H
   collector_number: '024'
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV6a/045899_P_DOKUROGGU.jpg
+printings:
+- language: ja
+  set_code: SV6a
+  set_mark: SV6a
+  set_name: ナイトワンダラー
+  collector_number: '024'
+  collector_number_unprinted: false
+  rarity: C
+  rarity_unprinted: false
+  illustrator: Anesaki Dynamic
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV6a/045899_P_DOKUROGGU.jpg
+- language: ja
+  set_code:
+  set_mark: MC
+  set_name: スタートデッキ100 バトルコレクション
+  collector_number: '383'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: Anesaki Dynamic
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
   image_url:
+- language: en
+  set_code: SFA
+  set_mark: SFA
+  set_name: SFA
+  collector_number: '24'
+  collector_number_unprinted: false
+  rarity: C
+  rarity_unprinted: false
+  illustrator: Anesaki Dynamic
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SFA/SFA_024_R_EN_XS.png

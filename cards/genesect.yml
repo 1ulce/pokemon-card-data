@@ -1,8 +1,6 @@
 ---
-schema_version: 1
+schema_version: 2
 slug: genesect
-external_link:
-  cabt_id: 142
 name:
   ja: ゲノセクト
   en: Genesect
@@ -55,4 +53,31 @@ first_appearance:
   released_at: '2024-06-07'
   regulation_mark: H
   collector_number: '040'
-  image_url:
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV6a/045915_P_GENOSEKUTO.jpg
+printings:
+- language: ja
+  set_code: SV6a
+  set_mark: SV6a
+  set_name: ナイトワンダラー
+  collector_number: '040'
+  collector_number_unprinted: false
+  rarity: U
+  rarity_unprinted: false
+  illustrator: Kazumasa Yasukuni
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV6a/045915_P_GENOSEKUTO.jpg
+- language: en
+  set_code: SFA
+  set_mark: SFA
+  set_name: SFA
+  collector_number: '40'
+  collector_number_unprinted: false
+  rarity: U
+  rarity_unprinted: false
+  illustrator: Kazumasa Yasukuni
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SFA/SFA_040_R_EN_XS.png

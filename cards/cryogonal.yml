@@ -1,5 +1,5 @@
 ---
-schema_version: 1
+schema_version: 2
 slug: cryogonal
 name:
   ja: フリージオ
@@ -54,4 +54,57 @@ first_appearance:
   released_at: '2024-09-13'
   regulation_mark: H
   collector_number: '010'
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV7a/046239_P_FURIJIO.jpg
+printings:
+- language: ja
+  set_code: SV7a
+  set_mark: SV7a
+  set_name: 楽園ドラゴーナ
+  collector_number: '010'
+  collector_number_unprinted: false
+  rarity: C
+  rarity_unprinted: false
+  illustrator: sui
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV7a/046239_P_FURIJIO.jpg
+- language: ja
+  set_code:
+  set_mark: MC
+  set_name: スタートデッキ100 バトルコレクション
+  collector_number: '202'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: sui
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
   image_url:
+- language: en
+  set_code: SSP
+  set_mark: SSP
+  set_name: SSP
+  collector_number: '47'
+  collector_number_unprinted: false
+  rarity: C
+  rarity_unprinted: false
+  illustrator: sui
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SSP/SSP_047_R_EN_XS.png
+- language: en
+  set_code: SVALT
+  set_mark: SVALT
+  set_name: SVALT
+  collector_number: '194'
+  collector_number_unprinted: false
+  rarity: C
+  rarity_unprinted: false
+  illustrator: sui
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SSP/SSP_047_R_EN_XS.png

@@ -1,8 +1,6 @@
 ---
-schema_version: 1
+schema_version: 2
 slug: palossand-ex
-external_link:
-  cabt_id: 223
 name:
   ja: シロデスナex
   en: Palossand ex
@@ -15,7 +13,6 @@ retreat_cost: 4
 regulation_mark: H
 meta_tags:
 - ex
-- tera
 evolves_from:
   ja: スナバァ
   en: Sandygast
@@ -62,4 +59,57 @@ first_appearance:
   released_at: '2024-10-18'
   regulation_mark: H
   collector_number: '057'
-  image_url:
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV8/046397_P_SHIRODESUNAEX.jpg
+printings:
+- language: ja
+  set_code: SV8
+  set_mark: SV8
+  set_name: 超電ブレイカー
+  collector_number: '057'
+  collector_number_unprinted: false
+  rarity: RR
+  rarity_unprinted: false
+  illustrator: 5ban Graphics
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV8/046397_P_SHIRODESUNAEX.jpg
+- language: ja
+  set_code: SV8
+  set_mark: SV8
+  set_name: 超電ブレイカー
+  collector_number: '123'
+  collector_number_unprinted: false
+  rarity: SR
+  rarity_unprinted: false
+  illustrator: 5ban Graphics
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV8/046646_P_SHIRODESUNAEX.jpg
+- language: en
+  set_code: SSP
+  set_mark: SSP
+  set_name: SSP
+  collector_number: '91'
+  collector_number_unprinted: false
+  rarity: RR
+  rarity_unprinted: false
+  illustrator: 5ban Graphics
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SSP/SSP_091_R_EN_XS.png
+- language: en
+  set_code: SSP
+  set_mark: SSP
+  set_name: SSP
+  collector_number: '221'
+  collector_number_unprinted: false
+  rarity: SR
+  rarity_unprinted: false
+  illustrator: 5ban Graphics
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SSP/SSP_221_R_EN_XS.png

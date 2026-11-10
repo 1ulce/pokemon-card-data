@@ -1,5 +1,5 @@
 ---
-schema_version: 1
+schema_version: 2
 slug: persian
 name:
   ja: ペルシアン
@@ -57,4 +57,70 @@ first_appearance:
   released_at: '2024-06-07'
   regulation_mark: H
   collector_number: '049'
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV6a/045924_P_PERUSHIAN.jpg
+printings:
+- language: ja
+  set_code: SV6a
+  set_mark: SV6a
+  set_name: ナイトワンダラー
+  collector_number: '049'
+  collector_number_unprinted: false
+  rarity: C
+  rarity_unprinted: false
+  illustrator: NC Empire
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV6a/045924_P_PERUSHIAN.jpg
+- language: ja
+  set_code: SV6a
+  set_mark: SV6a
+  set_name: ナイトワンダラー
+  collector_number: '075'
+  collector_number_unprinted: false
+  rarity: AR
+  rarity_unprinted: false
+  illustrator: Whisker
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV6a/046052_P_PERUSHIAN.jpg
+- language: ja
+  set_code:
+  set_mark: SVM
+  set_name: スタートデッキGenerations ピカチュウex・カビゴンex
+  collector_number: '092'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: NC Empire
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
   image_url:
+- language: en
+  set_code: SFA
+  set_mark: SFA
+  set_name: SFA
+  collector_number: '49'
+  collector_number_unprinted: false
+  rarity: C
+  rarity_unprinted: false
+  illustrator: NC Empire
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SFA/SFA_049_R_EN_XS.png
+- language: en
+  set_code: SFA
+  set_mark: SFA
+  set_name: SFA
+  collector_number: '78'
+  collector_number_unprinted: false
+  rarity: AR
+  rarity_unprinted: false
+  illustrator: Whisker
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/SFA/SFA_078_R_EN_XS.png

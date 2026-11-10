@@ -1,5 +1,5 @@
 ---
-schema_version: 1
+schema_version: 2
 slug: morpeko-3
 name:
   ja: モルペコ
@@ -10,7 +10,7 @@ card_subtype: たねポケモン
 energy_type: Darkness
 hp: 80
 retreat_cost: 1
-regulation_mark:
+regulation_mark: J
 meta_tags: []
 evolves_from:
   ja:
@@ -32,17 +32,17 @@ attacks:
 - position: 0
   name:
     ja: なかまをよぶ 
-    en:
+    en: Call for Family
   cost:
   - Colorless
   damage:
   effect_text:
     ja: 自分の山札からたねポケモンを2枚まで選び、ベンチに出す。そして山札を切る。
-    en:
+    en: Search your deck for up to 2 Basic Pokémon and put them onto your Bench. Then, shuffle your deck.
 - position: 1
   name:
     ja: ビンタ
-    en:
+    en: Slap
   cost:
   - Darkness
   damage: '30'
@@ -52,6 +52,33 @@ attacks:
 first_appearance:
   set_name_ja: スターターセットex ゾロア＆ゾロアークex
   released_at:
-  regulation_mark:
+  regulation_mark: J
   collector_number: '008'
-  image_url:
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/MEZ/050439_P_MORUPEKO.jpg
+printings:
+- language: ja
+  set_code:
+  set_mark: MEZ
+  set_name: スターターセットex ゾロア＆ゾロアークex
+  collector_number: '008'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: kurumitsu
+  illustrator_unprinted: false
+  regulation_mark: J
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/MEZ/050439_P_MORUPEKO.jpg
+- language: en
+  set_code: DLR
+  set_mark: DLR
+  set_name: Mega Evolution—Delta Reign
+  collector_number: '70'
+  collector_number_unprinted: false
+  rarity: U
+  rarity_unprinted: false
+  illustrator:
+  illustrator_unprinted: false
+  regulation_mark: J
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DLR/DLR_070_R_EN_XS.png

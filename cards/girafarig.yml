@@ -1,5 +1,5 @@
 ---
-schema_version: 1
+schema_version: 2
 slug: girafarig
 name:
   ja: キリンリキ
@@ -45,4 +45,44 @@ first_appearance:
   released_at: '2024-01-26'
   regulation_mark: H
   collector_number: '032'
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV5M/045249_P_KIRINRIKI.jpg
+printings:
+- language: ja
+  set_code: SV5M
+  set_mark: SV5M
+  set_name: サイバージャッジ
+  collector_number: '032'
+  collector_number_unprinted: false
+  rarity: C
+  rarity_unprinted: false
+  illustrator: matazo
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV5M/045249_P_KIRINRIKI.jpg
+- language: ja
+  set_code:
+  set_mark: MC
+  set_name: スタートデッキ100 バトルコレクション
+  collector_number: '300'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: matazo
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
   image_url:
+- language: en
+  set_code: TEF
+  set_mark: TEF
+  set_name: TEF
+  collector_number: '66'
+  collector_number_unprinted: false
+  rarity: C
+  rarity_unprinted: false
+  illustrator: matazo
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TEF/TEF_066_R_EN_XS.png

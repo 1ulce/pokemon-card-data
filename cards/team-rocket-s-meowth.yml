@@ -1,8 +1,6 @@
 ---
-schema_version: 1
+schema_version: 2
 slug: team-rocket-s-meowth
-external_link:
-  cabt_id: 470
 name:
   ja: ロケット団のニャース
   en: Team Rocket's Meowth
@@ -57,4 +55,109 @@ first_appearance:
   released_at: '2025-04-18'
   regulation_mark: I
   collector_number: '078'
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV10/047471_P_ROKETTODANNONIXYASU.jpg
+printings:
+- language: ja
+  set_code: SV10
+  set_mark: SV10
+  set_name: ロケット団の栄光
+  collector_number: '078'
+  collector_number_unprinted: false
+  rarity: C
+  rarity_unprinted: false
+  illustrator: Megumi Mizutani
+  illustrator_unprinted: false
+  regulation_mark: I
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV10/047471_P_ROKETTODANNONIXYASU.jpg
+- language: ja
+  set_code: SV10
+  set_mark: SV10
+  set_name: ロケット団の栄光
+  collector_number: '109'
+  collector_number_unprinted: false
+  rarity: AR
+  rarity_unprinted: false
+  illustrator: Shimaris Yukichi
+  illustrator_unprinted: false
+  regulation_mark: I
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV10/047513_P_ROKETTODANNONIXYASU.jpg
+- language: ja
+  set_code:
+  set_mark: MC
+  set_name: スタートデッキ100 バトルコレクション
+  collector_number: '559'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: Megumi Mizutani
+  illustrator_unprinted: false
+  regulation_mark: I
+  regulation_mark_unprinted: false
   image_url:
+- language: ja
+  set_code:
+  set_mark: SV-P
+  set_name: コロコロイチバン！ 2025年7・8月発売号
+  collector_number: '49633'
+  collector_number_unprinted: true
+  rarity:
+  rarity_unprinted: true
+  illustrator: Megumi Mizutani
+  illustrator_unprinted: false
+  regulation_mark: I
+  regulation_mark_unprinted: false
+  image_url:
+- language: en
+  set_code: DRI
+  set_mark: DRI
+  set_name: DRI
+  collector_number: '149'
+  collector_number_unprinted: false
+  rarity: C
+  rarity_unprinted: false
+  illustrator: Megumi Mizutani
+  illustrator_unprinted: false
+  regulation_mark: I
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRI/DRI_149_R_EN_XS.png
+- language: en
+  set_code: DRI
+  set_mark: DRI
+  set_name: DRI
+  collector_number: '203'
+  collector_number_unprinted: false
+  rarity: AR
+  rarity_unprinted: false
+  illustrator: Shimaris Yukichi
+  illustrator_unprinted: false
+  regulation_mark: I
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRI/DRI_203_R_EN_XS.png
+- language: en
+  set_code: ASC
+  set_mark: ASC
+  set_name: ASC
+  collector_number: '161'
+  collector_number_unprinted: false
+  rarity: C
+  rarity_unprinted: false
+  illustrator: Megumi Mizutani
+  illustrator_unprinted: false
+  regulation_mark: I
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/ASC/ASC_161_R_EN_XS.png
+- language: en
+  set_code: SVALT
+  set_mark: SVALT
+  set_name: SVALT
+  collector_number: '183'
+  collector_number_unprinted: false
+  rarity: C
+  rarity_unprinted: false
+  illustrator: Megumi Mizutani
+  illustrator_unprinted: false
+  regulation_mark: I
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DRI/DRI_149_R_EN_XS.png

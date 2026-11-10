@@ -1,5 +1,5 @@
 ---
-schema_version: 1
+schema_version: 2
 slug: tornadus-3
 name:
   ja: トルネロス
@@ -31,15 +31,15 @@ abilities:
 - position: 0
   name:
     ja: けしんだんけつ
-    en:
+    en: Incarnate Solidarity
   effect_text:
     ja: 自分の場に「トルネロス」「ボルトロス」「ランドロス」「ラブトロス」がいるなら、このポケモンはワザを使うための無色エネルギーが、すべてなくなる。
-    en:
+    en: If you have Tornadus, Thundurus, Landorus, and Enamorus in play, ignore all [C] Energy in the costs of attacks used by this Pokémon.
 attacks:
 - position: 0
   name:
     ja: スクリューダイブ
-    en:
+    en: Corkscrew Dive
   cost:
   - Colorless
   - Colorless
@@ -47,10 +47,37 @@ attacks:
   damage: '70'
   effect_text:
     ja: のぞむなら、自分の手札が6枚になるように、山札を引く。
-    en:
+    en: You may draw cards until you have 6 cards in your hand.
 first_appearance:
   set_name_ja: ストームエメラルダ
   released_at: '2026-07-31'
   regulation_mark: J
   collector_number: '059'
-  image_url:
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/M6/050397_P_TORUNEROSU.jpg
+printings:
+- language: ja
+  set_code: M6
+  set_mark: M6
+  set_name: ストームエメラルダ
+  collector_number: '059'
+  collector_number_unprinted: false
+  rarity: U
+  rarity_unprinted: false
+  illustrator: Uta
+  illustrator_unprinted: false
+  regulation_mark: J
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/M6/050397_P_TORUNEROSU.jpg
+- language: en
+  set_code: DLR
+  set_mark: DLR
+  set_name: Mega Evolution—Delta Reign
+  collector_number: '85'
+  collector_number_unprinted: false
+  rarity: U
+  rarity_unprinted: false
+  illustrator:
+  illustrator_unprinted: false
+  regulation_mark: J
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DLR/DLR_085_R_EN_XS.png

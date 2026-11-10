@@ -1,8 +1,6 @@
 ---
-schema_version: 1
+schema_version: 2
 slug: croconaw
-external_link:
-  cabt_id: 48
 name:
   ja: アリゲイツ
   en: Croconaw
@@ -46,4 +44,57 @@ first_appearance:
   released_at: '2024-01-26'
   regulation_mark: H
   collector_number: '014'
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV5K/045160_P_ARIGEITSU.jpg
+printings:
+- language: ja
+  set_code: SV5K
+  set_mark: SV5K
+  set_name: ワイルドフォース
+  collector_number: '014'
+  collector_number_unprinted: false
+  rarity: C
+  rarity_unprinted: false
+  illustrator: Jerky
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV5K/045160_P_ARIGEITSU.jpg
+- language: ja
+  set_code: SV8a
+  set_mark: SV8a
+  set_name: テラスタルフェスex
+  collector_number: '033'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: Jerky
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
   image_url:
+- language: ja
+  set_code:
+  set_mark: MC
+  set_name: スタートデッキ100 バトルコレクション
+  collector_number: '166'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: Jerky
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url:
+- language: en
+  set_code: TEF
+  set_mark: TEF
+  set_name: TEF
+  collector_number: '40'
+  collector_number_unprinted: false
+  rarity: C
+  rarity_unprinted: false
+  illustrator: Jerky
+  illustrator_unprinted: false
+  regulation_mark: H
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/TEF/TEF_040_R_EN_XS.png

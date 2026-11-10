@@ -1,8 +1,6 @@
 ---
-schema_version: 1
+schema_version: 2
 slug: sprigatito
-external_link:
-  cabt_id: 922
 name:
   ja: ニャオハ
   en: Sprigatito
@@ -46,4 +44,70 @@ first_appearance:
   released_at: '2025-01-24'
   regulation_mark: I
   collector_number: '010'
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV9/047018_P_NIXYAOHA.jpg
+printings:
+- language: ja
+  set_code: SV9
+  set_mark: SV9
+  set_name: バトルパートナーズ
+  collector_number: '010'
+  collector_number_unprinted: false
+  rarity: C
+  rarity_unprinted: false
+  illustrator: Mina Nakai
+  illustrator_unprinted: false
+  regulation_mark: I
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/SV9/047018_P_NIXYAOHA.jpg
+- language: ja
+  set_code:
+  set_mark: MP1
+  set_name: スタートデッキ100 バトルコレクション コロちゃおVer.
+  collector_number: '003'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: Mina Nakai
+  illustrator_unprinted: false
+  regulation_mark: I
+  regulation_mark_unprinted: false
   image_url:
+- language: ja
+  set_code:
+  set_mark: MC
+  set_name: スタートデッキ100 バトルコレクション
+  collector_number: '065'
+  collector_number_unprinted: false
+  rarity:
+  rarity_unprinted: true
+  illustrator: Mina Nakai
+  illustrator_unprinted: false
+  regulation_mark: I
+  regulation_mark_unprinted: false
+  image_url:
+- language: ja
+  set_code:
+  set_mark: M-P
+  set_name: ハッピーセット2025
+  collector_number: '48255'
+  collector_number_unprinted: true
+  rarity:
+  rarity_unprinted: true
+  illustrator: Mina Nakai
+  illustrator_unprinted: false
+  regulation_mark: I
+  regulation_mark_unprinted: false
+  image_url:
+- language: en
+  set_code: JTG
+  set_mark: JTG
+  set_name: JTG
+  collector_number: '16'
+  collector_number_unprinted: false
+  rarity: C
+  rarity_unprinted: false
+  illustrator: Mina Nakai
+  illustrator_unprinted: false
+  regulation_mark: I
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/JTG/JTG_016_R_EN_XS.png

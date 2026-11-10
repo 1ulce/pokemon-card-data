@@ -1,5 +1,5 @@
 ---
-schema_version: 1
+schema_version: 2
 slug: spinarak-3
 name:
   ja: イトマル
@@ -32,17 +32,17 @@ attacks:
 - position: 0
   name:
     ja: どくばり 
-    en:
+    en: Poison Sting
   cost:
   - Darkness
   damage:
   effect_text:
     ja: 相手のバトルポケモンをどくにする。
-    en:
+    en: Your opponent's Active Pokémon is now Poisoned.
 - position: 1
   name:
     ja: バグパニック
-    en:
+    en: Bug Out
   cost:
   - Colorless
   - Colorless
@@ -50,10 +50,37 @@ attacks:
   damage: 50×
   effect_text:
     ja: 自分の山札を下から7枚オモテにして、その中にある、ワザ「バグパニック」を持つポケモンの枚数×50ダメージ。オモテにしたポケモンは山札にもどして切る。残りのカードはトラッシュする。
-    en:
+    en: Reveal the bottom 7 cards of your deck, and this attack does 50 damage for each Pokémon you find there that has the Bug Out attack. Then, shuffle any revealed Pokémon back into your deck. Discard the other cards.
 first_appearance:
   set_name_ja: ストームエメラルダ
   released_at: '2026-07-31'
   regulation_mark: J
   collector_number: '044'
-  image_url:
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/M6/050382_P_ITOMARU.jpg
+printings:
+- language: ja
+  set_code: M6
+  set_mark: M6
+  set_name: ストームエメラルダ
+  collector_number: '044'
+  collector_number_unprinted: false
+  rarity: C
+  rarity_unprinted: false
+  illustrator: Apios
+  illustrator_unprinted: false
+  regulation_mark: J
+  regulation_mark_unprinted: false
+  image_url: https://www.pokemon-card.com/assets/images/card_images/large/M6/050382_P_ITOMARU.jpg
+- language: en
+  set_code: DLR
+  set_mark: DLR
+  set_name: Mega Evolution—Delta Reign
+  collector_number: '58'
+  collector_number_unprinted: false
+  rarity: C
+  rarity_unprinted: false
+  illustrator:
+  illustrator_unprinted: false
+  regulation_mark: J
+  regulation_mark_unprinted: false
+  image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/DLR/DLR_058_R_EN_XS.png
