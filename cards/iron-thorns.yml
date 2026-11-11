@@ -132,7 +132,7 @@ printings:
   collector_number: '72'
   collector_number_unprinted: false
   rarity:
-  rarity_unprinted: false
+  rarity_unprinted: true
   illustrator: Tonji Matsuno
   illustrator_unprinted: false
   regulation_mark: H

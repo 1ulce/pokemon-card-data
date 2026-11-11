@@ -79,6 +79,6 @@ printings:
   rarity_unprinted: false
   illustrator: Kurata So
   illustrator_unprinted: false
-  regulation_mark: J
-  regulation_mark_unprinted: false
+  regulation_mark:
+  regulation_mark_unprinted: true
   image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/30C/30C_006_R_EN_XS.png

@@ -43,7 +43,7 @@ printings:
   set_name: ワイルドフォース
   collector_number: '066'
   collector_number_unprinted: false
-  rarity:
+  rarity: SR
   rarity_unprinted: false
   illustrator: inose yukie
   illustrator_unprinted: false
@@ -56,8 +56,8 @@ printings:
   set_name: テラスタルフェスex
   collector_number: '159'
   collector_number_unprinted: false
-  rarity:
-  rarity_unprinted: true
+  rarity: SR
+  rarity_unprinted: false
   illustrator: inose yukie
   illustrator_unprinted: false
   regulation_mark: H
@@ -69,8 +69,8 @@ printings:
   set_name: スタートデッキ100 バトルコレクション
   collector_number: '691'
   collector_number_unprinted: false
-  rarity:
-  rarity_unprinted: true
+  rarity: SR
+  rarity_unprinted: false
   illustrator: inose yukie
   illustrator_unprinted: false
   regulation_mark: H
@@ -82,8 +82,8 @@ printings:
   set_name: デッキビルドBOX「バトルパートナーズ」
   collector_number: '027'
   collector_number_unprinted: false
-  rarity:
-  rarity_unprinted: true
+  rarity: SR
+  rarity_unprinted: false
   illustrator: inose yukie
   illustrator_unprinted: false
   regulation_mark: H
@@ -95,8 +95,8 @@ printings:
   set_name: プレミアムトレーナーボックスMEGA
   collector_number: '031'
   collector_number_unprinted: false
-  rarity:
-  rarity_unprinted: true
+  rarity: SR
+  rarity_unprinted: false
   illustrator: inose yukie
   illustrator_unprinted: false
   regulation_mark: H

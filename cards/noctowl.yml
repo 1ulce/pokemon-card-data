@@ -204,7 +204,7 @@ printings:
   collector_number: '126'
   collector_number_unprinted: false
   rarity:
-  rarity_unprinted: false
+  rarity_unprinted: true
   illustrator: Tetsu Kayama
   illustrator_unprinted: false
   regulation_mark: H

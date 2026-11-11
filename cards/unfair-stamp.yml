@@ -46,7 +46,7 @@ printings:
   set_name: クリムゾンヘイズ
   collector_number: '053'
   collector_number_unprinted: false
-  rarity:
+  rarity: SR
   rarity_unprinted: false
   illustrator: Toyste Beach
   illustrator_unprinted: false
@@ -59,8 +59,8 @@ printings:
   set_name: スタートデッキ100 バトルコレクション
   collector_number: '633'
   collector_number_unprinted: false
-  rarity:
-  rarity_unprinted: true
+  rarity: SR
+  rarity_unprinted: false
   illustrator: Toyste Beach
   illustrator_unprinted: false
   regulation_mark: H
@@ -72,8 +72,8 @@ printings:
   set_name: プレミアムトレーナーボックスMEGA
   collector_number: '011'
   collector_number_unprinted: false
-  rarity:
-  rarity_unprinted: true
+  rarity: SR
+  rarity_unprinted: false
   illustrator: Toyste Beach
   illustrator_unprinted: false
   regulation_mark: H

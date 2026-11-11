@@ -77,8 +77,8 @@ printings:
   rarity_unprinted: false
   illustrator: Miki Tanaka
   illustrator_unprinted: false
-  regulation_mark: J
-  regulation_mark_unprinted: false
+  regulation_mark:
+  regulation_mark_unprinted: true
   image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/30C/30C_088_R_EN_XS.png
 - language: en
   set_code: MEALT
@@ -87,7 +87,7 @@ printings:
   collector_number: '11'
   collector_number_unprinted: false
   rarity:
-  rarity_unprinted: false
+  rarity_unprinted: true
   illustrator: Taiga Kasai
   illustrator_unprinted: false
   regulation_mark: J

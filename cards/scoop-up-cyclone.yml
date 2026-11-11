@@ -43,7 +43,7 @@ printings:
   set_name: 変幻の仮面
   collector_number: '093'
   collector_number_unprinted: false
-  rarity:
+  rarity: SR
   rarity_unprinted: false
   illustrator: Toyste Beach
   illustrator_unprinted: false
@@ -56,8 +56,8 @@ printings:
   set_name: テラスタルフェスex
   collector_number: '149'
   collector_number_unprinted: false
-  rarity:
-  rarity_unprinted: true
+  rarity: SR
+  rarity_unprinted: false
   illustrator: Toyste Beach
   illustrator_unprinted: false
   regulation_mark: H
@@ -69,8 +69,8 @@ printings:
   set_name: スタートデッキ100 バトルコレクション
   collector_number: '664'
   collector_number_unprinted: false
-  rarity:
-  rarity_unprinted: true
+  rarity: SR
+  rarity_unprinted: false
   illustrator: Toyste Beach
   illustrator_unprinted: false
   regulation_mark: H
@@ -82,7 +82,7 @@ printings:
   set_name: エクストラレギュレーションBOX
   collector_number: '047'
   collector_number_unprinted: false
-  rarity:
+  rarity: SR
   rarity_unprinted: false
   illustrator: 5ban Graphics
   illustrator_unprinted: false

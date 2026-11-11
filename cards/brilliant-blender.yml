@@ -43,8 +43,8 @@ printings:
   set_name: スターターセット テラスタイプ：ステラ ソウブレイズex
   collector_number: '014'
   collector_number_unprinted: false
-  rarity:
-  rarity_unprinted: true
+  rarity: SR
+  rarity_unprinted: false
   illustrator: Toyste Beach
   illustrator_unprinted: false
   regulation_mark: H

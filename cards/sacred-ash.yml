@@ -85,8 +85,8 @@ printings:
   rarity_unprinted: false
   illustrator: PLANETA
   illustrator_unprinted: false
-  regulation_mark: I
-  regulation_mark_unprinted: false
+  regulation_mark:
+  regulation_mark_unprinted: true
   image_url:
 - language: en
   set_code: FLF

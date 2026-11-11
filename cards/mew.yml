@@ -83,8 +83,8 @@ printings:
   rarity_unprinted: false
   illustrator: YOSHIROTTEN
   illustrator_unprinted: false
-  regulation_mark: J
-  regulation_mark_unprinted: false
+  regulation_mark:
+  regulation_mark_unprinted: true
   image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/30C/30C_B_R_EN_XS.png
 - language: en
   set_code: 30C
@@ -96,8 +96,8 @@ printings:
   rarity_unprinted: false
   illustrator: YOSHIROTTEN
   illustrator_unprinted: false
-  regulation_mark: J
-  regulation_mark_unprinted: false
+  regulation_mark:
+  regulation_mark_unprinted: true
   image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/30C/30C_G_R_EN_XS.png
 - language: en
   set_code: 30C
@@ -109,8 +109,8 @@ printings:
   rarity_unprinted: false
   illustrator: YOSHIROTTEN
   illustrator_unprinted: false
-  regulation_mark: J
-  regulation_mark_unprinted: false
+  regulation_mark:
+  regulation_mark_unprinted: true
   image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/30C/30C_R_R_EN_XS.png
 - language: en
   set_code: 30C
@@ -122,6 +122,6 @@ printings:
   rarity_unprinted: false
   illustrator: danciao
   illustrator_unprinted: false
-  regulation_mark: J
-  regulation_mark_unprinted: false
+  regulation_mark:
+  regulation_mark_unprinted: true
   image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/30C/30C_065_R_EN_XS.png

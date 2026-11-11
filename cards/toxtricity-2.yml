@@ -81,8 +81,8 @@ printings:
   rarity_unprinted: false
   illustrator: Yuriko Akase
   illustrator_unprinted: false
-  regulation_mark: J
-  regulation_mark_unprinted: false
+  regulation_mark:
+  regulation_mark_unprinted: true
   image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/30C/30C_060_R_EN_XS.png
 - language: en
   set_code: 30C
@@ -94,6 +94,6 @@ printings:
   rarity_unprinted: false
   illustrator: Kazumasa Yasukuni
   illustrator_unprinted: false
-  regulation_mark: J
-  regulation_mark_unprinted: false
+  regulation_mark:
+  regulation_mark_unprinted: true
   image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/30C/30C_134_R_EN_XS.png

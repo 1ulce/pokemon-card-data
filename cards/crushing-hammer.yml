@@ -124,8 +124,8 @@ printings:
   rarity_unprinted: false
   illustrator: 5ban Graphics
   illustrator_unprinted: false
-  regulation_mark: H
-  regulation_mark_unprinted: false
+  regulation_mark:
+  regulation_mark_unprinted: true
   image_url:
 - language: ja
   set_code:
@@ -215,8 +215,8 @@ printings:
   rarity_unprinted: true
   illustrator: 5ban Graphics
   illustrator_unprinted: false
-  regulation_mark: H
-  regulation_mark_unprinted: false
+  regulation_mark:
+  regulation_mark_unprinted: true
   image_url:
 - language: ja
   set_code:
@@ -267,8 +267,8 @@ printings:
   rarity_unprinted: true
   illustrator: 5ban Graphics
   illustrator_unprinted: false
-  regulation_mark: H
-  regulation_mark_unprinted: false
+  regulation_mark:
+  regulation_mark_unprinted: true
   image_url:
 - language: ja
   set_code:

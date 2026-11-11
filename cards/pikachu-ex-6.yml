@@ -95,8 +95,8 @@ printings:
   rarity_unprinted: false
   illustrator: takuyoa
   illustrator_unprinted: false
-  regulation_mark: J
-  regulation_mark_unprinted: false
+  regulation_mark:
+  regulation_mark_unprinted: true
   image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/30C/30C_054_R_EN_XS.png
 - language: en
   set_code: 30C
@@ -108,6 +108,6 @@ printings:
   rarity_unprinted: false
   illustrator: kantaro
   illustrator_unprinted: false
-  regulation_mark: J
-  regulation_mark_unprinted: false
+  regulation_mark:
+  regulation_mark_unprinted: true
   image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/30C/30C_150_R_EN_XS.png

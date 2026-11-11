@@ -117,7 +117,7 @@ printings:
   collector_number: '189'
   collector_number_unprinted: false
   rarity:
-  rarity_unprinted: false
+  rarity_unprinted: true
   illustrator: Kouki Saitou
   illustrator_unprinted: false
   regulation_mark: I

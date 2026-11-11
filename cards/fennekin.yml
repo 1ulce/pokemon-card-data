@@ -102,7 +102,7 @@ printings:
   collector_number: '8'
   collector_number_unprinted: false
   rarity:
-  rarity_unprinted: false
+  rarity_unprinted: true
   illustrator: satoma
   illustrator_unprinted: false
   regulation_mark: J

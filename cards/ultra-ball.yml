@@ -348,8 +348,8 @@ printings:
   rarity_unprinted: false
   illustrator: 5ban Graphics
   illustrator_unprinted: false
-  regulation_mark: H
-  regulation_mark_unprinted: false
+  regulation_mark:
+  regulation_mark_unprinted: true
   image_url:
 - language: ja
   set_code:
@@ -374,8 +374,8 @@ printings:
   rarity_unprinted: false
   illustrator: 5ban Graphics
   illustrator_unprinted: false
-  regulation_mark: H
-  regulation_mark_unprinted: false
+  regulation_mark:
+  regulation_mark_unprinted: true
   image_url:
 - language: ja
   set_code:
@@ -400,8 +400,8 @@ printings:
   rarity_unprinted: false
   illustrator: 5ban Graphics
   illustrator_unprinted: false
-  regulation_mark: H
-  regulation_mark_unprinted: false
+  regulation_mark:
+  regulation_mark_unprinted: true
   image_url:
 - language: ja
   set_code:
@@ -478,8 +478,8 @@ printings:
   rarity_unprinted: false
   illustrator: 5ban Graphics
   illustrator_unprinted: false
-  regulation_mark: H
-  regulation_mark_unprinted: false
+  regulation_mark:
+  regulation_mark_unprinted: true
   image_url:
 - language: ja
   set_code:
@@ -556,8 +556,8 @@ printings:
   rarity_unprinted: false
   illustrator: 5ban Graphics
   illustrator_unprinted: false
-  regulation_mark: H
-  regulation_mark_unprinted: false
+  regulation_mark:
+  regulation_mark_unprinted: true
   image_url:
 - language: ja
   set_code:
@@ -634,8 +634,8 @@ printings:
   rarity_unprinted: false
   illustrator: 5ban Graphics
   illustrator_unprinted: false
-  regulation_mark: H
-  regulation_mark_unprinted: false
+  regulation_mark:
+  regulation_mark_unprinted: true
   image_url:
 - language: ja
   set_code:
@@ -868,8 +868,8 @@ printings:
   rarity_unprinted: true
   illustrator: 5ban Graphics
   illustrator_unprinted: false
-  regulation_mark: H
-  regulation_mark_unprinted: false
+  regulation_mark:
+  regulation_mark_unprinted: true
   image_url:
 - language: ja
   set_code:
@@ -985,8 +985,8 @@ printings:
   rarity_unprinted: true
   illustrator: 5ban Graphics
   illustrator_unprinted: false
-  regulation_mark: H
-  regulation_mark_unprinted: false
+  regulation_mark:
+  regulation_mark_unprinted: true
   image_url:
 - language: ja
   set_code:
@@ -1271,6 +1271,6 @@ printings:
   rarity_unprinted: false
   illustrator: Yuka Morii
   illustrator_unprinted: false
-  regulation_mark: I
-  regulation_mark_unprinted: false
+  regulation_mark:
+  regulation_mark_unprinted: true
   image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/30C/30C_128_R_EN_XS.png

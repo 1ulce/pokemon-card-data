@@ -46,7 +46,7 @@ printings:
   set_name: 変幻の仮面
   collector_number: '101'
   collector_number_unprinted: false
-  rarity:
+  rarity: SR
   rarity_unprinted: false
   illustrator:
   illustrator_unprinted: true
@@ -59,8 +59,8 @@ printings:
   set_name: テラスタルフェスex
   collector_number: '187'
   collector_number_unprinted: false
-  rarity:
-  rarity_unprinted: true
+  rarity: SR
+  rarity_unprinted: false
   illustrator:
   illustrator_unprinted: true
   regulation_mark: H
@@ -72,8 +72,8 @@ printings:
   set_name: スタートデッキ100 バトルコレクション
   collector_number: '741'
   collector_number_unprinted: false
-  rarity:
-  rarity_unprinted: true
+  rarity: SR
+  rarity_unprinted: false
   illustrator:
   illustrator_unprinted: true
   regulation_mark: H
@@ -85,8 +85,8 @@ printings:
   set_name: デッキビルドBOX「バトルパートナーズ」
   collector_number: '045'
   collector_number_unprinted: false
-  rarity:
-  rarity_unprinted: true
+  rarity: SR
+  rarity_unprinted: false
   illustrator:
   illustrator_unprinted: true
   regulation_mark: H

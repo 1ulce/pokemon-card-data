@@ -43,7 +43,7 @@ printings:
   set_name: ステラミラクル
   collector_number: '094'
   collector_number_unprinted: false
-  rarity:
+  rarity: SR
   rarity_unprinted: false
   illustrator: Toyste Beach
   illustrator_unprinted: false
@@ -56,8 +56,8 @@ printings:
   set_name: テラスタルフェスex
   collector_number: '152'
   collector_number_unprinted: false
-  rarity:
-  rarity_unprinted: true
+  rarity: SR
+  rarity_unprinted: false
   illustrator: Toyste Beach
   illustrator_unprinted: false
   regulation_mark: H
@@ -69,8 +69,8 @@ printings:
   set_name: スタートデッキ100 バトルコレクション
   collector_number: '680'
   collector_number_unprinted: false
-  rarity:
-  rarity_unprinted: true
+  rarity: SR
+  rarity_unprinted: false
   illustrator: Toyste Beach
   illustrator_unprinted: false
   regulation_mark: H

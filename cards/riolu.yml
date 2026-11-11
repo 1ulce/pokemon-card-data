@@ -144,7 +144,7 @@ printings:
   collector_number: '2'
   collector_number_unprinted: false
   rarity:
-  rarity_unprinted: false
+  rarity_unprinted: true
   illustrator: GOSSAN
   illustrator_unprinted: false
   regulation_mark: I

@@ -150,8 +150,8 @@ printings:
   rarity_unprinted: true
   illustrator: Ryo Ueda
   illustrator_unprinted: false
-  regulation_mark: H
-  regulation_mark_unprinted: false
+  regulation_mark:
+  regulation_mark_unprinted: true
   image_url:
 - language: ja
   set_code:
@@ -265,7 +265,7 @@ printings:
   collector_number_unprinted: false
   rarity: U
   rarity_unprinted: false
-  illustrator:
+  illustrator: Ryo Ueda
   illustrator_unprinted: false
   regulation_mark:
   regulation_mark_unprinted: true
@@ -278,7 +278,7 @@ printings:
   collector_number_unprinted: false
   rarity: U
   rarity_unprinted: false
-  illustrator:
+  illustrator: Yoshinobu Saito
   illustrator_unprinted: false
   regulation_mark:
   regulation_mark_unprinted: true

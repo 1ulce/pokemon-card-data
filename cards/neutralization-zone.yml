@@ -46,7 +46,7 @@ printings:
   set_name: ナイトワンダラー
   collector_number: '063'
   collector_number_unprinted: false
-  rarity:
+  rarity: SR
   rarity_unprinted: false
   illustrator: imoniii
   illustrator_unprinted: false
@@ -59,8 +59,8 @@ printings:
   set_name: テラスタルフェスex
   collector_number: '184'
   collector_number_unprinted: false
-  rarity:
-  rarity_unprinted: true
+  rarity: SR
+  rarity_unprinted: false
   illustrator: imoniii
   illustrator_unprinted: false
   regulation_mark: H

@@ -46,8 +46,8 @@ printings:
   set_name: 古代のコライドンex
   collector_number: '032'
   collector_number_unprinted: false
-  rarity:
-  rarity_unprinted: true
+  rarity: SR
+  rarity_unprinted: false
   illustrator: Studio Bora Inc.
   illustrator_unprinted: false
   regulation_mark: H
@@ -59,8 +59,8 @@ printings:
   set_name: 未来のミライドンex
   collector_number: '032'
   collector_number_unprinted: false
-  rarity:
-  rarity_unprinted: true
+  rarity: SR
+  rarity_unprinted: false
   illustrator: Studio Bora Inc.
   illustrator_unprinted: false
   regulation_mark: H

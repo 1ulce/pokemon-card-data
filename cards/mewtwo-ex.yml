@@ -83,8 +83,8 @@ printings:
   rarity_unprinted: false
   illustrator: 5ban Graphics
   illustrator_unprinted: false
-  regulation_mark: J
-  regulation_mark_unprinted: false
+  regulation_mark:
+  regulation_mark_unprinted: true
   image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/30C/30C_064_R_EN_XS.png
 - language: en
   set_code: 30C
@@ -96,8 +96,8 @@ printings:
   rarity_unprinted: false
   illustrator: Yano Keiji
   illustrator_unprinted: false
-  regulation_mark: J
-  regulation_mark_unprinted: false
+  regulation_mark:
+  regulation_mark_unprinted: true
   image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/30C/30C_151_R_EN_XS.png
 - language: en
   set_code: 30C
@@ -109,6 +109,6 @@ printings:
   rarity_unprinted: false
   illustrator: YOSHIROTTEN
   illustrator_unprinted: false
-  regulation_mark: J
-  regulation_mark_unprinted: false
+  regulation_mark:
+  regulation_mark_unprinted: true
   image_url: https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/30C/30C_157_R_EN_XS.png

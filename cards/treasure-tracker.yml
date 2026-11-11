@@ -43,8 +43,8 @@ printings:
   set_name: テラスタルフェスex
   collector_number: '146'
   collector_number_unprinted: false
-  rarity:
-  rarity_unprinted: true
+  rarity: SR
+  rarity_unprinted: false
   illustrator: inose yukie
   illustrator_unprinted: false
   regulation_mark: H
